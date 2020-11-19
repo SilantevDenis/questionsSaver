@@ -1,0 +1,174 @@
+PMP_Exam_Practice_12_10
+
+Number: 012-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 12.1
+
+Number: 012-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+Exam A
+Q1In projects with adaptive life cycles, the overall scope of the project will be decomposed into a set of requirements and work to be performed, sometime referred to as:
+
+A. Assumptions backlog
+B. Feature list
+C. Project attributes
+D. Product backlog
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In projects with adaptive life cycles, the overall scope of the project will be decomposed into a set of requirements and work to be performed, sometime referred to as a product backlog. [PMBOK 6th edition, Page 131] [Project Communications Management]
+
+Answer: 
+
+
+
+Q2Communications management plans should include all of the following except:
+
+A. Stakeholder communication requirements
+B. Reasons for information distribution
+C. Escalation process
+D. Risk Register
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Risk Register is part of Risk Management and is not included in the Communications Management Plan. [PMBOK 6th edition, Page 377] [Project Communications Management]
+
+Answer: 
+
+
+
+Q3When one factor used to determine the effort required to produce a unit of work is increased while all other factors remain fixed, a point will eventually be reached at which additions of that one factor start to yield progressively decreased productivity. This is known as:
+
+A. The 100 percent rule
+B. The Pareto Law
+C. The law of diminishing returns
+D. The theory of constraints
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+When one factor used to determine the effort required to produce a unit of work is increased while all other factors remain fixed, a point will eventually be reached at which additions of that one factor start to yield progressively decreased productivity. This is commonly known as the law of diminishing returns. [PMBOK 6th edition, Page 197] [Project Communications Management]
+
+Answer: 
+
+
+
+Q4Which of the following approaches deliberately spends less time trying to define and lock project scope early during the project and spends more time establishing the process for requirements gathering, scope definition and refinement?
+
+A. Waterfall methods
+B. Predictive methods
+C. Agile methods
+D. Kanban methods
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Agile methods deliberately spend less time trying to define and lock project scope early during the project and spend more time establishing the process for requirements gathering, scope definition and refinement.
+[PMBOK 6th edition, Page 133] [Project Communications Management]
+
+Answer: 
+
+
+
+Q5You are the Project Manager and are responsible for the development of a mall. As with any construction project, there will be multiple iterations of blueprints and engineering drawings. Therefore, you have decided to create an online database that can be used to query the documents by name, type, date, etc. This is an example of what type of communication tool?
+
+A. Project Management Information System
+B. Lessons Learned
+C. Project Records
+D. Configuration Management System
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The online database is an example of a Project Management Information System. [PMBOK 6th edition, Page 95] [Project Communications Management]
+
+Answer: 
+
+
+
+Q6You are working on a project with all the team members located in geographically different areas, and all communication is by email and chat. It is sometimes hard to infer the true meaning of these messages because you cannot see facial expressions or hear tones of voice. This is an example of:
+
+A. Encoding
+B. Medium
+C. Decoding
+D. Noise
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Anything that interferes with the meaning of a message is considered noise. [PMBOK 6th edition, Page 372] [Project Communications Management]
+
+Answer: 
+
+
+
+Q7In complex and high value projects, which of the following activities will typically be performed by a business analyst prior to the project initiation?
+
+A. Define project scope and develop WBS
+B. Finalize the project scope statement and the WBS dictionary
+C. Establish the project's scope baseline
+D. Determine problems, identify business needs and viable solutions Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Typical business analyst's responsibilities would include determining problems, identifying business needs, and recommending viable solutions for meeting those needs. [PMBOK 6th edition, Page 132] [Project Communications Management]
+
+Answer: 
+
+
+
+Q8Your project calls for communication with an extremely large audience. What communication method would be appropriate under such circumstances?
+
+A. Pull communication
+B. Interactive communication
+C. Two-way communication
+D. Verbal communication
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The situation in the project would call for pull communication. This is suitable for a large audience, and it allows them to access information at their own discretion. [PMBOK 6th edition, Page 374] [Project Communications Management]
+
+Answer: 
+
+
+
+Q9If you are writing a proposal for additional funding, which communication style should you choose?
+
+A. Formal and horizontal
+B. Formal and upward
+C. Informal and downward
+D. Informal and horizontal
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Since this will be an official project document, it should be formal. Additionally, since you are requesting money from someone higher up in the organization, you are creating an upward communication. [PMBOK 6th edition, Page 361] [Project Communications Management]
+
+Answer: 
+
+
+
+Q10Which of the following two project documents are sometimes perceived as containing a certain degree of redundancy?
+
+A. Project scope statement and scope management plan
+B. Project charter and project scope statement
+C. Risk management plan and scope management plan
+D. Scope statement and quality management plan
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project charter and project scope statement are sometime perceived as containing a certain degree of redundancy, although they are different in the level of detail contained in each. The project charter contains high-level information, while the project scope statement contains a detailed description of the scope components. [PMBOK 6th edition, Page 154] [Project Communications Management]
+
+Answer: 
+
+
+

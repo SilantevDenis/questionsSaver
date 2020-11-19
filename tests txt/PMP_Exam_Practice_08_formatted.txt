@@ -1,0 +1,829 @@
+PMP_Exam_Practice_08
+
+Number: 008-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 8
+Exam A
+Q1You have overheard two functional managers arguing about the impacts that your project will have on their departments. What is your best response?
+
+A. Do nothing
+B. Analyze and report to each manager the impact your project will have on their departments in terms of time and resources required and the relative enterprise priority of your project
+C. Inform the managers that the project sponsors already considered this impact when they decided to implement the project
+D. Put in advance requests for resources from each department Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Analyze and report to each manager the impact your project will have on theirs. Not only will this help the functional managers plan proactively for those times that their resources will be required by your project, it will also ease hostility and promote cooperation among staff. PMI's Code of Conduct mandates that project managers act in good faith and provide timely and accurate information to affected stakeholders. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q2A large construction project for a logistics company will require the expenditure of a large amount of capital. The finance group works with the project manager to project set limits when expenses will be incurred in a given project and to determine whether there are ways to smooth out or level the spending to avoid a single large expenditure in one quarter and none in the next. This is an example of:
+
+A. Levelized Billing
+B. Funding Limit Reconciliation
+C. A financial review
+D. Rescheduling
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Large variations in the periodic expenditure of funds are usually undesirable for organizational operations.
+Therefore, the expenditure of funds is reconciled with the funding limits set by the customer or performing organization on the disbursement of funds for the project. [PMBOK 6th edition, Page 253] [Project Cost Management]
+
+Answer: 
+
+
+
+Q3Calculation of late finish dates and late start dates for the uncompleted portion of the project is called ____________.
+
+A. Schedule compression
+B. An arrow diagram
+C. A backward pass
+D. A forward pass
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Calculation of late finish dates and late start dates for the uncompleted portion of the project is called a backward pass. [PMBOK 6th edition, Page 210] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q4Which of the following PMBOK processes is about using existing knowledge and creating new knowledge to achieve the project's objectives and contribute to organizational learning?
+
+A. Use Project Knowledge
+B. Create Project Knowledge
+C. Contribute Project Knowledge
+D. Manage Project Knowledge
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Manage Project Knowledge is the PMBOK process about using existing knowledge and creating new knowledge to achieve the project's objectives and contribute to organizational learning. The rest of the choices are not PMBOK processes. [PMBOK 6th edition, Page 98] [Project Scope Management]
+
+Answer: 
+
+
+
+Q5The on-demand scheduling approach used in agile environments is based on the theory-of-constraints and pull-based scheduling concepts from lean manufacturing to limit a team's work in progress. This is also called:
+
+A. 5S
+B. Kanban
+C. Andon
+D. Gemba
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The on-demand scheduling approach used in agile environments is based on the theory-of-constraints and pull-based scheduling concepts from lean manufacturing to limit a team's work in progress. This is also called Kanban system. [PMBOK 6th edition, Page 177] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6While rating a proposal, one of the requirements was: "The proposed project manager needs to be a certified Project Management Professional, PMP®" This is an example of:
+
+A. Constraints
+B. Source Selection Criteria
+C. Assumptions
+D. Good practice
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+This is an example of source selection criteria used to rate or score proposals. [PMBOK 6th edition, Page 478] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q7Which of the following is Deming's method for continuous improvement?
+
+A. Plan-Act-Check-Do
+B. Plan-Do-Check-Act
+C. Check-Plan-Do-Act
+D. Plan-Check-Do-Act
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Deming's model is Plan-Do-Check-Act. [PMBOK 6th edition, Page 275] [Project Quality Management]
+
+Answer: 
+
+
+
+Q8A decision tree is a Perform Quantitative Risk Analysis technique. A decision tree is represented by a Decision Tree Diagram. The decision treedescribes a situation under consideration, the implications of each of the available choices, and the possible scenarios. A Decision Tree Diagram shows how to make a decision among alternative capital strategies known as:
+
+A. Alternative nodes
+B. Question points
+C. Decision nodes
+D. Checkpoints
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The decision points are known as Decision nodes. The decision tree incorporates the cost of each available choice, the possibilities of each of the available choices, and possible scenarios. It shows how to make a decision among alternative capital strategies (decision nodes) when the environment is not known with certainty. [PMBOK 6th edition, Page 435] [Project Risk Management]
+
+Answer: 
+
+
+
+Q9While applying the logical relationships to the project activities, a project manager must be careful not to:
+
+A. Have closed loops relationships between activities
+B. Have FF relationships for the critical activities
+C. Have FS relationships for the non-critical activities
+D. Select the relationship with the highest impact
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Multiple relationships between the same activities are not recommended, so a decision has to be made to select the relationship with the highest impact. Closed loops are also not recommended in logical relationships. [PMBOK 6th edition, Page 190] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q10The enterprise environmental factors play an important role during the development of the project stakeholder engagement plan. The following list gives the most significant enterprise environmental factors considered during the Plan Stakeholder Engagement process except one.
+Which one is it?
+
+A. Organizational culture
+B. Organizational communication requirements
+C. Organizational structure
+D. Political climate
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Organizational communication requirements should be considered during project stakeholder engagement plan development. However, these are part of organizational process assets and not enterprise environmental factors. [PMBOK 6th edition, Pages 519, 520] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11There are numerous ways to share information among project stakeholders. Which of the following is the most efficient communication method?
+
+A. Push communication
+B. Interactive communication
+C. Pull communication
+D. Manual communication
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Interactive communication is the most efficient form of communication as it requires multidirectional exchange of information. [PMBOK 6th edition, Page 374] [Project Communications Management]
+
+Answer: 
+
+
+
+Q12A summary milestone schedule would normally be part of which document?
+
+A. Project sign-off document
+B. Project charter
+C. Project requirements document
+D. Project scope statement
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The summary milestone schedule is normally included as part of the project charter, which documents the business need, understanding of customer's needs, and other high-level items. [PMBOK 6th edition, Page 81] [Project Integration Management]
+
+Answer: 
+
+
+
+Q13Which of the following processes deals with maintaining the integrity of baselines by releasing only approved changes for incorporation into the project management plan?
+
+A. Perform Integrated Change Control
+B. Direct and Manage Project Work
+C. Develop Project Management Plan
+D. Monitor and Control Project Work
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Maintaining the integrity of baselines is done in the Perform Integrated Change Control process. This process is conducted from project inception through project completion. [PMBOK 6th edition, Page 113] [Project Integration Management]
+
+Answer: 
+
+
+
+Q14For complex and high value projects, activities of business analysis get started well before the project is initiated. Typically in such cases, the requirements management process starts with:
+
+A. Plan Scope Management
+B. Collect Requirements
+C. Define Scope
+D. Needs Assessment
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+For complex and high value projects, activities of business analysis get started well before the project is initiated. Typically in such cases, the requirements management process starts with a business need analysis. The rest of the choices are the processes that are performed once theproject has been initiated.
+[PMBOK 6th edition, Page 132] [Project Quality Management]
+
+Answer: 
+
+
+
+Q15The Manage Stakeholder Engagement process is a very important project management process. An ineffective effort in this process can sabotage the whole project. Which of the following is the key benefit of this process?
+
+A. It makes the Manage Communications process redundant.
+B. It produces the stakeholder engagement plan.
+C. It increases support and minimizes resistance from stakeholders.
+D. Lessons learned are documented during this process.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Lessons learned can get documented during any project management process. The key benefit of the Manage Stakeholder Engagement process is that it allows the project manager to increase support and minimize resistance from stakeholders, significantly increasing the changes to achieve project success.
+[PMBOK 6th edition, Page 523] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16When possible, the detailed project schedule _________ throughout the project to adjust for knowledge gained, increased understanding of the risk, and value-added activities.
+
+A. Should stand firm
+B. Should remain flexible
+C. Must be avoided
+D. Must be inflated
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Ideally the detailed project schedule should remain flexible throughout the project to adjust for knowledge gained, increased understanding of the risk, and value-added activities. [PMBOK 6th edition, Page 175] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q17The formula for Cost Variance is:
+
+A. CV=EV-AC
+B. CV=AC-EV
+C. CV=BAC-(AC-EV)
+D. CV=SV-BC
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+CV equals earned value (EV) minus actual cost (AC). [PMBOK 6th edition, Page 262] [Project Cost Management]
+
+Answer: 
+
+
+
+Q18Which of the following should be avoided while applying logical relationships to project activities:
+
+A. Applying the SS relationship with a lead
+B. Applying the SS relationship with a lag
+C. Applying the SF relationship
+D. Applying multiple relationships between the same activities Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Multiple relationships between the same activities are not recommended, so a decision has to be made to select the relationship with the highest impact. Closed loops are also not recommended in logical relationships. The other choices are valid approaches. [PMBOK 6th edition, Page 190] [Project Quality Management]
+
+Answer: 
+
+
+
+Q19A detailed milestone list is created as an output of what process?
+
+A. Sequence Activities
+B. Define Activities
+C. Develop Project Charter
+D. Develop Schedule
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A detailed milestone list is created as an output of the Define Activities process and includes information on whether the milestone is mandatory or optional. Note that the project charter also contains milestone information but at a higher level. [PMBOK 6th edition, Page 186] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q20In projects where there is a gap between the real business requirements and the stated business requirements, agile methods are extremely helpful. Agile methods provide a solution to this problem by:
+
+A. Completing the project quickly so that gap is significantly reduced.
+B. Replacing the project manager with a Scrum master in order to expedite the project.
+C. Purposefully building and reviewing prototypes and release versions to refine requirements.
+D. Eliminating the documentation altogether from the project management approach.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Agile methods purposefully build and review prototypes and release versions in order to refine the requirements. As a result, scope is defined and redefined throughout the project. [PMBOK 6th edition, Page 133] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q21To ensure effective communications throughout a project lifecycle, a project manager should develop a communications plan early in the project. When developing a communications plan, a project manager must consider a number of factors. Which of the following is the least important consideration among the list while developing a communications plan?
+
+A. What kind of communication is required?
+B. Which PMBOK processes are required on the project?
+C. Where should the information be stored?
+D. What time zones and language barriers are involved?
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager must tailor the PMBOK processes to meet the needs of the project. However, this is a consideration while developing the overall project management plan for the project. The rest of the choices are more of a concern during the Plan CommunicationsManagement process. [PMBOK 6th edition, Page 366] [Project Communications Management]
+
+Answer: 
+
+
+
+Q22Tim is the project manager for a shopping mall construction project which is in its fourth month of execution. According to the project contract, Tim can only issue project invoices when the project is 25%, 50%, 75% and 100% complete in terms of the approved project schedule. Recently the 25% milestone has been reached and Tim is ready to issue his first invoice. According to the contract, the project must be completed in 12 months. What is the project's SPI?
+
+A. 0.25
+B. 0.75
+C. 0.33
+D. 1.33
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the 25% schedule milestone has been achieved, the project's earned schedule (ES) is 25%. Further the project is in its third month of execution so the actual time is 33.33% (i.e. 4 months / 12 months). SPI = ES/AT = 25% / 33.33% = 0.75. [PMBOK 6th edition, Page 233] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q23You find out that a project team member has stolen some material from the workplace. The team member regrets the theft and promises not to repeat it again. You must:
+
+A. Get a statement in writing from the project team member saying he will not repeat such an activity
+B. Document the matter for your archives
+C. Inform your HR department about the matter
+D. Keep quiet until it repeats for a second time
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct option is to inform your company's HR department. This is a disciplinary matter, and the project manager needs to let the company guidelines handle the situation. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q24As part of the Develop Team process, the project manager has planned for some Team Building activities. Team Building Activities should take place throughout the project lifecycle but will have greater benefit when conducted:
+
+A. On a need basis
+B. At the end of the project lifecycle
+C. Early in the project lifecycle
+D. In the middle of the project lifecycle
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Team Building Activities should take place throughout the project life cycle, but have greater benefit when conducted early in the project life cycle. [PMBOK 6th edition, Page 341] [Project Resource Management]
+
+Answer: 
+
+
+
+Q25Due to the scarce nature of organizational resources, several trends have become popular in the past several years. Which of the following is NOT a resource management method:
+
+A. Kaizen
+B. Critical path method
+C. Total productive maintenance
+D. Theory of constraints
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Due to scarce nature of critical resources, several trends have become popular in the past several years, including but not limited to, Kaizen, Total Productive Maintenance, and Theory of Constraints etc. Critical Path Method is a project scheduling technique. [PMBOK 6th edition, Page 310] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q26Collect Requirements, Develop Schedule, and Perform Qualitative Risk Analysis are all part of what process group?
+
+A. Planning
+B. Scope Planning
+C. Monitor and Controlling
+D. Executing
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+All activities listed are planning activities. [PMBOK 6th edition, Page 25] [Project Framework]
+
+Answer: 
+
+
+
+Q27You have assembled a group of subject matter experts (SMEs) to define risk probability and impact levels.
+You and your team are still in what process group?
+
+A. Risk
+B. Monitor and Controlling
+C. Quantitative Analysis
+D. Planning
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The probability and impact definitions are developed during the Plan Risk Management process which is a part of the Planning process group. [PMBOK 6th edition, Page 407] [Project Risk Management]
+
+Answer: 
+
+
+
+Q28Which of the following is a tool or technique of the Manage Stakeholder Engagement process?
+
+A. Communication technology
+B. Communication models
+C. Communication standard
+D. Communication skills
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Communication skills is a tool and technique of the Manage Stakeholder Engagement process. [PMBOK 6th edition, Page 523] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q29Which of the following is not an input to the Develop Project Charter process?
+
+A. Agreements
+B. Business Case
+C. Benefits management plan
+D. Stakeholder register
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder register is not an input to the Develop Project Charter process. [PMBOK 6th edition, Page 75] [Project Integration Management]
+
+Answer: 
+
+
+
+Q30The Plan Stakeholder Engagement process has many inputs. Which of the following is an input to the Plan Stakeholder Engagement process that comes from the Conduct Procurements process?
+
+A. Project management plan
+B. Project charter
+C. Historic stakeholder engagement plans
+D. Agreements
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Agreements are inputs to the Plan Stakeholder Engagement process that are provided by the Conduct Procurements process [PMBOK 6th edition, Page 517] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31You have the project management responsibility of a virtual team comprising team members from the same company who live in widespread geographic areas, employees who work from home offices and employees with mobility impairments. Virtual teams are formed as a result of which of the following processes?
+
+A. Acquire Resources
+B. Plan Resource Management
+C. Estimate Activity Resources
+D. Develop Schedule
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Virtual teams are formed as a result of the Acquire Resources process. [PMBOK 6th edition, Page 333] [Project Resource Management]
+
+Answer: 
+
+
+
+Q32The term ________ indicates the degree to which a particular product or service meets requirements, while _____________ indicates a category or rank used to distinguish that item from other similar items.
+
+A. Quality, grade
+B. Grade, standard
+C. Grade, quality
+D. Quality, standard
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Grade is a category or rank used to distinguish items that have the same functional use; Quality indicates the degree to which items have meet requirements. [PMBOK 6th edition, Page 274] [Project Quality Management]
+
+Answer: 
+
+
+
+Q33Visiting a construction site to ensure the completed work is the same work specified in the requirements is:
+
+A. Milestone
+B. Scope validation
+C. Variance Analysis
+D. Requirements traceability
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Inspection is a scope validation technique that includes activities (such as measuring, examining, and verifying) to determine whether work and deliverables meet requirements and product acceptance criteria.
+[PMBOK 6th edition, Page 163] [Project Scope Management]
+
+Answer: 
+
+
+
+Q34A Responsibility Assignment Matrix illustrates the connections between the work that needs to be done and the project team members. A RACI chart is a type of Responsibility Assignment matrix in which the names of the roles being documented are:
+
+A. Responsible, Administration, Check, and Inform
+B. Reportable, Actionable, Check, and Inform
+C. Responsible, Accountable, Consult, and Inform
+D. Reportable, Actionable, Consult, and Implement
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+In a RACI chart, the names of roles are Responsible, Accountable, Consult and Inform. [PMBOK 6th edition, Page 317] [Project Resource Management]
+
+Answer: 
+
+
+
+Q35While reviewing project procurement and accounting records for your project, you discover there is a pattern of unauthorized expenses by a specific resource. These expenses are not within the scope of the project and were somewhat camouflaged within a number of large and complicated expense reports. What do you do?
+
+A. If the total expenses are less than 1 percent of the project budget, do nothing
+B. Fire the resource
+C. Notify the appropriate management immediately
+D. Confront the resource
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Notify the appropriate management of the unauthorized expenses. Project managers are required by PMI's Code of Ethics to report any unethical or illegal behaviors or activities to the appropriate management. Not doing so violates the PMI code. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q36Due to the unexpected release of a similar product from a competitor, the Widgets International executive team has stepped up the pressure on the product team to release the Widget product three months earlier. The project manager uses what technique to shorten the schedule but maintain the project scope?
+
+A. Schedule compression
+B. Rolling wave planning
+C. Schedule network analysis
+D. Schedule management planning
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Schedule compression is the technique of shortening the project schedule duration without reducing scope.
+[PMBOK 6th edition, Page 215] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q37Which of the following indicates the required cost performance in order to complete the project on budget?
+
+A. TCPI
+B. CPI
+C. EAC
+D. SPI
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The To-Complete Performance Index (TCPI) indicates the required cost performance in order to complete the project on budget. [PMBOK 6th edition, Page 266] [Project Cost Management]
+
+Answer: 
+
+
+
+Q38A project to design and build a new aircraft is cancelled after the project has been underway for some time. What process is employed to document what work was done and to what extent it was completed?
+
+A. Validate Scope
+B. Control Scope
+C. Control Quality
+D. Close Project or Phase
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+If the project is terminated early, the Close Project or Phase process should establish and document the level and extent of completion. [PMBOK 6th edition, Page 121] [Project Integration Management]
+
+Answer: 
+
+
+
+Q39The project manager of a large construction project is responsible for ensuring that all changes to the building plans are approved and tracked before they are implemented. These activities form part of which process?
+
+A. Validate Scope
+B. Perform Configuration Management
+C. Perform Integrated change control
+D. Control Quality
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Integrated change control includes maintaining the integrity of baselines by releasing only approved changes for incorporation into project products or services and by maintaining their related configuration and planning documentation. [PMBOK 6th edition, Page 113] [Project Integration Management]
+
+Answer: 
+
+
+
+Q40Vendor selection, vendor management, and documentation of lessons learned are tasks that fall under this process:
+
+A. Procurement management
+B. Deliverable management
+C. Conduct Procurements
+D. Scope management
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Conduct Procurements process involves collecting sellers' responses, selecting the seller, and awarding the contract. [PMBOK 6th edition, Page 482] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q41The Conduct Procurements process receives bids or proposals and applies criteria to select one or more sellers who are both qualified and acceptable as a seller. Which of the following techniques is not a valid technique for this process?
+
+A. Make-or-buy analysis
+B. Proposal Evaluation Techniques
+C. Advertising
+D. Bidder Conference
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Make-or-buy analysis is not a valid technique in the Conduct Procurements process. The other three choices are valid techniques. [PMBOK 6th edition, Page 482] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q42You are managing a project that requires an environmental permit to do work. The approval is in the final stages when a confidential, reliable report is brought to your notice. The report indicates there is a high risk of an environmental hazard due to the project. Your manager tells you it is better to keep quiet at this stage since losses from terminating the project might be very high. You must:
+
+A. Send an email to your manager documenting the matter and disowning ownership of the project
+B. Inform the necessary authorities of the hazard, even if it means cancelling the project
+C. Wait for the project to start and see if the information in the report is true
+D. Keep quiet about the matter since you will follow your manager's instructions Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The best option is to inform the necessary authorities about the report so that the right decision can be made, even if it means the project will be cancelled. [PMI Code of Ethics and Professional Conduct] [Prof.
+Responsibility]
+
+Answer: 
+
+
+
+Q43A Work Breakdown Structure is a hierarchical illustration of all the work to be done in a project. A WBS component does not represent:
+
+A. Products
+B. Results
+C. Services
+D. Project activities
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Upper level WBS components are decomposed into more easily managed elements and can be process- or product-oriented. The lowest level of the WBS is the work packages. The project activities are obtained by further decomposing the work packages. The activities become a part of the project schedule and not the WBS. [PMBOK 6th edition, Page 156] [Project Scope Management]
+
+Answer: 
+
+
+
+Q44Work Performance Information is not an output of which of the following processes?
+
+A. Validate Scope
+B. Manage Communications
+C. Monitor Risks
+D. Control Scope
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Work Performance information is not an output of the Manage Communications Process. [PMBOK 6th edition, Page 379] [Project Risk Management]
+
+Answer: 
+
+
+
+Q45The business case to justify a project typically contains:
+
+A. The project's BAC and ETC
+B. Identification of alternatives
+C. Project WBS
+D. Variance Analysis
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The business case for any project includes the analysis of the situation, recommended solution and Identification of alternative solutions. [PMBOK 6th edition, Page 31] [Project Integration Management]
+
+Answer: 
+
+
+
+Q46Which of the following is not a Risk Diagramming technique?
+
+A. Influence diagrams
+B. Control charts
+C. Decision trees
+D. Tornado diagram
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The business case for any project includes the analysis of the situation, recommended solution and Identification of alternative solutions. [PMBOK 6th edition, Page 31] [Project Risk Management]
+
+Answer: 
+
+
+
+Q47The Cost of Quality principle includes:
+
+A. The costs of ensuring conformance to requirements
+B. The costs involved when changes are made to the requirements
+C. The cost of deploying a project Configuration Management System
+D. The costs associated with eliminating requirements
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Quality costs are the total costs incurred by investment in preventing nonconformance to requirements, appraising the product or service for conformance to requirements, and failing to meet requirements (rework). [PMBOK 6th edition, Pages 282, 283] [Project Quality Management]
+
+Answer: 
+
+
+
+Q48The most recent analysis of Microcorp's new fabrication facility renovation project shows a CPI value of less than 1.0. What does this indicate?
+
+A. The cost has overrun estimates.
+B. The cost has underrun estimates.
+C. The project is running ahead of schedule.
+D. The schedule has slipped.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A CPI value of less than 1.0 indicates a cost overrun of the estimates. A CPI value greater than 1.0 indicates a cost underrun of the estimates. [PMBOK 6th edition, Page 263] [Project Cost Management]
+
+Answer: 
+
+
+
+Q49Robert is managing a road construction project. Due to unseasonal weather conditions, the team productivity might be above or below target. This is an example of:
+
+A. Ambiguity risk
+B. Variability risk
+C. Mitigated risk
+D. Opportunity risk
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Examples of variability risks include: productivity may be above or below target, the number of errors found during testing may be higher or lower than expected, or unseasonal weather conditions may occur during the construction phase. [PMBOK 6th edition, Page 398] [Project Risk Management]
+
+Answer: 
+
+
+
+Q50Which of the following is NOT a valid WBS creation approach:
+
+A. Parametric approach
+B. Top-down approach
+C. Use of organizational guidelines
+D. Use of WBS templates
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A WBS structure may be created through various approaches. Some of the popular methods include the top-down approach, the use of organization-specific guidelines, and the use of WBS templates. Parametric approach is an estimation technique and not a valid WBS creation technique. [PMBOK 6th edition, Page 159] [Project Risk Management]
+
+Answer: 
+
+
+
+Q51Project performance measurements assess the magnitude of variation from the original cost baseline. Once the degree of cost variation is known, what step is performed next?
+
+A. Audit the project team
+B. Upgrade the configuration management database with new controls.
+C. Replanning
+D. Perform root cause analysis of the variance's cause relative to the cost baseline Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Project performance measurements are used to assess the magnitude of variation. Important aspects of project cost control include determining the cause of variance relative to the cost baseline. [PMBOK 6th edition, Page 262] [Project Scope Management]
+
+Answer: 
+
+
+

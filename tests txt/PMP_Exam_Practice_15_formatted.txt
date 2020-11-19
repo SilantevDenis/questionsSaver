@@ -1,0 +1,813 @@
+PMP_Exam_Practice_15
+
+Number: 015-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 15
+Exam A
+Q1A government agency has awarded your company a massive software project. This project has an early completion incentive, and your company has a policy of paying a bonus to the project manager if such an incentive is awarded. However, this particular government agency has a reputation for being extremely difficult to work with; there is a great deal of bureaucracy within this agency, and stonewalling and hostility toward contractors are common. The project manager will need to have excellent political skills to lead this project successfully. You have been asked to lead the project because of your expertise with this type of project. However, you have never worked within such a highly charged and political environment. What should you do?
+
+A. Decline the project citing lack of experience.
+B. Accept the project but disclose your lack of experience in this type of environment.
+C. Accept the project and request that a corporate liaison be assigned to your project.
+D. Accept the project.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Accept the position, but disclose your lack of experience with this type of environment. PMI's Code of Ethics and Professional Conduct requires that project managers accept only those projects for which they have the appropriate qualifications and background. However, if the project stakeholders receive full disclosure and still give their consent, it is permissible to accept a stretch assignment. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q2As part of a strategy to handle negative risk, a project manager decided to adopt less complex processes, conduct more tests, and choose a more stable supplier. What strategy would this be classified as?
+
+A. Acceptance
+B. Transference
+C. Mitigation
+D. Avoidance
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Actions such as adopting less complex processes, more testing, or choosing a more stable supplier would be considered mitigation. These actions reduce the probability and impact of risks. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q3Bill is the project manager of an external project for a customer. The project is expected to take about a year to complete. Six months into the project, the customer informs Bill that he or she needs to scrap the project. During which of the following processes would procedures be developed to handle early termination of a project?
+
+A. Develop Project Charter
+B. Close Project or Phase
+C. Define Scope
+D. Monitor Risks
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The Close Project or Phase process establishes the procedures to investigate and document the reasons for actions taken if a project is terminated before completion. [PMBOK 6th edition, Page 123] [Project Integration Management]
+
+Answer: 
+
+
+
+Q4During a discussion with the quality department, Dave, a project manager, was told that as applied to projects, the terms "prevention" and "inspection" are synonymous. However, his understanding of the terms is different. What would you comment on this situation?
+
+A. The project manager is correct. Prevention is about keeping errors out of the process; inspection is about keeping errors out of the customer's hands.
+B. The project manager is correct. Inspection is about keeping errors out of the process; prevention is about keeping errors out of the customer's hands.
+C. The project manager is wrong. Both inspection and prevention are about keeping errors out of the customer's hands. They are used in different contexts.
+D. The project manager is wrong. Both inspection and prevention are about keeping errors out of the process. They are used in different contexts.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager is correct. Prevention is about keeping errors out of the process, whereas inspection is about keeping errors out of the hands of the customer. This is an important distinction, which the project management team needs to be aware of. [PMBOK 6th edition, Page 274] [Project Quality Management]
+
+Answer: 
+
+
+
+Q5Mark is managing an airport construction project. He is currently identifying his project stakeholders, and he has compiled a long list of stakeholders already. Managing expectations of every project stakeholder is not practical. What should he do in this situation?
+
+A. Project stakeholders should be prioritized based on their influence and interest.
+B. Stakeholder analysis should be outsourced.
+C. Non-key stakeholders should be dropped from the stakeholder register.
+D. Stakeholder management processes should not be followed for such complex projects.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+When the stakeholders list becomes unmanageable, the project stakeholders should be prioritized to ensure the efficient use of effort and time to manage their expectations. [PMBOK 6th edition, Page 512] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6While preparing a resource management plan, a project manager designated one of the senior programmers on the team to make decisions on whether the quality of deliverables met the project's documented standards. Which of the following aspects of a resource management plan does this address?
+
+A. Competency
+B. Responsibility
+C. Authority
+D. Role
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Authority is the best choice. Authority is the right to apply project resources and make decisions within the project. These decisions could include quality acceptance, selection of the method for completing an activity, and how to respond to project variances. [PMBOK 6th edition, Page 318] [Project Resource Management]
+
+Answer: 
+
+
+
+Q7A project manager uses the precedence diagramming method (PDM) for constructing a project schedule network and creates a network diagram for the purpose. He decides to use the most common type of precedence relationship for all activities. Which of the following relationships would he use?
+
+A. Start-to-finish (SF)
+B. Finish-to-finish (FF)
+C. Start-to-start (SS)
+D. Finish-to-start (FS)
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Finish-to-start (FS) is the most common type of precedence relationship. In contrast, the start-to-finish (SF) relationship is rarely used. [PMBOK 6th edition, Page 190]
+
+Answer: 
+
+
+
+Q8Sally, a project manager, was reconciling expenditure of funds with funding limits on the commitment of funds for the project. She found a large variance between the funding limits and planned expenditures. As a result, she decided to reschedule work to level out the rate of expenditures.
+This is:
+
+A. Funding limit reconciliation
+B. Funding limit constraints
+C. Funding limit expenditure
+D. Funding limit appropriation
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+This is known as funding limit reconciliation. It can be accomplished by placing imposed date constraints for work into the project schedule. [PMBOK 6th edition, Page 253] [Project Cost Management]
+
+Answer: 
+
+
+
+Q9A project manager used the services of a trained moderator during the Collect Requirements process. Which of the following is likely to have required the services of a trained moderator?
+
+A. Interviews
+B. Prototypes
+C. Questionnaires
+D. Focus groups
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Focus groups bring together prequalified stakeholders and subject matter experts to learn about their expectations for, and attitudes toward, a proposed product, service or result. Typically, a trained moderator is employed to guide the group through an interactive discussion. [PMBOK 6th edition, Page 142] [Project Scope Management]
+
+Answer: 
+
+
+
+Q10Jessica is managing an office refurbishment project. All the project stakeholders are identified and classified. The stakeholder engagement plan is also approved. Jessica is managing a project for the first time, and she is relying on the PMBOK guide as a reference to deliver an excellent project. Which of the following processes would provide guidance to Jessica regarding how to execute the approved stakeholder engagement plan?
+
+A. Monitor Stakeholder Engagement
+B. Manage Stakeholder Engagement
+C. Identify Stakeholders
+D. Plan Stakeholder Engagement
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The question is asking about the Stakeholder Management process from the executing process group. The Manage Stakeholder Engagement process executes the stakeholder engagement strategy developed during the Plan Stakeholder Engagement process. The Monitor Stakeholder Engagement process deals with making the necessary adjustments to the stakeholder engagement strategy. [PMBOK 6th edition, Page 523] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11Kelly is part of a project management office (PMO). Her office is responsible for the centralized and coordinated management of 18 projects. Each project has its own project manager. Which of the following will not typically be a responsibility of her PMO?
+
+A. Coaching, mentoring, training, and oversight
+B. Development of a detailed description of each project and the product it produces
+C. Managing shared resources across all the projects administered by the PMO
+D. Developing and managing project policies
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The primary function of a PMO is to support project managers in a variety of ways. This may include developing and managing project policies, coaching, mentoring, training, and oversight. This may also include management of resources that are shared across the projects. However, development of a detailed description of each project would be a responsibility of the project manager handling the project, not of the PMO. [PMBOK 6th edition, Page 48]
+
+Answer: 
+
+
+
+Q12Which of the following statements accurately describes how the completion of project scope and the completion of product scope are measured?
+
+A. The completion of project scope and product scope are both measured against the product requirements.
+B. The completion of project scope is measured against the project management plan, and the completion of product scope is measured against the product requirements.
+C. The completion of project scope is measured against the product requirements, and the completion of product scope is measured against the project management plan.
+D. The completion of project scope and product scope are both measured against the project management plan.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The completion of project scope is measured against the project management plan, whereas the completion of product scope is measured against the product requirements. The work of the project results in delivery of the specified product scope. [PMBOK 6th edition, Page 131] [Project Scope Management]
+
+Answer: 
+
+
+
+Q13Bill and Jake are two team members in a project. They do not get along well and are constantly involved in verbal conflicts. The project manager understands the characteristics of conflict and the conflict management process and tries to resolve the situation. Which of the following is not a correct statement?
+
+A. Openness resolves conflict
+B. Conflict is natural and forces a search for alternatives
+C. Conflict is inevitable in a project environment.
+D. The project manager is not responsible for conflict management.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Project team members are initially responsible for resolution of their conflicts. If conflict escalates, the project manager should help resolve it. [PMBOK 6th edition, Page 348] [Project Resource Management]
+
+Answer: 
+
+
+
+Q14The Identify Risks process involves determining which risks may impact a project. It is considered an iterative process. What is the frequency of the iteration?
+
+A. Every month
+B. Every two weeks
+C. The frequency of iteration will vary based on the situation
+D. Every week
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Identify Risks is an iterative process as risks become known or evolve. The frequency of iteration, and who participates in each cycle, will vary by the situation. [PMBOK 6th edition, Page 411] [Project Risk Management]
+
+Answer: 
+
+
+
+Q15A new project manager has just taken over a project that is 50 percent complete. As part of the hand-over process, the outgoing project manager provided the new project manager with a list of stakeholders that needed to be managed. The list had been compiled at the start of the project. Which of the following is true about stakeholders?
+
+A. Stakeholder identification is usually performed when there are problems with the project
+B. Stakeholder identification needs to happen at the start of each new phase of a project
+C. Stakeholder identification is a continuous process and needs to happen all through the project
+D. Stakeholder identification needs to happen at the start of the project Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholder identification is a continuous process and can be quite difficult. Failure to identify stakeholders can result in project overruns. The new project manager can use the list of stakeholders provided by the outgoing project manager as a starting point, but he or she will still need to perform his or her own analysis to identify stakeholders during the rest of the project. [PMBOK 6th edition, Page 507]
+
+Answer: 
+
+
+
+Q16A project manager manages a distributed team with team members located in five countries. Due to time zone differences, he cannot find a time that is acceptable to all team members. Which conflict resolution technique is best suited for this situation?
+
+A. Compromise
+B. Force
+C. Withdraw
+D. Avoid
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A compromise requires searching for options that bring some degree to satisfaction to all parties in order to temporarily or partially resolve the conflict. This would be the best way to handle the current situation, since time zone differences are not under anyone's control. [PMBOK 6th edition, Page 349] [Project Resource Management]
+
+Answer: 
+
+
+
+Q17Acceptance is a strategy adopted because it is not possible to eliminate all risks from a project. This strategy indicates that the project management team has decided not to change the project management plan to deal with a risk. What action does passive acceptance require?
+
+A. Passive acceptance is no longer adopted in projects and is a poor project management practice.
+B. Passive acceptance requires no action except to document the strategy and come up with a risk management strategy.
+C. Passive acceptance requires no action.
+D. Passive acceptance requires no proactive action except periodic review of the threat.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Acceptance is a strategy adopted because it is not possible to eliminate all risks from a project. This strategy indicates that the project management team has decided not to change the project management plan to deal with a risk. Passive acceptance requires no action except performing periodic review of the threat. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q18A buyer and seller set the rates for junior engineers, senior engineers, architects, and other predefined roles. In what type of contract would this be applicable?
+
+A. Fixed-price with economic price adjustment contract
+B. Fixed-price incentive contract
+C. Fixed-price contract
+D. Time and material contract
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In time-and-materials contracts, the buyer and seller agree on unit labor rates and the actual cost of materials. Both parties agree on specific hourly rates for such categories as junior or senior engineers.
+[PMBOK 6th edition, Page 472] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q19A project manager is estimating project costs and needs to decide whether the estimates will include direct costs only or include indirect costs, as well. In which of the following phases does this decision need to take place?
+
+A. Define Scope
+B. Estimate Costs
+C. Plan Expenses
+D. Determine Budget
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+This is done in the Estimate Costs process. The project manager works in accordance with the organization's guidelines and decides whether the estimates will be limited to direct project costs only or whether the estimates will also include indirect costs. Indirect costs are those that cannot be traced to one specific project, and are usually allocated equitably over multiple projects. [PMBOK 6th edition, Page 246] [Project Cost Management]
+
+Answer: 
+
+
+
+Q20After conducting a bidder conference, you receive an email from one of the bidders requesting additional information. The information was neither included in your request for proposal, nor did anyone ask for it during the bidder conference. You realize the answer to this question is critical to understanding the scope of the project. If the answer is not communicated to bidders, they cannot size their teams accurately or estimate the total duration of the project. The answer also greatly affects cost. However, the answer contains some proprietary information that, if disclosed to a competitor, may reveal the future product strategy of your company. Such a disclosure could be disastrous for a major product launch you are planning next year. You decide to send the answer to all the bidders, but you realize one of the bidders is also working closely with one of your competitors on a similar project. What should you do?
+
+A. Don't send this information in writing; instead, telephone each bidding company.
+B. Send this information to all bidders except the bidder working with your competitor.
+C. Send this information to only the supplier who requested it.
+D. Require all bidders to sign a nondisclosure agreement. You may then send the information to each company that signed the NDA.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The best choice is to require all bidders to sign a non-disclosure agreement (NDA) before sending them this additional information, and then provide the additional information to each bidder that has signed an NDA.
+Project managers are required to act fairly and provide equal access to information to all authorized parties.
+Sending the information to only some of the bidding companies would represent a violation of the PMI Code of Ethics and Professional Conduct. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q21During a project status meeting, a project manager presented sensitive information related to the project. However, this information was not intended to be available to the audience. Which of the following processes was done incorrectly, resulting in the project manager communicating sensitive information to the wrong audience?
+
+A. Monitor Communications
+B. Manage Stakeholder Engagement
+C. Plan Communications Management
+D. Identify Stakeholders
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Deciding what information is relevant to an audience is an activity done in the Plan Communications Management process. Improper communication planning will lead to problems such as delays in message delivery or communication of sensitive information to the wrong audience. [PMBOK 6th edition, Page 366] [Project Communications Management]
+
+Answer: 
+
+
+
+Q22A project manager created a resource histogram. On the histogram, some bars extended beyond the maximum available hours. What does this usually signify?
+
+A. This means that the resources on those bars are being underused.
+B. This means that a resource optimization strategy needs to be applied.
+C. This means the resources are producing outputs at a rate faster than the average rate.
+D. This means that resources need to be reduced from the project.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+If the bars in a resource histogram extend beyond the maximum available hours, it means that a resource optimization strategy needs to be applied, such as adding more resources or modifying the schedule.
+[PMBOK 6th edition, Page 220] [Project Resource Management]
+
+Answer: 
+
+
+
+Q23A project manager needs team members that report to a functional manager. What technique is the project manager most likely to use to obtain these resources?
+
+A. Pre-assignment
+B. Authority
+C. Negotiation
+D. Coercion
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Staff assignments are negotiated on many projects. The project manager will negotiate with functional managers to ensure that the project receives competent staff in the required time frame. [PMBOK 6th edition, Page 332] [Project Resource Management]
+
+Answer: 
+
+
+
+Q24Which of the following statements about project teams is incorrect?
+
+A. The project management team is usually a team external to the project team.
+B. The project management team is a subset of the project team.
+C. For smaller projects, the entire team can share the project management responsibilities.
+D. For smaller projects, the project manager can solely administer project management responsibilities.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The project management team is a subset of the project team. [PMBOK 6th edition, Page 86] [Project Resource Management]
+
+Answer: 
+
+
+
+Q25You are just about to present your project's status to your company's executive team. Just as you are leaving your desk for the meeting, one of your resources hands you an updated report on the progress of a critical deliverable. As you are walking to the conference room, you review the report and notice there is an error in it. What do you do?
+
+A. Do not report on that part of the project
+B. Disclose that you have just discovered there is an error in some of the information you intended to present and only present the information that you know is true
+C. Cancel the meeting
+D. Present the information as-it-is and revise it in the meeting minutes, which will be sent after two days Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Disclose that you have just discovered an error in some of the information you had planned to present, and only present information that you know to be accurate. Project managers are obligated to provide accurate and timely project information at all times, in accordance with the PMI Code of Ethics and Professional Conduct. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q26Sheila is the project manager of a website development project. After a detailed discussion with the project management team, she decides to create an informal, broadly framed quality management plan. What would your comment on this be?
+
+A. This is incorrect. A quality management plan should be formal but broadly framed.
+B. This is incorrect. A quality management plan should be formal and highly detailed.
+C. This is fine. The project requirements determine the style and detail of the quality management plan.
+D. This is incorrect. A quality management plan should be informal and highly detailed.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The quality management plan may be formal or informal, highly detailed or broadly framed. Its style and detail are determined by the requirements of the project as defined by the project management team.
+[PMBOK 6th edition, Page 286] [Project Quality Management]
+
+Answer: 
+
+
+
+Q27A project manager was involved in preparation of the project charter for an external project. One of the inputs to the project charter was a statement of work (SOW). The SOW may have been received from the customer as part of any of the following except:
+
+A. As part of a request for information
+B. As part of the business case
+C. As part of a request for proposal
+D. As part of a contract
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The statement of work (SOW) is a narrative description of products or services to be delivered by the project. For an external project, the SOW may be received as part of a bid document such as the request for proposal, request for information, request for bid or as part of a contract. It is usually not part of the business case. [PMBOK 6th edition, Page 477] [Project Integration Management]
+
+Answer: 
+
+
+
+Q28To define the logical relationship among dependencies accurately, a project manager is determining which ones require a lead or a lag. Which
+of the following correctly describes leads or lags?
+
+A. A lead allows a successor activity to be delayed.
+B. A lag directs a delay in the predecessor activity.
+C. A lag allows acceleration of the successor activity.
+D. A lead allows an acceleration of the successor activity.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+To define the logical relationship among dependencies accurately, the project management team determines which ones require a lead or a lag. A lead allows an acceleration of the successor activity.
+[PMBOK 6th edition, Page 192] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q29Which of the following scenarios is likely to occur in a project?
+
+A. Cost and staffing levels are low at the start of the project.
+B. Stakeholders' influence on the project is lowest at the start of the project.
+C. Risk and uncertainty are lowest at the start of the project.
+D. Cost of changes are the highest at the start of the project.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Cost and staffing levels are low at the start of the project. The other statements are incorrect. [PMBOK 6th edition, Page 549] [Project Framework]
+
+Answer: 
+
+
+
+Q30Dina, the project manager of a hardware project, is performing a structured review of the procurement process. She would like to examine each document from the Plan Procurement Management process through the Control Procurements process to identify failures. What tool should Dina use?
+
+A. Procurement audits in the control procurements process
+B. Performance reports in the conduct procurements process
+C. Negotiated settlements in the control procurements process
+D. Procurement audits in the conduct procurements process
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A procurement audit is a tool in the Control Procurements process. Procurement audits are carried out to identify successes and failures that warrant recognition. When this tool is used, all procurement processes are thoroughly checked, and corresponding documents are checked for problems. Therefore, the correct answer is procurement audits in the Control Procurements process. [PMBOK 6th edition, Page 498]
+
+Answer: 
+
+
+
+Q31A project manager estimated that a project would require 4375 personhours of effort. The project ended up using 6250 person-hours of effort.
+The difference between these two figures is a:
+
+A. Variance
+B. Control Limit
+C. Threshold
+D. Standard Deviation
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Variance is a quantifiable deviation, departure, or divergence away from a known baseline of expected value. [PMBOK 6th edition, Page 111] [Project Framework]
+
+Answer: 
+
+
+
+Q32Erica is managing a kitchen tools manufacturing project, which is intended to produce modern cooking ovens. This project is hugely important for the company as well as for Ericas career. Although the project scope statement was well-defined and requirements were gathered from stakeholders in the planning phase, many design change requests have come in from customers during project execution. Which of the following tasks must Erica perform to avoid scope creep caused by uncontrollable changes?
+
+A. Perform validate scope process and process all changes through the plan risk responses process
+B. Perform integrated change control process and process all changes through the control quality process
+C. Perform scope control and process all changes through the integrated change control process
+D. Perform scope control and process all changes through the validate scope process Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+All scope changes must be controlled in a project through the Control Scope process. However, scope control must also ensure that all changes requested by customers go through the Perform Integrated Change Control process. This way, scope creep can be avoided, and project changes can be managed.
+Hence, Erica must perform scope control and process all changes through the Integrated Change Control process. [PMBOK 6th edition, Page 168]
+
+Answer: 
+
+
+
+Q33A project manager is considering risk in a project. When does risk come into play in a project?
+
+A. During the SWOT (strengths, weaknesses, opportunities, and threats) analysis
+B. During the Identify Risks phase
+C. As soon as the Plan Risk Management phase begins
+D. As soon as a project is conceived
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Project risk exists in a project from the moment the project is conceived. The risks are identified as part of specific processes, but the risks always exist. [PMBOK 6th edition, Page 397] [Project Risk Management]
+
+Answer: 
+
+
+
+Q34The scope of work in a project could not be clearly defined. There was also a strong possibility that the scope would change during the course of the project. Which type of contract would suit this type of situation?
+
+A. Fixed-price with economic price adjustment contract
+B. Fixed-price contract
+C. Cost-reimbursable contract
+D. Fixed-price incentive contract
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A cost-reimbursable contract gives the project flexibility to redirect a seller whenever the scope of work cannot be precisely determined at the start of the project and needs to be altered, or when high risks may exist in the effort. [PMBOK 6th edition, Page 472] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q35You are managing a project with a large multinational staff. Susan, one of the engineers, was originally asked to deliver her part of the work on October 19. Due to a change in the critical path, her deliverable will be needed two days sooner. However, as the new deadline is still two weeks away and she is ahead of schedule, you are confident her delivery will be on time. During a staff meeting, you learn from John, her functional manager, that Susan celebrates a religious holiday on October 17. However, he also tells you that Susan is not particularly religious; if pushed a bit and offered some incentive, she may forego celebrating this holiday and come to work. What should you do?
+
+A. Check whether one of her colleagues can share some of her workload this week
+B. Increase her project incentive if she agrees to deliver her presentation on the 17th
+C. Let the critical path remain the same
+D. Ask her boss to ask her to skip the holiday
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Checking to see if one of her colleagues could share some of her workload this week is the best choice. If another resource can assist with the completion of this task, Susan may celebrate the holiday without affecting the delivery of her work item. PMI's Code of Ethics and Professional Conduct mandates that project managers must respect the religious beliefs of others and must not use their position or expertise to influence the decisions or actions of others to benefit at their expense. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q36Jackie is the project manager of a large project. During the Determine Budget process, she identifies that contingency reserves need to be set up for unplanned but potentially necessary changes that could result from realized risks identified in the risk register. Which of the following is true about reserves?
+
+A. Management Reserves are not a part of project cost baseline, but will be included in the total budget for the project
+B. Contingency Reserves are not a part of project cost baseline, but will be included in the total budget for the project
+C. Both the Management Reserves and the Contingency Reserves are part of project cost baseline, and they are also not included in the total budget for the project
+D. Both the Management Reserves and the Contingency Reserves are not part of project cost baseline, but they are included in the total budget for the project Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Management Reserves are not a part of the project cost baseline but will be included in the total budget for the project. [PMBOK 6th edition, Page 252] [Project Cost Management]
+
+Answer: 
+
+
+
+Q37You are meeting with your stakeholders to gather requirements for your project. You are well aware that requirements to be gathered include both product and project requirements. All the following tools can be used to gather, define, and analyze project requirements from stakeholders except:
+
+A. Surveys
+B. Focus Groups
+C. Decomposition
+D. Prototypes
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Both product and project requirements are gathered from stakeholders during the Collect Requirements process. This effort is undertaken during project planning. Focus groups, surveys, and prototypes are some of the tools used to define and analyze requirements. Decomposition is used only to break down the work and not to gather requirements. Therefore, decomposition is the correct answer. [PMBOK 6th edition, Pages 138, 158]
+
+Answer: 
+
+
+
+Q38A project manager is looking at a make-or-buy analysis as part of the Procurement Management process. What type of costs should the project manager consider for this analysis?
+
+A. Direct costs
+B. Indirect costs
+C. Out-of-pocket costs
+D. Both direct as well as indirect costs
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The make-or-buy analysis needs to be as comprehensive as possible. Hence, it should consider all possible costs, both direct and indirect. [PMBOK 6th edition, Page 473] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q39Which of the following is not an input to the Conduct Procurements process?
+
+A. Proposal evaluation techniques
+B. Seller proposals
+C. Cost baseline
+D. Procurement management plan
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Proposal evaluation techniques are the tools and techniques of the Conduct Procurement process. The other choices are the valid inputs to this process. [PMBOK 6th edition, Page 482] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q40During the execution of a project, a large number of defects were discovered. The project manager ensured that the issues, defect resolution, and action item results were logged into a defects database. What would the defect database be considered a part of?
+
+A. Expert Judgment
+B. Deliverables
+C. Change Requests
+D. Organizational Process Assets
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Issue and defect management databases are considered part of the organizational process assets. These databases typically contain historical issue and defect status, control information, issue and defect resolution, and action item results. [PMBOK 6th edition, Page 39] [Project Framework]
+
+Answer: 
+
+
+
+Q41The WBS structure can be created in a number of forms except which of the following?
+
+A. Using work packages as the second level of decomposition, with the project deliverables inserted at the third level
+B. Using major deliverables as the second level of decomposition
+C. Using phases of the project lifecycle as the second level of decomposition, with the product and project deliverables inserted at the third level
+D. Using subcomponents, which may be developed by organizations outside the project team, such as contracted work
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The work packages are at the lowest level of a WBS. The other statements are correct regarding the structure of the WBS. [PMBOK 6th edition, Page 159] [Project Scope Management]
+
+Answer: 
+
+
+
+Q42A project manager is currently ensuring that the stakeholders clearly understand the project goals, objectives, benefits, and risks. This relates to which of the following processes?
+
+A. Control Stakeholder
+B. Identify Stakeholders
+C. Plan Communications Management
+D. Manage Stakeholder Engagement
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Manage Stakeholder Engagement process involves ensuring that the stakeholders clearly understand the project goals, objectives, benefits and risks. [PMBOK 6th edition, Page 524] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q43Joe has been managing a project for Exton Oil Corp. This project involves redesigning filling stations across the state. The redesign involves new gas pumps, security cameras, convenience stores, and use of environmentally friendly materials in the construction. While the redesigning work proceeds, Joe's design engineer suggests a secondary alarm system for gas pumps to alert the attendant in case of a spill. Although this suggestion is not in the project requirements, Joe is impressed with the engineer's recommendation. What should be the next step for Joe with regard to the engineer's suggestion?
+
+A. Initiate the formal change control process to find the impact of his recommendation
+B. Approve his recommendation and allocate resources and funds
+C. Create an issue log to document the engineers suggestion for future use
+D. Reject his recommendation as it requires additional funding Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Change requests should always be recorded in written form and entered in the change management system to determine the impact of the change on the scope, budget, schedule and quality. Thus, Joe must initiate the formal change control process. After approval from the change control board, Joe can allocate resources and funds to implementing the change. Hence, Joe must initiate the change first. [PMBOK 6th edition, Page 113]
+
+Answer: 
+
+
+
+Q44Which of the following structures helps track project costs and can align with the organization's accounting system?
+
+A. Project breakdown structure (PBS)
+B. Matrix breakdown structure (MBS)
+C. Work Breakdown Structure (WBS)
+D. Organizational breakdown structure (OBS)
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Work Breakdown Structure (WBS) provides the framework for the cost management plan. The WBS contains control accounts, which link directly to the performing organization's accounting system. [PMBOK 6th edition, Page 239] [Project Cost Management]
+
+Answer: 
+
+
+
+Q45A first-time project manager is advised by an experienced project manager to plan for cost of quality. The first-time project manager is not sure which costs are included in the cost of quality. What would your advice be?
+
+A. Cost of quality only includes cost of nonconformance.
+B. Cost of quality includes cost of conformance and cost of nonconformance.
+C. Cost of quality only includes prevention costs and internal failure costs.
+D. Cost of quality only includes cost of conformance.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Cost of quality (COQ) includes all costs related to quality management activities and quality issues incurred over the life of a product. It includes cost of conformance (prevention and appraisal costs) as well as cost of nonconformance (internal and external failure costs). [PMBOK 6th edition, Pages 282, 283] [Project Quality Management]
+
+Answer: 
+
+
+
+Q46Miranda is an experienced project manager. As part of the Collect Requirements phase, she decides to use a group creativity technique. This technique is intended to enhance brainstorming with a voting process and can be used to rank the most useful ideas for further brainstorming or prioritization. Which of the following will she likely use?
+
+A. Normal group technique
+B. Minimal group technique
+C. Unanimous group technique
+D. Nominal group technique
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Miranda likely intends to use the Nominal group technique. This enhances brainstorming with a voting process to rank the most useful ideas for further brainstorming or prioritization. [PMBOK 6th edition, Page 144] [Project Scope Management]
+
+Answer: 
+
+
+
+Q47In which of the following situations would it be better to avoid using Analogous Estimating?
+
+A. When the project team members have the needed expertise
+B. When an accurate estimate is required
+C. When a low value estimate is required
+D. When the previous activities are similar in fact and not just appearance Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Analogous estimating is typically less costly than other estimation techniques but also less accurate. It is most reliable when previous activities are similar in fact and the project team members have the needed expertise. This method should not be used when an accurate estimate is required. [PMBOK 6th edition, Page 200] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q48During the Collect Requirements process, a group of people were discussing multiple alternatives. One of the individuals in the group made the decision for the group. This method of reaching a group decision is termed:
+
+A. One Thinking Hat
+B. Autocratic
+C. Plurality
+D. Autonomy
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The method where a single individual makes the decision on behalf of a group is termed autocratic. Other group decision-making techniques are unanimity (everyone agrees on a course of action), majority (support from more than 50% of members), and plurality (the largest block decides even if a majority is not achieved). [PMBOK 6th edition, Page 144] [Project Scope Management]
+
+Answer: 
+
+
+
+Q49Which of the following processes will determine the correctness of deliverables?
+
+A. Plan Deliverables
+B. Plan Quality Management
+C. Control Quality
+D. Manage Quality
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+An important goal of quality control is to determine the correctness of deliverables. The results of the execution of quality control processes are verified deliverables. These are then input to the Validate Scope process for formalized acceptance. [PMBOK 6th edition, Page 298] [Project Quality Management]
+
+Answer: 
+
+
+
+Q50All the monitoring and controlling processes and many of the executing processes can produce change requests as an output. Change requests may require corrective actions and preventive actions. Which of the following are normally affected by corrective and preventive actions?
+
+A. Defect repair
+B. Regressive baselines
+C. The project baselines
+D. The performance against baselines
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Corrective and preventive actions do not normally affect the project baselines, only the performance against the baselines. [PMBOK 6th edition, Page 96] [Project Integration Management]
+
+Answer: 
+
+
+

@@ -1,0 +1,814 @@
+PMP_Exam_Practice_10
+
+Number: 010-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 10
+Exam A
+Q1At a division project status meeting, all attendees receive a dashboard of cost metrics for each project, and each project manager is presenting the status of his or her project. The metrics for one project show a BAC of $1100, an EV of $998, and an EAC of $1099. However, the project manager is reporting an ETC of $354.
+What do you do?
+
+A. Notify the appropriate management there is a calculation error
+B. Do nothing
+C. Advise the project manager to take the additional funds from her project contingency budget
+D. Congratulate the project manager for being under budget
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+If ETC is being reported, then EAC should be AC + ETC. You must notify the appropriate management that there is a calculation error. Project managers are required by the PMI Code to accept ownership of their own errors and to report to the appropriate management any errors they have observed being made by others. [PMBOK 6th edition, Page 267] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q2Which of the following tools and techniques are not applicable while communicating project information?
+
+A. Communication requirements analysis
+B. Communication technology
+C. Communication methods
+D. Information management systems
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The question is asking for a tool and technique that is not part of the Manage Communications process.
+Communication requirements analysis is a tool and technique of the Plan Communications Management process and not the Manage Communications process. [PMBOK 6th edition, Page 379] [Project Communications Management]
+
+Answer: 
+
+
+
+Q3Which of the following methods of forecasting EAC and ETC is the most accurate?
+
+A. ETC based on CPI
+B. ETC based on BAC
+C. ETC based on CPI and SPI
+D. ETC based on new estimate
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The bottom-up ETC gives the most accurate results. [PMBOK 6th edition, Page 264] [Project Cost Management]
+
+Answer: 
+
+
+
+Q4Your team has built an exotic sports car for a wealthy client. The project team verified every deliverable against the quality requirements, and the client accepted. Now the project manager is arranging for the car delivery. This is part of which process group?
+
+A. Closing
+B. Monitoring and Controlling
+C. Planning
+D. Execution
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+It must be noted that the car has been built, and the Control Quality and Validate Scope processes have been performed for every deliverable. The question is asking about PRODUCT delivery, which occurs during the closing process. [PMBOK 6th edition, Page 123] [Project Integration Management]
+
+Answer: 
+
+
+
+Q5The project sponsor has asked you to prepare a summary level description of each phase of the project, and also include a summary of the validation information for the final project deliverables. Which document is the sponsor asking you to prepare?
+
+A. Project charter
+B. Project management plan
+C. Project final report
+D. Project scope statement
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Most probably the project sponsor is asking you to prepare the project's final report as all of the mentioned sections are part of a final report. The rest of the choices are project documents that do not have these sections, especially the validation information for the final project deliverables. This also implies that the project is in the closing phase. [PMBOK 6th edition, Page 127] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6Skills such as empathy, influence, creativity, and group encouragement are valuable assets when managing the project team. These skills are often referred to as ______________.
+
+A. Effort-based management
+B. Feedback-based skills
+C. Ad hoc skills
+D. Soft skills
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Interpersonal skills, sometimes known as "soft skills," are particularly important to team development. By understanding the sentiments of project team members, anticipating their actions, acknowledging their concerns, and following up on their issues, the project management team can significantly reduce problems and increase cooperation. [PMBOK 6th edition, Page 357] [Project Resource Management]
+
+Answer: 
+
+
+
+Q7The cost of running a project management office is an example of what type of cost?
+
+A. Reimbursable
+B. Fixed
+C. Direct
+D. Indirect
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Indirect costs are those costs that cannot be directly traced to a specific project. These costs are accumulated and allocated equitably over multiple projects by an approved and documented accounting procedure. [PMBOK 6th edition, Page 246] [Project Cost Management]
+
+Answer: 
+
+
+
+Q8Andrew was working as a senior project manager at a company when he resigned from his position. This company recently hired Jack to replace Andrew. Jack had worked with Andrew in the past, and he knows him personally. Jack is now in charge of a project that Andrew left in the middle. If Jack calls Andrew for an opinion on this project, this constitutes:
+
+A. Jacks incompetence since he is dependent on Andrews opinion
+B. An example of obtaining expert judgment from a senior
+C. Unethical behavior by Jack since Andrew has already resigned from the company
+D. A conflict of interest situation as Jack knows Andrew
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Asking a senior for an opinion is an example of obtaining expert judgment. Andrew knows the project better than Jack since he had managed it in the past. If Jack seeks an expert opinion from Andrew, this is neither unethical nor a conflict of interest situation; neither does it suggest that Jack is an incompetent project manager. Rather, Jack is employing expert judgment, a good project management practice. [PMBOK 6th edition, Page 79]
+
+Answer: 
+
+
+
+Q9Robert has recently joined an automobile manufacturer. He now has a project that was already in the execution phase. Recently, one of the key stakeholders has raised serious concerns over the project's scope. Robert now wants to review the previous project communications to understand how the current project scope was agreed to by all key stakeholders in the past. Where can he find this information?
+
+A. Organizational process assets
+B. Project management plan
+C. Stakeholder register
+D. Enterprise environmental factors
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Neither the project management plan nor the stakeholder register documents the stakeholder communication records. These records are incorporated in the project records folder, which is an organizational process asset during the Manage Communications process. [PMBOK 6th edition, Page 388]
+
+Answer: 
+
+
+
+Q10Which of these is an input to the Collect Requirements process?
+
+A. Observations
+B. Risk register
+C. Scope statement
+D. Project charter
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project charter is an input to the Collect Requirements process. The other choices are not valid.
+[PMBOK 6th Edition, Page 138]
+
+Answer: 
+
+
+
+Q11Tim is the project manager of a project that has a timeline of 18 months. Tim plans to send daily status reports to all stakeholders. After receiving two such reports, Sue, the project sponsor, informs Tim she would like to have reports every two weeks only. Tim did an analysis of communications requirements and considered various attributes for the communications management plan. What aspect has he missed, which resulted in a daily status report being sent instead of two-week status reports?
+
+A. He has not considered the frequency of information distribution.
+B. He has not considered the purpose for distribution of information.
+C. He has not considered the project's timeline.
+D. He has not considered the content of the information.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Tim has most likely not considered the frequency of distribution of the information. He should have analyzed the stakeholder requirements and planned for distribution of the status reports accordingly. It is unlikely that on an 18-month project, the project sponsor would want to receive daily status reports. (Perhaps only near the end of the project, with just a few days or weeks to go, the project sponsor might request daily reports to monitor the project closely or to deal with certain issues.) Hence, Tim should have considered stakeholder requirements and planned the frequency of the status reports accordingly. The remaining choices are incorrect. The choice that Tim has not considered the timeline of the project may be one of the factors that influence the frequency of information distribution, but is not a complete response by itself. [PMBOK 6th edition, Page 377] [Project Communications Management]
+
+Answer: 
+
+
+
+Q12A software development project team has determined that the best way to mitigate the risk of not having the computational resources to complete all bug testing on schedule is to add three more servers to the test bed. However, the network may not have enough capacity to handle the extra load of those three servers and could fail. This type of risk is a _______________ risk.
+
+A. Secondary
+B. Simulation
+C. Bottleneck
+D. Hidden
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A secondary risk arises as a direct result of implementing a risk response. [PMBOK 6th edition, Page 439] [Project Risk Management]
+
+Answer: 
+
+
+
+Q13Which of the following enterprise environmental factors is not applicable to the Plan Resource Management process?
+
+A. Organizational culture and structure
+B. Existing resources, capabilities and competencies
+C. Marketplace conditions
+D. Lessons learned
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Lessons learned from historical projects are valuable inputs to the Plan Resource Management process.
+However, these are classified as organizational process assets. [PMBOK 6th edition, Page 315] [Project Resource Management]
+
+Answer: 
+
+
+
+Q14As part of the quality control in your project, you are exploring a technique that shows the history and pattern of variation. This is a line graph that shows data points plotted in the order in which they occurred.
+You are most likely looking at a:
+
+A. Control chart
+B. Pareto diagram
+C. Histogram
+D. Cause-and-effect diagram
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+This is most likely to be a control chart. A control chart shows the trends in a process over a period of time.
+The remaining choices are not line graphs. [PMBOK 6th edition, Page 304] [Project Quality Management]
+
+Answer: 
+
+
+
+Q15Which of the following actions decreases the risk of the project failing to meet its goals and objectives?
+
+A. Discouraging changes to the initial project scope
+B. Acquiring more than required resources
+C. Active management of stakeholders
+D. Fast-tacking the project schedule to finish the project before deadline Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Changes are inevitable. Acquiring more than required resources with put a strain on the budget and hence might compromise the project's financial goals. Fast-tracking always induces risk to the project. However, active management of stakeholders almost guarantees a decrease in project risk. [PMBOK 6th edition, Pages 504-506] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16You are assisting Benjamin, another project manager, to interview candidates for a resource position on his project. While reviewing your interview notes together, you notice that he sorts the candidates resumes into two piles: One pile for further interviews, the other for candidates that did not meet the requirements for the position. You also notice that he has placed several of the highly qualified candidates in the second pile, stating that those interviewees "did not fit the corporate profile." Upon further review, you discover that all these candidates are of the same ethnic group. What do you do?
+
+A. Excuse yourself from the interviewing process
+B. Report this to the appropriate management
+C. File a complaint with PMI
+D. Do nothing
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Report this to the appropriate management immediately. Discrimination based on nationality is prohibited by the PMI Code of Ethics and may also be illegal, depending on local laws. PMI requires project managers to report discriminatory behavior to the appropriate management; not doing so is a violation of the Code of Ethics. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q17As a project manager, you are analyzing a process and looking for opportunities for improvements by identifying and analyzing non-valueadded activities. This relates to which of the following tools and techniques of the Manage Quality process?
+
+A. Quality Audits
+B. Affinity diagrams
+C. Interrelationship digraphs
+D. Process Analysis
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Process analysis helps identify opportunities for improvements by identifying and analyzing non-value- added activities. [PMBOK 6th edition, Page 292]
+
+Answer: 
+
+
+
+Q18Which of the following processes gives the project management team insights into the health of the project?
+
+A. Develop Project Management Plan
+B. Perform Integrated Change Control
+C. Monitor and Control Project Work
+D. Determine Budget
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+It must be a process from the Monitoring and Controlling process group. The correct response is Monitor and Control Project Work. This is the process for collecting, measuring, and disseminating performance information and for assessing measurements and trends to effect process improvements. Monitoring includes status reporting, progress measurement, and forecasting. [PMBOK 6th edition, Page 105] [Project Integration Management]
+
+Answer: 
+
+
+
+Q19Which of the following interpersonal skills is of prime importance during the collection and analysis of stakeholders' needs and expectations?
+
+A. Trust building
+B. Conflict resolution
+C. Overcoming resistance
+D. Active listening
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Active listening is a communication technique that requires the listeners to feedback what they hear to the speaker, by way of re-stating or paraphrasing what they have heard in their own words, to confirm what they have heard and moreover, to confirm the understanding of both parties. Active listening is of prime importance during the collection and analysis of stakeholders' needs and expectations. [PMBOK 6th edition, Page 386] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q20After receiving some news about a delay on one of your project tasks, you review the schedule to determine how it will affect the project. While there is a substantial delay on this task, it is not a critical path item and will not affect delivery of any of your milestones. Another project manager advises you to just present the milestone chart during your meeting with the project stakeholders and tell them the project is progressing as planned. What do you do?
+
+A. Present the project as a milestone chart and advise that the progress is tracking according to plan.
+B. Present the schedule in a milestone chart and disclose full details of the delay.
+C. Present the schedule in a network diagram and advise that the project is tracking according to plan.
+D. Present the schedule as a bar chart and advise that the project is tracking according to plan.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Present the schedule in a milestone chart and disclose the details of the delay. Concealing delays is a violation of the PMI Code of Ethics and Professional Conduct. Project managers must provide accurate and timely information. Providing half-truths about a project's schedule is unacceptable. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q21The project manager in charge of a new credit card software project has asked the product manager to create a checklist to assist with identifying risks. A project manager can create a risk checklist from which of the following sources?
+
+A. Agreement templates
+B. Earned value measurements
+C. Project Management Information System
+D. The lowest level of the Risk Breakdown Structure
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The lowest level of the RBS can be used as a risk checklist. [PMBOK 6th edition, Page 416] [Project Risk Management]
+
+Answer: 
+
+
+
+Q22A planning technique used to provide products, services, and results that truly reflect customer requirements, by translating those customer requirements into the appropriate technical requirements for each phase of project product development, is:
+
+A. Six Sigma
+B. PDCA
+C. Voice of the Customer
+D. ISO
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is Voice of the Customer. This is one of the non-proprietary approaches to quality management. In this planning technique, the customer's requirements are exactly met in the finished product during each phase of the project. [PMBOK 6th edition, Pages 145, 726] [Project Quality Management]
+
+Answer: 
+
+
+
+Q23Administrative closure involves all the activities in a step-by-step manner to satisfy various completion and exit criteria for the project. This is part of which Project Management Knowledge Area?
+
+A. Project Communications Management
+B. Project Scope Management
+C. Project Integration Management
+D. Project Procurement Management
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Administrative Closure activities are part of the Close Project or Phase process under the Project Integration Management knowledge area. [PMBOK 6th Edition, Page 123]
+
+Answer: 
+
+
+
+Q24You are a project manager who is in charge of an important project for your company. The project includes producing widgets for your customer. The collected data helps identify the greatest causes of defects in the overall process. Which technique should you use to determine the correlation between two variables being analyzed?
+
+A. Statistical sampling
+B. Pareto chart
+C. Scatter diagram
+D. Control chart
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Scatter diagrams are used to determine if a correlation exists between two variables. [PMBOK 6th edition, Page 293] [Project Quality Management]
+
+Answer: 
+
+
+
+Q25During the planning phase of your project, your team decided to procure a certain brand of hardware because it had the lowest price and came with free shipping and installation. This approach saved $6,000 over the other brands. Since that purchase, however, you discovered the annual maintenance costs for this hardware are $2,500 per year, and $12,500 over the life of the hardware. These costs were not budgeted in the project, nor were they included in the Total Cost of Ownership (TCO) analysis that was part of the project business case. What should you do?
+
+A. Request a new budget
+B. Notify the stakeholders immediately
+C. Revise the business case
+D. Do nothing. This will not affect the project budget
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Notify the project stakeholders of this situation immediately. Once they have been notified of the lifecycle costing, a path forward can be developed. Project managers are responsible for providing accurate and timely information. Even though this cost will not impact the project budget directly, it is still a critical component of the ongoing operation of the project's product. Failing to communicate this information is a violation of the PMI Code of Ethics and Professional Conduct. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q26In a sender-receiver model for communication, information is sent and received between two parties, defined as the sender and the receiver. In such a model, anything that interferes with the transmission and understanding of the message is called:
+
+A. Noise
+B. Constraint
+C. Medium
+D. Decode
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+In a sender-receiver model, the key components include: Encoding of thoughts or ideas, a message as the output of encoding, a medium to convey the message, and decoding of the message back into meaningful thoughts or ideas. Anything that interferes with the transmission and understanding of the message is termed noise (such as distance, for example). [PMBOK 6th edition, Page 372] [Project Communications Management]
+
+Answer: 
+
+
+
+Q27Which of the following is not an appropriate method for dealing with a negative risk?
+
+A. Avoid
+B. Exploit
+C. Transfer
+D. Mitigate
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Exploitative strategies are selected for risks with positive impacts where the organization wishes to ensure the opportunity is realized. This strategy seeks to eliminate the uncertainty associated with a particular upside risk by making the opportunity happen. [PMBOK 6th edition, Pages 443, 444] [Project Risk Management]
+
+Answer: 
+
+
+
+Q28Statistical sampling involves choosing part of a population for inspection. Appropriate sampling can often ___________the cost of quality control.
+
+A. Neutralize
+B. Reduce
+C. Increase
+D. Mitigate
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Appropriate sampling can often reduce the cost of quality control as it selects a part of the population for inspection. In some application areas, it may be necessary for the project management team to be familiar with a variety of sampling techniques. [PMBOK 6th edition, Page 303] [Project Quality Management]
+
+Answer: 
+
+
+
+Q29A risk with a positive outcome is an ___________.
+
+A. Unlikely risk
+B. Objective risk
+C. Opportunity
+D. Obsolete risk
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Risks can pose a threat or an opportunity to a project. Positive risks are called opportunities. [PMBOK 6th edition, Page 444] [Project Risk Management]
+
+Answer: 
+
+
+
+Q30Which of the following is not a basic input required to develop an effective project stakeholder engagement plan?
+
+A. Stakeholder register
+B. Enterprise environmental factors
+C. Organizational process assets
+D. Stakeholder engagement assessment matrix
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder engagement plan is developed during the Plan Stakeholder Engagement process. The stakeholder register, enterprise environmental factors and the organizational process assets are all basic inputs to this process. The stakeholder engagement assessment matrix is developed during this process and is not an input to this process. [PMBOK 6th edition, Page 516] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31Anne is a project manager. She has evaluated certain responses from prospective sellers and wants to select a contract model that will transfer risk to the seller. Which of the following should she select in order to achieve this?
+
+A. Time and Material contract
+B. Cost-Plus-Fixed-Fee contract
+C. Cost-Plus-Incentive-Fee contract
+D. Fixed-price contract
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A fixed-price contract enables the buyer to transfer risk to the seller by setting a fixed total price for a defined service, or result to be provided. [PMBOK 6th Edition, Page 471]
+
+Answer: 
+
+
+
+Q32Predicting future performance based on historical events is called ___________.
+
+A. Historical analysis
+B. Trend analysis
+C. Parametric analysis
+D. Pareto analysis
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Trend analysis is an analytical technique that uses mathematical models to forecast future outcomes based on historical results. It is a method of determining the variance from a baseline of a parameter. It uses prior progress reporting periods' data to project how much that parameter's variance from baseline might be at some future point in the project if no changes are made in executing the project. [PMBOK 6th edition, Page 111] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q33Which of the following estimating techniques will cost less but is also typically less accurate?
+
+A. Parametric Estimating
+B. Analogous Estimating
+C. Resource Cost-based Estimating
+D. Bottom-up Estimating
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Analogous cost estimating is typically less costly but also less accurate than other cost estimating techniques. It uses the actual cost of previous, similar projects as the basis for estimating the cost of the current project. It is more reliable when the previous projects are similar in fact and not just in appearance, and the persons estimating have the needed expertise. [PMBOK 6th edition, Page 200] [Project Cost Management]
+
+Answer: 
+
+
+
+Q34A project manager is using a Risk Diagramming technique that is a graphical representation of situations showing causal influences, time ordering of events, and other relationships among variables and outcomes.
+This would be:
+
+A. A system flow chart
+B. An Influence Diagram
+C. A Pareto chart
+D. Histogram
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A Risk Diagramming technique that is a graphical representation of situations showing causal influences, time-ordering of events and other relationships among variables and outcomes is known as an Influence Diagram. The Cause-and-Effect diagram also identifies the causes of risk but does not have the time- ordering of events. [PMBOK 6th edition, Page 436] [Project Risk Management]
+
+Answer: 
+
+
+
+Q35You are authorized to approve expenditures above $15,000. For the last several weeks, you have been negotiating the terms and pricing of a contract with a vendor, and you want to keep costs as low as possible. This has been an exceedingly difficult negotiation process. A colleague suggests you tell the vendor you can only approve expenses below $10,000 as a way to keep the price low. What do you do?
+
+A. Ask for binding arbitration
+B. Tell the vendor you are only authorized to approve expenses under $10,000
+C. Do not follow the colleagues advice
+D. Put a deadline on the negotiation completion
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Do not follow your colleague's advice. Providing false or misleading information for any reason is a violation of the PMI Code of Ethics. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q36A project was estimated to cost $100,000 with a timeline of five months. Due to some unusual causes, the schedule was delayed. At the end of the third month, the project manager reviews the project and finds that the project is 40 percent complete and Actual Costs are $60,000. Assuming that the cost variations observed to date would not continue going forward, the Estimate to Complete (ETC) for the project are:
+
+A. 40000
+B. 120000
+C. 90000
+D. 60000
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The budget at completion (BAC) = $100,000 (given). The Actual Cost (AC) = $60,000 (given). The Earned value (EV) = (40/100)*100,000 since 40% of the project is complete. Hence, Earned Value (EV) = $40,000.
+This is an instance of an atypical cause of variance in the project. The formula for estimate to complete (ETC) is: ETC = BAC - EV = 100,000 - 40,000 = 60,000. [PMBOK 6th Edition, Page 267]
+
+Answer: 
+
+
+
+Q37You are a project manager for Enormous Co. and are currently engaged in a highly visible project. The company is about to implement an independent review to ensure that the project work is continuing to comply with the projects policies, processes, and procedures. During which process would this review occur?
+
+A. Close Project or Phase
+B. Control Quality
+C. Monitor Risks
+D. Manage Quality
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Quality audits are performed during the Manage Quality process. [PMBOK 6th edition, Page 294] [Project Quality Management]
+
+Answer: 
+
+
+
+Q38A project employs a virtual team with team members located in different offices in the same city as well as across different cities. The project manager wishes to build trust and good working relationships. One of the best ways to do this is:
+
+A. To use team-building strategies
+B. Write a memo to the team detailing the need for good working relationships
+C. Plan for job-rotation on a weekly basis
+D. To encourage the use of telephonic conversations as much as possible Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Use of team-building activities helps in building trust and establishing good working relationships. As for the other choices: Encouraging the use of telephone calls can also help in building relationships, especially in distributed teams. However, this cannot be an alternative to email communication. Job-rotation within the team may also help team morale; however, doing it on a weekly basis may be counterproductive and inefficient. [PMBOK 6th edition, Page 341] [Project Resource Management]
+
+Answer: 
+
+
+
+Q39Which process group corresponds to the "act" component of the plan-docheck-act cycle?
+
+A. Monitoring & Controlling
+B. Executing
+C. Planning
+D. Initiating
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The "act" component of the plan-do-check-act cycle relates to the Executing process group. The plan-do- check-act cycle was created by Shewhart and modified by Deming to illustrate how different results from one cycle become an input to another cycle. [PMBOK 6th edition, Page 275] [Project Quality Management]
+
+Answer: 
+
+
+
+Q40Which option is not representative of the inputs, tools and techniques, and outputs of the Direct and Manage Project Work process?
+
+A. PMIS, Project Management Plan, and Deliverables
+B. Deliverables, Approved Change Requests, and Project Management Information System
+C. Approved Change Requests, Validated Changes, and PMIS
+D. Approved Change Requests, Project Management Plan, and Work Performance Data Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Validated Changes are not inputs, tools and techniques, or outputs of the Direct and Manage Project Work process. [PMBOK 6th edition, Page 90] [Project Integration Management]
+
+Answer: 
+
+
+
+Q41As part of the Risk Response planning for your project, you are trying to come up with a strategy to deal with negative risks or threats. In order to eliminate the impact of a particular risk, you relax the objective that is in jeopardy by extending the project schedule. This is an example of:
+
+A. Transference
+B. Mitigation
+C. Avoidance
+D. Postponement
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+This is an example of avoidance. It involves changing the project management plan to "eliminate" the threat posed by an adverse risk, isolating the project objectives from the risk's impacts, or relaxing the objective that is in jeopardy, such as by extending the schedule or reducing scope. Transference involves shifting the negative impact of a threat along with the ownership of the response. Mitigation implies a reduction in the probability and impact of an adverse risk. Postponement is not a valid strategy since it does not address the risk. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q42You are the Project Manager for the production of an exotic car. You have completed the Define Scope process for your project. Which of the following may be generated through this process?
+
+A. Project scope statement, project charter
+B. Project scope statement, updates to requirements traceability matrix
+C. WBS, updates to requirements traceability matrix
+D. Project scope statement, WBS
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The Define Scope process will result in development of the Project Scope statement and updates to project documents such as stakeholder register, requirements documentation and the requirements traceability matrix. [PMBOK 6th edition, Page 150] [Project Scope Management]
+
+Answer: 
+
+
+
+Q43Perform Qualitative Risk Analysis is a quick way to prioritize how a project team will respond to risks. It is based on risk _________________ and _________________.
+
+A. Probability, exposure
+B. Probability, impact
+C. Probability, focus
+D. Exposure, cost
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Perform Qualitative Risk Analysis is usually a rapid and costeffective means of establishing priorities for the Plan Risk Responses process. [PMBOK 6th edition, Page 419] [Project Risk Management]
+
+Answer: 
+
+
+
+Q44A project manager was assigned to a project when the project charter was in development. Which of the following is an input that the project manager will use to develop the project charter?
+
+A. Make-or-Buy analysis
+B. Organizational Process Assets
+C. Project Acceptance Criteria
+D. Project Scope Statement
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+When developing the project charter, the project manager can draw on the assets that are part of the organizational process assets. There may be formal or informal policies, procedures, plans, and guidelines whose effects must be considered. Organizational process assets also represent the organization's learning from previous projects such as completed schedules, risk data, and earned value data. These are invaluable in developing the project charter. [PMBOK 6th edition, Page 75] [Project Integration Management]
+
+Answer: 
+
+
+
+Q45The Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of the work the project team will execute to accomplish the project objectives and create required deliverables. The Create WBS process falls under which knowledge area?
+
+A. Project Schedule Management
+B. Project Integration Management
+C. Project Scope Management
+D. Project Cost Management
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Work Breakdown Structure (WBS) is a deliverable-oriented hierarchical decomposition of the work to be executed by the project team to accomplish the project objectives and create required deliverables. The Create WBS process falls under the Project Scope Management knowledge area. The WBS subdivides the project into smaller, more manageable pieces of work, with each descending level of the WBS representing an increasingly detailed definition of the project work. [PMBOK 6th edition, Page 25] [Project Scope Management]
+
+Answer: 
+
+
+
+Q46Gene is the project manager of a large highway expansion project. He has a number of stakeholders with competing priorities and agendas, and he often has to resolve conflicts among stakeholders. Which knowledge area manages communications with the project stakeholders?
+
+A. Project Quality Management
+B. Project Stakeholder Management
+C. Project Communications Management
+D. Project Resource Management
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Manage Communications is the process of producing and distributing project information to the project stakeholders. This process is a part of the Project Communications Management knowledge area. [PMBOK 6th edition, Page 25] [Project Communications Management]
+
+Answer: 
+
+
+
+Q47Which of the following statements regarding team-building is correct?
+
+A. Team-building is essential during the middle of a project, and from there it is an ongoing process.
+B. Team-building is essential during the end of a project, and it is a one-time process.
+C. Team-building is essential during the end of a project, but it is an ongoing process.
+D. Team-building is essential during the front end of a project, but it is an ongoing process.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Team building is essential during the front end of a project, but it is an ongoing process. [PMBOK 6th edition, Page 341]
+
+Answer: 
+
+
+
+Q48Which of the following is NOT considered a method in the Manage Communications process?
+
+A. Change control systems
+B. Communication technology
+C. Project reporting
+D. Project Management Information System
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The change control system is not a tool and technique of the Manage Communications process. The other choices are valid tools and techniques of this process. [PMBOK 6th edition, Page 379] [Project Communications Management]
+
+Answer: 
+
+
+
+Q49Robert's project is a high-priority project for his organization. Project stakeholder engagement is crucial for the project's success. Robert needs to discuss the project stakeholder engagement levels with his project team on a regular basis. Which of the following is the best platform where Robert can review this with his team?
+
+A. Phase gates
+B. Project status review meetings
+C. Kill points
+D. Information management system
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The phase gates and the kill points are the project reviews that are done at the closure of each phase of the project. Managing stakeholder engagement levels should be a continuous process that does not wait for a project phase to complete. Information management systems can be used for the exchange of project information, but project status review meetings are interactive communication sessions among the project team members. A project status review meeting provides the best platform to discuss the current engagement levels of the project stakeholders. [PMBOK 6th edition, Page 535]
+
+Answer: 
+
+
+
+Q50Reporting performance about scope to stakeholders is a part of which knowledge area?
+
+A. Project Communications Management
+B. Project Scope Management
+C. Project Quality Management
+D. Project Integration Management
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Project Reporting is a tool and technique of the Manage Communications Process. [PMBOK 6th edition, Page 379] [Project Communications Management]
+
+Answer: 
+
+
+

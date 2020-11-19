@@ -1,0 +1,170 @@
+PMP_Exam_Practice_03_10
+
+Number: 003-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 3.1
+Exam A
+Q1George is managing a construction project and currently sequencing the project activities and defining their logical relationships. Two activities have both the SS and FF relationships. How should George schedule these activities?
+
+A. Apply both the relationships.
+B. Select the relationship with the highest impact.
+C. Select the SS relationship as this is more logical than the FF relationship.
+D. Select the FF relationship as this can help meet the project deadlines.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Multiple relationships between the same activities are not recommended, so a decision has to be made to select the relationship with the highest impact. [PMBOK 6th edition, Page 190] [Project Scope Management]
+
+Answer: 
+
+
+
+Q2As part of tracking a project, a project manager is validating the completion of project scope. He or she would measure this against:
+
+A. Requirements traceability matrix
+B. The Project Management Plan
+C. The Project Charter
+D. The Requirements Management Plan
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Completion of project scope is measured against the scope baseline which is a part of the project management plan. In contrast, the product scope is measured against the product requirements. [PMBOK 6th edition, Page 161] [Project Scope Management]
+
+Answer: 
+
+
+
+Q3Which of the following processes is not a part of the Project Scope Management?
+
+A. Create WBS
+B. Control Quality
+C. Control Scope
+D. Collect Requirements
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Control Quality is not a part of the Project Scope management. [PMBOK 6th edition, Page 129] [Project Scope Management]
+
+Answer: 
+
+
+
+Q4Establishing control accounts for the work packages and a unique identifier from a code of accounts finalizes the WBS. This provides a structure for hierarchical summation of:
+
+A. Schedule and requirements information
+B. Cost and requirements information
+C. Cost and resource information
+D. Scope, budget and schedule information
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The WBS is finalized by establishing control accounts for the work packages and a unique identifier from a code of accounts. This provides a management control point for integrated scope, schedule and cost information.[PMBOK 6th edition, Page 161] [Project Scope Management]
+
+Answer: 
+
+
+
+Q5Uncontrolled project scope changes are often referred to as ________ .
+
+A. Scope creep
+B. Scope verification
+C. Value Added Scope
+D. Scope control
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Uncontrolled project scope changes are often referred to as scope creep. Scope creep is often viewed negatively, but can be managed using a change control process. [PMBOK 6th edition, Page 168] [Project Scope Management]
+
+Answer: 
+
+
+
+Q6While managing a project, you have included the product acceptance criteria in the Quality Management Plan. While reviewing your plan, a senior manager asks you to reconsider this. You then realize that what you did is incorrect. Where should you place the product acceptance criteria?
+
+A. Project Charter
+B. Change control process
+C. Project Scope Statement
+D. Scope Verification Plan
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project scope statement documents and addresses the characteristics and boundaries of the project and its associated products and services, as well as product acceptance criteria and scope control.
+[PMBOK 6th edition, Page 154] [Project Scope Management]
+
+Answer: 
+
+
+
+Q7The Project Scope Management Knowledge Area is primarily concerned with:
+
+A. Defining the scope of work that included in the project
+B. Ensuring that the project includes all the work required, and only the work required, to complete the project
+C. The scope of work required during the initiation phase
+D. Defining the specifications and functionality of the work product Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Project Scope Management includes the processes required to ensure that the project includes all the work required and only the work required to complete the project successfully. It is primarily concerned with defining and controlling what is included and what is not included in the project. [PMBOK 6th edition, Page 129] [Project Scope Management]
+
+Answer: 
+
+
+
+Q8A project manager approaches you to understand the Work Breakdown Structure (WBS) in better detail.
+You tell her that:
+
+A. The WBS is a detailed project plan and includes the effort, resources, and dates on which the tasks for the project are complete.
+B. The WBS is a task-oriented decomposition of work that identifies each task and the resource required to accomplish the task.
+C. The WBS is a deliverable-oriented hierarchical decomposition of the work the project team must accomplish to meet project objectives.
+D. The WBS is a Gantt chart that contains details about the project deliverables the project team must do.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The WBS is a deliverable oriented hierarchical decomposition of the work to be accomplished by the project team to accomplish project objectives. [PMBOK 6th edition, Page 157] [Project Scope Management]
+
+Answer: 
+
+
+
+Q9Why must the Validate Scope process be completed in a project?
+
+A. To obtain scope documents from recent similar projects for benchmarking
+B. To determine whether the scope is at the correct complexity level
+C. To obtain formal acceptance of deliverables by the customer or sponsor
+D. To ensure the project team is all aware of the scope
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Validate Scope is the process of formalizing acceptance of the completed project deliverables by the customer or sponsor of the project. [PMBOK 6th edition, Page 163] [Project Scope Management]
+
+Answer: 
+
+
+
+Q10A project manager wants to use a group decision-making technique to generate, classify and prioritize requirements. Which of these is not a valid group decision-making technique?
+
+A. Plurality
+B. Singularity
+C. Majority
+D. Unanimity
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Singularity is not a valid method to reach a group decision. The other choices are valid methods to reach a group decision. [PMBOK 6th edition, Page 144] [Project Scope Management
+
+Answer: 
+
+
+

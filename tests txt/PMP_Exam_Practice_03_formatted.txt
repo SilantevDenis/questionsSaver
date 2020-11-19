@@ -1,0 +1,827 @@
+PMP_Exam_Practice_03
+
+Number: 003-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 3
+Exam A
+Q1An organization's value chain can be represented by a special type of flowchart called SIPOC. SIPOC stands for:
+
+A. Superior service, inferior service, peak hour service, optimized service, and client service
+B. Simple, intellectual, procedural, optimal coding
+C. Sample, information, practice, organization, and control
+D. Suppliers, inputs, process, outputs, and customers
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+SIPOC stands for Suppliers, inputs, process, outputs, and customers. [PMBOK 6th edition, Page 284] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q2Julia is managing a water treatment plant construction project. A new government has recently been sworn in. During the election campaign, the winning candidate made a number of commitments regarding environmental control reforms. Julia is not sure how the new government and its future policies might affect her project. This is an example of:
+
+A. Variability risk
+B. Mitigated risk
+C. Ambiguity risk
+D. Opportunity risk
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Ambiguity risks relate to areas of the project where imperfect knowledge might affect the project's ability to achieve its objectives. Examples include: elements of the requirement or technical solution, future developments in regulatory frameworks, or inherent systemic complexity in the project. [PMBOK 6th edition, Page 398] [Project Quality Management]
+
+Answer: 
+
+
+
+Q3As a project manager, you are responsible for determining and delivering the required levels of both grade and quality. Select which of the following statements you disagree with.
+
+A. Grade relates to the product's characteristics.
+B. Grade relates to the customer requirements.
+C. Quality relates to the customer requirements.
+D. Quality and grade of a product must be carefully managed.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The grade of a product relates to the technical characteristics of the product. [PMBOK 6th edition, Page 274] [Project Quality Management]
+
+Answer: 
+
+
+
+Q4Which of the following processes produces a work breakdown structure as an output?
+
+A. Create WBS
+B. Define Scope
+C. Develop Project Management Plan
+D. Define Activities
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Create WBS process produces the work breakdown structure of the project as an output. [PMBOK 6th edition, Page 161] [Project Scope Management]
+
+Answer: 
+
+
+
+Q5How can a project manager ensure continued active support of the project supporters and at the same time minimize negative impacts from the negative stakeholders?
+
+A. By ensuring that stakeholders clearly understand the communication management plan
+B. By ensuring that stakeholders clearly understand the stakeholder management strategy
+C. By ensuring that stakeholders are kept disengaged throughout the project lifecycle
+D. By ensuring that stakeholders clearly understand project goals, objectives, benefits, and risks Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Managing stakeholder engagement helps to increase the probability of project success by ensuring that stakeholders clearly understand the project goals, objectives, benefits, and risks. This enables them to be active supporters of the project and to help guide activities and project decisions. [PMBOK 6th edition, Page 524] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6Most project management software packages use a method of constructing a project schedule network diagram known as:
+
+A. Waterfall Method
+B. Precedence Diagramming Method
+C. Agile Method
+D. Just-in-time Method
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+PDM uses Nodes to represent Activities and connects the activities with Arrows to show dependencies. The rest of the choices are not valid schedule network diagraming techniques. [PMBOK 6th edition, Page 189] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q7The fundamental lesson from the Theory of Constraints by Goldratt is:
+
+A. The project's critical path is limited by the non-critical activities.
+B. Managers who choose to lead from the front are more successful.
+C. A system's throughput is limited by at least one constraint.
+D. Managers who delegate more are more successful.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+According to the theory of constraints, a system's throughput is limited by at least one constraint. [PMBOK 6th edition, Page 310] [Project Risk Management]
+
+Answer: 
+
+
+
+Q8Martin is the project manager of a project that is in an early phase. He needs to estimate costs but finds that he has a limited amount of detailed information about the project. Which of the following estimation techniques is least suited to his requirements?
+
+A. Top-down Estimating
+B. Bottom-up Estimating
+C. Analogous Estimating
+D. Budgetary Estimating
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Bottom-up estimating is a technique that can be applied only when there is a sufficient amount of detail available to the project manager. [PMBOK 6th edition, Page 244] [Project Cost Management]
+
+Answer: 
+
+
+
+Q9The performance reports produced during the Control Procurements process are then provided to which project management process for further processing?
+
+A. Monitor & Control Project Work in the form of work performance information
+B. Direct & Manage Project Work in the form of work performance data
+C. Perform Integrated Change Control in the form of a change request
+D. Performance report is not an output of the Control Procurement process Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Although, PMBOK does not explicitly mentions performance reports as an output of the Control Procurements process, these reports are produced during this process. The performance reports are then provided to the Monitor & Control Project Work in the form of work performance information. [PMBOK 6th edition, Page 493] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q10To develop a project stakeholder engagement plan, seek knowledge from groups or individuals with specialized training or subject matter insight into the relationships within the organization. In PMBOK jargon, what is this technique called?
+
+A. Professional verdict
+B. Consultation
+C. Expert judgment
+D. Sage opinion
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The technique can be called anything but according to the PMBOK jargon, this technique is called Expert Judgement. [PMBOK 6th edition, Page 520] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11Three years back, your organization awarded a fixed price contract to a reputable local contractor to construct a new airport terminal in the city. A few days back, you received a change request from the contractor requesting to adjust the contract's price. The contractor is claiming that as a result of the recent national recession, the prices of raw materials have gone up and he cannot complete the rest of the project at the contract price. Is the contactor's request legitimate?
+
+A. Yes, you cannot penalize the contactor for price escalations due to force majeure.
+B. Yes, unless there is no Economic Price Adjustment provision in the contract.
+C. No, the price of the contract is fixed and cannot be changed.
+D. No, the price hike due to recession must be adjusted against the contractor's profit.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Unless there is no provision for economic price adjustment due to inflation, a fixed price contract's value cannot be changed. Usually fixed price contracts spanning over one year in duration have this provision built into the contract. [PMBOK 6th edition, Page 471] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q12Which of the following is an agile prototyping technique showing sequence or navigation through a series of images or illustrations:
+
+A. Nominal group technique
+B. Mind mapping
+C. Decision trees
+D. Storyboarding
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Storyboarding is an agile prototyping technique that shows sequence or navigation through a series of images or illustrations. The rest of the choices are graphical techniques designed to achieve other objectives. [PMBOK 6th edition, Page 147] [Project Quality Management]
+
+Answer: 
+
+
+
+Q13Which of the following statements is correct:
+
+A. Project lifecycles and product lifecycles are interdependent.
+B. Project lifecycles are independent of product lifecycles.
+C. A product lifecycle is the same as a project lifecycle.
+D. The last lifecycle for a project is generally the product's retirement.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Project life cycles are independent of product life cycles, which may be produced by a project. [PMBOK 6th edition, Page 19] [Project Framework]
+
+Answer: 
+
+
+
+Q14Unless an enterprise-wide ERP is deployed in an organization, disparate IT systems perform specialized tasks in a project. Which of the following systems typically processes supplier's payments after obtaining all the necessary certification of satisfactory work?
+
+A. Project management information system
+B. Accounts payable system
+C. Change control and tracking system
+D. Supply chain management system
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Payments to the seller are typically processed by the accounts payable system of the buyer after certification of satisfactory work by an authorized person on the project team. [PMBOK 6th edition, Page 497] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q15It is extremely important for a project manager to determine and map key stakeholder engagement levels early in the project. Which of the following statements support this claim:
+
+A. Stakeholder engagement levels change during the lifecycle of the project
+B. Stakeholder engagement throughout the lifecycle of the project is critical to project success
+C. Leading stakeholders assume a supportive role during project execution
+D. Development of the stakeholder assessment matrix is a mandatory PMBOK requirement Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+No project management practice, tool or technique is a mandatory requirement in PMBOK. Rather, PMBOK allows project managers to tailor the PMBOK processes to suit the needs of a project. Although the rest of the three statements are true, the question is asking for the reason' of stakeholder engagement mapping exercise since the reason will support the claim. The correct answer is that the stakeholder engagement throughout the life cycle of the project is critical to project success. [PMBOK 6th edition, Page 551] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16A management control point where scope, budget and schedule are integrated and compared to earned value for performance measurement is a:
+
+A. Code of accounts
+B. Control packages
+C. Control account
+D. Account Plan
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+This is a control account. Control accounts are placed at selected management points of the Work Breakdown Structure (WBS). Each control account may include one or more work packages, but each of the work packages must be associated with only one control account. [PMBOK 6th edition, Page 161] [Project Scope Management]
+
+Answer: 
+
+
+
+Q17Which of the following is an example of a chart, used on agile projects, that tracks the work that remains to be completed in the iteration backlog?
+
+A. Histogram
+B. Control chart
+C. Burndown chart
+D. Scatter diagrams
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+An iteration burndown chart tracks the work that remains to be completed in the iteration backlog. The rest of the choices quality management tools. [PMBOK 6th edition, Page 226] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q18Which of the following best describes the Validate Scope process?
+
+A. Validating that the project quality requirements are met
+B. Controlling changes to the scope of the project
+C. Obtaining the stakeholders' formal acceptance of the project deliverables
+D. Validating that all of the project's objectives are met
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Scope Validation involves obtaining the stakeholders' formal acceptance of project deliverables. [PMBOK 6th edition, Page 163] [Project Scope Management]
+
+Answer: 
+
+
+
+Q19As a project manager, you are analyzing the costs incurred in a project. Which of the following costs cannot be classified under cost of nonconformance?
+
+A. Quality Assurance Costs
+B. Warranty costs
+C. Costs due to loss of reputation
+D. Rework costs
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Quality Assurance Costs are part of the cost of conformance. The cost of non-conformance includes the failure costs. [PMBOK 6th edition, Page 282] [Project Quality Management]
+
+Answer: 
+
+
+
+Q20Which of the following approaches can assist in managing ambiguity risks?
+
+A. Monte Carlo analysis
+B. Root cause analysis
+C. Seeking expert external input
+D. Conducting sprint retrospectives
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Ambiguity risks are managed by defining those areas where there is a deficit of knowledge or understanding, then filling the gap by obtaining expert external input or benchmarking against best practices. [PMBOK 6th edition, Page 399] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q21A project manager estimates the work to be accomplished in the near term in detail at a low level of the Work Breakdown Structure (WBS). He estimates work far in the future as WBS components that are at a relatively high level of the WBS. What is this technique called?
+
+A. Decomposition
+B. Rolling wave planning
+C. Scope Creep
+D. Earned value planning
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+In Rolling Wave Planning, the work to be accomplished in the near term is estimated in detail at a low level of the Work Breakdown Structure (WBS), while the work far in the future is estimated as WBS components that are at a relatively high level of the WBS. The work to be performed within another one or two reporting periods in the near future is planned in detail during the current period. [PMBOK 6th edition, Page 185] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q22Negative risks can either be ______, transferred, or mitigated as a countermeasure.
+
+A. enhanced
+B. avoided
+C. exploited
+D. ignored
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+You can avoid a risk by revising the project plan to eliminate the risk entirely. [PMBOK 6th edition, Page 397] [Project Risk Management]
+
+Answer: 
+
+
+
+Q23The WBS represents all product and project work. The total work at the lowest levels should roll up to the higher levels so that nothing is left out and no extra work is performed. This principle is also the:
+
+A. 100 percent rule
+B. 80/20 rule
+C. Pareto's rule
+D. Ground rule
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The WBS represents all product and project work. The total work at the lowest levels should roll up to the higher levels so that nothing is omitted and no extra work is performed. This principle is also called the 100% rule. [PMBOK 6th edition, Page 161] [Project Scope Management]
+
+Answer: 
+
+
+
+Q24A technical team can begin to edit a large document 15 days after it begins writing it. What kind of dependency would this represent?
+
+A. Start-to-start with a 15-day lead
+B. Finish-to-finish with a 15-day lead
+C. Start-to-start with a 15-day lag
+D. Finish-to-start with a 15-day lag
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The relationship between the two tasks would be represented as a start-to-start with a lag of 15 days. A lag directs a delay in the successor activity. [PMBOK 6th edition, Page 190] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q25How does the role of a project manager change based on managing projects using a predictive development life cycle then managing projects in adaptive environments?
+
+A. The role of the project manager changes to a facilitator in predictive environments.
+B. The role of the project manager changes to a facilitator in adaptive environments.
+C. The role of the project manager does not change.
+D. The role of the project manager is replaced with a scrum master in adaptive environments.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The role of the project manager does not change bases on managing project using a predictive development life cycle or managing project in adaptive environments. [PMBOK 6th edition, Page 178] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q26The business case documents the business need and the cost benefit analysis that justify the project. The summary of how the project has achieved the business needs identified in the business case is document in the:
+
+A. Project charter
+B. Project WBS
+C. Project Scope Statement
+D. Project final report
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The summary of how the project has achieved the business needs identified in the business case is included in a project's final report. The other choices are either project initiating or planning documents.
+[PMBOK 6th edition, Page 128] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q27Configuration management tool selection should be based on the needs of the project stakeholders including organizational and environmental considerations and/or constraints. Which of the following is not a key configuration management consideration while selecting an appropriate configuration management tool for a project?
+
+A. Identification and selection of configuration items.
+B. Recording and reporting of configuration item status.
+C. Configuration item verification and audit.
+D. Procedures for accepting and rejecting change requests.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Procedures for accepting and rejecting change requests are related to change management rather than configuration management. [PMBOK 6th edition, Pages 118, 119] [Project Framework]
+
+Answer: 
+
+
+
+Q28Nancy is carrying out cost-benefit analysis for a project. If undertaken, the project will start in January next year and end by December. The project will incur a constant cost of $10,000 each month (payable by the end of each month) giving a total cost of $120,000 for the project. The revenue from the project is collected on a quarterly basis. The total revenue for the project by the end of December will be $200,000. The opportunity cost of the project is 12 percent which is the bank interest rate Nancy can get if she does not invest in this project. The total present value of all cash outflows is $112,551, while the total present value of all cash inflow is $185,721. What is the benefit-to-cost ratio for the project?
+
+A. 1.67
+B. 0.6
+C. 1.65
+D. 0.61
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Benefit-to-cost ratio (BCR) = PV of inflows / PV of outflows = 1.65 The gross BCR can also be calculated as Total Revenue / Total Cost. However, since the total present value of both the inflow and outflow is given, this must be used for a more accurate calculation. [PMBOK 6th edition, Page 34] [Project Integration Management]
+
+Answer: 
+
+
+
+Q29A Resource Breakdown Structure (RBS) breaks down the project by type of resources. The RBS is an example of a:
+
+A. Linear chart
+B. Matrix chart
+C. Flow chart
+D. Hierarchical chart
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Resource Breakdown Structure (RBS) is a hierarchical chart. It is used to break down the project by type of resources. For example, an RBS can depict all of the welders and welding equipment used in different areas of a ship, even though these resources may be scattered among different branches of the Organizational Breakdown Structure and RBS. [PMBOK 6th edition, Page 316] [Project Resource Management]
+
+Answer: 
+
+
+
+Q30It is not practical, and usually not necessary, to engage with all stakeholders with the same level of intensity at all times. A project manager must prioritize stakeholders depending upon on who they are, what level of influence they have on the project, and what their interests are. Which of the following techniques helps in stakeholder prioritization?
+
+A. Stakeholder engagement matrix
+B. Stakeholder register
+C. Stakeholder classification models
+D. Resource histograms
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholder classification models are used during stakeholder analysis to rank stakeholders based on their power, influence, interest, and impact. [PMBOK 6th edition, Page 512] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31Lucy is managing a high-tech software development project. She has luckily acquired the organization's best performing employees. However, the project team is not communicating effectively, causing delays. The project communications plan is in place, but it seems as if the employees are not following it. The communications plan lays out the communications requirements but does not explicitly assign responsibilities. What should Lucy do first? (Assume that all the following actions need to be taken at some stage.)
+
+A. Persuade the team to follow the plan
+B. Motivate the team to effectively communicate
+C. Set and manage expectations
+D. Resolve conflicts to prevent disruptive behavior
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Assuming that none of the given actions have been undertaken in the past, the first thing to do is to set expectations. Once the expectations are set, the behavior need to be managed. Persuasion, motivation and conflict resolution should follow this. [PMBOK 6th edition, Page 319, 320] [Project Communications Management]
+
+Answer: 
+
+
+
+Q32Analogous Estimating is an estimation technique that uses the values of parameters such as scope, cost, budget, and duration from a previous similar activity as the basis of activity. It is frequently used for estimation when there is a limited amount of information about the project. This is a form of:
+
+A. Gross value estimation
+B. Function point estimation
+C. Fixed point estimation
+D. Precision Estimation
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Analogous estimating is a gross value estimating technique. It is most reliable when the previous activities are similar in fact and not just in appearance, and the project team members preparing the estimates have the needed expertise. [PMBOK 6th edition, Page 200] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q33Which of the following approaches encourages plan definition but also acknowledges that once work starts, the priorities may change and the plan needs to be updated to reflect this change?
+
+A. Waterfall approach
+B. Adaptive planning
+C. Predictive life cycle
+D. Upfront planning
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Adaptive planning defines a plan but acknowledges that once work starts, the priorities may change and the plan might need to be updated. [PMBOK 6th edition, Page 177] [Project Resource Management]
+
+Answer: 
+
+
+
+Q34Once the project charter is authorized, it is the project manager's duty to distribute the charter to all key stakeholders and ensure common understanding of the key deliverables, milestones, and their roles and responsibilities. During which of the following processes is the project charter distributed to the project stakeholders?
+
+A. Direct and Manage Project Work
+B. Manage Stakeholder Engagement
+C. Develop Project Charter
+D. Manage Communications
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Although the Manage Communications and Manage Stakeholder Engagement are processes involving stakeholder communication, these processes are from the executing process group. Project charter is developed during the project initiating and must be communicated to all key stakeholders as soon as it is authorized. The Develop Project Charter process produces the project charter and this output must be shared with the stakeholders at the end of this process. [PMBOK 6th edition, Page 75] [Project Integration Management]
+
+Answer: 
+
+
+
+Q35Adam has just taken over a construction project. The project is currently in the planning phase of the project lifecycle. Adam's next deliverable is to produce an effective stakeholder engagement strategy. Which of the following is the most important component of an effective stakeholder engagement plan?
+
+A. Management style
+B. Risk tolerance
+C. Construction know-how
+D. Communications
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+An effective stakeholder engagement plan recognizes the diverse information needs of the project's stakeholders. Stakeholder engagement relies on continuous communication with stakeholders to understand their needs and expectations, addressing issues as they occur, managing conflicts and fostering stakeholder engagement. [PMBOK 6th edition, Page 518] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q36The banks in the Ukraine have raised the annual interest rates sharply to 30 percent. You have the option to invest your money either in Ukrainian banks or to build a small factory for a client. The total cost of building the factory will be $12 million but it will spread evenly over one year ($1 million payable by the end of each month for the next 12 months). The client will make a payment of $3.9 million at the end of each quarter from the start of the project. Which of the following is the best option (if you are only considering the return on investment)?
+
+A. Build the factory for the client
+B. Invest the money in the bank for a year
+C. Both options offer the same payoff
+D. Information given is insufficient to determine the best option Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+In this scenario you are considering investing your money in the bank or building a factory. Since all transactions are not happening at the same point in time, we need to discount the cash flows and then determine the return on investment. Since the bank is offering a 30% annual interest rate (the opportunity cost if you decide to build the factory), you need to discount all the cash flows for the factory project by 2.5% (30% / 12) on a monthly basis. The discount formula is: Present Value (PV) = Future Value / (1 + interest rate)^period. Let's use this formula to determine the net present value of all cash outflows:
+Month 1: PV = 1,000,000/(1+2.5%)^1 = 975,610
+Month 2: PV = 1,000,000/(1+2.5%)^2 = 951,814
+Month 3: PV = 1,000,000/(1+2.5%)^3 = 928,599
+Month 4: PV = 1,000,000/(1+2.5%)^4 = 905,951
+Month 5: PV = 1,000,000/(1+2.5%)^5 = 883,854
+Month 6: PV = 1,000,000/(1+2.5%)^6 = 862,297
+Month 7: PV = 1,000,000/(1+2.5%)^7 = 841,265
+Month 8: PV = 1,000,000/(1+2.5%)^8 = 820,747
+Month 9: PV = 1,000,000/(1+2.5%)^9 = 800,728
+Month 10: PV = 1,000,000/(1+2.5%)^10=781,198
+Month 11: PV = 1,000,000/(1+2.5%)^11=762,145
+Month 12: PV = 1,000,000/(1+2.5%)^12=743,556
+Adding these up we get the total PV of outflows = 10,257,765 Now let's calculate the PV of all inflows using the same formula:
+Quarter 1: PV = 3,900,000/(1+2.5%)^3 = 3,621,538
+Quarter 2: PV = 3,900,000/(1+2.5%)^6 = 3,362,958
+Quarter 3: PV = 3,900,000/(1+2.5%)^9 = 3,122,841
+Quarter 4: PV = 3,900,000/(1+2.5%)^12 = 2,899,868
+Adding these up we get the total PV of inflows = 13,007,204 The return on investment (today) = (13,007,204 - 10,257,765)*100 / 10,257,765 = 27% Since the bank is offering an annual 30% return on investment, it is advisable not to undertake the project and leave the money in the bank account. [PMBOK 6th edition, Page 34, https://www.mathsisfun.com/money/net-present- value.html]
+
+Answer: 
+
+
+
+Q37Which of the following are short, textual descriptions of required functionality often developed during a requirements gathering workshop:
+
+A. Fishbone diagrams
+B. User stories
+C. Histograms
+D. Decision trees
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+User stories are short, textual descriptions of required functionality often developed during a requirements gathering workshop. The rest of the choices are graphical formats. [PMBOK 6th edition, Page 145] [Project Framework]
+
+Answer: 
+
+
+
+Q38Which of the following is an example of rolling wave planning in a project following an adaptive life cycle?
+
+A. Iterative scheduling with a just-in-time log
+B. Predictive scheduling with no backlog
+C. Inflexible scheduling without leads and lags
+D. Iterative scheduling with a backlog
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Iterative scheduling with a backlog is a form of rolling wave planning based on adaptive life cycles. The rest of choices are made up responses. [PMBOK 6th edition, Page 177] [Project Scope Management]
+
+Answer: 
+
+
+
+Q39A project manager first creates an assumption log during the Develop Project Charter process and records all project assumptions and constraints. During which of the following processes is the assumptions log updated and/or new assumptions and constraints added during the project execution?
+
+A. Monitor and Control Project Work
+B. Close Project or Phase
+C. Direct and Manage Project Work
+D. Collect Requirements
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+During the Direct and Manage Project Work process, new assumptions and constraints are added to the assumption log, and the status of existing assumptions and constraints may be updated and closed out.
+The other process do not directly update the assumptions log as an output of the process. [PMBOK 6th edition, Pages 81, 97] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q40A project was estimated to cost $200,000 with a timeline of 10 months. Due to a shipment delay, the schedule was slightly delayed. However, this was made up by shipping the first batch of materials for the project by air. The net result was that there was some additional cost in the project. At the end of the second month, the Project Manager reviews the project and finds that the project is 20% complete and Actual Costs are $50,000. The Estimate to Complete (ETC) for the project would now be:
+
+A. $160,000
+B. $210,000
+C. $250,000
+D. $200,000
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The budget at completion (BAC) = $200,000 (given). The Actual Cost (AC) = $50,000 (given). The Earned value (EV) = (2/10) * 200,000 since 20% of the project is complete; i.e., 2 months out of 10. Hence, Earned Value (EV) = $40,000. This is an instance of an atypical situation in the project. Late arrival of materials does not mean that all subsequent material will arrive late. Hence, the calculation used for EAC is EAC = AC + BAC " EV = 50,000 + 200,000 " 40,000 = $210,000. Since ETC = EAC " AC = 210,000 " 50,000 = $160,000. [PMBOK 6th edition, Page 267] [Project Cost Management]
+
+Answer: 
+
+
+
+Q41You have a team of engineers working on your project. Two of the engineers have frequent disagreements. You ask them to resolve their differences through a discussion. However, that does not yield any results. Subsequently, you intervene, and based on your analysis of the situation, you suggest some changes in the way they work with each other. This still does not yield results, and you find that the project schedule is beginning to suffer. What is your next course of action?
+
+A. Take disciplinary action, if required, since the needs of the project are not being met.
+B. Don't do anything. Differences of opinion among the team members are a healthy situation.
+C. Speak to the two team members and ask them to resolve their conflict amicably.
+D. Ensure that they work in different shifts so that they don't clash with each other.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+After the project manager has tried intervening, it is time to employ more formal conflict resolution mechanisms, such as disciplinary action. [PMBOK 6th edition, Page 348] [Project Resource Management]
+
+Answer: 
+
+
+
+Q42Nate is the project manager for a research and development project. According to the project communication management plan, Nate has to call in weekly project progress update meetings. The last few meetings were a disaster since more time was spent in arguments and less on decisions. Which of the following techniques does Nate need to quickly acquire?
+
+A. Presentation techniques
+B. Listening techniques
+C. Writing style
+D. Meeting management techniques
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Nate needs to acquire meeting management skills that includes preparing agenda, timekeeping, dealing with conflicts, and recording and distributing minutes etc. [PMBOK 6th edition, Page 386] [Project Communications Management]
+
+Answer: 
+
+
+
+Q43While developing the project schedule, you find that the completion of a successor activity depends on the completion of its predecessor activity.
+What is this dependency called?
+
+A. Start-to-Finish
+B. Start-to-Start
+C. Finish-to-Start
+D. Finish-to-Finish
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In a Finish-to-Finish dependency, the completion of the successor activity depends upon the completion of its predecessor activity. [PMBOK 6th edition, Page 190] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q44Which of the following is not a tool and technique of the Collect Requirements process?
+
+A. Mind mapping
+B. Interviews
+C. Questionnaires
+D. Traceability matrix
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The requirements traceability matrix is an output of the Collect Requirements process and not one of its tools and techniques. [PMBOK 6th edition, Page 138] [Project Scope Management]
+
+Answer: 
+
+
+
+Q45One key characteristic of adaptive lifecycles, such as the agile approach for product development, is that product features are developed using:
+
+A. Sandwiched periods of effort
+B. Squeezed periods of zero-error sprints
+C. Reverse engineered products
+D. Time-boxed periods of work
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In adaptive life cycles, the requirements are documented in user stories that are then prioritized and refined.
+The product features are developed using time-boxed periods of work. [PMBOK 6th edition, Page 177] [Project Communications Management]
+
+Answer: 
+
+
+
+Q46A project manager wishes to illustrate the connections between the work that needs to be done and the project team members. According to the PMBOK, the resulting document is a:
+
+A. Responsibility Assignment Matrix (RAM)
+B. Resource Planning Chart (RPC)
+C. Task Assignment Model (TAM)
+D. Resource Assignment Chart (RAC)
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is Responsibility Assignment Matrix (RAM). This illustrates the connections between the work that needs to be done and the various team members. On larger projects, RAMs can be developed at various levels. [PMBOK 6th edition, Page 317] [Project Resource Management]
+
+Answer: 
+
+
+
+Q47Many project managers have seen a graph that shows "Influence of Stakeholders" starting out high and declining as the project progresses. In contrast, it also shows the "Cost of Changes" starting out low and increasing as the project progresses. What is the key insight a project manager should gain from this graph?
+
+A. Stakeholder influence is not important at the end of the project.
+B. Make changes as early in the project as possible.
+C. Set aside money for expected changes at the end of the project.
+D. Place the project on hold until all changes are made.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Changes should be made as early as possible in the project to avoid additional cost and delays. The influence of stakeholders is high at the start of the project and low towards the end. In contrast, the cost of making changes in a project is low at the start of a project and high towards the end. [PMBOK 6th edition, Page 549] [Project Framework]
+
+Answer: 
+
+
+
+Q48Which of the following techniques can help a project manager review a supplier's internal work processes to ensure compliance to standards during the production of the deliverables? (Assume that all of the given choices are available to the project manager.)
+
+A. Audits
+B. Performance reporting
+C. Contract change control
+D. Inspections
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Inspections required by the buyer and supported by the supplier, if specified in the procurement contract, can be conducted during execution of the project to verify compliance in the seller's work processes or deliverables. [PMBOK 6th edition, Page 498] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q49The best practice to gather and document lessons learned is during weekly progress meetings. The agenda can have a lessons-learned brainstorming item at the end of these meetings. You can ask team members to put forward their recommendations, but it is always better to adopt a more structured way to gather lessons learned. Which of the following approaches will ensure you capture important lessons learned on your project?
+
+A. Planning risk responses
+B. Determining estimate to complete
+C. Review of project variances
+D. Signing off on the minutes of the meeting
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Signing off minutes of the meeting is a good meeting management technique specially in highly bureaucratic environments. However, this doesn't help at all in gathering lessons learned. Planning risk responses and determining estimates to complete are forward look-ahead of the project. Lessons learned can be captured through the review of project variances. You review the variances again and focus on how to avoid them in the future. You also identify other tasks or people who are likely to encounter the same issue so it can be avoided. [PMBOK 6th edition, Page 108] [Project Integration Management]
+
+Answer: 
+
+
+
+Q50Work Performance Data is an important input to the Control Procurements process. Which of the following is not a component of Work Performance Data?
+
+A. Data regarding supplier's conformance to quality standards
+B. Data on completed deliverables
+C. Data regarding incurred or committed costs on each supplier contract
+D. Data on supplier invoices and respective payments
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Data on status of deliverables progress is part of Work Performance Information and not Work Performance Data. The subtle difference between Work Performance Data and Work Performance Information confuses many people, however it is very important to clearly distinguish between these two concepts. [PMBOK 6th edition, Pages 496, 499] [Project Procurement Management]
+
+Answer: 
+
+
+

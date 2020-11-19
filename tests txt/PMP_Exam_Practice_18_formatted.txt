@@ -1,0 +1,812 @@
+PMP_Exam_Practice_18
+
+Number: 018-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 18
+Exam A
+Q1To assist with the selection of a supplier for a large procurement on your project, you have hired a consultant. The consultant has prepared an independent estimate to be used as a benchmark while reviewing bids on the RFP. The independent estimate is confidential and is not shared with any bidders. When the sealed bids are opened, you discover that only one supplier has submitted a quote lower than the independent estimate. All other quotes are 45 percent to 70 percent higher than the benchmark. While discussing this development with members of the project team, you learn a distant relative of the consultant owns the company with the lowest bids. What is the best course of action?
+
+A. Confirm the lowest bidder has understood the requirements and award them the contract
+B. Since one of the suppliers knows more than others, you must disclose the independent estimate to all others to be fair
+C. Disqualify the lowest bidder
+D. Review the RFP specifications and requirements
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Review the RFP requirements and specifications. Such a wide range of quotes indicates that there may be elements that are not stated clearly or correctly. Because there is no evidence of collusion between the consultant and the lowest bidder, the RFP review is the best choice. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q2For many procurement items, the procuring organization can either prepare its own cost estimates or have an outside professional estimator prepare a cost estimate. This estimate serves as a:
+
+A. True estimate
+B. Expected-cost estimate
+C. Benchmark estimate
+D. Accurate estimate
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+This serves as a benchmark estimate. Significant differences in estimates can be an indication that either the procurement statement of work was deficient or the prospective sellers misunderstood or failed to respond fully to the procurement statement of work. [PMBOK 6th Edition, Page 479]
+
+Answer: 
+
+
+
+Q3Marvin has worked for a retail company as a project manager. With his positive thinking and strong managerial skills, he turned many potentially disastrous projects into successes. Because of his expertise, his employer's senior executives offered him a group project manager position for a newly started environmental project. However, Marvin learned that, in his newly assigned project, he might have to offer bribes to obtain government licenses. What should Marvin do in such a situation?
+
+A. Reject the offer because project managers should not engage in an unethical conduct
+B. Accept the offer because project managers must obey their higher-ups C. Accept the position and offer bribes because project managers must complete projects on time and within budget
+C. Investigate to find out if it is customary to offer bribes in that part of the country Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Project managers must adhere to the code of ethics and professional conduct. They must maintain fairness and honesty. Since the new job requires some illegal and unethical activities, Marvin must reject the offer.
+[PMI code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q4Which of the following is not an example of soft skills?
+
+A. Team skills
+B. Intelligence quotient
+C. Influencing
+D. Negotiation
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Intelligence quotient (IQ) is an assessment of an individual's intelligence. This is not a soft skill. Soft skills are an individual's interpersonal skills. [PMBOK 6th edition, Page 357] [Project Resource Management]
+
+Answer: 
+
+
+
+Q5Julia is managing a complex industrial process reengineering project. She has identified all her key project stakeholders and has conducted individual interviews with them to identify other project stakeholders, as well. However, Julia is still not satisfied with her project's stakeholders list; she believes there may be more key external stakeholders missing from the list. What can help Julia in this situation?
+
+A. Use stakeholder register templates from the organizational process assets
+B. Conduct more meetings with the key stakeholders
+C. Get over her fear and finalize the project stakeholder register
+D. Seek expert judgment from subject matter experts
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder register template does not contain stakeholders information; it only helps the project manager produce the project's stakeholder register. If Julia is not satisfied with the list, she needs to identify more stakeholders until she is satisfied. Interviewing the identified key stakeholders again might not resolve the issue. The best option is to seek an expert's opinion. [PMBOK 6th edition, Page 511] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6You are in the final phase of a low-cost car manufacturing project. This project has successfully delivered a low-cost car that runs on batteries. However, to close this project and avoid auditing from government authorities, it must demonstrably comply with many administrative standards. Since your organization possesses experts who know closing procedures and standards, you want to use them to close this project.
+This effort is an instance of:
+
+A. Using enterprise environmental factors in closing the project
+B. Using expert judgment in closing the project
+C. Using organizational process assets in closing the project
+D. Poor project management practice
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Projects are closed during the Close Project or Phase process. One of the tools which can be used in this process is expert judgment. Expert judgment can be obtained from consultants or industry experts. These experts can help ensure compliance with all project standards when projects are closed. In this scenario, you would want to use experts from your own organization in closing the project. [PMBOK 6th edition, Page 126] [Project Integration Management]
+
+Answer: 
+
+
+
+Q7Nancy is engaged in the construction of three office buildings. Although the construction sites are in various places, she has managed each team efficiently to complete the work on time and within budget. Which of the following statements describes the effort Nancy is doing?
+
+A. Construction of each building is an operational work because it is repetitive in nature.
+B. The building construction is considered neither a project nor operational work.
+C. Construction of all three buildings is considered one project.
+D. Construction of each building is a project because each building is separate in nature.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Projects are temporary and unique, whereas operational work is repetitive. Since Nancy is working to construct three unique buildings, and each has a definite beginning and a definite end, each effort is considered as a project. [PMBOK 6th edition, Page 4] [Project Framework]
+
+Answer: 
+
+
+
+Q8There are several communication methods used to share and distribute information to stakeholders, team members, and management. Which of the following communication methods is used when you notify the public about environmental effects from your project after implementation by posting reports on the project's website?
+
+A. Pull communication
+B. Interactive communication
+C. Informal communication
+D. Push communication
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Push communication is used to send information to specific recipients who need to know. Push communication is done using letters, faxes, memos, etc. Pull communication is used for large volumes of information. The methods for this type of communication include internet sites and blogs. Since you want to notify the general public about environmental effects by posting reports on the project's website, this is an example of pull communication methods. [PMBOK 6th edition, Page 374] [Project Communications Management]
+
+Answer: 
+
+
+
+Q9Lesley is managing a software development project for the World Climate Control Organization. Since her team members are dispersed across the globe, she would like to set up online conferences in the next two months to let everyone in her project know what is going on and what their roles are within the project. She wants to use these conferences as team development activities to learn and exchange information in the project. To schedule such activities, which of the following should she use to keep track of the availability of team members?
+
+A. Project charter
+B. Resource calendars
+C. Responsibility assignment matrix
+D. Project staff assignments
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Resource calendars track the availability of team members for team development activities. The responsibility assignment matrix describes the responsibilities assigned to various team members. Project staff assignments give details of individual assignments, and project organization charts display team members and their reporting relationships. The project charter does not supply any of that information.
+Hence, Lesley must use resource calendars to know that information. [PMBOK 6th edition, Page 323] [Project Resource Management]
+
+Answer: 
+
+
+
+Q10Bill is managing a healthcare software development project using stateof-the-art technology. Stakeholder management is crucial for the project's success. Stakeholder involvement and influence are significant. During which of the following project stages will stakeholder management be most challenging for Bill?
+
+A. Early during the project execution
+B. Toward the end of the project execution
+C. Toward the closure of the project
+D. Halfway through the project execution
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholders' influence is highest during the early stages of the project and lowest towards the end of the project. [PMBOK 6th edition, Page 549] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11Which of the following statements about the management of risks in a project is incorrect?
+
+A. The effect of various risks on project scope, cost, and quality is numerically analyzed in the perform quantitative risk analysis process.
+B. Positive risks are mitigated during the plan risk responses process.
+C. Stakeholder analysis is performed during the plan risk management process.
+D. Risk report is produced during the perform quantitative risk analysis process.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk mitigation is a negative risk response strategy; it is not applicable to positive risks. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q12A program management office (PMO) chose you to write a purchase order because of your expertise in business writing. You learned the PMO has already selected a seller for a software product and would like to award the procurement contract to the selected seller as a purchase order, which you must prepare. In this scenario, the PMO is administering:
+
+A. The monitor stakeholder engagement process
+B. The control procurements process
+C. The plan procurement management process
+D. The conduct procurements process
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In the Conduct Procurements process, sellers are selected and procurement contracts are awarded to them. Contracts can be awarded in the form of a purchase order. Since the PMO selected you to write the purchase order, it is in the process of conducting procurements. [PMBOK 6th edition, Page 482] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q13Which of the following is not a Project Schedule Management process?
+
+A. Source Activities
+B. Estimate Activity Durations
+C. Define Activities
+D. Sequence Activities
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Project Schedule Management processes include Plan Schedule Management, Define Activities, Sequence Activities, Estimate Activity Durations, Develop Schedule, and Control Schedule. [PMBOK 6th Edition, Page 173]
+
+Answer: 
+
+
+
+Q14Shawn is in the execution phase of his project. He is getting unexpected requests from his stakeholders about the project's progress. Shawn can use all the following to respond to their requests except:
+
+A. Communications management plan
+B. Business case
+C. Organizational process assets
+D. Work performance reports
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Since Shawn is in the execution phase and stakeholders are requesting project information, he must respond through the Manage Communications process. The communications management plan, organizational process assets and work performance reports are inputs to this process. Shawn can use any of these documents to respond to their requests. The project's business case is not of much help at this stage. [PMBOK 6th edition, Page 379] [Project Communications Management]
+
+Answer: 
+
+
+
+Q15Tom is managing a software development project. The buyer of the product is an external entity. During the project's execution, Tom finds that a new operations manager was hired in the customer organization. The new manager is now a key stakeholder. Which of the following documents is least likely to be updated because of the addition of this new stakeholder?
+
+A. Stakeholder register
+B. Risk register
+C. Stakeholder engagement plan
+D. Issue log
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder register must be updated since a new project stakeholder has joined the project. Changes to the stakeholder engagement plan might also be required to ensure that the new key stakeholder is properly engaged with the project. Addition of a new key stakeholder might bring some additional uncertainty to the project; this should be recorded in the risk register. The issue log is least likely to be updated in this case since no new issue has emerged. [PMBOK 6th edition, Page 96] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16Your drug manufacturing project requires the synthesis of many pharmaceutical chemicals to produce an active ingredient for a drug. You are managing a contractor to supply all these chemicals. Recent quality testing of the drugs raised concerns over the quality of the chemicals supplied by the contractor. Which of the following must be your first action to ensure that the contractor is meeting all contractual obligations?
+
+A. Escalate this issue to the sponsor and submit all drug testing reports
+B. Reject all poor quality drugs and penalize the contractor
+C. Convene a meeting with stakeholders and communicate the findings
+D. Carry out audits and inspections to verify compliance in the seller's deliverables Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the drug testing raised doubts over the chemicals supplied by the contractor, you must ensure that the contractor is satisfying quality requirements by inspecting and auditing the seller's deliverables. Auditing can also include seller's personnel. All other actions, including meeting with the sponsor and stakeholders, can be performed later if the seller is not meeting contractual requirements. Therefore, your first action should be to perform audits and inspections to verify compliance of the seller's deliverables. [PMBOK 6th edition, Page 498] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q17A project manager is spending most of the project funding in the current phase of the project. The manager is also managing various resources in the project. What is the stakeholder influence on the project now compared to earlier phases?
+
+A. Cannot be determined
+B. More
+C. Less
+D. Same
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the project manager is spending most of the money and managing resources, he or she is currently in the execution phase of the project. Spending levels reach a maximum in the execution phase.
+Stakeholder influences on the project decrease over the life of the project. Hence, stakeholder influence is now less than in previous phases. [PMBOK 6th edition, Page 549] [Project Framework]
+
+Answer: 
+
+
+
+Q18Lucy has to brief her key project stakeholders on the recent approved changes to the project scope. Which of the following project documents will provide essential input to Lucy for preparing her presentation?
+
+A. Change request form
+B. Change control procedures
+C. Change log
+D. Issue management procedures
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The change control procedure and the issue management procedure are organizational process assets.
+They do not document the details of the recently approved project changes. Lucy can find all the essential inputs for her presentation in the project change log. [PMBOK 6th edition, Page 120]
+
+Answer: 
+
+
+
+Q19Organizations evaluate whether to buy products or make the items themselves. Which of the following is not a factor that influences makeor-buy decisions:
+
+A. Core capabilities of the organization
+B. Value delivered by vendors meeting the need
+C. Total duration of the project
+D. Risk associated with meeting the need in a cost-effective manner Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A make-or-buy analysis results in a decision as to whether particular work can best be accomplished by the project team or needs to be outsourced. The total duration of the project does not (and should not) influence this analysis. The other choices are rational considerations during this analysis. [PMBOK 6th edition, Page 479] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q20Analysis of project spending against project budget and calculation of the percentage complete of tasks currently underway are examples of:
+
+A. Control Chart
+B. PERT analysis
+C. Performance reviews
+D. Expert judgment
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Performance reviews compare performance over time and funds needed to complete the work in progress.
+[PMBOK 6th Edition, Page 712]
+
+Answer: 
+
+
+
+Q21Nancy can bid on two projects. Project A has a 50 percent return on investment while Project B has a 20 percent return on investment. Project A's scope of work is complex, and Nancy's organization does not have the necessary skills and experience to do this project. However, Project B's scope of work falls within the strengths of Nancy's organization. Which project must Nancy bid on?
+
+A. None as this is a conflict of interest situation
+B. Both since the overall profit will be higher
+C. Project A since the return on investment is the highest
+D. Project B since the organization has the required skills
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Nancy must not bid on Project A since her organization lacks the required skills and experience. This leaves her with only Project B to bid on. Project managers are mandated by the PMI's code of ethics and professional conduct to accept only those assignments that are consistent with their background, experience, skills and qualifications. [PMI Code of Ethics & Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q22Debbie, an IT project manager, is in the planning phase of a shopping website development project. A junior project manager, who has worked under her authority, started developing procedures for maintaining the integrity of cost and schedule performance baselines in the project. Where should the junior project manager store these procedures?
+
+A. In the project resource management plan
+B. In the project scope statement
+C. In the project management plan
+D. In the project communications management plan
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The baselines change only when a change request is generated. A project management plan documents the procedures for making changes to performance baselines. These baselines include scope, cost and schedule baselines. Therefore, the junior project manager must store these procedures in the project management plan. [PMBOK 6th edition, Page 88] [Project Integration Management]
+
+Answer: 
+
+
+
+Q23To reduce delivery delays and process downtime, your organization has recognized a need to replace their legacy manufacturing system with a modern software application. Your IT director anticipates a project to fulfill this business need; however, he warns that the new project's budget cannot exceed $75,000 due to shortages in the department budget. He also indicates that no additional staff will be allocated to this project other than the existing IT staff. If you become the project manager, you would document these initial project conditions as:
+
+A. Project assumptions
+B. Business case
+C. Project constraints
+D. Enterprise environmental factors
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A project constraint is a limiting factor that affects the execution of the project. Budget and staffing restrictions in this case are examples of project constraints. [PMBOK 6th edition, Page 701] [Project Integration Management]
+
+Answer: 
+
+
+
+Q24Which of the following is an output of the Create WBS process?
+
+A. Scope baseline
+B. Project scope statement
+C. Decomposition
+D. Requirements documentation
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The scope baseline is an output of the Create WBS process. The other choices are either inputs or tools and techniques of the process. [PMBOK 6th edition, Page 156] [Project Scope Management]
+
+Answer: 
+
+
+
+Q25You have just received notice that the organization you have worked for as a project manager has gone bankrupt. All employees have 72 hours' notice of termination. What is the best course of action for the two projects you are managing?
+
+A. Follow company directives
+B. Conduct a project closeout meeting
+C. Leave the office today
+D. Raise a claim for and on behalf of all the employees and contractors who were participating in the project
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Follow all company directives. The organization's management is responsible for developing these directives, which may include specific instructions on closing out work in progress. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q26Jen works as a project manager for the National Weather Agency. She is managing a project designed to assess the effect of climate change on northern mountains. The initial study established a two months' delay for the testing equipment to reach mountains due to road construction. However, a recent assessment has indicated a significantly shorter delay because of rapid progress in construction. To deal with the shorter delay, which of the following steps should Jen take next?
+
+A. Distribute the information
+B. Conduct a stakeholder meeting
+C. Create a new project plan
+D. Update the risk register
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The delays are considered risks to the project. In this scenario, the reassessment indicated a decline in the risk (delay time) compared to the initial risk identification. The risk reassessment is performed in the Monitor Risks process, and the outcome of the risk reassessment updates the risk register. Therefore, Jen must take steps to update the risk register. Other steps can be taken after updating the risk register. [PMBOK 6th edition, Page 458] [Project Risk Management]
+
+Answer: 
+
+
+
+Q27The method used in the Manage Quality process to identify the factors that may influence specific characteristics of a product under development is:
+
+A. The forecasting technique
+B. The control chart
+C. The statistical sampling
+D. Design for X
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Design for X is a set of technical guidelines that may be applied during the design of a product for the optimization of a specific aspect of the design. DfX can control or even improve the product's final characteristics. [PMBOK 6th edition, Page 295] [Project Quality Management]
+
+Answer: 
+
+
+
+Q28A team member in your project is constantly providing incomplete deliverables and not performing well.
+What should you do first?
+
+A. Discuss the issue with the team member in private
+B. Discuss the issue with the team member in the presence of the project sponsor
+C. Discuss the issue with the team member in the presence of other team members
+D. Discuss the issue with the team member in the presence of the company's HR manager Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Discuss the issue with the team member in private. Conflicts should be first addressed in private, using a direct and collaborative approach. [PMBOK 6th edition, Page 348] [Project Resource Management]
+
+Answer: 
+
+
+
+Q29Dana works for a federal agency that manages mission critical projects. As a project manager, she is responsible for all communication needs in her data center project, which has started recently. This project involves many stakeholders, customers, external vendors, and team members. Since conflicts are inevitable in such a massive project, she has decided to provide her project team the details of the issue escalation process, including the names of the chain of command to refer issues to that cannot be resolved at a lower level. Where must Dana document the escalation process?
+
+A. The project charter
+B. The communications management plan
+C. The issue log
+D. The project scope document
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The issue escalation process must be documented during the planning phase of a project. Issues that cannot be resolved at a lower level can be escalated up the chain of command within a stipulated time frame. This information is part of the communications management plan. [PMBOK 6th edition, Page 377] [Project Communications Management]
+
+Answer: 
+
+
+
+Q30Bill is managing a website development project. He has recently received feedback from one of the key project stakeholders. The feedback is positive overall, but it contains some recommendations. After analyzing the recommendations, Bill accepts them, gets them approved, and incorporates them into the project management plan. The recommendations were then implemented and the new ideas were found to be successful. What needs to be done with this feedback now?
+
+A. Discard it since it is no longer required
+B. Publish it on the corporate intranet
+C. Add it to the organizational process assets
+D. Send it back to the stakeholder
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The feedback must not be discarded. Successful ideas and implemented recommendations need to be stored in the organizational process assets library during the Manage Project Knowledge process. Sending it back to the stakeholder does not make any sense. There is no restriction in publishing it, but updating the organizational process assets should be the project manager's priority. [PMBOK 6th edition, Page 105] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31The project you are working on has received an invoice from a vendor for US$17,500. However, your team believes the correct total due is US$15,300. When you notify the vendor, the vendor still insists on US$17,500. What is the best course of action now?
+
+A. Pay $15,300
+B. Negotiate with the vendor
+C. File a lawsuit
+D. Pay $17,500
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Negotiate with the vendor. Making a unilateral decision is counter to the PMI Code of Ethics, which mandates good faith negotiations. Failing to negotiate will not be in the best interest of either the project or the vendor. [PMBOK 6th edition, Page 498; PMI Code of Ethics and Professional Conduct] [Prof.
+Responsibility]
+
+Answer: 
+
+
+
+Q32Project costs are estimated for all project activities and are aggregated to establish a cost baseline. Which of the following statements about the cost baseline is not true?
+
+A. The project cost performance is measured against the cost baseline.
+B. The cost baseline is an output of the determine budget process.
+C. The cost baseline includes all authorized budgets, including management reserves.
+D. The cost baseline is in the form of an S' curve.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project cost baseline includes all authorized budgets excluding management reserves. Management reserves are not included to measure the cost performance of a project. [PMBOK 6th edition, Page 248] [Project Cost Management]
+
+Answer: 
+
+
+
+Q33The RACI chart is an example of a responsibility assignment matrix (RAM). The letters R and C in "RACI" stand for:
+
+A. Responsible and consult
+B. Resource and consultant
+C. Responsible and categorize
+D. Resource and consult
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The responsibility assignment matrix (RAM) describes the relationship between resources and work packages. An RACI chart is an example of a RAM. The letters in "RACI" stand for Responsible, Accountable, Consult, and Inform. [PMBOK 6th edition, Page 317] [Project Resource Management]
+
+Answer: 
+
+
+
+Q34_______________ is the authorized budget for the work scheduled to be completed on an activity or WBS component.
+
+A. Planned Value
+B. Earned Value
+C. Midpoint cost
+D. Interim cost
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Planned Value is the budgeted cost of the work scheduled to be completed on an activity or WBS component up to a given point in time. [PMBOK 6th Edition, Page 261]
+
+Answer: 
+
+
+
+Q35You are managing a project for a customer that has just gone bankrupt and is subject to liquidation proceedings. There are several outstanding invoices this customer has not paid to your company. What should you do now?
+
+A. Go into alternate dispute resolution
+B. Do nothing
+C. Contact the appropriate management at your company for advice how to proceed
+D. Send the invoices to the bankruptcy attorneys
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+You are responsible for finding the right way to handle this situation. Contact your management for advice on how to proceed. Your company may already have plans in place for this scenario; if not, they will develop a path forward. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q36You are in a meeting with your senior manager, who is helping you to organize and manage a team of IT people from diverse backgrounds. While you are discussing the creativity and breakthrough performance your team is demonstrating now, your senior manager indicates that your team has moved from the storming to the performing stage. Which of the following describes the characteristics of the performing stage?
+
+A. In the performing stage, the team completes the work and disbands as a project team.
+B. In the performing stage, the team function as a well organized unit and resolve issues effectively.
+C. In the performing stage, the team members are not collaborative.
+D. In the performing stage, the team starts to work together and adjust their behavior.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+There are five stages of team development: Forming, Storming, Norming, Performing and Adjourning. In the Forming stage, the team members work independently. In the Storming stage, the team begins to understand the project work. In the Norming stage, the team begins to learn from one another. In the Performing stage, they work as a wellorganized unit and reach maximum performance. In the Adjourning stage, the team completes the work. [PMBOK 6th edition, Page 338] [Project Resource Management]
+
+Answer: 
+
+
+
+Q37No matter how good you are in communicating, information distribution to stakeholders as planned is a challenging task. Many tools and techniques are used during the Manage Communications process except:
+
+A. Project reporting
+B. Work performance reports
+C. Communication technologies
+D. Communication skills
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The work performance reports are inputs to the Manage Communications process. The other choices are the valid tools and techniques of the Manage Communications process. [PMBOK 6th edition, Page 379] [Project Communications Management]
+
+Answer: 
+
+
+
+Q38Mary is a project manager for an infrastructure upgrade project in a government agency. She realized recently that a critical scheduled task exceeded its deadline, and the stakeholders are aware of it. The resource manager has permitted Mary to use three more resources to work on and complete the delayed task. Although the three additional resources prove helpful, Mary is still concerned about the task because:
+
+A. Allocating more resources may result in rework
+B. Allocating more resources may shorten the duration but results in increased risk or cost
+C. Resources may need training to complete the task
+D. Allocating more resources needs stakeholders approval
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+To meet schedule constraints, schedule compression techniques are used to reduce the schedule's duration. Crashing and fast tracking are two such techniques. Crashing involves allocation of more resources to reduce the duration. Crashing always does not produce a desirable result and may result in increased risk. Providing training is not a problem from the project manager's point of view. Stakeholders' approval is not required when resources are not allocated. Therefore, Mary's concern is only about increased risk or cost due to allocation of more resources to the task. [PMBOK 6th edition, Page 215] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q39All the following are tools of the Control Schedule process except:
+
+A. Parametric estimating
+B. Critical Path Method
+C. Schedule compression
+D. Leads and lags
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Leads and lags, schedule compression and critical path method are tools in the Control Schedule process.
+Parametric estimating is not a tool of this process. [PMBOK 6th edition, Page 222] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q40You are working with your customers on completing deliverables in your electronic parts manufacturing project. Since these parts will be exported to other countries, they will need more testing before your customers accept them. In this scenario, which of the following statements about the completed deliverables is correct?
+
+A. Completed deliverables not accepted by customers must be forwarded to the close project or phase process.
+B. Deliverables formally accepted by customers must be moved to organizational process assets.
+C. Deliverables formally accepted by customers are forwarded to the validate scope process.
+D. Completed deliverables not accepted by customers must require a change request for defect repair.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Validate Scope is the process of formalizing the acceptance of finished deliverables. In this process, stakeholders or customers give formal acceptance of the completed deliverables. The accepted deliverables are forwarded to the Close Project or Phase process. If there are any completed deliverables that they do not accept, a change request for defect repair must be initiated. [PMBOK 6th edition, Page 166] [Project Scope Management]
+
+Answer: 
+
+
+
+Q41You are managing a heavy equipment manufacturing project that involves many mechanical, electrical, and IT staff. Your team prepared a schedule network diagram using duration estimates with dependencies and constraints. Your team also calculated the critical path for the project using late and early values. Today, your project office has indicated to you that some of the resources you had planned for the project will be unavailable. To deal with this, you explore the possibility of modifying the schedule to account for limited resources. What is your best possible step in such a situation?
+
+A. Recalculate critical path after applying the resource constraints
+B. Perform Resource Leveling to account for limited resources
+C. Use crashing or fast tracking to level resources across the project
+D. Apply leads and lags to develop a viable schedule
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The critical path method is used to prepare a schedule network diagram. A network diagram is prepared initially, and the critical path is then calculated. Availability of resources is entered, and a resourcelimited schedule is prepared. Hence, recalculating the critical path using the critical path method after applying the resource constraints is the next best step. [PMBOK 6th edition, Page 210] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q42You are working as a project manager for a high-yield crop development project. Data from the weather agency shows an unfavorable weather pattern for the next few months. As a senior project manager, you want to assess the schedule's feasibility under adverse conditions and provide some insights to your team. That way, your team can prepare some reserves and plan risk responses if unfavorable conditions exist during execution. Which of the following techniques should you use to simulate risks and other sources of uncertainty to calculate possible schedule outcomes?
+
+A. Pareto charts
+B. Variance analysis
+C. Crashing
+D. Monte Carlo analysis
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Modeling techniques are used to prepare a schedule under various scenarios. These techniques help assess the feasibility of the project schedule if adverse conditions exist. The Monte Carlo technique employs simulation to calculate multiple project durations, each with a different set of activity assumptions using a probability distribution. [PMBOK 6th edition, Page 213] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q43All the following activities are performed in the Close Project or Phase process except:
+
+A. Activities that fulfill the exit criteria of the project
+B. Sending the deliverables to the customer for acceptance
+C. Activities that are needed to transfer the completed products to operations
+D. Documenting the reasons for terminating the projects early Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Sending the deliverables to the customer for acceptance is an activity of the Validate Scope process. The other choices are activities related to the Close Project or Phase process. [PMBOK 6th edition, Page 123] [Project Integration Management]
+
+Answer: 
+
+
+
+Q44Your project team has recently identified a risk in the software development project and decided not to change the project management plan to deal with the risk. The risk response strategy that your team used in this scenario is an example of:
+
+A. Mitigate
+B. Transfer
+C. Avoid
+D. Acceptance
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+When risks cannot be handled or managed in a project, it is advisable to accept them. In this scenario, your team is unable to devise a suitable response strategy. Hence, risk acceptance is the correct strategy to employ. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q45Which of the following is neither an input to nor an output of the Develop Project Charter process?
+
+A. A project charter
+B. Expert Judgment
+C. A business case
+D. Benefits management plan
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A project statement of work and a business case are inputs to the Develop Project Charter process. A project charter is an output of the Develop Project Charter process. Expert judgement is a tool and technique of this process. [PMBOK 6th edition, Page 75] [Project Integration Management]
+
+Answer: 
+
+
+
+Q46Which document defines how the project is to be executed, monitored, controlled, and closed?
+
+A. Project scope
+B. Project charter
+C. Project management information system
+D. Project management plan
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project management plan defines how the project is executed, monitored, controlled, and closed.
+[PMBOK 6th Edition, Page 83]
+
+Answer: 
+
+
+
+Q47You just completed the first phase of a multi-phase project. You have calculated earned value measurements and found that the current CPI is 0.79 and the current SPI is 0.98. Your next phase plan should focus first on which element of the project:
+
+A. Quality
+B. Resources
+C. Schedule
+D. Cost
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A Schedule Performance Index (SPI) of less than one indicates that less work has completed than planned, and a Cost Performance Index (CPI) of less than one indicates a cost overrun for the work completed. In this scenario, the cost overrun is more severe than the schedule delay. Therefore, you should focus on reducing the cost of the project. [PMBOK 6th edition, Page 263] [Project Cost Management]
+
+Answer: 
+
+
+
+Q48A project manager has just started planning his project. If he has only limited information about the project, he should use the following technique to estimate the duration for each activity using historical data from a similar project:
+
+A. Four-point estimating
+B. Three-point estimating
+C. Analogous estimating
+D. Parametric estimating
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+When there is a limited amount of information available about a project, analogous estimating is used to estimate the activity durations. This estimating technique uses parameters such as budget, complexity and size from previous projects to estimate the duration. [PMBOK 6th edition, Page 200] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q49You are in the Validate Scope process of your electronic goods manufacturing project. While reviewing some products, you have noticed that the tolerance for one product is 0.01 percent less than what was listed in the requirements documentation. This deviation may not be a problem for the customers, and it may not impair the product's operation. What is your best immediate action in such a situation?
+
+A. Notify the stakeholders about the deviation
+B. Change the project management plan to allow for small deviation
+C. Reject all products and restart the project
+D. Discuss with your team about the quality testing
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+When you find a defective product, you must notify stakeholders immediately even if the deviation may not affect customers. As a project manager, you must maintain honesty and should not hide facts. After notifying the stakeholders, the project manager must discuss the issue with the team and change the project management plan based on the stakeholders' inputs. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q50You have recently taken over a troubled automobile project, which has gone out of control. The project team missed many deadlines, and stakeholders were displeased with the project's progress. As an experienced project manager, your first priority is to align the schedule with the project plan. You would like to use what-if scenario analysis to see how various factors affected the project schedule so you can develop a plan to reduce the impact of adverse conditions on the project schedule in the future. What would be your next course of action be, once you determine the factors that created schedule overruns?
+
+A. Prepare a resource breakdown structure to identify resources used
+B. Update activity lists to incorporate new activities into the schedule
+C. Generate change requests for a corrective action
+D. Develop project schedule network diagrams to determine the total slack Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+You are in the process of determining the status of the project schedule and investigating the factors that caused schedule changes. From this scenario, you are currently in the Control Schedule process. What-if analysis is used in the Control Schedule process to see how various factors influence the schedule. One output of this process is to generate change requests to correct the schedule. Hence, you should generate a change request for the required corrective action. [PMBOK 6th edition, Page 229] [Project Schedule Management]
+
+Answer: 
+
+
+

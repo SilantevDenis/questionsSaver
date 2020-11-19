@@ -1,0 +1,830 @@
+PMP_Exam_Practice_07
+
+Number: 007-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 7
+Exam A
+Q1David's project is currently in difficult times, and the project stakeholders are not happy with the project updates they receive. In a meeting with the project sponsor, David said the stakeholders' attitude is irrational since he personally ensures that all project communications are accurate and timely. Mary, the project sponsor, advises David that he needs to go the extra mile in managing the stakeholders rather than just managing the project communications. What does Mary mean?
+
+A. David needs to pay attention to the Manage Stakeholder Engagement process.
+B. The project's communications management plan is not comprehensive.
+C. David is not performing the Monitor Communications process.
+D. David needs to issue a change request.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Manage Stakeholder Engagement is the process of communicating and working with stakeholder to meet their needs/expectations, address issues as they occur, and foster appropriate stakeholder engagement in project activities throughout the project life cycle. Mary has advised David to pay attention to stakeholder management rather than just relying on communications management processes. [PMBOK 6th edition, Page 523] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q2In adaptive lifecycles, such as the agile approach for product development, requirements are documented as user stories that are then __________ just prior to construction.
+
+A. Analyzed and curtailed
+B. Benchmarked and standardized
+C. Prioritized and refined
+D. Examined and outsourced
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+In adaptive life cycles such as agile approach for product development, requirements are documented as user stories that are then prioritized and refined just prior to construction. [PMBOK 6th edition, Page 177] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q3A construction project requires that government environmental hearings be held prior to site preparation.
+What kind of dependency is this?
+
+A. Optional dependency
+B. Discretionary dependency
+C. Soft logic
+D. External dependency
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+This is called an external dependency. It involves a relationship between project and non-project activities (for example, government environmental hearings). [PMBOK 6th edition, Page 192] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q4A manager asked to see a list of milestones in the project. This would be available as an output from the:
+
+A. Sequence Activities process
+B. Define Scope process
+C. Estimate Activity Durations process
+D. Define Activities process
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The milestone list is available as an output from the Define Activities process. [PMBOK 6th edition, Page 183] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q5A planning package is a work breakdown structure component below the control account and above the work package with known work content but without:
+
+A. Work packages
+B. User stories
+C. Schedule activities
+D. Requirements
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A planning package is a work breakdown structure component below the control account and above the work package with known work content but without detailed schedule activities. [PMBOK 6th edition, Page 161] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6Different stakeholders might require dissimilar outcomes from a project. An integral component of stakeholder management is managing these competing expectations throughout the project from initiation to closure. Which of the following management techniques can help in this situation?
+
+A. Stakeholder engagement analysis
+B. Facilitation
+C. Questionnaires
+D. Expert judgment
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager must use facilitation skills to arrive at a consensus toward project objectives.
+Scheduling regular stakeholder update meetings and engaging them throughout the project lifecycle is the ideal way to manage stakeholders' varying expectations. [PMBOK 6th edition, Pages 80] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q7There are a number of risks that have been identified in your project. The team has decided not to change the project plan to deal with the risks, but they have established a contingency reserve of money in the event something triggers these risks. This is an example of what type of risk mitigation technique?
+
+A. Contingent Response Strategy
+B. Active acceptance
+C. Passive acceptance
+D. Avoidance
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Recognizing the risk and not changing the plan but making some contingencies in the event the risk is triggered is an example of active acceptance. Passive acceptance would recognize the risk but not put contingencies in place, and avoidance would be correct if the project plan were modified. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q8Large variations in the periodic expenditure of funds are undesirable for organizational operations. Therefore, the expenditure of funds is frequently reconciled with the disbursement of funds for the project.
+According to the PMBOK, this is known as:
+
+A. Disbursement Reconciliation
+B. Expenditure Reconciliation
+C. Budget Reconciliation
+D. Funding Limit Reconciliation
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+This is known as funding limit reconciliation. This will necessitate the scheduling of work to be adjusted to smooth or regulate those expenditures. [PMBOK 6th edition, Page 253] [Project Cost Management]
+
+Answer: 
+
+
+
+Q9The Earned Value Management methodology can be used to:
+
+A. Forecast future performance based on current performance
+B. Calculate the number of days left in the project
+C. Calculate the value provided to the customer
+D. Calculate the profitability of the project
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Earned Value Management methodology can be used to forecast future performance based on current performance. [PMBOK 6th edition, Page 261 - 265] [Project Cost Management]
+
+Answer: 
+
+
+
+Q10Sam's project has successfully been initiated, and all the major roadblocks are removed. The senior stakeholders have now switched from a leading role to a supportive role. What is Sam's next step once the first version of the project stakeholder register is developed?
+
+A. Execute the stakeholder engagement strategy as laid out in the stakeholder register
+B. Start the stakeholder identification process
+C. Finalize the project management plan before developing the stakeholder engagement strategy
+D. Start the development of the Stakeholder Engagement Plan Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project management plan cannot be finalized until all the other subsidiary plans, including the stakeholder engagement plan, are finalized. Since the first version of stakeholder register has been developed, this implies that the first run of the Identity Stakeholders process has been completed and the project manager is now all set to kick start the Plan Stakeholder Engagement process. [PMBOK 6th edition, Page 516] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11A Work Breakdown Structure (WBS) dictionary supports the WBS and is a companion document to the WBS. Which of the following is not included in the WBS dictionary?
+
+A. List of schedule milestones
+B. Resource assigned
+C. Agreement Information
+D. Code of Account Identifier
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Resource requirements are part of WBS dictionary but resource assignments are not. [PMBOK 6th edition, Page 162] [Project Scope Management]
+
+Answer: 
+
+
+
+Q12The State of New York has contracted with your company to provide a claims payment system for Medicaid benefits. In the contract, a clause states that the State of New York can review your work processes and deliverables. This is an example of:
+
+A. Performance Report
+B. Record Management System
+C. Deliverables Checklist
+D. Inspections and Audits
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A contractually authorized review by the buyer of work and deliverables is an example of an inspection and audit. [PMBOK 6th edition, Page 498] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q13Control Schedule is part of which Project Management process group?
+
+A. Monitoring and controlling
+B. Planning
+C. Executing
+D. Initiating
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Control Schedule is part of the monitoring and controlling process group. [PMBOK 6th edition, Page 25] [Project Framework]
+
+Answer: 
+
+
+
+Q14Mandatory dependencies are those that are inherent in the nature of the work being done. They often involve physical limitations, such as on a construction project when it is impossible to erect the superstructure until the foundation is built. According to the PMBOK, a mandatory dependency is also:
+
+A. Soft logic
+B. Unilateral dependency
+C. Fixed logic
+D. Hard logic
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Mandatory dependencies are also referred to as hard logic. [PMBOK 6th edition, Page 191] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q15Sandra is managing a software development project. The project has many stakeholders having a negative attitude toward the project. Sandra knows she can't keep everybody happy but still can try her best to manage them. Which of the following can help Sandra manage these negative stakeholders better?
+
+A. Ignore them
+B. Send them project updates
+C. Engage them in project decisions
+D. Send inaccurate project reports
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Regardless how bad the situation is, send inaccurate project reports is never an option. Further ignoring the negative stakeholders is not recommended. Sending periodic project updates will help but the best way to reduce the negative bias towards the project is to involve the negative stakeholders in project decisions so they get a sense of ownership. [PMBOK 6th edition, Pages 504-506] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16The termination clause and alternative dispute resolution (ADR) mechanism for each procurement in a project is in the:
+
+A. Scope Statement
+B. Agreement
+C. Resource Calendars
+D. Source Selection Criteria
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The termination clause and alternative dispute resolution (ADR) mechanism for each procurement in a project are documented in the respective procurement agreement. [PMBOK 6th edition, Page 498] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q17Jack is the project manager of a project that is halfway through its execution. He is currently looking at the work schedule. He adjusts a few of the schedule milestones and imposes date constraints for some of the work packages. This relates to which of the following processes?
+
+A. Control Quality
+B. Develop Schedule
+C. Control Scope
+D. Control Schedule
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project is halfway through the execution. Since the project manager is adjusting the project plans, this needs to be a process from the monitoring and controlling process group. Jack is currently performing the Control Schedule process as he is adjusting the project schedule. [PMBOK 6th edition, Page 222] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q18As a project manager, you are concerned with both prevention and inspection of errors in a work product.
+The difference between prevention and inspection is:
+
+A. Inspection is work the Quality Control (QC) team does; the Quality Assurance (QA) team does Prevention.
+B. Inspection refers to keeping errors out of the process; prevention refers to keeping errors out of the customer's hands.
+C. Prevention refers to keeping errors out of the process; inspection refers to keeping errors out of the customer's hands.
+D. Inspection and prevention refer to the same activity depending on what stage of the project the activity is done.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Prevention refers to keeping errors out of the process, while inspection refers to keeping errors out of the hands of the customer. [PMBOK 6th edition, Page 274] [Project Quality Management]
+
+Answer: 
+
+
+
+Q19Which of these statements is true?
+
+A. The cost of correcting mistakes through an inspection is much less than the cost of preventing them.
+B. The cost of preventing mistakes is generally much less than the cost of correcting them as revealed by inspection.
+C. It does not matter where a defect is captured as long as the finished work product does not have a defect.
+D. The cost of correcting mistakes through an inspection is more or less the same as the cost of preventing them since the same effort goes into both activities.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+This is one of the basic tenets of project and quality management. The cost of preventing mistakes is generally much less than the cost of correcting them as revealed by inspection. [PMBOK 6th edition, Page 274] [Project Quality Management]
+
+Answer: 
+
+
+
+Q20A storm has damaged the manufacturing facility that is under construction as part of your project. You have just discovered that although the project risk management plan mandated that the facility have insurance against damage and loss, this policy was never acquired, and the project budget must cover the losses.
+Who is at fault?
+
+A. The risk manager
+B. The project manager
+C. The facilities manager
+D. The construction crew
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager is at fault. It is the project manager's responsibility to ensure that all project work, policies, and processes are conducted properly. PMI requires that the project manager take ownership for his or her actions or inactions and the consequences that arise from them. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q21You have a schedule activity that can be delayed without delaying the early start date of any subsequent activities. This is an example of:
+
+A. Free Float
+B. Lead Float
+C. Total Float
+D. Lag Float
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The question given is the definition of free float. [PMBOK 6th edition, Page 210] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q22As the project manager of a project, you had estimated certain activity durations before acquiring all project team members. On acquisition, you find that their actual competency levels are much lower than what you anticipated. In such a case, you will:
+
+A. Make no changes to the schedule
+B. Ask the project team members to meet the original schedule by putting in overtime, if required
+C. Make changes to activity duration and schedule incorporating the changed competency levels
+D. Inform the customer that the project is behind schedule
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The appropriate action is to make changes to the project schedule and activity durations depending on the actual competency of the team. Asking the project team members to work overtime or informing the customer that the project is late are too drastic in nature given the stage of the project. [PMBOK 6th edition, Page 222] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q23The Executive VP of Finance has informed you that you will be the project manager for an energy audit the company is performing in order to save expenses. He has assigned you to identify the stakeholders and to start documenting the high-level assumptions and constraints. Your project is in what stage?
+
+A. Initiating
+B. Planning
+C. Monitoring and Controlling
+D. Executing
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Identifying stakeholders, high-level assumptions and constraints are part of developing the project charter, which is a part of the InitiatingProcess Group. [PMBOK 6th edition, Page 25] [Project Integration Management]
+
+Answer: 
+
+
+
+Q24The objective of a transformation project is to move an organization from one state to another state. Before the project begins, the organization is commonly referred to as being in the:
+
+A. Hot State
+B. Ready State
+C. Historic State
+D. Current State
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Before the project begins, the organization is commonly referred to as being in the current state. The desired result of the change derived by the project is described as the future state. [PMBOK 6th edition, Page 6] [Project Quality Management]
+
+Answer: 
+
+
+
+Q25A software vendor on your project is hoping to be awarded a contract providing software for another project at your company. You are not the manager of the other project. However, the vendor offers you tickets to an upcoming professional sports event if you will "put in a good word" for his company to the vendor selection team of the other project. What do you do?
+
+A. Fire the vendor
+B. Decline the tickets but provide a recommendation for the vendor
+C. Decline the tickets and notify appropriate management of the situation
+D. Accept the tickets if company policy allows it and provide a recommendation for that vendor to the other project team
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Do not accept the tickets that are offered and notify the appropriate management of the situation. By offering an incentive to you to help the vendor win more business from your company, the vendor has effectively offered a bribe. PMI's Code of Ethics prohibits project managers from accepting bribes, and further requires project managers to notify the appropriate management of any unethical conduct. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q26Which of the following predictive project management techniques resembles an agile approach:
+
+A. Developing the WBS
+B. Developing the project management plan
+C. Earned value analysis
+D. Rolling wave planning
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Rolling wave planning resembles agile approaches since it allows the project management team to wait until the deliverables or subcomponents are agreed on, so the details of the WBS can be developed.
+[PMBOK 6th edition, Page 160] [Project Framework]
+
+Answer: 
+
+
+
+Q27A project manager is managing a project in which there are teams located in remote locations in order to obtain cost savings. This is in accordance with organizational guidelines that require that at least 25 percent of the work should be done from a remote location. This is an example of:
+
+A. A constraint
+B. A necessity
+C. A choice
+D. An assumption
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+This is an example of a constraint. Constraints are factors that can limit the project management team's options. An organizational mandate requiring that a certain part of the team operate from a different location to obtain cost savings is a constraint that the project management team needs to incorporate into their planning. [PMBOK 6th edition, Page 701] [Project Resource Management]
+
+Answer: 
+
+
+
+Q28The project manager controls the interfacing and overlapping areas of the organization's procurement processes, along with the project schedule,
+with processes from this area:
+
+A. Project Resource Management
+B. Project Scope Management
+C. Project Risk Management
+D. Project Integration Management
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Project Integration Management includes the processes and activities needed to identify, define, combine, unify, and coordinate the various processes and project management activities within the project management process groups. [PMBOK 6th edition, Page 69] [Project Integration Management]
+
+Answer: 
+
+
+
+Q29The methods used to transfer information among project stakeholders may vary significantly. A project team may apply different techniques and communication technologies to ensure effective and efficient communications. Which of the following must not be a factor to consider while choosing a communication technology?
+
+A. Urgency of the need for information
+B. Cheapest available technology
+C. Availability of technology
+D. Ease of use of technology
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+While cost is always a consideration for any project decision, merely considering the cheapest available technology can compromise the purpose of the project. [PMBOK 6th edition, Page 370] [Project Communications Management]
+
+Answer: 
+
+
+
+Q30Once a project's business case has been approved, what should be done next?
+
+A. Identify and analyze project stakeholders and associated risks
+B. Create the project charter
+C. Identify market demand
+D. Conduct and cost-benefit analysis
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Once a project's business case is approved, the project can be initiated. The Develop Project Charter process launches the project. [PMBOK 6th edition, Page 77] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31You are managing a complex software development project for an external customer. You are using the waterfall approach to manage the project in line with the contractual requirements. However, you are not comfortable with this approach. You believe that customers don't really know what they want upfront; rather, what they want emerges out of repeated two-way interactions over the course of the project. In your current situation, the waterfall approach has its emphasis on upfront requirements capture and design, followed by product development and finally the system testing. The customer will only be involved during the requirements gathering and system testing stages and will be completely out of touch during the development activities. Which of the following can help you mitigate the risk created by the waterfall approach:
+
+A. Adopt an iterative life cycle.
+B. Divide the project into multiple phases and organize phase gates.
+C. Adopt an incremental life cycle.
+D. Adopt a hybrid life cycle.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+In a predictive life cycle, the project planning is completed in the early phases of the project. Although the use of the waterfall life cycle is mandated by the client, the project manager can still customize the approach to obtain benefits offered by the adaptive approaches. In this case, dividing the project into multiple phases and organizing phase gates with the customer can help achieve this. [PMBOK 6th edition, Pages 19, 21] [Project Framework]
+
+Answer: 
+
+
+
+Q32You have completed a milestone in your software development project, and you are now verifying that the product meets the specifications outlined in the project management plan. In which process group is this process?
+
+A. Closing
+B. Monitor and Controlling
+C. Executing
+D. Planning
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Verifying that a product meets specifications relates to the Validate Scope process, which belongs to the monitoring and controlling process group. [PMBOK 6th edition, Page 163] [Project Scope Management]
+
+Answer: 
+
+
+
+Q33Which of the following may help in ensuring that certain bidders in the procurement process do not receive preferential treatment and that all prospective sellers have a clear and common understanding of the procurement?
+
+A. Use of weighted criteria
+B. Use of screening techniques
+C. Use of bidder conferences
+D. Use of expert judgment
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Bidder conferences allow prospective sellers and buyers to meet prior to submission of a bid. This ensures that all prospective sellers have a clear and common understanding of the procurement. This usually prevents any bidders from receiving preferential treatment. [PMBOK 6th edition, Page 487] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q34The X in the DfX can be:
+
+A. Competing project constraints
+B. Different aspects of product development
+C. Design assumptions
+D. Discretionary dependencies
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The X in DfX can be different aspect of product development, such as reliability, deployment, assembly, manufacturing, cost, service, usability, safety, and quality. [PMBOK 6th edition, Page 295] [Project Risk Management]
+
+Answer: 
+
+
+
+Q35Which of the following statements regarding Resource Leveling and Resource Smoothing is correct:
+
+A. Resource Smoothing can cause the original critical path to change, while Resource Leveling doesn't alter the project's critical path.
+B. Both Resource Leveling and Resource Smoothing can alter the project's critical path.
+C. Neither Resource Leveling nor Resource Smoothing alters the project's critical path.
+D. Resource Leveling can cause the projects' critical path to change, while Resource Smoothing doesn't alter the project's critical path.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Resource Leveling can cause the projects' critical path to change, while Resource Smoothing doesn't alter the project's critical path. [PMBOK 6th edition, Page 211] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q36In an agile approach to project management, requirements classified as "epics" are decomposed into:
+
+A. User stories
+B. Work packages
+C. WBS elements
+D. WBS dictionary
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+In an agile approach, epics are decomposed into smaller components called user stories. [PMBOK 6th edition, Page 160] [Project Framework]
+
+Answer: 
+
+
+
+Q37Megawatt is estimating the expected cost of a new ERP system deployment project using the actual costs of an earlier similar ERP system deployment project as the basis for the cost. This is what type of estimating?
+
+A. Analogous
+B. Bottom-up
+C. Expert Judgment
+D. Parametric
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Analogous cost estimating involves using the actual cost of previous similar projects as the basis for estimating the cost of the current project. Analogous cost estimating is frequently used to estimate costs when there is a limited amount of detailed information about the project (e.g., in the early phases). [PMBOK 6th edition, Page 244] [Project Cost Management]
+
+Answer: 
+
+
+
+Q38Costs incurred in one area of a project can offset costs in another area of the same project. However, it is not enough to consider only the costs of project execution when making project decisions. What other costs external to the project must also be considered?
+
+A. Costs of conformance
+B. Planning costs
+C. Operating costs
+D. Initiating costs
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Project Cost Management is primarily concerned with the cost of the resources needed to complete schedule activities. However, Project Cost Management should also consider the effect of project decisions on the costs of using, maintaining, and supporting the product, service, or result of the project. [PMBOK 6th edition, Page 233] [Project Cost Management]
+
+Answer: 
+
+
+
+Q39Your company is way behind schedule in the deployment of a government-mandated change to a health care processing system that must be in production by the end of the year. To meet the due date, you and your team have met and decided to hire an additional 50 programmers to work with the existing staff. This is an example of what?
+
+A. Resource Leveling
+B. Fast Tracking
+C. Crashing
+D. Risk Transference
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Crashing is a specific type of project schedule compression technique performed by taking action to decrease the total project schedule duration. Typical approaches to crashing a schedule include reducing activity durations and increasing the assignment of resources. [PMBOK 6th edition, Page 215] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q40The key difference between Validate Scope and Control Quality is:
+
+A. Validate Scope is concerned with meeting the quality standards specified.
+B. Validate Scope is concerned with the acceptance of deliverables.
+C. Validate Scope does not apply in projects that have been cancelled.
+D. Validate Scope can never be performed in parallel with Control Quality.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Validate Scope differs from Control Quality in that Validate Scope is primarily concerned with the acceptance of the deliverables, whereas Control Quality is primarily concerned with meeting the quality requirements specified for the deliverables. [PMBOK 6th edition, Page 131] [Project Scope Management]
+
+Answer: 
+
+
+
+Q41You are managing a fund-raising golf tournament that has a hole-in-one contest. However, your company cannot afford to pay the $1,000,000 award if someone does get a hole in one, so it has elected to take out an insurance policy in the event someone does get lucky. This is an example of:
+
+A. Sharing
+B. Mitigation
+C. Transference
+D. Avoidance
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The use of insurance to shift the negative impact of a risk"in this case, the payment of $1,000,000"is an example of risk transference. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q42The Make-or-Buy analysis is a technique used as part of the Plan Procurement Management process. It can determine whether the project team can produce a particular product or service, or if it should be purchased. The analysis to arrive at a decision should include:
+
+A. Indirect costs only
+B. Direct as well as Indirect costs
+C. Direct costs only
+D. Staffing costs only
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The analysis should include both indirect as well as direct costs. [PMBOK 6th edition, Page 473] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q43What is the logical sequence of the Project Scope Management processes?
+
+A. Create WBS, Collect Requirements, Define Scope, Validate Scope, and Control Scope
+B. Define Scope, Collect Requirements, Create WBS, Validate Scope, and Control Scope
+C. Plan Scope Management, Collect Requirements, Define Scope, Create WBS, Validate Scope, and Control Scope
+D. Plan Scope Management, Collect Requirements, Define Scope, Validate Scope, Create WBS, and Control Scope
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The logical sequence of the six scope management processes is: Plan Scope Management, Collect Requirements, Define Scope, Create WBS, Validate Scope and Control Scope. [PMBOK 6th edition, Page 129] [Project Scope Management]
+
+Answer: 
+
+
+
+Q44Breaking down project activities into smaller components in order to obtain a more accurate cost estimate and then aggregating the estimates of the lower-level components is:
+
+A. Work breakdown structure
+B. Analogous estimating
+C. Decomposition
+D. Bottom-up estimating
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+This is an example of bottom-up estimating. When an activity is complex and cannot be accurately estimated, it is broken down into smaller components for estimation. These individual component estimates are then summed up to obtain the cost estimate of the activity. [PMBOK 6th edition, Page 202] [Project Cost Management]
+
+Answer: 
+
+
+
+Q45Daniel is managing the development of an e-commerce website for his organization. Daniel enjoys coercive powers. He has assigned Julie, a project team member, to facilitate the team meetings. During any team meeting, Julie must:
+
+A. Influence team members to support the project manager's decisions
+B. Support the team members to challenge the project manager's decisions
+C. Negotiate with team members to achieve the project objectives
+D. Remain neutral and conduct the meetings
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the project manager enjoys coercive powers, it seems likely that he has assigned a neutral facilitator to facilitate the team meetings. Facilitation is a management skill. A good facilitator should always remain neutral in a meeting and help facilitate consensus when required. [PMBOK 6th edition, Page 80] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q46Projects are often started as a result of an external factor such as market demand for a new product, a new legislative or regulatory mandate, or a change in technology. This results in the creation of ______ by an entity or organization external to the project.
+
+A. The project charter
+B. The WBS
+C. The project budget
+D. The RACI chart
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A project initiator or sponsor external to the project, at a level that is appropriate to funding the project, issues the project charter in response to some sort of stimulus. [PMBOK 6th edition, Page 77] [Project Integration Management]
+
+Answer: 
+
+
+
+Q47Bottom-up Cost estimating is typically motivated by the size and complexity of:
+
+A. The project management software
+B. The statistical relationship between historical data and other variables
+C. The project budget
+D. The individual schedule activity or work package
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Bottom-up estimating involves estimating the cost of individual work packages or individual schedule activities at the lowest level of detail. Activities with smaller associated effort usually increase the accuracy of the schedule activity cost estimates. [PMBOK 6th edition, Page 202] [Project Cost Management]
+
+Answer: 
+
+
+
+Q48The Quality Policy is the intended direction of a performing organization with regard to quality. However, as a project manager in a performing organization, you find the organization lacks a formal quality policy. What should you do in such a case?
+
+A. The project management team does not need to develop a quality policy since the performing organization does not have one.
+B. The project management team needs to obtain the quality policy from the customer.
+C. A quality policy is nice to have but is not required for every project.
+D. The project management team will need to develop a quality policy for the project.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project management team will need to develop a quality policy for the project if the performing organization does not have a formal policy. It is also the responsibility of the project management team to ensure that the project stakeholders are fully aware of the policy. [PMBOK 6th edition, Page 271] [Project Quality Management]
+
+Answer: 
+
+
+
+Q49Lucy is managing a website development project in an agile environment. She wants to create a burndown chart to present the project's progress to the stakeholders. She adds a diagonal line representing the ideal burndown and a line for daily actual remaining work. She now needs to show the likely variance at the iteration completion. What should she do?
+
+A. Add a forecast trend line to the ideal burndown line
+B. Add a correlation line between the daily actual remaining work and the ideal burndown
+C. Add a forecast trend line to the daily actual remaining work
+D. Add a median line between the daily actual remaining work and the ideal burndown Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A trend line should be added to the daily actual remaining work to forecast the completion. [PMBOK 6th edition, Page 226] [Project Risk Management]
+
+Answer: 
+
+
+
+Q50The cost estimates for a project are in the range of +/- 5 %. What phase is the project likely to be in?
+
+A. A. Closing phase
+B. B. Preliminary phase
+C. C. Initial phase
+D. D. Intermediate phase
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The project is likely to be in a closing phase since the range of estimates is quite narrow. Early in the project, there is less cost information available and the range of estimates is much higher. As the project progresses, the degree of accuracy improves. [PMBOK 6th edition, Page 241] [Project Cost Management]
+
+Answer: 
+
+
+
+Q51You are setting up your project team, and you are looking at a chart that shows that Systems Development will perform programming, Infrastructure Systems will implement the infrastructure, and the Call Center will handle the customer communication. This is an example of what type of chart?
+
+A. RACI
+B. Organizational Breakdown Structure (OBS)
+C. Work Breakdown Structure
+D. Resource Breakdown Structure (RBS)
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A hierarchically organized depiction of the project organization arranged to relate the work packages to performing organizational units is an example of Organizational Breakdown Structure (OBS). [PMBOK 6th edition, Page 316] [Project Resource Management]
+
+Answer: 
+
+
+

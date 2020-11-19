@@ -1,0 +1,169 @@
+PMP_Exam_Practice_01_10
+
+Number: 001-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 1.1
+Exam A
+Q1Which of the following is not a PMBOK Knowledge Area?
+
+A. Procurement management
+B. Integration management
+C. Execution management
+D. Communications management
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Execution management is not a PMBOK knowledge area. Note that execution is a process group. [PMBOK 6th Edition, Pages 23, 24] [Project Framework]
+
+Answer: 
+
+
+
+Q2A project manager is managing a research project. Typically, research projects are not clearly defined and involve a lot of uncertainty. The project has four phases in which a phase can only start when its previous phase is complete. What project lifecycle and phase-to-phase relationship should the project manager use for this project?
+
+A. Predictive lifecycle with sequential phase to phase relationship
+B. Iterative lifecycle with sequential phase to phase relationship
+C. Predictive lifecycle with overlapping phase to phase relationship
+D. Iterative lifecycle with overlapping phase to phase relationship Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager should use the Iterative life cycle since project phases and activities will most probably be repeated as the project team's understanding of the project and requirements increases. Further, since any project phase can only start once its previous phase has been completed, the phase-to-phase relationship should be sequential. [PMBOK 6th edition, Page 19] [Project Framework]
+
+Answer: 
+
+
+
+Q3The transition from one phase to another within a project's lifecycle (e.g., from design to manufacturing) is typically marked by:
+
+A. Kill point
+B. Monte Carlo
+C. Constraint
+D. Decision tree
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The transition from one phase to another within a project's lifecycle typically involves, and is usually defined by, some form of technical transfer or handoff. This is also called a kill point. [PMBOK 6th edition, Page 21] [Project Framework]
+
+Answer: 
+
+
+
+Q4The resource optimization technique during the Control Schedule process allows a project manager to:
+
+A. Schedule training sessions for the project team members to optimize their performance.
+B. Schedule activities considering both the resource availability and the project time.
+C. Provide monetary incentives to project team members to boost their performance.
+D. Allow overtime so that team members get motivated to work during nonworking hours.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Resource optimization technique during the Control Schedule process allows a project manager to schedule activities considering both the resource availability and the project time. Other choices are invalid.
+[PMBOK 6th edition, Page 227] [Project Framework]
+
+Answer: 
+
+
+
+Q5Which of the following is an enterprise environmental factor?
+
+A. Configuration management knowledge base
+B. Change control procedures
+C. Historical information
+D. Commercial databases
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Commercial databases are considered enterprise environmental factors. The other choices are organizational process assets. [PMBOK 6th edition, Pages 39-41] [Project Framework]
+
+Answer: 
+
+
+
+Q6Estimating the type and quantities of material, people, equipment, and supplies required to perform each activity is:
+
+A. Estimate Activity Workload
+B. Estimate Activity Input
+C. Resource calendars
+D. Estimate Activity Resources
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Estimate Activity Resources is the process of estimating the type and quantities of material, people, equipment and supplies required to perform each activity. [PMBOK 6th edition, Page 320] [Project Framework]
+
+Answer: 
+
+
+
+Q7Projects operating in agile environments where a high degree of uncertainty exists and where the scope is not yet fully defined, may not benefit from detailed cost calculations due to frequent changes. Instead, lightweight estimation methods can be used to generate a fast, high-level forecast of project labor costs, which can then be easily adjusted as changes arise. Detailed estimates are:
+
+A. Reserved for short-term planning horizons in a just-in-time fashion.
+B. Never developed in an agile project.
+C. Only developed if the project stakeholders allow the project manager to do so.
+D. Developed early during the project but are never updated due to frequent changes.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+In agile/adaptive environments, detailed estimates are reserved for short-term planning horizons in a just-in- time fashion. The rest of the choices are incorrect. [PMBOK 6th edition, Page 234] [Project Framework]
+
+Answer: 
+
+
+
+Q8Fill in the blank. _______________ indicates that planning and documentation are iterative or ongoing activities.
+
+A. Progressive management
+B. Iterative elaboration
+C. Waterfall development
+D. Progressive elaboration
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Progressive elaboration is a characteristic of projects. It allows a project management team to manage the project to a greater level as the project evolves. [PMBOK 6th edition, Page 565] [Project Framework]
+
+Answer: 
+
+
+
+Q9A single point of failure (SPOF) is the part of a system that, upon failure, stops the entire system from working or makes the system useless. Which of the following events can render a knowledge management system ineffective?
+
+A. If project team is not motivated.
+B. Project team is geographically distributed.
+C. When project knowledge cannot be classified as explicit or tacit.
+D. Knowledge is shared using a mixture of knowledge management tools and techniques.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The most important part of knowledge management is creating an atmosphere of trust so that people are motivated to share their knowledge. Even the best knowledge management tools and techniques will not work if people are not motivated to share what they know or don't pay attention to what others know. None of the other choices pose a more serious threat than this. [PMBOK 6th edition, Page 100] [Project Framework]
+
+Answer: 
+
+
+
+Q10Which of the following is not a project competing constraint?
+
+A. Budget
+B. Procurement
+C. Risk
+D. Resource
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Six competing project constraints are scope, quality, schedule, budget, resources and risk. Procurement is not a project competing constraint. [PMBOK 6th edition, Page 28] [Project Framework]
+
+Answer: 
+
+
+

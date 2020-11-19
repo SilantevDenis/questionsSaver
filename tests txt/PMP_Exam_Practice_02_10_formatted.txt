@@ -1,0 +1,171 @@
+PMP_Exam_Practice_02_10
+
+Number: 002-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 2.1
+Exam A
+Q1What is a recommended method for controlling change within a project?
+
+A. Have only the project manager able to initiate change.
+B. Have each change approved or rejected through a formal change control process.
+C. Allow each project member ultimate control of changes within their realm of the project without a review process.
+D. Freeze scope and allow absolutely no changes.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The change control procedure varies from project to project. However, every change request must be processed through a formal change control process. [PMBOK 6th edition, Page 113] [Project Integration Management]
+
+Answer: 
+
+
+
+Q2A project manager calls you in as a consultant to provide input on developing the Project Charter. According to the PMBOK, your contribution to the project could best be termed as:
+
+A. Professional Consultant
+B. Expert Judgment
+C. Charter Consultant
+D. Expert Consultancy
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Expert Judgment is judgment provided, based on expertise in an application area, a knowledge area, a discipline, an industry, etc. Expert Judgment is available from many sources including consultants. [PMBOK 6th edition, Page 79] [Project Integration Management]
+
+Answer: 
+
+
+
+Q3Which process is concerned with providing forecasts to update current cost information?
+
+A. Monitor and Control Project Work
+B. Project Management Information System
+C. Close Project or Phase
+D. Direct and Manage Project Work
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+During the Monitor and Control Project Work process, work performance data is gathered and passed to the controlling processes. The Monitor and Control Project Work process is responsible for keeping track of the all project's measures, including cost. [PMBOK 6th edition, Page 109] [Project Integration Management]
+
+Answer: 
+
+
+
+Q4Which of the following would not be considered an Enterprise Environmental Factor during the Develop Project Charter process?
+
+A. Scope Statement
+B. Organizational infrastructure
+C. Governmental standards
+D. Marketplace conditions
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The scope statement is clearly not an enterprise environmental factor, whereas the other three choices"governmental standards, organizational infrastructure, and marketplace conditions"are enterprise environmental factors. [PMBOK 6th edition, Page 78] [Project Integration Management]
+
+Answer: 
+
+
+
+Q5The Close Project or Phase process is not performed when:
+
+A. Cancelling projects
+B. Closing projects
+C. Closing project phases
+D. Reactivating projects
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Close Project or Phase process allows the project manager to close or finish a specific phase of the project. [PMBOK 6th edition, Page 121] [Project Integration Management]
+
+Answer: 
+
+
+
+Q6Which of these tools and techniques is common to all seven Project Integration Management processes?
+
+A. Meetings
+B. Data analysis
+C. Data gathering
+D. Expert Judgment
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+All seven processes of Project Integration Management use Expert Judgment as a tool and technique.
+[PMBOK 6th edition, Page 71] [Project Integration Management]
+
+Answer: 
+
+
+
+Q7You are beginning a new project. When should you use the Perform Integrated Change Control process?
+
+A. Throughout the entire project
+B. Only when closing out the project
+C. Only after the project is completely funded
+D. Only after the project scope is clearly defined
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Changes can occur in the project at any time. The Perform Integrated Change Control process is valuable for managing and tracking those changes. [PMBOK 6th edition, Page 115] [Project Integration Management]
+
+Answer: 
+
+
+
+Q8The project management team has determined that there are some changes to the scope of the project. According to the PMBOK, who is responsible for reviewing, evaluating, and approving documented changes to the project?
+
+A. Change Control Board (CCB)
+B. Change Configuration Board (CCB)
+C. Scope Control Board (SCB)
+D. Configuration Control Board (CCB)
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Change Control Board is a group of formally constituted stakeholders responsible for reviewing, evaluating, approving, delaying or rejecting changes to the project. [PMBOK 6th edition, Page 115] [Project Integration Management]
+
+Answer: 
+
+
+
+Q9What is the difference between the Monitor and Control Project Work process and the Direct and Manage Project Work process?
+
+A. The Monitor and Control Project Work and the Direct and Manage Project Work processes are the same.
+B. The Monitor and Control Project Work process monitors the project performance while the Direct and Manage Project Work process is concerned with performing the activities to accomplish project requirements.
+C. The Monitor and Control Project Work process is a sub-process of the Direct and Manage Project Work process.
+D. There is no such thing as the Monitor and Control Project Work process.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The Monitor and Control Project Work process monitors the other project processes including the Direct and Manage Project Work process, while the Direct and Manage Project Work Process completes the project scope. [PMBOK 6th edition, Pages 70] [Project Integration Management]
+
+Answer: 
+
+
+
+Q10You are a consulting project manager and an investment bank has a contract with you to run a large information technology project that is expected to last 15 months. During the Direct and Manage Project Work process, you discover that several regulatory requirements were addressed in the project management plan but missed from the scope statement. Failure to meet these requirements could result in legal action against the company. However, implementing the technology to comply with these regulations could exceed the budget and scope of the project and result in the cancellation of the project. What should you do?
+
+A. Do not do anything as these requirements are not a part of the scope baseline.
+B. Request additional funds to implement these requirements.
+C. Submit a change request to incorporate the missed requirements in the project's scope.
+D. This is a classic example of scope creep and such requirements must be ignored.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+All regulatory requirements must be met. Doing nothing or considering this a scope creep are not valid options. You would have to request additional funds, but first you need to submit a change request for approval. A change request can be submitted as a part of the Direct and Manage Project Work process.
+[PMBOK 6th edition, Page 96]
+
+Answer: 
+
+
+

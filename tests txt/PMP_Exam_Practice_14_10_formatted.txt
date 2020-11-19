@@ -1,0 +1,174 @@
+PMP_Exam_Practice_14_10
+
+Number: 014-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 14.1
+
+Number: 014-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+Exam A
+Q1Which of these is a valid negative risk response?
+
+A. Exploit
+B. Mitigate
+C. Enhance
+D. Share
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk mitigation is a valid response to negative risks. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q2Which of these is accurate regarding risk management?
+
+A. Organizations are not likely to perceive risk as a threat to project success.
+B. It has its origins in the uncertainty present in all projects.
+C. The attitudes of individuals and organizations must not be a factor affecting risk management.
+D. It is a passive activity in project management.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk management does indeed have its origins in the uncertainty present in all projects. [PMBOK 6th edition, Pages 397-400] [Project Risk Management]
+
+Answer: 
+
+
+
+Q3Anne is the project manager of a project. She has evaluated certain responses from prospective sellers and wants to select a contract model that will transfer risk to the seller. Which of the following should she select in order to achieve this?
+
+A. Time and Material contract
+B. Fixed price contract
+C. Cost-Plus-Fixed-Fee contract
+D. Cost-Plus-Incentive-Fee contract
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A fixed-price contract enables the buyer to transfer risk to the seller. [PMBOK 6th Edition, Page 445, 471] [Project Risk Management]
+
+Answer: 
+
+
+
+Q4Your project sponsor has asked you to present your project's high-level risk register to him in the next project update meeting. To create your high-level risk register, which of the following processes must be performed?
+
+A. Plan Risk Management
+B. Perform Qualitative Risk Analysis
+C. Identify Risks
+D. Monitor Risks
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A high-level risk register contains the identified risks only. The risk register is created during the Identify Risks process. [PMBOK 6th edition, Page 409] [Project Risk Management]
+
+Answer: 
+
+
+
+Q5Which of these is an input to the Monitor Risks process?
+
+A. Risk audits
+B. Change requests
+C. Work performance information
+D. Work Performance Reports
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Work Performance Reports are inputs to the Monitor Risks process. [PMBOK 6th edition, Page 453] [Project Risk Management]
+
+Answer: 
+
+
+
+Q6Which of the following is true about risks?
+
+A. The risk register documents all the identified risks in detail.
+B. Risk impact should be considered, but probability of occurrence is not important.
+C. Risks always have negative impact and not positive.
+D. Risk Response Plan is another name for Risk Management Plan.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The risk register contains details of the identified risks. [PMBOK 6th edition, Page 417] [Project Risk Management]
+
+Answer: 
+
+
+
+Q7During which stage of risk planning are risks prioritized based on their relative probability and impact?
+
+A. Perform Qualitative risk analysis
+B. Identify Risks
+C. Perform Quantitative risk analysis
+D. Plan Risk Responses
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Perform Qualitative Risk Analysis assesses the impact and likelihood of identified risks. During this process, the risks are prioritized based on their relative probability and impact. [PMBOK 6th edition, Page 419] [Project Risk Management]
+
+Answer: 
+
+
+
+Q8If a project has a 60 percent chance of a $100,000 profit and a 40 percent chance of a $100,000 loss, the expected monetary value of the project is:
+
+A. $20,000 profit
+B. $40,000 loss
+C. $100,000 profit
+D. $60,000 loss
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+EMV = Probability * Impact. 0.6 * $100,000 = $60,000. 0.4 * ($100,000) = ($40,000). $60,000 - $40,000 = $20,000 profit. [PMBOK 6th edition, Page 435] [Project Risk Management]
+
+Answer: 
+
+
+
+Q9With high levels of uncertainty and unpredictability in a fast-paced and highly competitive global marketplace, where long-term scope is difficult to define, it is becoming even more important to have a __________ for effective adoption and tailoring of development practices to respond to the changing needs of the environment.
+
+A. Rigid management approach
+B. Predefined detailed scope
+C. Contextual framework
+D. Blackbox approach
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+With high levels of uncertainty and unpredictability in a fast-paced, highly competitive global marketplace where long term scope is difficult to define, it is becoming even more important to have a contextual framework for effective adoption and tailoring of development practices to respond to the changing needs of the environment. Traditional, predictive and rigid methods are not suitable for projects operating in an environment with a high degree of uncertainty. [PMBOK 6th edition, Page 177] [Project Risk Management]
+
+Answer: 
+
+
+
+Q10At the beginning of the project, a project manager realized the technical expertise of the team was limited, a risk to the project. Midway through the project, the project manager decided that this was no longer a risk and considered it outdated. As part of which process would he do the risk reassessment?
+
+A. Perform Qualitative Risk Analysis
+B. Perform Quantitative Risk Analysis
+C. Perform Risk Assessment
+D. Monitor Risks
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk reassessment is performed as part of the Monitor Risks process. Such project risk reassessments should be regularly scheduled and may result in the closure of outdated risks. [PMBOK 6th edition, Page 453] [Project Risk Management]
+
+Answer: 
+
+
+

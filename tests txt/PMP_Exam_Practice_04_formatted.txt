@@ -1,0 +1,806 @@
+PMP_Exam_Practice_04
+
+Number: 004-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 4
+Exam A
+Q1Adaptive project lifecycles, in comparison with predictive project lifecycles, are developed with the intent of:
+
+A. Eliminating cost of changes throughout the project's lifecycle
+B. Providing agility in responding to change
+C. Maximizing cost of changes throughout the project's lifecycle
+D. Minimizing cost of changes throughout the project's lifecycle Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Adaptive project life cycles, in comparison with predictive project life cycles, are developed with the intent of providing agility in responding to change. [PMBOK 6th edition, Page 74] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q2You are building a dam for a state government. Your organization is considered a specialist in dam design and overall management of construction activities. However, your organization lacks resources to execute the earth-works involved. You have subcontracted all the project's earth-works to a local subcontractor. The quality of the subcontractor's work is acceptable, but the subcontractor is not conforming to your organization's health and safety standards. You escalated this to the subcontractor's project manager, but he turned down your request. The subcontractor's project manager is of the view that the request is out of the contract's scope and none of the contract provisions require him to conform to your organization's standards. You are agitated since you believe health and safety standards are globally accepted, and the contract does not have to explicitly state them. Further, according to the state law, you cannot terminate the contract since the subcontractor has not vio
+
+A. Go for judicial arbitration as stated in the contact's ADR provisions
+B. Terminate the contract immediately since you will not compromise health and safety standards
+C. Withhold the subcontractor's payments to force compliance
+D. Negotiate a contact amendment with the subcontractor requiring compliance to the standards Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Your actions should be legal and legitimate. Termination and withholding payments are illegal options.
+Further amicable solution is always preferred over arbitration. The best way to deal with this situation to offer a price for compliance to the required standards and amend the contract accordingly. [PMBOK 6th edition, Page 492] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q3Which of the following is an output of the Define Activities process?
+
+A. Milestone list
+B. Project schedule activity diagrams
+C. Resource calendar
+D. Activity duration estimates
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A milestone list is a valid output of the Define Activities process. [PMBOK 6th edition, Page 183] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q4A control chart is used to determine whether a process is stable or has predictable performance. When a process is within acceptable limits, the process does not need adjustment. How are these upper and lower control limits determined?
+
+A. Statistical calculations
+B. Variance analysis
+C. Pareto chart
+D. ROM estimate
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The upper / lower control limits are statistically calculated (normally set at + / - 3 sigma). [PMBOK 6th edition, Page 304] [Project Quality Management]
+
+Answer: 
+
+
+
+Q5Julia is currently assessing her project stakeholders' engagement levels. During this exercise, she finds she also needs to document an escalation process, which will come in handy in the future. Where does she need to document the project's escalation process?
+
+A. Communications management plan
+B. Stakeholder engagement plan
+C. Either the stakeholder engagement plan or the communications management plan
+D. Both the stakeholder engagement plan and the communications management plan Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Although there is a lot of overlap of information between the project communication management and stakeholder engagement plans, the project escalation process is only documented in the communications management plan. [PMBOK 6th edition, Page 377] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6As part of a new project you just started on as project manager, you are assembling your team and discovering that one of the critical pieces of work requires a specialist from one of the functional departments. However, you are aware the functional manager may be reluctant to assign that resource to your project since your project is not a high-profile one. Which of the following techniques will you need to apply?
+
+A. Acquisition
+B. Coercion
+C. Politics
+D. Negotiation
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is Negotiation. This is done on many projects. The project management team may need to negotiate with functional managers to ensure that the team receives appropriately competent staff in the required time frame. The project management team may also need to negotiate with other project management teams. [PMBOK 6th edition, Page 332] [Project Resource Management]
+
+Answer: 
+
+
+
+Q7The Cost Management Plan is an output of the Plan Cost Management process. This plan is then integrated with other project plans in which of these processes?
+
+A. Develop Project Management Plan
+B. Monitor and Control Project Work
+C. Perform Integrated Change Control
+D. Direct and Manage Project Work
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The cost management plan is a component of the project management plan. Once the cost management plan is developed, it is integrated with the project management plan during the Develop Project Management Plan process. [PMBOK 6th edition, Page 82] [Project Cost Management]
+
+Answer: 
+
+
+
+Q8You are building a mile-long bridge on a T&M contract. During the excavation activity, you learned some telephone cables are crossing the alignment where you have to construct the bridge. You need to relocate these telephone cables, but there is no provision of such an activity in the contract. Further, the relocation of the cables is a costly task, and you need to do a lot of government paperwork, as well. You requested an amendment in the contract, but the buyer rejected it. Despite many efforts, you both could not resolve this issue. What should you do next?
+
+A. Terminate the contract following the termination procedures mentioned in the contract.
+B. File a judicial petition in accordance with the state's law.
+C. Seek arbitration following the ADR procedures in the contract.
+D. Relocate the cables at your own expense since the contract does not cover this activity.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+In this scenario there has been an increase in the scope of works. Since the contract doesn't accommodate this, the contractor rightfully requested for an amendment. However, since both parties cannot settle this amicably, the next step is to seek arbitration. [PMBOK 6th edition, Page 498] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q9The Plan-Do-Check-Act (PDCA) cycle as the basis for quality improvement is usually attributed to:
+
+A. Deming
+B. Crosby
+C. Juran
+D. Pareto
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The plan-do-check-act (PDCA) cycle was defined by Shewhart and later modified by Deming. [PMBOK 6th edition, Page 275] [Project Quality Management]
+
+Answer: 
+
+
+
+Q10In regards to WBS, which of the following is the correct way to decompose the project scope?
+
+A. Total scope -> planning package -> control account -> work package
+B. Total scope -> control account -> work package -> planning package
+C. Total scope -> control account -> planning package -> work package
+D. Total scope -> Work package -> control account -> planning package Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A planning package is a work breakdown structure component below the control account and above the work package with known work content but without detailed schedule activities. [PMBOK 6th edition, Page 161] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11A ______ is a collection of projects or programs grouped together for strategic business needs.
+
+A. Portfolio
+B. Management System
+C. Enterprise
+D. Array
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A portfolio is a collection of projects or programs. It helps facilitate efficient management. [PMBOK 6th Edition, Page 11] [Project Framework]
+
+Answer: 
+
+
+
+Q12In a Finish-to-Start relationship between predecessor and successor activities, a project manager decides to schedule a successor activity five days before its predecessor is complete. This is accomplished by providing five days of:
+
+A. Lag
+B. Load
+C. Fast-tracking
+D. Lead
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A lead allows an early start of the successor activity. [PMBOK 6th edition, Page 192] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q13You are carrying out a project for an external customer. Most of the project's scope of work is outsourced and distributed among many subcontractors. What would be the role of the Direct and Manage Project Work process in this scenario?
+
+A. Inspect and verify the adequacy of the seller's product
+B. Authorize the seller's work at the appropriate time
+C. Assure that the changes are properly approved and communicated
+D. The Direct and Manage Project Work process will become redundant in this case Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The role of the Direct and Manage Project Work will be to authorize the seller's work at the appropriate time. Inspection and verification of the seller's work will be handled by the Control Quality process and the change management will be handled by the Perform Integrated Change Control process. [PMBOK 6th edition, Page 90] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q14Which of the following inaccurately describes a prototype?
+
+A. A prototype is tangible and allows stakeholders to fine-tune their expectations.
+B. Requirements from a prototype are usually insufficient to move to the design phase.
+C. Prototypes support the concept of progressive elaboration.
+D. A prototype is a working model of the expected product.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Prototypes usually go through multiple feedback cycles after which the requirements obtained from the prototype are sufficiently complete to move to a design or build phase. [PMBOK 6th edition, Page 147] [Project Scope Management]
+
+Answer: 
+
+
+
+Q15Key project stakeholders can significantly influence a project in many ways. During which stage of the project do these stakeholders have the maximum ability to influence a project?
+
+A. Planning
+B. Initiating
+C. Executing
+D. Monitoring & Controlling
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder influence is highest at the start of the project and decreases as the project progresses towards completion. This is due to the fact that risk and uncertainty are greatest at the start of the project.
+[PMBOK 6th edition, Page 549] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16Mary has just assigned Thomas as project manager of an upcoming railway construction project. She hands an approved project charter to Thomas. Once Thomas thoroughly reviews the project charter, what should he do next?
+
+A. Review the charter once again since one thorough review is never enough
+B. Kick-start the Develop Project Management Plan process
+C. Add the project charter to the organizational lessons-learned archive
+D. Distribute the charter to all key project stakeholders and ensure common understanding Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Upon the receipt of the approved project charter, it is the project manager's responsibility to inform all key stakeholders of the approved project charter and to ensure common understanding of the key deliverables, milestones, and their roles and responsibilities. This is also mentioned in the PMP examination content outline as one of the project manager's task during project initiation. [PMI best practice; not explicitly stated in PMBOK] [Project Integration Management]
+
+Answer: 
+
+
+
+Q17Which of these is not a data gathering technique used in the Identify Risks process?
+
+A. Interviewing
+B. Checklists
+C. Brainstorming
+D. Delta technique
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Delta technique is not a valid type of data gathering technique. [PMBOK 6th edition, Page 409] [Project Risk Management]
+
+Answer: 
+
+
+
+Q18The organization's strategy provides a strategic direction and performance parameters for identifying, selecting, and delivering the right mix of projects. If it is determined that some of the CEO's favorite projects do not fully align with the business objective, the PMO manager must:
+
+A. Recommendation a realignment of the strategy
+B. Terminate the project
+C. Recommend a realignment of the project objectives
+D. Honor the CEO's desires and execute the project
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Honoring the CEO's desires and executing the project is against the PMI's Code of Ethics since the project manager knows that some of the projects are not fully aligned with the strategy. Terminating the project is an extreme and should not be the first consideration. The project manager must make a recommendation to realign the project objectives with the organizational strategy since value to the business can only be delivered when projects remain aligned with the strategic direction of the organization. [PMBOK 6th edition, Page 14] [Project Integration Management]
+
+Answer: 
+
+
+
+Q19Which of the following is not a tool or technique of the Acquire Resources process?
+
+A. Negotiation
+B. Multi-criteria decision analysis
+C. Pre-assignment
+D. Conflict management
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Conflict management is not a tool and technique of the Acquire Resources process. The other choices are valid tools and techniques of this process. [PMBOK 6th edition, Page 328] [Project Resource Management]
+
+Answer: 
+
+
+
+Q20All requested changes to a contract go through Contract Change Control Systems of both parties. The Contract Change Control system documents all requested changes for future reference. However, requested but unresolved changes might not make it up to either party's Change Control Systems. If you are contesting a dispute, where can you find a record of such requested changes?
+
+A. Procurement management plan
+B. Project management plan
+C. Project correspondence
+D. Approved change requests log
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+If a contract change request is rejected early in the process, it might not make it up to either party's change control system and hence might not get documented as a rejected change request. You can obtain a record of such requested changes in your project's correspondence with the customer in this case. [PMBOK 6th edition, Pages 496, 499] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q21While the five process groups are usually completed in order, they often overlap with each other throughout the project. Which two process groups usually do not overlap during the course of the project?
+
+A. Initiating and Closing
+B. Initiating and Executing
+C. Initiating and Monitoring and Control
+D. Planning and Closing
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Throughout the project, the different process groups are often conducted at the same time except for the initiating and closing groups, which are separated by the other three groups. [PMBOK 6th edition, Page 23, 555] [Project Framework]
+
+Answer: 
+
+
+
+Q22Which of the following is the correct logical sequence of the five process groups?
+
+A. Planning, Monitoring and Controlling, Initiating, Executing, Closing
+B. Planning, Initiating, Executing, Monitoring and Controlling, Closing
+C. Initiating, Monitoring and Controlling, Planning, Executing, Closing
+D. Initiating, Planning, Executing, Monitoring and Controlling, Closing Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The logical sequence of the five process groups is: Initiating, Planning, Executing, Monitoring and Controlling, and Closing. [PMBOK 6th edition, Page 23] [Project Framework]
+
+Answer: 
+
+
+
+Q23You are currently managing an urban development project for a municipal authority. You and your team are managing the project and have outsourced most of the project work to specialist contractors. All the contracts awarded were FFP contracts. The project is almost 50 percent complete, and most of the contractors have requested amendments to their contacts. Work specifications were not clear at the time of contract awards, and as a result, new work requirements have come up. What is your lesson learned?
+
+A. Never award FFP contracts in the future since they usually result in disputes and contests
+B. Cost-plus contracts are ideal types of contracts for construction projects
+C. Do not award FFP contracts unless the scope of work and specifications are precisely articulated.
+D. Good and credible contractors were not selected for the project at the time of award Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+FFP contracts should not be awarded unless the scope of work and specifications are precisely articulated and documented. In such cases cost-plus or T&M contracts may be used. If work specifications are not precisely documented in a FFP contract, this will usually result in disputes and future claims. [PMBOK 6th edition, Page 471] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q24You have met with your project sponsor who told you that you must complete the project by the end of the year, no exceptions. This should be included in the project scope statement as a:
+
+A. Project Constraint
+B. Project Boundary
+C. Project Acceptance Criteria
+D. Project Assumption
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+An imposed deadline or milestone is an example of a constraint. Such project constraints are documented in the scope statement. [PMBOK 6th edition, Page 154] [Project Scope Management]
+
+Answer: 
+
+
+
+Q25Along with the project communications management plan, work performance reports are vital inputs to the Manage Communications process. Where do these work performance reports come from?
+
+A. Project integration management process
+B. All monitoring and controlling processes
+C. Plan Communications Management processes
+D. Organizational process assets
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Monitor and Control Project Work, a process form the project integration management knowledge area, produces work performance reports. [PMBOK 6th edition, Page 380] [Project Communications Management]
+
+Answer: 
+
+
+
+Q26On-demand scheduling is one of the techniques used in agile environments. This type of scheduling ______ work from a backlog as resources become available.
+
+A. Extrapolates
+B. Predicts
+C. Pulls
+D. Pushes
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+On-demand scheduling is one of the techniques used in agile projects. This type of scheduling "pulls" work from a backlog as resources become available. [PMBOK 6th edition, Page 177] [Project Integration Management]
+
+Answer: 
+
+
+
+Q27Lee is the project manager of a project, and he is planning responses to a set of risks. As a direct result of implementing these risk responses, he anticipates certain other risks to arise. These are:
+
+A. Secondary risks
+B. Primary risks
+C. Planned risks
+D. Workaround
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Secondary risks are those that arise as a direct result of implementing a risk response. [PMBOK 6th edition, Page 439] [Project Risk Management]
+
+Answer: 
+
+
+
+Q28Linda is currently drafting her project stakeholder management plan. Since she is a new hire, she is not aware of the company's policies and procedures. If she wants to know more about the company's general issues management procedures, where must she look?
+
+A. Project charter
+B. Scope statement
+C. Organizational process assets
+D. Issue register
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Linda is looking for company's policies and procedures. These are part of the organizational process assets. [PMBOK 6th edition, Page 39] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q29A tool that provides a visual representation of human resource allocation to a project, number of working hours, and availability on the project is a:
+
+A. Resource Histogram
+B. Staff release plan
+C. Resource Breakdown Structure (RBS)
+D. Organization Breakdown Structure (OBS)
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is Resource Histogram. This bar chart illustrates the number of hours that a project, department or project team will be working each week or month over the course of the project. The chart can include a horizontal line that represents the maximum number of hours available for a particular resource. Bars that extend beyond the maximum available hours indicate the need for a resource leveling strategy. [PMBOK 6th edition, Pages 220, 719] [Project Resource Management]
+
+Answer: 
+
+
+
+Q30In projects following adaptive lifecycles, what are the two critical components of iterative scheduling with a product backlog?
+
+A. User epics and time-bound accepted deliverables
+B. User stories and time-boxed periods of work
+C. Work packages and critical path
+D. Scope management plan and a detailed WBS
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+In adaptive life cycles, the requirements are documented in user stories that are then prioritized and refined.
+The product features are developed using time-boxed periods of work. [PMBOK 6th edition, Page 177] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31Three strategies that typically deal with negative risks or threats are:
+
+A. Enhance, Share, and Accept
+B. Transfer, Exploit, and Accept
+C. Avoid, Transfer, and Exploit
+D. Avoid, Transfer, and Mitigate
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Five negative risk management strategies are: Escalate, Avoid, Transfer, Mitigate, and Accept. [PMBOK 6th edition, Pages 442, 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q32Which of the following is least likely to be a project?
+
+A. Regular updates of the company website
+B. Responding to a contract solicitation
+C. Running a campaign for a political office
+D. An endeavor that lasts for 10 years
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Regular updates of the company website constitute an operational activity and are clearly not a project.
+Responding to a contract solicitation and running a campaign are clearly projects. The endeavor lasting for ten years cannot be ruled out as a project just because of its duration. Projects can last from a few weeks to many years. [PMBOK 6th edition, Page 4] [Project Framework]
+
+Answer: 
+
+
+
+Q33Which of the Project Schedule Management processes involves identifying and documenting dependencies among schedule activities?
+
+A. Sequence Activities
+B. Define Activities
+C. Develop Schedule
+D. Control Schedule
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Sequence Activities is the process of identifying and documenting dependencies among schedule activities.
+[PMBOK 6th edition, Page 187] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q34What does it mean if the Earned Value is equal to Actual Cost?
+
+A. Schedule Variance Index is 1
+B. Project is on budget and on schedule
+C. There is no cost variance
+D. There is no schedule variance
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+CV = EV - AC. If the EV is equal to the AC, then there is no cost variance on the project. [PMBOK 6th edition, Page 262] [Project Cost Management]
+
+Answer: 
+
+
+
+Q35Although it is highly recommended that lessons learned are captured and documented throughout the project lifecycle, lessons learned are finalized during project closure. At this stage, responses to high-level questions may be gathered and documented. Which of the following is not an appropriate question to ask at this stage?
+
+A. What were the top significant project successes?
+B. How relevant the historic lessons learned were to this project during execution?
+C. What obstacles or unanticipated circumstances made it difficult to complete the project?
+D. What should have been done differently in this project?
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Lessons learned are extremely useful as they can save a lot of rework and mitigate a number of risks on future projects. However, validating the relevance to historic lessons learned to the project being closed do not add any value. [PMI best practice; not explicitly stated in PMBOK] [Project Integration Management]
+
+Answer: 
+
+
+
+Q36Robert is managing a construction project. The project's client is responsible for the design, while Robert's organization is responsible for the construction. There has been a 45-day delay on a couple of major structure designs. This delay can only be recovered through crashing and will cost $2 million in addition to the approved budget. Robert prepares a detailed report and emails it to the client. In this scenario, Robert's email to the client is an example of:
+
+A. Informal unofficial communication
+B. Formal unofficial communication
+C. Informal official communication
+D. Formal official communication
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+According to the PMBOK guide, all email correspondence is informal. Although the communication was between two officials, it cannot be considered official unless the information is transmitted formally.
+[PMBOK 6th edition, Page 361] [Project Communications Management]
+
+Answer: 
+
+
+
+Q37You are the project manager managing a project to design a print head for dot matrix printers. In order to determine ideal settings for print quality, the quality manager of the company suggests trying out various scenarios for printing by varying certain parameters on the print head. Identifying such variables which influence the product or process under development is called:
+
+A. Benchmarking
+B. Design of Experiments
+C. Statistical Sampling
+D. Brainstorming
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is Design of Experiments. DOE aims at predicting the outcome by introducing a change of the inputs/preconditions. [PMBOK 6th edition, Page 290] [Project Quality Management]
+
+Answer: 
+
+
+
+Q38Although the business value is unique to each organization, each organization strives to attain business value for its activities. Which of the following does NOT create value for an organization?
+
+A. Escalation of commitment on projects involving significant sunk cost
+B. Effective management of ongoing operations
+C. Strategic alignment of project objectives
+D. Successful management of nonprofit business-related activities Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Effective management of ongoing operations, strategic alignment of project objectives, and, successful management of nonprofit businessrelated activities can all create value for an organization. However, escalation of commitment on projects involving significant sunk cost does not create any value for an organization. [PMBOK 6th edition, Page 7] {The term escalation of commitment' refers to the phenomenon where managers justify increased investment in a decision, based on the cumulative prior investment, despite new evidence suggesting that the cost of continuing the decision outweighs the expected benefit}. [Project Integration Management]
+
+Answer: 
+
+
+
+Q39You are managing a complex submarine causeway construction project. When you started the project, the scope of work was not clear and was based on a rather high-level estimate. Now that you are in the middle of the project, more information has become available. As a result, you now need to change some of the key subcontracts on the project. Which of the following will guide you through the change process?
+
+A. Change control terms of the individual subcontracts
+B. Project management plan's change control procedures
+C. Organizational process assets
+D. Supplier's contract administrator
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Your project's change control procedures are internal to your project, that is, the scope of work directly under your project's control. Specific contract change control procedures can be found in the individual subcontracts that can be different for each subcontract. [PMBOK 6th edition, Page 489] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q40Cause-and-Effect diagrams are used to illustrate how various factors might link to potential problems or effects. They are also called:
+
+A. Taguchi diagrams
+B. Pareto diagrams
+C. Ishikawa diagrams
+D. Process diagrams
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Cause and Effect diagrams are also called Ishikawa diagrams. [PMBOK 6th edition, Page 293] [Project Quality Management]
+
+Answer: 
+
+
+
+Q41The purpose of lessons learned is to bring together any insights gained during a project that can be usefully applied on future projects. When should a project manager ideally commence this activity?
+
+A. At the start of project planning
+B. At the start of project execution
+C. During the project closure
+D. From project kickoff meeting
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Manage Project Knowledge is the process of using existing knowledge and creating new knowledge to achieve the project's objectives and contribute to organizational learning. This process is performed throughout the project. [PMBOK 6th edition, Page 98] [Project Integration Management]
+
+Answer: 
+
+
+
+Q42Which of the following analytical techniques evaluates investment potential considering time-value of money?
+
+A. Pareto analysis
+B. Discounted cash flow
+C. Earned value management
+D. Monte Carlo technique
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Discounted cash flow analysis uses future free cash flow projections and discounts them to arrive at a present value estimate, which is used to evaluate the potential for investment. Rest of the choices are incorrect because Pareto analysis is carried out to identify the most significant factors out of many; earned value management is carried out to monitor and control cost of an ongoing project; while the Monte Carlo is a simulation technique used to analyze project risks. [PMBOK 6th edition, Page 473] [Project Integration Management]
+
+Answer: 
+
+
+
+Q43Which of the following is not true about the WBS?
+
+A. The project team must be involved in developing the WBS.
+B. The WBS must represent all product and project work.
+C. WBS should focus on activities rather than deliverables.
+D. WBS is usually represented in a hierarchical fashion.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The WBS puts a greater focus on deliverables than on actual activities. [PMBOK 6th edition, Page 156] [Project Scope Management]
+
+Answer: 
+
+
+
+Q44Which of the following is accurate regarding the Estimate Activity Resources process?
+
+A. It produces project resource calendars as the output.
+B. It determines dependencies that may require a lead or lag to define the relationship.
+C. This process is coordinated independent of the Estimate Cost process.
+D. It involves determining what and how many resources to use.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+- The Estimate Activity Resources process determines what and how many resources will be used. This process is closely coordinated with the Estimate Costs process. Activity leads and lags are not determined during this process. [PMBOK 6th edition, Page 320] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q45In a project, Activity A has a duration of four days and begins on the morning of Monday the fourth. The successor Activity, B, has a Finishto-Start (FS) relationship with A. The Finish-to-Start relationship has two days of lag, and Activity B has a duration of three days. If Saturday and Sunday are non-working days, which of the following statements is true?
+
+A. Total elapsed days (completing both activities) is seven days
+B. Activity B will be completed by the end of the day on Thursday, the 14th
+C. Activity B will be completed by the end of the day on Friday, the 15th.
+D. Activity B will be completed by the end of the day on Tuesday, the 12th Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Activity A has a duration of 4 days and completes by end of the day on Thursday, 7th. There is a 2-day lag, and since Saturday and Sunday are non-working, Activity B can begin only on Tuesday, 12th. Activity B has a duration of 3 days and completes by end of the day on Thursday, 14th. [PMBOK 6th edition, Page 192] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q46Analogous Cost Estimating is which of the following?
+
+A. Uses statistical relationship between historical data and other variables
+B. Generally less accurate
+C. Bottom-up estimating
+D. Generally accurate
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Analogous cost estimating is usually deemed less accurate than other methods of estimation. [PMBOK 6th edition, Page 200] [Project Cost Management]
+
+Answer: 
+
+
+
+Q47What is the best way to make an accurate forecast of ETC?
+
+A. EAC - AC
+B. BAC " EV
+C. Manual forecasting of cost of the remaining work.
+D. (BAC " EV)/CPI
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Manual forecasting of costs of remaining work is the most common forecasting approach. It is generally considered the best means of generating an accurate forecast of ETC. [PMBOK 6th edition, Page 264] {For any project, the estimate to complete (ETC) is the money required to finish the project. The most accurate way to figure this value out is to do a bottom-up estimate for the remaining project work under the light of current project conditions. However, this approach is time-consuming and cannot be carried out frequently during the project. This technique is only used when we think that either significant scope of work has been changed, or there has been significant changes in the project conditions, and hence, we cannot accurately predict the future based on project performance to date. If such extreme conditions are not present, usually we try to predict ETC quickly using formulas based on current performance. All ETC/EAC formulas are rooted in current project perform
+
+Answer: 
+
+
+
+Q48Which of the following is not a valid instance of risk transference?
+
+A. Use of a Cost Reimbursable contract
+B. Warranties
+C. Fixed Price contracts
+D. Performance bonds
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A cost-reimbursable contract does not transfer risk to the seller; rather, the risk is with the buyer. Risk transference involves shifting the negative impact of a risk, along with the ownership of the response, to a third party. Risk transference nearly always involves payment of a premium to the party taking on the risk.
+Examples include performance bonds, warranties, and fixed price contracts. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q49Under which of the following scenarios would you not use a decision tree?
+
+A. When some future scenarios are unknown
+B. When you need to look at the implications of not choosing certain alternatives
+C. When the future scenarios are known
+D. When the outcomes of some of the actions are uncertain
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+You would use a decision tree when uncertainty and unknowns exist regarding future scenarios and their outcomes, not when future scenarios are known. [PMBOK 6th edition, Page 435] [Project Risk Management]
+
+Answer: 
+
+
+
+Q50You have been assigned as a project manager of a new project to be executed out of New York. However, you determine the project requires a Global Positioning Systems expert who is not available within the company in New York. After doing a little checking, you determine that the company has an expert based in London who is suitable for the project. However, the London-based employee is not willing to relocate to New York for the project. In such a case:
+
+A. Write to the manager of the London-based employee and inform him that the employee needs to be convinced to relocate to New York due to project requirements.
+B. You look at the option of moving ahead with the project by using a virtual team.
+C. Manage the project without the key resource and flag this as a risk.
+D. Co-location of resources is a key factor for the success of projects. As per PMI guidelines, you cannot proceed with the project since the resources are not available in New York.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The use of virtual teams has created possibilities of having teams in different global locations who are working towards a common goal. The availability of email and videoconferencing has made such teams possible. Virtual teams do present additional challenges, but these can be managed in most cases. The other choices are not valid. [PMBOK 6th edition, Page 311] [Project Resource Management]
+
+Answer: 
+
+
+

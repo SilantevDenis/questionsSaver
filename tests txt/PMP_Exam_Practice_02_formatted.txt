@@ -1,0 +1,835 @@
+PMP_Exam_Practice_02
+
+Number: 002-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 2
+Exam A
+Q1A good project manager always gathers and documents lessons learned throughout the project lifecycle rather than delaying the effort until the project closure. Which of the following is not a risk associated with postponing the lessons-learned gathering effort until the very end of the project?
+
+A. The project manager has fewer resources available.
+B. The project's earned value decreases.
+C. Not all lessons learned might get captured.
+D. The effort might seem boring and non-value-adding.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The risk of delaying the lessons learned gathering exercise till the very end of the project is that the gathered information might not be complete because the project manager will not have the whole team available rather than those working on the closing phase. Further, this exercise might seem boring and bureaucratic effort. [PMBOK 6th edition, Page 100] [Project Integration Management]
+
+Answer: 
+
+
+
+Q2Laurence is the PMO manager at ANZ Company. The CEO of the company asked Laurence to review the business requirements and develop the current year's capital management plan. The capital management plan will outline the key business deliverables (capital projects) and will go to the board for final approval. Which of the following organizational artifacts should Laurence review to analyze the business requirements for the current fiscal year?
+
+A. Lessons Learned
+B. Capital budget for the current year
+C. Organizational Process Assets
+D. Organizational Strategy
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Capital planning is the process of budgeting resources for the future of an organization's long term plans.
+Capital planning for a business would include budgeting for new and replacement machinery, research and development and the production of new products, new plants and other major capital projects. Capital projects can only achieve the organizational goals when they are aligned with the organization's strategy.
+[PMBOK 6th edition, Page 12] [Project Integration Management]
+
+Answer: 
+
+
+
+Q3Maintaining good supplier relationships should be important to all project managers. A good buyer-seller relationship is a partnership that results in a win-win situation that nurtures both parties. Which of the following is both a short- and long-term benefit of treating a supplier with courtesy, honesty, and fairness?
+
+A. There is no need to have formal contracts in place
+B. Delivery of quality products and services at the best price
+C. The buyer can delay the payments without jeopardizing the relationship
+D. The supplier can charge a price higher than the market price Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Charging higher than market price or delaying the payment will damage the relationship in the long-run.
+Further formal contracts should always be in place as it is a good project management practice and it mitigates risk for both parties and avoids conflicts. The benefit of good supplier relationship is delivery of quality products at competitive prices. [PMI best practice; not explicitly stated in PMBOK] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q4James is managing a shopping mall construction project. During the project execution, he learns the project communications management plan is not effective and requires a major update. Which of the following processes will issue a change request for the required update?
+
+A. Plan Communications Management
+B. Manage Communications
+C. Perform Integrated Change Control
+D. Monitor Communications
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Change request is an output of the Monitor Communications process. The Monitor Communications process will produce the change request, the Perform Integrated Change Control process will get that approved, and then the Plan Communications Management process will make the necessary updates.
+[PMBOK 6th edition, Page 389] [Project Communications Management]
+
+Answer: 
+
+
+
+Q5With a growing awareness of so-called unknowable-unknowns, the existence of emergent risk is becoming clear. These are risks that can only be recognized after they have occurred. Emergent risks can be tackled through developing:
+
+A. Project resilience
+B. Project charter
+C. Project management plan
+D. Project risk management plan
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Emergent risks can be tackled through developing project resilience. This requires each project to have right level of budget and schedule contingencies, flexible project processes, empowered project team and frequent review of early warning signs. [PMBOK 6th edition, Page 399] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6Change control tool selection should be based on the needs of the project stakeholders, including organizational and environmental considerations and/or constraints. Which of the following is not a key change management consideration while selecting an appropriate change control tool for a project?
+
+A. Identifying and selecting a change item
+B. Configuration item verification and audit
+C. Documenting the change into a proper change request
+D. Tracking change requests
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Configuration item verification and audit is related to configuration management instead of change management. [PMBOK 6th edition, Pages 118, 119] [Project Integration Management]
+
+Answer: 
+
+
+
+Q7In general, Perform Qualitative Risk Analysis is:
+
+A. Not often completed
+B. Complete and 100 percent accurate
+C. In-depth and thorough
+D. focused on high-priority risks
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Perform Qualitative Risk Analysis is quicker than Perform Quantitative Risk Analysis as it focuses on high- priority risks. [PMBOK 6th edition, Page 419] [Project Risk Management]
+
+Answer: 
+
+
+
+Q8As a project manager, you perform various project performance measurements to assess the magnitude of variation. You then attempt to determine the cause and decide whether corrective action is necessary. This
+is:
+
+A. Scope Analysis
+B. Variance Analysis
+C. Performance Reporting
+D. Configuration Management
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+This is known as Variance Analysis. As project manager, you would then attempt to determine the cause of the variance relative to the scope baseline, and then decide whether corrective action is required. [PMBOK 6th edition, Page 111] [Project Scope Management]
+
+Answer: 
+
+
+
+Q9Two efficiency indicators that reflect the cost and schedule performance of a project are:
+
+A. Cost Projection Index (CPI) and Schedule Projection Index (SPI)
+B. Cost Performance Index (CPI) and Schedule Performance Index (SPI)
+C. Actual Cost (AC) and Planned Value (PV)
+D. Cost Pricing Index (CPI) and Schedule Performance Index (SPI) Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The Cost Performance Index (CPI) and the Schedule Performance Index (SPI) are two efficiency indicators that reflect the cost and schedule performance of the project. [PMBOK 6th edition, Page 263] [Project Cost Management]
+
+Answer: 
+
+
+
+Q10In projects with adaptive life cycles, many of the project management processes are repeated in each iteration of the project except:
+
+A. Develop Project Charter
+B. Collect Requirements
+C. Define Scope
+D. Create WBS
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+In projects with adaptive life cycles, many of the project management processes are repeated in each iteration of the project except the Develop Project Charter process; which is typically performed only once at the start of the project. [PMBOK 6th edition, Page 131] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11If you want to compress a project schedule, what are two of the recommended alternatives to consider?
+
+A. Fast Tracking and Schedule Network Analysis
+B. Crashing and Fast Tracking
+C. Resource Levelling and What-If Scenario Analysis
+D. Crashing and Schedule Network Analysis
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Crashing and fast tracking can compress the project's schedule when necessary, but might come at a higher cost and rework potential. [PMBOK 6th edition, Page 215] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q12Large organizations typically manage a wide range of projects; from small projects to large initiatives requiring long-term commitments. Which of the following factors can be used in scaling such projects:
+
+A. Team size, geographical distribution, regulatory compliance, organizational complexity, technical complexity, and funds availability.
+B. Team size, geographical distribution, regulatory compliance and organizational complexity.
+C. Team size, geographical distribution and regulatory compliance.
+D. Team size, geographical distribution, regulatory organizational complexity and technical complexity.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In large organizations, there may be a mixture of small projects and large initiatives requiring long-term commitments to manage these programs using scaling factors such as team size, geographical distribution, regulatory compliance, organizational complexity, and technical complexity. Funds availability is a constraint applicable to all projects. [PMBOK 6th edition, Page 178] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q13Which of the following is not a part of the data gathering tools used in Control Quality process?
+
+A. Checklists
+B. Control Chart
+C. Check sheets
+D. Statistical sampling
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Control chart is a monitoring tool, while the rest of the choices are valid data gathering tools used during Control Quality process. [PMBOK 6th edition, Pages 302, 303] [Project Quality Management]
+
+Answer: 
+
+
+
+Q14Measuring the quality of items in a sample on a pass/fail basis is:
+
+A. Biased sampling
+B. Variable sampling
+C. Stratified sampling
+D. Attribute sampling
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Attribute sampling measures the quality of items in a sample on a pass/fail basis; variable sampling measures the quality on a continuous scale. [PMBOK 6th edition, Page 274] [Project Quality Management]
+
+Answer: 
+
+
+
+Q15George is managing a telecommunication network deployment project. Most of the key project stakeholders are happy with the project so far. However, George has some potential concerns that might become issues in the near future. The next project status update meeting with the key stakeholders is the next day. What should George do?
+
+A. Wait until the concerns become issues
+B. Discuss these concerns with the key stakeholders
+C. Do not report the concerns in the next meeting but try to mitigate these concerns
+D. Briefly discuss these concerns in the next meeting but do not make them look significant Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Effective stakeholder management requires addressing potential concerns that have not yet become issues and anticipating future problems that may be raised by stakeholders. Such concerns need to be identified and discussed as soon as possible to assess associated project risks. [PMBOK 6th edition, Page 524] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16On-demand scheduling is one of the techniques used in agile projects. This type of scheduling relies on:
+
+A. A schedule that was developed previously for the development of the project increments.
+B. Discretionary dependencies that cannot be changed by the project team.
+C. Skills of the project manager rather than the skills of the team.
+D. A backlog or intermediate queue of work to be done.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+On-demand scheduling does not rely on a schedule that was developed previously for the development of the product or product increments, but rather pulls work from a backlog or intermediate queue of work to be done immediately as resources become available. [PMBOK 6th edition, Page 177] [Project Resource Management]
+
+Answer: 
+
+
+
+Q17Midway through a project, a project manager determined the project was running far behind schedule. If the project manager needs to shorten the project schedule without changing the project scope, which of the following schedule compression techniques could he use?
+
+A. Crashing
+B. Reserve Analysis
+C. Forecasting
+D. Last Tracking
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Crashing is a technique that can be applied to compress the project schedule without changing the project scope. Another option is fast tracking. [PMBOK 6th edition, Page 215] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q18At the end of a project, what will your schedule variance be equal to?
+
+A. Zero
+B. Equal to the total PV
+C. One
+D. Equal to the total EV
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The schedule variance is the earned value minus the planned value. At the end of the project, all of the planned values should be earned, and the difference should be zero. [PMBOK 6th edition, Page 262] [Project Cost Management]
+
+Answer: 
+
+
+
+Q19How does time-boxing help minimize scope creep in agile projects?
+
+A. It forces the team to create project WBS using the user stories.
+B. It forces the sponsor to allocate a Scrum master who helps in eliminating scope creep.
+C. It forces the team to process essential features first, then other features.
+D. It forces the team to convert the user stories into epics.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Time-boxed periods are durations during which the team works steadily toward completion of a goal. Time- boxing helps to minimize scope creep as it forces the teams to process essential features first, then other features when time permits. [PMBOK 6th edition, Page 182] [Project Risk Management]
+
+Answer: 
+
+
+
+Q20A good project manager knows the value of effective stakeholder management. What is the ultimate goal of effective stakeholder management?
+
+A. Stakeholder engagement
+B. Project success
+C. Stakeholder satisfaction
+D. Meeting project objectives
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+All of the statements are correct. However, the question is asking for the ultimate goal which is the project's success. Stakeholder management is all about engaging stakeholders to meet their expectations and achieving stakeholder satisfaction. This is one of the key project objectives required to be achieved in order to deliver a successful project. [PMBOK 6th edition, Page 504] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q21While analyzing a project, the project manager calculated the ratio of the Earned Value (EV) to the Actual Costs (AC) and obtained a value of 1.2. The project manager decided this was an unfavorable condition for the project and decided to take corrective action. What is your view?
+
+A. The project manager is correct. The ratio of EV to AC is the Cost Performance Index and a ratio greater than 1 is unfavorable to the project
+B. The project manager is not correct. The ratio of EV to AC is the Cost Variance and a ratio greater than 1 is favorable to the project.
+C. The project manager is not correct. The ratio of EV to AC is the Cost Performance Index and a ratio greater than 1 is favorable to the project
+D. The project manager is correct. The ratio of EV to AC is the Cost Variance and a ratio greater than 1 is unfavorable to the project.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager is not correct. Cost Performance Index (CPI) is the ratio of EV to AC. A value greater than one represents a favorable condition for the project. The project manager has misinterpreted the situation. [PMBOK 6th edition, Page 263] [Project Cost Management]
+
+Answer: 
+
+
+
+Q22Which of these is not an established Estimate Activity Durations technique?
+
+A. Three Point Estimating
+B. Parametric Estimating
+C. Analogous Estimating
+D. Critical Path Estimation
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Analogous, parametric, and three-point estimating techniques are all accepted practices for determining the correct amount of time required for a portion of the project. The Critical Path Analysis techniques evaluate the whole project schedule. [PMBOK 6th edition, Pages 200, 201] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q23If you are working on a project where there is no definite detailed scope, but there are similar projects in the past, what is the correct Estimate
+Activity Durations tool to use?
+
+A. Analogous Estimating
+B. Parametric Estimating
+C. Critical Path Estimation
+D. Three Point Estimating
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Analogous estimation relies on comparing a project to previous projects that were similar in nature.
+[PMBOK 6th edition, Page 200] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q24As project manager, you would like to show the relationship between two variables to help your project team understand the quality impact better. Which tool should you use?
+
+A. Scatter Diagram
+B. Run Chart
+C. Fishbone Diagram
+D. Pareto Chart
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A scatter diagram plots several occurrences of two variables (one on each axis). Often a relationship between the two variables can then be determined, based on how closely they fit a geometric model.
+[PMBOK 6th edition, Page 293] [Project Quality Management]
+
+Answer: 
+
+
+
+Q25A project manager feels the need of updating one of the project supplier contracts to meet the project's current needs. However, before any change requests, the project manager must know the right process to incorporate a change into this specific contract. What should he do first?
+
+A. Issue the change request and get it approved through Integrated Change Control process
+B. Update the project procurements management plan
+C. Review the change request handling procedure as documented in the contract itself
+D. Review alternative dispute resolution (ADR) procedures in the contract Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The first step should be to gather enough information so that the right decision and course of action can be determined. The second step should be to issue a change request and follow its approval. The project manager must first review the change request handling procedure specific to the contract and that can be found in the procurement contract itself. [PMBOK 6th edition, Page 489] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q26The objective of a transformation project is to move an organization from one state to another state. The desired result of the change driven by the project is described as the:
+
+A. Good state
+B. Future state
+C. Happy state
+D. Transition state
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Before the project begins, the organization is commonly referred toas being in the current state. The desired result of the change derived by the project is described as the future state. [PMBOK 6th edition, Page 6] [Project Quality Management]
+
+Answer: 
+
+
+
+Q27The term Progressive Elaboration incorrectly represents which of the following?
+
+A. Changes to project scope
+B. Rolling wave planning
+C. Detailing out the product requirements developed during the initiation process.
+D. Production of fabrication and construction drawings from the design drawings for a chemical plant.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The distinction between progressive elaboration and scope creep needs to be understood since the two terms are different. The changes to scope (especially in an uncontrolled manner) are called scope creep. In contrast, progressive elaboration involves building on or elaborating the output of a previous phase.
+[PMBOK 6th edition, Page 185] [Project Framework]
+
+Answer: 
+
+
+
+Q28Which document describes the project's deliverables and the work required to create those deliverables?
+
+A. Project authorization document
+B. Project scope statement
+C. Project scope management plan
+D. Project charter
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project scope statement is the correct response. This document describes the project's deliverables in detail and the work that is required to create those deliverables. It also forms the baseline for evaluating whether requests for changes are within or outside the project's boundaries. [PMBOK 6th edition, Page 154] [Project Scope Management]
+
+Answer: 
+
+
+
+Q29During a presentation to management, you want to display the project schedule with only the key deliverables displayed. What is the correct tool for this purpose?
+
+A. Project schedule network diagram
+B. Critical path network
+C. Milestone chart
+D. Critical chain diagram
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A milestone chart displays only the key deliverables and is simple and easy to understand. [PMBOK 6th edition, Page 218] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q30Henry is the project manager for a process improvement project. Henry is a recently hired Six Sigma expert. David is the process owner of the process Henry must optimize. During the project kick-start meeting with the project sponsor, David said he supports all continuous improvement efforts. However, David is unaware of the Six Sigma technique and feels threatened by the newly hired expert, and as a result, is blocking Henry's ideas. What is David's current engagement level with the project?
+
+A. Unaware
+B. Supportive
+C. Resistant
+D. Neutral
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Although David claims that he is supportive of all improvement initiatives, his behavior is not coherent with his claim. Since David is blocking Henry's idea, he is in effect, resistant of the project. [PMBOK 6th edition, Page 521] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31Which of these items are important to address when determining each person's role in the project team?
+
+A. Role, authority, responsibility, and competency
+B. Role, responsibility, and competency
+C. Role and responsibility
+D. Role, authority, and competency
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+All four of these are important to consider when considering someone for a position within the project team:
+Role, authority, responsibility, and competency. [PMBOK 6th edition, Pages 318, 319] [Project Resource Management]
+
+Answer: 
+
+
+
+Q32If you want to reduce the number of quality inspections and reduce the cost of quality control for your project, which technique should you use?
+
+A. Run Chart
+B. Defect Repair Review
+C. Statistical Sampling
+D. Pareto Chart
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Statistical sampling will provide sufficient inspection to ensure a high likelihood of a quality product while saving money for the project. [PMBOK 6th edition, Page 303] [Project Quality Management]
+
+Answer: 
+
+
+
+Q33Performance reports are produced during the Control Procurements process by evaluating work performance data against the agreement requirements. Which of the following is the prime objective of producing such reports?
+
+A. Performance reporting is a good project management practice and must be carried out on all projects.
+B. Performance reports are produced so they can be added to lessons-learned database, and the future project might benefit.
+C. Performance reports document the analysis of the project manager and does not require supplier's participation.
+D. Providing management with information about how effectively the seller is achieving the contractual objectives.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+All of the choices are valid but the question is asking for the prime/main reason for conducting this exercise.
+The prime objective of this exercise is to provide management with information about how effectively the sellers are achieving the contractual objectives and obligations. [PMBOK 6th edition, Page 499] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q34Project managers need to be aware of Student Syndrome. What does that mean?
+
+A. People go through a learning curve whenever they are engaged in a project.
+B. People who consider themselves students of project management tend to apply PMBOK principles better.
+C. People start to apply themselves only at the last possible moment before the deadline.
+D. People who undertake studies during their professional careers tend to be better project managers.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Student Syndrome " or procrastination " refers to the phenomena where people start to apply themselves only at the latest possible moment before the deadline. [PMBOK 6th edition, Page 197] [Project Scope Management]
+
+Answer: 
+
+
+
+Q35A project manager must stress the importance of collecting and documenting lessons learned through the project lifecycle. One good way to collect this information is during weekly status meetings. Usually, weekly status meetings, if not managed properly, end up in firefighting since most of the time, attention goes to the burning issues. How can you ensure that the lessons-learned gathering does not get missed in such a situation?
+
+A. Add a lessons-learned agenda item.
+B. Record the minutes of the meeting.
+C. Do not discuss burning issues in weekly status meetings.
+D. Replace status update meetings with one-on-one meetings with the team members.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A good approach is to add a lessons-learned agenda item to the meeting. As the meeting progresses to the point where you're ready to collect lessons-learned information, ask each team member about his or her positive and negative experiences for the week. Don't mention the words "lessons learned" to them; just capture what went right and wrong from every team member. Do your best to prevent this part of the meeting from devolving into a complaint session. [PMI best practice; not explicitly stated in PMBOK] [Project Integration Management]
+
+Answer: 
+
+
+
+Q36Where would you find a detailed list and description of specific project assumptions associated with the project?
+
+A. Project charter
+B. Project scope statement
+C. Project configuration document
+D. Change management plan
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The Project scope statement lists and describes the specific project assumptions associated with project scope and the potential impact of those assumptions if they prove to be false. The assumptions listed in the detailed project scope statement are typically more numerous and detailed than the project assumptions listed in the project charter. [PMBOK 6th edition, Page 154] [Project Scope Management]
+
+Answer: 
+
+
+
+Q37A number of teams are developing an enterprise system using the agile approach for product development. Which of the following is a major risk item for such a complex project being performed in an agile environment?
+
+A. Number of interconnected dependencies between the features developed by different teams.
+B. Number and size of teams developing the larger features.
+C. Scope definition and freezing early during the planning phase.
+D. Emphasis on schedule control over risk management.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+In adaptive life cycles, when multiple teams are concurrently developing a large number of features, the interconnected dependencies between the features become a major risk item. [PMBOK 6th edition, Page 177] [Project Communications Management]
+
+Answer: 
+
+
+
+Q38Which of these is not a data analysis technique used during quantitative risk analysis?
+
+A. Tornado diagram
+B. Decision tree
+C. RACI chart
+D. Influence diagrams
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+RACI chart is not a data analysis technique used during quantitative risk analysis. Rest of the choices are valid techniques for data analysis. [PMBOK 6th edition, Pages 434, 435, 436] [Project Risk Management]
+
+Answer: 
+
+
+
+Q39Which of the following is a tool or technique of the Develop Team process?
+
+A. Organizational charts
+B. Co-location
+C. Acquisition
+D. Influence diagrams
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Colocation is a tool and technique of the Develop Team process. The other choices are not valid responses. [PMBOK 6th edition, Page 336] [Project Resource Management]
+
+Answer: 
+
+
+
+Q40A hierarchical structure of project resources organized by category and resource type, used in planning, managing and controlling project work, is:
+
+A. Team structure
+B. Resource Pool
+C. Organization Breakdown Structure
+D. Resource Breakdown Structure
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Resource Breakdown Structure (RBS) is a hierarchical structure of team and physical resources related by category and resource type. [PMBOK 6th edition, Page 316] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q41A project post-mortem is an activity, usually performed at the project's conclusion, to determine and analyze a project's outcome which also includes a lessons-learned gathering exercise. Project post-mortems help to mitigate future risks and are often a key component of, and ongoing precursor to, effective risk management. Which of the following is a terrible mistake when collecting lessons learned?
+
+A. Documenting both the success stories and the failed attempts
+B. Calculating project's final statistics
+C. Focusing purely on the negatives and analyzing failures
+D. Conducting a comprehensive performance review
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Documenting both the success stories and the failed attempts are important as these can be very important inputs for future projects. Only focusing on the negatives and analyzing failures will paint half of the picture.
+The best practice is to ask "What went right" when asking "What went wrong?". [PMBOK 6th edition, Page 104] [Project Integration Management]
+
+Answer: 
+
+
+
+Q42What does a Cost Performance Index (CPI) of more than 1.0 indicate?
+
+A. The project is over budget.
+B. The project is right on budget.
+C. The project is under budget.
+D. The project is ahead of schedule.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The CPI is calculated as the earned value divided by the actual cost. An index of greater than one indicates that you have spent less than you forecasted to this point. [PMBOK 6th edition, Page 263] [Project Cost Management]
+
+Answer: 
+
+
+
+Q43Which of the following statements is correct?
+
+A. A collection of unrelated programs can constitute a portfolio.
+B. The scope of a portfolio is typically smaller than that of a program.
+C. A program is a group of unrelated projects.
+D. A program need not consist of projects.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A portfolio refers to a collection of projects or programs that are grouped together to facilitate their effective management. The projects or programs need not be directly related or interdependent. [PMBOK 6th edition, Page 13] [Project Framework]
+
+Answer: 
+
+
+
+Q44A project team member finds that the color scheme of the webpage he is designing appears too gaudy and decides to change it to a melloweddown color scheme. The customer approved the original color scheme and the color palette. The independent testing team flags this as a defect, and a heated discussion ensues between the team member and the testing team. What is your view?
+
+A. The testing team is incorrect in flagging this as a defect. This is an example of expert judgment when historical expertise is brought into the project.
+B. The testing team is correct. Even though the new color scheme is more pleasing than the old one, the appropriate change management process was not followed, and the work product is not as per design.
+C. The testing team is not right in flagging this. The color scheme is a simple matter, and the new colors are definitely more pleasing than the old ones.
+D. The testing team is correct in flagging this. The team member should have sent a note along with the work product indicating he or she made the color scheme change.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The testing team is correct in their findings. Even though the new color scheme might be a better choice than the old one, all changes need to follow the change management process and go through the appropriate change and approval process. [PMBOK 6th edition, Page 115] [Project Scope Management]
+
+Answer: 
+
+
+
+Q45Which of the following items needs to be kept in mind when relying on risk identification checklists?
+
+A. They are biased.
+B. They are not exhaustive.
+C. They are often inaccurate.
+D. They are easy to prepare.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+While the risk identification checklist is a useful tool, it should be used in combination with the other tools, since it is impossible to cover all scenarios in one checklist. [PMBOK 5th edition, Page 414] [Project Risk Management]
+
+Answer: 
+
+
+
+Q46As an external vendor, you are managing a complex software project on a time-and-materials (T&M) contract. One of your team members reports a breakthrough in automating some of the testing activities. This may result in cost savings to the project and completion of the project one month ahead of schedule.
+Which of the following actions would you take?
+
+A. This is confidential information within your project team and there is no need to share with the customer.
+The savings will be additional profits on the project.
+B. Communicate the current status and inform the customer you will incorporate some additional features to use up the savings in cost and time since it was budgeted.
+C. Communicate the current status to the customer and indicate the potential changes to cost and schedule.
+D. Communicate the savings in cost and time to the customer. At the end of the project, notify your billing department that they need to prepare an invoice for 50 percent of the cost saved.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A project manager should always communicate an accurate statement of the project status. There could be subsequent actions to determine how the savings could be best put to use, whether there could be any cost sharing, etc."but these would need to be done following the appropriate procedure. [PMI Code of Ethics and Professional Responsibility] [Project Framework]
+
+Answer: 
+
+
+
+Q47A company manages SBG contracting bids for government tenders and all successful bids as a separate project. The structure of the company is mainly projectized for a dedicated project team to manage each project. However, to realize economies of scale, there are some central departments that serve all projects. Which of the following role is most likely to be working in a central department instead of directly working with a project team?
+
+A. Quality control inspector
+B. Construction manager
+C. Project planner
+D. Procurement administrator
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In order to realize economies of scope, many organizations treat contract administration as an administrative function separate from the project organization. This is usually true if the performing organization is also the seller of the project to an external customer. [PMBOK 6th edition, Page 494] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q48The Control Procurements process receives a very important input from the Direct and Manage Project Work process. Which one is it?
+
+A. Approved change requests
+B. Work performance data
+C. Procurement documents
+D. Agreements
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Work performance data is provided to the Control Procurements process by the Direct and Manage Project Work process. [PMBOK 6th edition, Page 493] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q49Julia is currently recruiting her project team. She has carried out various interviews and has shortlisted potential candidates. Now, according to the project communication management plan, she has to submit the shortlisted profiles to the project client (customer) for approval. Only then, can she formally hire the approved candidates for the project. The submission of the profiles to the client will go through which of the following processes?
+
+A. Manage Stakeholder Engagement
+B. Acquire Resources
+C. Manage Communications
+D. Plan Resource Management
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Manage Communications is the process of distributing project information in accordance to the communications management plan. The interviews and shortlisting was carried out during the Acquire Resources and so will be the hiring once the approvals come in. However, the profiles submission to the client will be done through the Manage Communications process. [PMBOK 6th edition, Page 379] [Project Communications Management]
+
+Answer: 
+
+
+
+Q50Mark is in the middle of a software development project. So far, the project has incurred a total cost of $50,000. If it is determined the project is no longer required, what would we call the cost incurred to date?
+
+A. Opportunity cost
+B. Return on investment
+C. Breakeven cost
+D. Sunk cost
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Sunk cost is defined as a cost that has already been incurred and which cannot be recovered. [PMBOK 6th edition, Page 671] [Project Integration Management]
+
+Answer: 
+
+
+
+Q51Upon obtaining the project charter, the Project Manager of a project starts acquiring the project team immediately. Is this correct?
+
+A. Yes. Acquisition of the project team is primarily an Initiating Process Group activity.
+B. Yes. The project manager needs to get the team together as soon as the project starts.
+C. No. It is the responsibility of the project sponsor to provide the team for execution.
+D. No. Acquisition of the project team is primarily an Executing Process Group activity.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+No, the project team is not acquired immediately after signing of the project charter. Acquisition of a project team starts with resource management planning in the planning process group, followed by the acquisition of the resources in the execution phase. The other choices are wrong, because the acquisition of the project team is mentioned in the wrong phase. [PMBOK 6th edition, Page 328] [Project Resource Management]
+
+Answer: 
+
+
+

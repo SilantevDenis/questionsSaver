@@ -1,0 +1,822 @@
+PMP_Exam_Practice_14
+
+Number: 014-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 14
+Exam A
+Q1You are an electrical engineer with extensive experience in managing transmission projects but limited experience with electronic design projects. However, in a stretch assignment, you were recently transferred to another department in your company that focuses on electronic design. Furthermore, you were asked to lead a highly important project involving both transmission and electronic design. In preparation for a meeting with your manager to discuss this opportunity, you review the initial project design brief. Due to your limited background in electronic design, a number of items in this document seem unclear to you. When you arrive at your meeting, your manager asks if you will be leading the project. How do you respond?
+
+A. Accept the project and tell your manager that your expertise in transmission makes you an ideal manager for this project.
+B. Decline the project, citing your lack of experience in electronics design.
+C. Accept the project, but do not discuss your qualifications or lack thereof.
+D. State that you would like to lead the project, but you must disclose that your primary domain of expertise is transmission, and that you may need supplementary training in electronics design.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+State that you would like to lead the project, but disclose that your expertise is in transmission, not electronics design. PMI's Code of Ethics and Professional Conduct mandates that project managers accept only those projects for which they have appropriate qualifications and experience. However, if project stakeholders are fully informed of the areas where you may be lacking skills or knowledge, and they still wish you to lead the project, this is not a violation of the code. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q2A seller began a project that was contracted on a time-and-materials (T&M) basis. Based on the agreed- upon rates and effort, the initial contract amount was $100,000 over a one-year period. However, when the project was completed, the total contract value turned out to be $350,000 over a two-year period. What mechanism could the buyer have used to prevent this unlimited cost growth and schedule change?
+
+A. Use of a not-to-exceed value and a time limit on the contract
+B. A service level agreement
+C. A penalty based on the increased cost and timeline
+D. Use of a fixed price contract
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Use of not-to-exceed values and time limits on T & M contracts help prevent unlimited cost growth or schedule changes. A fixed-price contract is an option, but whether to choose that option is a decision to be made prior to awarding the project and signing the contract. [PMBOK 6th edition, Page 78] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q3The Budget at Completion (BAC) for a project is $50,000. The Actual Costs (AC) to date are $10,000. The Earned Value (EV) is $7,000. At this stage, the project management team did a manual bottom-up summation of costs and forecast an Estimate to Complete (ETC) of $50,000. What is the Estimate at Completion (EAC) for the project?
+
+A. $57,000
+B. $40,000
+C. $60,000
+D. $53,000
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+When a bottom-up manual forecasting has been done for the ETC, the calculation for EAC is EAC = AC + bottom-up ETC. Hence, EAC = 10,000 + 50,000 = $60,000. Note that the BAC is no longer viable at this stage. [PMBOK 6th edition, Page 267] [Project Cost Management]
+
+Answer: 
+
+
+
+Q4Projects, portfolios, and programs are different entities in an organization. Which of the following choices states a correct relationship between them?
+
+A. A portfolio consists of a collection of projects or programs that are grouped together to achieve strategic business objectives. The projects or programs need not be directly related.
+B. A project is a collection of programs and portfolios that are grouped together to achieve the project objectives.
+C. A program consists of a collection of projects or portfolios that are grouped together to achieve strategic business objectives.
+D. A program is a collection of projects that are grouped together for convenience. It may include unrelated work if the work is under the same business division.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A portfolio is a collection of projects or programs that are grouped together to achieve a strategic business objective. Portfolio management focuses on ensuring that projects and programs are reviewed to prioritize resource allocation and that the management of the portfolio is aligned with organizational strategies. The projects or programs need not be directly related. A program is a collection of projects with common objectives, so unrelated work cannot be grouped together under a program. [PMBOK 6th edition, Page 11] [Project Framework]
+
+Answer: 
+
+
+
+Q5Carole is managing a hotel refurbishment project. She has identified her project's key stakeholders. Carole now wants to expand this list of stakeholders and convert it to a comprehensive list of project stakeholders.
+What should Carole do?
+
+A. Do not spend more time on identifying the non-key stakeholders
+B. Seek expert judgment from the identified key stakeholders
+C. Request that the project sponsor provide the details of the remaining stakeholders
+D. Carry out a stakeholder analysis with the identified key stakeholders Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager is responsible for stakeholder identification; this cannot be delegated to the project sponsor. Identifying and analyzing the key stakeholders is not enough to ensure the success of the project.
+Other project stakeholders can be identified by interviewing the stakeholders who are already identified.
+[PMBOK 6th edition, Page 511] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6Janice, a project manager, wanted to obtain early feedback on the project requirements. However, she was concerned that the abstract representations of the requirements might not elicit useful feedback. Which of the following tools and techniques might help her overcome this hurdle?
+
+A. Histograms
+B. Prototypes
+C. Ishikawa diagram
+D. Control charts
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Prototypes are working models of the expected product before actually building it. The tangible nature of prototypes allows stakeholders to experiment with a model of their final product early in the project life cycle and to generate clear feedback. The other choices are incorrect as they are quality management tools.
+[PMBOK 6th edition, Page 147]
+
+Answer: 
+
+
+
+Q7You are the project manager of a project and are about to conduct a risk identification exercise in a few days' time. You want to remind the participants in the exercise beforehand of the various sources from which risk may arise in the project. What could you use to help you do this?
+
+A. A Risk Breakdown Structure (RBS)
+B. A Risk Simulation Structure (RSS)
+C. A Risk Register
+D. An Impact Matrix
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Risk Breakdown Structure (RBS) is a hierarchically organized depiction of identified project risks arranged by risk category and subcategory. This may be based on a previously prepared categorization framework. The RBS serves to remind participants in the risk identification exercise of the different sources from which project risk may arise. [PMBOK 6th edition, Page 405] [Project Risk Management]
+
+Answer: 
+
+
+
+Q8Ron is a project manager handling an alternate water-supply project. During a project performance review, he notices the following: (i) Activity A, on the critical path, is delayed by four days. (ii) Activity B, not on the critical path, is delayed by nine days. (iii) Activity C, on the critical path, is delayed by two days. (iv) Activity D, not on the critical path, is delayed by five days. In what sequence should Ron prioritize his efforts in addressing these delays?
+
+A. First Activities A and B, and then Activities C and D
+B. First Activities A and C, and then Activities B and D
+C. First Activities C and D, and then Activities A and B
+D. First Activities A and D, and then Activities B and C
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+An important part of schedule control is deciding if schedule variation requires corrective action. Activities on the critical path get first priority for immediate action. Larger delays on activities not on the critical path may not require immediate attention since they may not affect the overall project schedule. Hence, Ron will first deal with the delays on the critical path and then tackle the delays on the other paths. [PMBOK 6th edition, Page 210] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q9Many quality problems plagued a project. The quality of the work products deviated considerably from specifications. The project manager decided to do a root cause analysis. What activities does a root cause analysis include?
+
+A. Discovery of the underlying causes of a problem
+B. Problem Identification and discovery of the underlying causes of a problem
+C. Identification of a problem
+D. Problem identification, discovery of the underlying causes of a problem, and development of preventive actions
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Root cause analysis includes all of the following: Problem identification, discovery of the underlying causes of a problem, and development of preventive actions. [PMBOK 6th edition, Page 292]
+
+Answer: 
+
+
+
+Q10Mary has recently finalized her project management plan and has gotten it approved. She is managing a complex manufacturing process improvement project. The project stakeholders' constant support and commitment are crucial for the success of the project. Which of the following are the most important stakeholder management processes at this stage?
+
+A. Plan Stakeholder Engagement and Manage Stakeholder Engagement
+B. Identify Stakeholders and Plan Stakeholder Engagement
+C. Manage Stakeholder Engagement and Monitor Stakeholder Engagement
+D. Plan Stakeholder Engagement and Monitor Stakeholder Engagement Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Approval of the project management plan marks the closure of the planning phase of the project. The stakeholder management processes from the executing and the monitoring & controlling process groups should be the center of attention now. [PMBOK 6th edition, Page 25] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11An important aspect of project management is the handling of stakeholder expectations. Typically, at what level are the stakeholders with respect to the project manager?
+
+A. At higher levels and with greater authority
+B. At all levels and with varying degrees of authority
+C. At higher levels but only the project sponsor has authority greater than the project manager
+D. At the same level with varying degrees of authority
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Project stakeholders are persons and organizations having a stake in the project. They typically exist at different levels and have varying degrees of authority. For example, the project sponsor will be at a higher level and have greater authority than the project manager. In contrast, a team member may be at a lower level and have lesser authority. [PMBOK 6th edition, Page 550] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q12Public recognition of superior performance creates positive reinforcement for the team members. When is the best time for a project manager to recognize team members' performance?
+
+A. During the lifecycle of the project
+B. At the end of every phase of the project
+C. At the end of the project
+D. As mandated by the HR department
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A good strategy for project managers is to give the team all possiblerecognition during the life cycle of the project rather than after the project is completed. This will keep the team members motivated through the duration of the project. [PMBOK 6th edition, Page 342] [Project Resource Management]
+
+Answer: 
+
+
+
+Q13The requirements elicitation team has generated a large number of ideas during sessions to gather product and project requirements. Which of the following techniques is best suited to sorting these ideas into groups for review and analysis?
+
+A. Control chart
+B. Venn diagram
+C. Affinity diagram
+D. Brainstorming
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The affinity diagram enables a large number of ideas to be sorted into groups for further review and analysis. It is a tool used in gathering of requirements. [PMBOK 6th edition, Page 144] [Project Scope Management]
+
+Answer: 
+
+
+
+Q14One of the performance requirements of a company website development project is that the home page should load in one second. Such performance requirements are usually part of:
+
+A. Business needs
+B. Business requirements
+C. Project management requirements
+D. Product requirements
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Performance requirements such as the loading time of websites are usually considered as part of product requirements and scope. Project requirements include business requirements, project management requirements and delivery requirements, whereas product requirements include technical, security, and performance requirements. [PMBOK 6th edition, Page 131] [Project Scope Management]
+
+Answer: 
+
+
+
+Q15Anna has recently taken over a project as the project manager. The project is early in the executing phase. Although all the key stakeholders signed off on the project scope statement, Anna learns that some of the key stakeholders do not fully understand the project scope. The stakeholders' constant support is crucial for the success of the project. What must Anna do?
+
+A. Email the copy of the scope management plan to the key project stakeholders
+B. Don't do anything since all the key project stakeholders signed the scope statement.
+C. Email the copy of the scope statement to the key project stakeholders.
+D. Conduct one-to-one meeting sessions with these key stakeholders to ensure they understand the project scope
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+It is Anna's duty to ensure that all key project stakeholders understand the project scope and are aligned with the project management plan. Anna must conduct one-to-one meetings with those key stakeholders that are not fully aware of the project scope. Just emailing copies of the plans is not sufficient. [PMBOK 6th edition, Page 523] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16You have just joined a new organization as a project manager. You have heard a number of rumors about the procurement manager having possible underhanded dealings with suppliers. However, you have no proof these rumors are true. Your project requires a large number of dump trucks. Company policy mandates that all purchases go through the procurement department rather than the department employees. The value of the dump truck purchase is US$395,000, and the contract went to a supplier your company regularly uses. Shortly after taking delivery of the dump trucks, you learn the procurement manager is driving a new car. What should you do?
+
+A. Ask the procurement manager about the purchase of her new car
+B. Report this to the appropriate management
+C. Talk to the supplier to find out if there was a bribe involved in the project
+D. Do nothing
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+No action is required in this situation. Although PMI's Code of Ethics requires project managers to report illegal or unethical activity to the appropriate management, you have no evidence that there has been any wrongdoing in this situation. Therefore, reporting or investigating the procurement manager's new car purchase is unwarranted. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q17The project management team expects that during the course of the project there could be delays in component delivery due to strikes, changes to the permitting processes, or extensions of specific engineering durations. What analysis could be helpful in preparing contingency and response plans to mitigate these issues?
+
+A. Contingency analysis
+B. Variance analysis
+C. What-If scenario analysis
+D. Schedule compression
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+What-If Scenario Analysis is used to assess the feasibility of the project schedule under adverse conditions.
+This is an analysis of the question "What if the situation represented by scenario 'X' happens?" It is used in preparing contingency and response plans to mitigate the impact of adverse conditions. [PMBOK 6th edition, Page 213] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q18In the earned value management technique, the cost performance baseline is:
+
+A. Cost Measurement Baseline (CMB)
+B. Performance Measurement Baseline (PMB)
+C. Performance Base Value (PBV)
+D. Actual Baseline (AB)
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The cost performance baseline is an authorized time-phased budget at completion (BAC). It is used to measure, monitor, and control overall cost performance on the project. In the earned value management technique, the cost performance baseline is referred to as the performance measurement baseline (PMB).
+[PMBOK 6th edition, Page 254] [Project Cost Management]
+
+Answer: 
+
+
+
+Q19A seller entered into a contract with a buyer. At the end of the project, the seller was reimbursed for the cost of the project but received a low fee based on certain subjective criteria that were specified in the contract.
+What type of contract is this likely to be?
+
+A. Cost Plus Fixed Fee (CPFF) contract
+B. Fixed Price Incentive Fee (FPIF) contract
+C. Cost Plus Incentive Fee (CPIF) contract
+D. Cost Plus Award Fee (CPAF) contract
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+This is likely to be a Cost-Plus-Award-Fee (CPAF) contract. In such a contract, the seller is reimbursed for all legitimate costs, but the fee is based on the satisfaction of certain broad subjective performance criteria defined in the contract. It is generally not subject to appeals. [PMBOK 6th edition, Page 472] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q20You have just completed a solid waste management project in an underdeveloped country. The contractor you are working for has a strict policy of abiding by local laws and rules although the local resources working on the project have a much more lax approach to following laws and policies. Now at the end of the project, you are handing over the operational equipment to the local operators and disposing of the leftover inventory and other materials that were used during the project. More than 50 percent of the toxic materials used during the project remains in your inventory. There is no law that would prohibit you from disposing of either the type or quantity of remaining materials in the local sewage system. What should you do?
+
+A. Give the material to local resources to dispose of by selling it to a recycling facility
+B. Do not dispose of the materials improperly
+C. Dispose of the material in the local sewage system; there is no law applicable here
+D. Abandon the materials in the project facility you are handing over to the local operators Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Although there is no law restricting disposal, the material is still toxic and must not be disposed of improperly. Abandoning it or giving it to local recyclers may also result in improper disposal. PMI's Code of Ethics and Professional Conduct requires project managers to make decisions based on the interests of public safety and the environment. Failing to ensure proper disposal of toxic materials is a violation of this code. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q21Progressive elaboration is least applicable to which of the following processes?
+
+A. Create WBS
+B. Control Schedule
+C. Develop Schedule
+D. Estimate Activity Durations
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Progressive elaboration applies when only a certain amount of information is available initially, and additional information is obtained as the project or phase progresses. It is the progressive detailing of the project management plan and relates more closely to the processes from the planning process group.
+[PMBOK 6th edition, Page 565] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q22During a cost performance review with certain senior officers from the finance department, you discover there are certain inconsistencies in the way cost performance reporting is done, and you obtain data that shows these officers are deliberately misleading senior management. What should you do?
+
+A. Write an anonymous letter to senior management about these activities.
+B. Bring this to the notice of senior management even though there are no formal policies in place for whistleblowers.
+C. Do nothing but make sure that the data for your project is clean.
+D. Do nothing. The corrupt behavior of the finance department officials has nothing to do with your project.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+As practitioners in the global project management community, it is our responsibility to report unethical or illegal conduct. Even if reporting such behavior may have negative consequences, we must still do so. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q23Your company is planning to bid on a project in an application area you have never worked before. You are aware your company does not have any resources with the necessary expertise, but you are confident of ramping up the necessary skills and delivering the project successfully. Further, the buyer has not specifically asked for prior experience of completed projects of similar size and scope. Your management is pressuring you to submit a bid. What should you do?
+
+A. Refuse to do what your company management asks you to do since it violates the code of ethics and professionalism.
+B. Do what your management asks you to do. Your loyalty needs to be with your company. As long as management has the confidence you can do the project, you can go with the plan.
+C. Do what your management asks you to do, but inform them that you do not want to be associated with the project since it violates the code of ethics and professionalism.
+D. Explain the gaps to your management clearly and also explain that this will be a stretch assignment. You can further explain to them that it is best to reveal to the potential buyer that your company does not possess the necessary skills but that you are confident of ramping up the necessary skills and delivering the project successfully, based on your company's track record.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Since you are aware that your company lacks the necessary skills, you need to be truthful while bidding.
+Rather than outright refusing to do what your company management asks you to do, you should explain the reasons to them and ensure that all stakeholders involved are aware that this will be a stretch assignment.
+However, also explain to your management that it is best to tell the potential buyer that you and your company are willing to put in the necessary effort to make the project a success. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q24Which of the following processes goes beyond the distribution of relevant information and seeks to ensure that the information being communicated to project stakeholders is appropriately generated, as well as received and understood?
+
+A. Manage Communications
+B. Monitor Communications
+C. Manage Stakeholder Engagement
+D. Monitor Stakeholder Engagement
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Manage Communications process goes beyond the distribution of relevant information and seeks to ensure that the information being communicated to project stakeholders has been appropriately generated, as well as received and understood. [PMBOK 6th edition, Page 381] [Project Communications Management]
+
+Answer: 
+
+
+
+Q25Eric, a project manager, is a certified PMP. He is responding to an RFP from a buyer and needs to fill in details on his company's financial performance. His company has performed poorly during the current quarter, and the results will be published in two to three days. However, the company has done very well in the previous quarters. The RFP is due in 10 days, and all the information in the RFP is complete except the financial information. What should Eric do?
+
+A. Eric should fill in the information for the previous quarter and ignore the current quarter. This is an aberration, and the company will eventually come out of the bad patch.
+B. Eric should present the previous quarter's results as the latest results. This will give his company a better chance to win the project.
+C. Eric should fill in the financial information for the previous quarter and send out the RFP response before the current quarter results are published.
+D. Eric should wait until the current results are out and update the latest financial information before sending out the RFP response.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+As a PMP, Eric must not behave in a manner that will mislead the buyer. Hence, given that there are still a sufficient number of days remaining before the RFP is due, it is his responsibility to wait for the current quarter results to be published and truthfully provide this information in the RFP. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q26You are managing a project with more than 130 procurement contracts. Because of the number of contracts, your project team includes a procurement manager and a procurement assistant. Company policy requires that certain types of procurements be advertised to potential bidders by means of newspaper advertisements. The procurement assistant typically reviews the bids received and shortlists the suppliers for further review by the procurement team. During a meeting to review and select a vendor from the shortlisted suppliers, you discover that one of the suppliers is a company your cousin owns. Which of the following is your best course of action?
+
+A. Because the procurement assistant prepared the short list, not you, you do not need disclose your relationship with the supplier and may continue to participate in the selection process
+B. Disclose your relationship with the provider and continue to participate in the selection process
+C. Ask the procurement manager to lead the vendor selection process for this contract and excuse yourself from the review
+D. Remove the supplier from the short list
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The best choice is asking the procurement manager to lead the selection process and excusing yourself from the review. According to the PMI Code of Ethics and Professional Conduct, project managers must disclose any potential conflict of interest situation to the appropriate stakeholders, who will determine if it is appropriate for the project manager to continue participating in the affected processes. Project managers must also act fairly towards others; removing the supplier from the list because of a possible conflict of interest on the part of the project manager is unfair to the vendor. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q27A buyer and seller are looking at getting into a long-term relationship spanning 10 years. Both parties would like to be protected from the unstable financial conditions of their country, which are beyond their control. What type of contract is appropriate for such a relationship?
+
+A. Fixed Price Incentive Fee (FPIF)
+B. Firm Fixed Price (FPP)
+C. Time & Material (T&M)
+D. Fixed Price with Economic Price Adjustment Contract (FP-EPA) Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Fixed-Price with Economic Price Adjustment (FP-EPA) contract is used whenever the buyer-seller relationship spans across years. It is a fixed-price contract with a special provision allowing for predefined final adjustments to the contract price due to significantly changed economic conditions. It is intended to protect both the buyer and the seller from external conditions beyond their control. [PMBOK 6th edition, Page 471] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q28Which of the following quality control tools and techniques may not be used for root cause analysis?
+
+A. Fishbone diagram
+B. Scatter diagram
+C. Ishikawa diagram
+D. Cause-and-effect diagram
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Of the tools listed, the scatter diagram is used to study and identify the possible relationship between two variables. The others can be used for root cause analysis. [PMBOK 6th edition, Page 293] [Project Quality Management]
+
+Answer: 
+
+
+
+Q29Midway through the Collect Requirements process, a project manager finds there are many unresolved issues regarding product requirements. Which of the following is usually the best way to discover and resolve issues?
+
+A. Interviewing
+B. Use of a stakeholder register
+C. Questionnaires
+D. Workshops
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Facilitated workshops bring key cross-functional stakeholders together to define product requirements.
+Because of their interactive nature, well-facilitated sessions lead to increased stakeholder consensus. This ensures that issues can be discovered and resolved more quickly than in other forums. [PMBOK 6th edition, Page 145] [Project Scope Management]
+
+Answer: 
+
+
+
+Q30During a project update meeting, one of the key stakeholders expressed his displeasure over the project management approach. One percent of the produced deliverables had minor defects which required a rework. This stakeholder has been a resisting stakeholder so far. What must the project manager do to bring the future project performance in line with the approved quality requirements?
+
+A. Investigate the root cause and identify the required defect repair.
+B. Investigate the root cause and identify the required preventive action.
+C. Investigate the root cause and identify the required corrective action.
+D. Ignore the complaint from the resisting stakeholder.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+If any stakeholder"resisting or supporting"identifies any issue, it must be addressed. The defects have already been identified and fixed. The scenario is talking about an action that would bring the future project performance in line with the approved quality requirements, this is a corrective action. [PMBOK 6th edition, Page 96] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31A project manager would like to resolve conflicts by a give-and-take attitude rather than by a one-sided approach. Which of these approaches is he likely to use?
+
+A. Forcing
+B. Problem-solving
+C. Directing
+D. Withdrawing
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Problem solving involves treating conflict as a problem to be solved by examining alternatives. This requires a give-and-take attitude. In contrast, the other alternatives listed"directing, forcing and withdrawing "are more one-sided. [PMBOK 6th edition, Page 349] [Project Resource Management]
+
+Answer: 
+
+
+
+Q32A small project with a limited budget is trying to curtail costs. Which of the following processes may be eliminated in such a project?
+
+A. Perform Qualitative Risk Analysis
+B. Perform Quantitative Risk Analysis
+C. Identify Risks
+D. Plan Risk Management
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Availability of budget and time is a key factor that determines the need for the Perform Quantitative Risk Analysis process. A small project with a limited budget may decide to do away with this process if the project management team decides that quantitative statements about risk and impacts are not needed.
+[PMBOK 6th edition, Page 429] [Project Risk Management]
+
+Answer: 
+
+
+
+Q33A number of deliverables were submitted to the buyer as part of a project. Where would the project manager find documentation on the requirements for formal deliverable acceptance and on how nonconforming deliverables can be addressed?
+
+A. In the SOW
+B. In the lessons-learned document
+C. In the deliverable release note
+D. In the agreement
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+When projects are performed for external customers, requirementsfor formal deliverable acceptance and how to address non-conforming deliverables are usually defined in the project agreements. [PMBOK 6th edition, Page 489] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q34Late in the project cycle, it was discovered that some of the project's human resources should have trained in a specific methodology. Where should these training strategies have first been documented?
+
+A. Resource management plan
+B. In the procurement contract
+C. In the project scope statement
+D. In the company HR policy
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Training needs and strategies are captured and documented in the project's resource management plan.
+[PMBOK 6th edition, Page 319] [Project Resource Management]
+
+Answer: 
+
+
+
+Q35You are managing an electronic chip design project for a customer. There are a number of engineers and subject matter experts from the customer's organization that have been assigned as resources to the project plus several additional design engineers that your company has supplied. All the engineers were involved in the development of a prototype chip, an extremely time-consuming and expensive process. Upon the completion of the prototype, you submit it for review to ensure there are no patent infringement issues with the design. However, the review determines there are several issues that could result in an intellectual property dispute with the patent owners should the prototype design be released commercially. Resources from your company developed the affected prototype elements, as well as from your customer's organization. What should you do?
+
+A. Ask the engineers to revise the design and resubmit it
+B. Notify the project stakeholders immediately
+C. Request permission to use the copyright material
+D. Submit the prototype as is since the budget and schedule do not accommodate rework Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Notifying the project stakeholders immediately is the best choice. Unauthorized use of the intellectual property of others is unethical and is prohibited by the PMI Code of Ethics and Professional Conduct. Once the project stakeholders are notified of the situation, a plan forward can be developed. This plan could involve licensing the previously patented technology from the patent owner or reworking the design.
+However, this mitigation plan must involve input from the appropriate project stakeholders. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q36While managing a large project, the project manager decided to include indirect costs as part of his cost estimate. If indirect costs are included in an estimate, which of the following is true?
+
+A. Include indirect costs at the activity level or higher levels
+B. Include indirect costs at the activity level only
+C. Include indirect costs only in earned value measurements and not in cost estimates
+D. Exclude indirect costs in cost estimates
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Activity cost estimates are quantitative assessments of the probable costs required to finish project work. If included in project estimates, indirect costs should be included at the activity level or higher levels. [PMBOK 6th edition, Page 246] [Project Cost Management]
+
+Answer: 
+
+
+
+Q37Which of these is not a legitimate model used to analyze stakeholders?
+
+A. Influence/impact grid
+B. Power/influence grid
+C. Sufficiency model
+D. Salience model
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The sufficiency model is not a valid model. The other choices are valid models used to analyze stakeholders. [PMBOK 6th edition, Pages 512, 513] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q38A project manager analyzed the project's communication requirements and decided that 10 out of the 30 stakeholders in the project would only need voicemail updates of certain information. This type of communication is:
+
+A. Push communication
+B. Pull communication
+C. Interactive communication
+D. On-demand communication
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Use of voicemail is push communication. In this type of communication, information is distributed to specific recipients who need to know the information. However, this method does not certify that the information actually reached, or was received by, the intended audience. [PMBOK 6th edition, Page 374] [Project Communications Management]
+
+Answer: 
+
+
+
+Q39A project involved development of a high-speed, hard disk drive. As part of its testing, the hard disk was subjected to continuous operation at a high speed and an elevated temperature. At the end of the test, the hard disk was destroyed beyond use. The cost of such testing is usually classified as:
+
+A. Appraisal costs
+B. Internal failure costs
+C. Cost of nonconformance
+D. Prevention costs
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+This type of testing is called destructive testing, and it is classified under appraisal costs. Along with other tests and inspections, it helps in assessing the quality of the product. [PMBOK 6th edition, Page 282] [Project Quality Management]
+
+Answer: 
+
+
+
+Q40Identification of new risks, reassessment of old risks, and closing of outdated risks are part of the Monitor Risks process. How often should project risk reassessment be scheduled?
+
+A. It depends on how the project progresses relative to its objectives.
+B. Reassessment is necessary at the 50 percent and 75 percent stages of project completion.
+C. Reassessment is necessary at the 25 percent, 50 percent, and 75 percent stages of project completion.
+D. Reassessment is necessary at the 20 percent, 40 percent, 60 percent and 80 percent stages of project completion.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Monitor Risks process is performed throughout the project. The number of project risk reassessments scheduled depends on the progress of the project relative to its objectives. [PMBOK 6th edition, Page 453] [Project Risk Management]
+
+Answer: 
+
+
+
+Q41Which of the following is the process of communicating and working with stakeholders to meet their needs and expectations, address issues as they occur, and foster appropriate stakeholder involvement?
+
+A. Manage Stakeholder Engagement
+B. Monitor Stakeholder Engagement
+C. Manage Communications
+D. Monitor Communications
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Manage Stakeholder Engagement is the process of communicating and working with stakeholders to meet their needs and expectations, address issues as they occur, and foster appropriate stakeholder involvement. [PMBOK 6th edition, Page 523] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q42Rick has just been assigned as the project manager of a project to develop a complex product. The project is in the Define Scope phase. Which of these tools and techniques will Rick not use in this phase?
+
+A. Systems analysis
+B. Process analysis
+C. Product breakdown
+D. Value engineering
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Process Analysis is a tool and technique used in the Manage Quality process and not in the Define Scope process. The other choices are valid Product Analysis techniques used during the Define Scope process.
+[PMBOK 6th edition, Page 153] [Project Scope Management]
+
+Answer: 
+
+
+
+Q43Teams go through various stages of development. According to the Tuckman ladder of development, the stage during which the least amount of work gets done is usually the:
+
+A. Storming phase
+B. Forming phase
+C. Norming phase
+D. Performing phase
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The forming phase is the phase where the team gets to know each other and learns about the project.
+Teams are usually on their "best behavior" and little tangible work gets accomplished. The project manager needs to guide the team and move them through this phase into the performing phase. [PMBOK 6th edition, Page 338] [Project Resource Management]
+
+Answer: 
+
+
+
+Q44Analysis of the scope performance resulted in a change request to the scope baseline. Change requests can include all the following except:
+
+A. Defect repair
+B. Supportive action
+C. Corrective action
+D. Preventive action
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Change requests can include preventive or corrective actions and defect repairs. Supportive action is not a valid choice. [PMBOK 6th edition, Page 96]
+
+Answer: 
+
+
+
+Q45A senior project manager advises a first-time project manager that identifying risks is just one step. On a continuing basis, new risks need to be identified, and existing risks need to be analyzed and tracked, and their status reported. All this is done as part of what process?
+
+A. Direct and Manage Project Work
+B. Monitor and Control Project Work
+C. Perform Integrated Change Control
+D. Plan Risk Management
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Identifying new risks and analyzing, tracking, and monitoring existing project risks are done in the Monitor and Control Project Work process. This process also makes sure that the status of the risks is properly reported, and appropriate risk response plans are executed. [PMBOK 6th edition, Page 107] [Project Integration Management]
+
+Answer: 
+
+
+
+Q46A project manager has decided to use a decision tree to do a build or upgrade analysis. The build requires an investment of $200M. On the build decision branch, there is a 60 percent probability of strong demand (yielding a revenue of $400M) and a 40 percent probability of weak demand (yielding a revenue of $150M).
+What is the expected monetary value (EMV) of the build?
+
+A. $100M
+B. $300M
+C. $140M
+D. $200M
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The payoff for the strong demand scenario is $400M - $200M = $200M (since the initial investment is $200M). The payoff for the weak demand scenario is $150M - $200M = - $50M. Therefore, the EMV is computed as: (0.6 * 200) + (0.4 * -50), where 0.6 represents the 60% probability of the strong demand scenario and 0.4 represents the 40% probability of the weak demand scenario. 120 - 20 = 100. Therefore, the expected monetary value is $100M. [PMBOK 6th edition, Page 435] [Project Risk Management]
+
+Answer: 
+
+
+
+Q47Quality metrics used during the Control Quality process are defined during which process?
+
+A. Plan Quality Management
+B. Define Scope
+C. Collect Requirements
+D. Manage Quality
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Quality metrics are operational definitions that describe a project or product attribute in very specific terms.
+They also define how the quality control process will measure it. These metrics are outputs of the Plan Quality Management process. [PMBOK 6th edition, Page 287] [Project Quality Management]
+
+Answer: 
+
+
+
+Q48In order to keep costs low, a project management team decided to apply statistical sampling while inspecting some of the work products. They decided to select 10 out of 50 engineering drawings for inspection. During which process should the sample be collected?
+
+A. Collect Requirements
+B. Control Quality
+C. Plan Quality Management
+D. Manage Quality
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Samples are collected for inspection during the Control Quality process. [PMBOK 6th edition, Page 303] [Project Quality Management]
+
+Answer: 
+
+
+
+Q49A project manager prepared a presentation that included data on the project's use of resources, improvements in staff efficiency, and the cost savings. These activities are part of what process?
+
+A. Manage Stakeholder Engagement
+B. Monitor and Control Project Work
+C. Control Schedule
+D. Control Quality
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Activities such as project performance analysis and tracking are done as part of the Monitor and Control Project Work process. This process involves tracking, reviewing and reporting progress to meet performance objectives. [PMBOK 6th edition, Page 107] [Project Integration Management]
+
+Answer: 
+
+
+
+Q50A critical resource is on another project team. It is essential that you get his time for your project. You have contacted the resource's team manager several times but have received a poor response. What should you consider doing next?
+
+A. Plan for an alternate resource since this resource is not available.
+B. Try to use management influence to obtain the resource's time.
+C. Contact the manager once again to see if he can help.
+D. Train another resource within your project.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Contacting the manager once again will not help since you have already had a poor response. The best option is to try using management influence to obtain the resource's time for your project. Should all efforts to obtain the resource prove unsuccessful, alternatives include planning for an alternate resource or training another resource. [PMBOK 6th edition, Page 330] [Project Resource Management]
+
+Answer: 
+
+
+

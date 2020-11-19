@@ -1,0 +1,169 @@
+PMP_Exam_Practice_08_10
+
+Number: 008-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 8.1
+Exam A
+Q1A software team tracing the root cause of an application failure can use this to help determine the cause(s) of the failure:
+
+A. Ishikawa diagram
+B. Rummler-Brache swim lane diagram
+C. Threading analysis
+D. Deming chart
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Cause-and-effect diagrams, also called Ishikawa diagrams, illustrate how various factors might be linked to potential problems or effects. [PMBOK 6th edition, Page 293] [Project Quality Management]
+
+Answer: 
+
+
+
+Q2What is a control chart?
+
+A. A type of RACI chart
+B. A chart that shows the root cause of a problem
+C. A type of fishbone diagram
+D. A chart that shows the stability of a process
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A control chart shows the stability of a process over time. [PMBOK 6th edition, Page 304] [Project Quality Management]
+
+Answer: 
+
+
+
+Q3Which of the following tools can enhance the visibility of traditional written project plans and other documents to provide a real-time overview of the project status?
+
+A. Visual management tools
+B. Expert judgement
+C. Product backlog
+D. Change control system
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Some project teams use visual management tools, rather than written plans and other documents, to capture and oversee critical project elements. Making key project elements visible to the entire team provides a real-time overview of the project status. [PMBOK 6th edition, Page 73] [Project Quality Management]
+
+Answer: 
+
+
+
+Q4The technique of comparing actual or planned project practices to those of other projects to generate ideas for improvement and to provide a basis by which to measure performance is known as:
+
+A. Workbench
+B. Benchmarking
+C. Quality control
+D. Dependency
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Benchmarking is the technique of comparing actual or planned project practices to those of other projects to generate ideas for improvement and to provide a basis by which to measure performance. [PMBOK 6th edition, Page 281] [Project Quality Management]
+
+Answer: 
+
+
+
+Q5There is a serious defect in the finished product of a project that was completed a few months ago, resulting in a recall campaign to recall the defective products. What would be the best classification for these types of costs?
+
+A. To complete performance index (TCP)
+B. Cost variance
+C. Cost of conformance
+D. Cost of nonconformance
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is Cost of Non-Conformance. This includes all costs incurred due to internal and external failures. [PMBOK 6th edition, Page 282] [Project Quality Management]
+
+Answer: 
+
+
+
+Q6Projects with adaptive life cycles use product backlogs to define a project's scope. The product backlog is a set of:
+
+A. Voice of the customer
+B. User stories
+C. Client lullabies
+D. Non-functional requirements
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+In projects with adaptive life cycles, the overall scope of the project will be decomposed into a set of requirements and work to be performed, referred to as product backlog. Backlogs include product requirements and user stories. [PMBOK 6th edition, Page 131] [Project Quality Management]
+
+Answer: 
+
+
+
+Q7What is the process of random selection and inspection of a work product?
+
+A. Control Charting
+B. Flow Charting
+C. Statistical Sampling
+D. Benchmarking
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Statistical sampling is the process of random selection and inspection of a work product. [PMBOK 6th edition, Page 303] [Project Quality Management]
+
+Answer: 
+
+
+
+Q8Which of the following processes are usually not performed continuously, but rather, performed periodically as needed:
+
+A. Acquire Resources
+B. Monitor Risks
+C. Monitor Communications
+D. Monitor Stakeholder Engagement
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Acquire Resources is performed as project resources are needed. This is an example of a process that is performed periodically as needed. The other choices are example of processes that are continuously performed. [PMBOK 6th edition, Page 22] [Project Quality Management]
+
+Answer: 
+
+
+
+Q9You have a contract to build a manufacturing plant in Kuala Lumpur. However, you are not familiar with the building codes in Kuala Lumpur or Malaysia, so you are reviewing all their building codes prior to "turning a shovelful of earth." This is an example of:
+
+A. Project initiation
+B. Quality assurance
+C. Quality planning
+D. Quality control
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+All types of quality plans, such as building codes, OSHA guidelines, ISO 9000, or company quality plans are examples of Enterprise Environmental Factors and Organizational Process Assets which are inputs to the Plan Quality Management process. [PMBOK 6th Edition, Pages 280, 281] [Project Quality Management]
+
+Answer: 
+
+
+
+Q10An automotive designer uses a certain technique to determine which combination of suspension and tires will produce the most desirable ride characteristics at a reasonable cost. To do this, the designer employs a statistical framework and systematically changes all the important parameters instead of changing the factors one at a time. This method is known as:
+
+A. Design of Experiments
+B. Nominal Group Technique
+C. Statistical Sampling
+D. Force Field Analysis
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is Design of Experiments; this method plays a key role in optimization of products or processes. [PMBOK 6th edition, Page 290] [Project Quality Management]
+
+Answer: 
+
+
+

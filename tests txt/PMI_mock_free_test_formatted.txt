@@ -1,0 +1,3310 @@
+PMI_mock_free_test
+
+Number: 000-000
+Passing Score: 800
+Time Limit: 240 min
+File Version: 1.0
+
+PMI Mock Free Test
+Exam A
+Q1During a project's initiation phase, the project manager conducted a stakeholder analysis and documented all requirements. Still, some stakeholders are dissatisfied with project results because their expectations were unmet.
+What should the project manager have done to prevent this?
+
+A. Met with the sponsor periodically to ensure project alignment
+B. Added this as a risk in the risk register
+C. Asked the project team to refer to the stakeholder engagement plan and respond accordingly
+D. Captured the stakeholders' varying expectations throughout the project's life cycle Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+By understanding and capturing stakeholder expectations, the project manager could have avoided this dissatisfaction.
+
+Answer: 
+
+
+
+Q2A project manager notices schedule performance issues due to the expertise levels of project resources. Some experienced resources check unnecessary details, and some junior-level resources take a long time to complete tasks.
+What should the project manager do to enhance team performance?
+
+A. Conduct training with the junior staff.
+B. Replace the junior resources, and advise the senior resources.
+C. Provide training where required, and implement a checklist for all team members.
+D. Ask the senior resources to provide assistance to the junior resources Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The PM must train the junior members and supply a checklist so that all are checking all and only what they are supposed to be checking.
+
+Answer: 
+
+
+
+Q3A project has ended; however the project manager and project team members are still called to solve technical issues, make some small changes, and evaluate new requirements. What should the project manager do to guarantee the product or service developed by the project now has operational support?
+
+A. Obtain project acceptance.
+B. Disband the project team and find a new project.
+C. Fulfil all remaining needs as the product is still under development.
+D. Perform a project handoff.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Project closure and hand-off will ensure knowledge transfer to production and/or operations.
+
+Answer: 
+
+
+
+Q4A project manager is ready to close a project. What should the project manager do next?
+
+A. Resolve all project risks to ensure that the deliverables will be accepted.
+B. Review the project management plan to ensure the scope's completion and request customer acceptance.
+C. Measure the project deliverables against the project charter and request customer acceptance.
+D. Manage quality to validate that the deliverables have met standards.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+When closing the project, the project manager reviews the project management plan to ensure that all project work is completed and that the project has met its objectives.
+
+Answer: 
+
+
+
+Q5A new team member joins a project. The project manager is highly disciplined and expects timely participation in weekly meetings. The new member comes from an organization with a liberal culture and out of habit, is continually late for meetings. When asked why, the team member responds that they are busy working on deliverables, which they believe have priority.
+What should the project manager do?
+
+A. Highlight ground rules and influence the team so that these rules are understood and followed by all.
+B. Ignore the behaviour, as this team member is ensuring that work is not affected.
+C. Suspend the team member and explain that this behaviour is not permitted.
+D. Meet with the team member again to explain that punctuality is crucial.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+It is the project manager's responsibility to make sure that all team members understand and follow the team rules.
+
+Answer: 
+
+
+
+Q6A project manager completes a major IT deployment project. The project manager confirms with the release manager that all systems are working and that functionality has been verified by the quality assurance team. After informing the customer, what should the project manager do next?
+
+A. Close out the procurement plan.
+B. Update the organization knowledge base with the lessons learned.
+C. Verify and complete the release documentation.
+D. Update the risk register, project stakeholders, and project team members.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+During project close out, lessons learned and knowledge gained throughout the project are transferred to the lessons learned repository for use by future projects.
+
+Answer: 
+
+
+
+Q7During the design process for a mining plant, the project team conducted a cost-benefit analysis based on current commodity prices. However during project work, commodity prices fluctuate tremendously. This risk was identified, but the team did not expect such major fluctuations. Now, the project may be unviable. What should the project manager do?
+
+A. Issue a change request to cover the increased costs.
+B. Perform a financial analysis based on the updated information.
+C. Immediately escalate the issue to management and the stakeholders.
+D. Work with the project team on a solution to make the project viable.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Immediate action required in this case
+
+Answer: 
+
+
+
+Q8A final deliverable will not be completed on time, which is delaying project closure. What should the project manager do next?
+
+A. Postpone project closure until the final deliverable is completed.
+B. Proceed with partial project closure and wait until the final deliverable is completed.
+C. Determine the impact of delaying the deliverable and take necessary actions.
+D. Separate the original scope and proceed to project closure.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Before a path of action can be selected, the project manager needs to firs understand the impact of the delay.
+
+Answer: 
+
+
+
+Q9A project manager learns that, due to supplier delays, task I should start 10 days after the start of task H. The project manager produces a network diagram where each task has a three-day duration, and re- evaluates the critical path.
+What is the new critical path?
+
+A. H-I-J
+B. A-B-C-D-E
+C. H-F-G
+D. H-C-D-E
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The critical path is the longest path through the logical network. In this case it is 10d + 3d + 3d = 16d
+
+Answer: 
+
+
+
+Q10A project manager is working on a new project to address gaps in a previously completed project. What should the project manager do first?
+
+A. Refer to the lessons learned documents.
+B. Plan to use the same project resources.
+C. Define the requirements and finalize the scope.
+D. Prepare the project management plan.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Before planning anything new, the project manager should understand what happened on the prior project.
+This information will be found in that project's lessons learned documents.
+
+Answer: 
+
+
+
+Q11While reviewing the quality of deliverables with the team, the project manager determines that several quality issues could have been avoided by using a simple checklist. The checklist is then implemented for future deliverables.
+What did the project manager do in this situation?
+
+A. Conducted a lessons learned meeting
+B. Facilitated a retrospective
+C. Used preventive action
+D. Used corrective action
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Corrective Action is an intentional activity that realigns the performance of the project work with the project management plan.
+
+Answer: 
+
+
+
+Q12A project manager is asked to use the company's new system for cost estimation after already having completed one. The new system is complicated, and the process will add two weeks to the project timeline. Stakeholder tolerance for extending the schedule is low. However, the new process must be followed to achieve project approval and move to the execution phase. What should the project manager do?
+
+A. Communicate to key stakeholders that there will be a two-week project delay due to the new process.
+B. Communicate to key stakeholders that the current estimate may require updates, and continue with periodic cost reviews to discuss the updates.
+C. Proceed with the current estimate, explaining to the key stakeholders that the new process would increase the timeline significantly.
+D. Communicate to key stakeholders that the new process requires a project restart at the beginning of the planning phase.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager need to keep the project moving as scheduled while also managing the expectations of the stakeholders.
+
+Answer: 
+
+
+
+Q13A customer continually submits new feature requests for an existing product. A project manager just communicated the completed scope definition for the product's next version release to stakeholders.
+What should the project manager do next?
+
+A. Meet with the product manager to ask that the number of new requests be reduced.
+B. Immediately define project boundaries with the sponsor.
+C. Meet with stakeholders to align expectations.
+D. Review the scope management plan and iterate it through the scope definition process Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The scope management plan documents how the project and product scope will be defined, validated, and controlled. The key benefit of this document is that it provides guidance and direction on how scope will be managed throughout the project.
+
+Answer: 
+
+
+
+Q14One week prior to a kick-off meeting, a project manager meets with a key project resource to understand the complexity of the project deliverables. The resource is apprehensive about the deliverables and expresses concerns.
+What should the project manager do to ensure that the deliverables are realistic?
+
+A. Speak to the sponsor about the resource's concerns, and revise the project charter.
+B. Conduct a risk assessment to identify threats and preventive actions.
+C. Conduct a feasibility study, and then evaluate the results.
+D. Document the concerns in the issue log for later review.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+To ensure that the deliverable are realistic, the project manager needs to conduct a feasibility study and then evaluate the results, none of the other choices will ensure this.
+
+Answer: 
+
+
+
+Q15A strategic project is about to begin user acceptance testing. Weekly progress meetings have been set up to prepare for testing with the business end users who have repeatedly raised questions and concerns. It is evident that there are critical business requirements that failed to be included in the business requirements analysis. What should the project manager do?
+
+A. Ask that the missed requirements be incorporated and communicate that the project schedule may be impacted.
+B. Communicate that there is no budget to incorporate the missed requirements as the project scope has already been approved.
+C. Escalate this to the project sponsor in the next progress report update.
+D. Issue a change request to the change control board (CCB).
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+If there are critical business requirements that failed to be included, a change request must be submitted to begin the process of review to see if they need to be.
+
+Answer: 
+
+
+
+Q16A supplier has been awarded a firm fixed price (FFP) contract to provide various materials for a construction project. The contractor has received all pertinent documents relating to material standards and specifications. By contract, the supplier must deliver all materials to the construction site on a specific date. When the materials arrive at the site on time, what should the project manager do?
+
+A. Inform the inspections group that new materials have arrived.
+B. Notify the team member responsible for handling materials of the arrival.
+C. Ask the finance department to pay the supplier's invoice.
+D. Advise the procurement group that the contract has been fulfilled.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The delivered materials need to be verified to see if they are complete and correct.
+
+Answer: 
+
+
+
+Q17A project manager reviewing the issue log notices that activities assigned to certain team members are significantly behind schedule. What should the project manager do?
+
+A. Escalate the issue to the project sponsor for resolution.
+B. Review the activities with relevant team members to identify strategies for resolution.
+C. Ask the responsible team members to bring their activities back on schedule.
+D. Request that the responsible team members provide an explanation for the delay and strategies to resolve the issue.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager needs to be proactive and review the activities with the team and to identify resolution strategies.
+
+Answer: 
+
+
+
+Q18An experienced project manager resigns, and a new project manager joins the team. During the initial assessment of project documentation, the new project manager discovers that the risk register has not been updated for the past month.
+What should the project manager do first?
+
+A. Hold a meeting to identify and prioritize risks so that the risk register can be updated.
+B. Consult the risk management plan to determine how often the risk register must be updated.
+C. Update the risk register and inform the team of the changes.
+D. Meet with the project team to monitor risks, then update the risk register.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager must first determine what the agreed upon process is for handling risks.
+
+Answer: 
+
+
+
+Q19For a long-term infrastructure project, the project manager must acquire suppliers with the lowest possible risk due to the global business climate. What type of contract should the project manager use?
+
+A. Fixed price incentive fee (FPIF)
+B. Firm fixed price (FFP)
+C. Cost plus fixed fee (CPFF)
+D. Fixed price with economic price adjustment (FP-EPA)
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The FP-EPA contract type is used whenever the seller's performance period spans a considerable period of years, or if the payments are made in a different currency. It is a fixed-price contract, but with a special provision allowing for predefined final adjustments to the contract price due to changed conditions, such as inflation changes or cost increases (or decreases) for specific commodities.
+
+Answer: 
+
+
+
+Q20During project initiation, the project manager performed a cost-benefit analysis that resulted in 0.6. What should the project manager do next?
+
+A. Consult with stakeholders about project approval.
+B. Consult experts, look for options, and re-perform the analysis.
+C. Examine reports to determine if the project should start or be rejected.
+D. Review the results with the project sponsor to confirm the project's feasibility.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the sponsor is the person who authorizes and provides the funding of a project, only they can determine if the project still make sense to complete.
+
+Answer: 
+
+
+
+Q21Due to time constraints a project manager omits the review of previous lessons learned.
+What is a potential impact of this decision?
+
+A. Project issues could reoccur because of the missed opportunity to identify preventive actions.
+B. The project management office (PMO) may not recognize the project as officially started.
+C. Management of the project will be more difficult.
+D. The cost of the project will be greater.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+By not reviewing previous lesson learned, the project manager runs the risk of repeating those same mistakes from other projects.
+
+Answer: 
+
+
+
+Q22A project is initiated based on the approved scope. During implementation of the project design a team member states that the product will not meet the requirements in a particular scenario. Fixing the issue will increase the scope and costs, and the project will miss the deadline. The project sponsors do not have additional funding to support the project.
+What should the project manager do?
+
+A. Perform a risk analysis and update the project sponsor.
+B. Inform the customer and negotiate for risk acceptance.
+C. Correct the issue to satisfy the customer.
+D. Conduct the Perform Integrated Change Control process.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Perform Integrated Change Control is the process of reviewing all change requests; approving changes and managing changes to deliverables, project documents, and the project management plan; and communicating the decisions.
+
+Answer: 
+
+
+
+Q23A project team member believes that a typhoon should be considered a high risk to the project. Another team member believes it is a low risk since the area has not experienced a typhoon in the last 20 years.
+What should the project manager do to address this?
+
+A. Perform independent cost estimates.
+B. Conduct a quantitative risk analysis.
+C. Use a probability and impact matrix.
+D. Develop a mitigation plan.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk probability assessment considers the likelihood that a specific risk will occur. Risk impact assessment considers the potential effect on one or more project objectives such as schedule, cost, quality, or performance.
+
+Answer: 
+
+
+
+Q24A project manager has completed the identification of stakeholders. Previously, the project manager had difficulty managing stakeholders because no distinctions were made among them regarding influence or authority.
+What information needs to be included in the stakeholder register?
+
+A. Stakeholder benefits management plan
+B. Change requests for new stakeholders
+C. Stakeholder engagement plan
+D. Stakeholder classification
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholder register should include a stakeholder classification, such as: Internal/external, impact/influence/ power/interest, upward/downward/outward/sideward, or any other classification model chosen by the project manager.
+
+Answer: 
+
+
+
+Q25During a status meeting, one of the client's employees asks the project manager for a new product feature. The project manager is unsure who has the authority to approve this request.
+To what document should the project manager first refer?
+
+A. Change log
+B. Change management plan
+C. Responsible, accountable, consult, and inform (RACl) matrix
+D. Organizational process assets
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The change management plan describes the process for submitting, evaluating and implementing changes to the project.
+
+Answer: 
+
+
+
+Q26A new, recently released technology can speed up the development tasks on an ongoing project by 30 percent. The team is eager to use this new technology, but identifies the risk that issues may arise due to a lack of knowledge and support. How can the project manager and the team decide if the project benefits by using this technology?
+
+A. Perform quantitative risk analysis and reject the technology if the risk ranks in the top 10.
+B. Use the expected monetary value (EMV) technique and use the technology if the EMV is positive.
+C. Perform a sensitivity analysis to determine the potential impact on project outcome.
+D. Review the risk management plan to determine if the new technology is an unnecessary risk.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The decision tree is evaluated by calculating the expected monetary value of each branch, allowing the optimal path to be selected.
+
+Answer: 
+
+
+
+Q27A project manager is new to a company and has not led a project with international team members. What should the project manager do to develop cultural sensitivity?
+
+A. Learn every detail of each team member's culture to be sensitive to their needs.
+B. Decline the project, citing the difficulty of working with culturally diverse people as the reason.
+C. Meet with the human resource department to obtain formal training in this area.
+D. Recognize that culture is learned, seek to understand local customs, and maintain flexibility when working with team members.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager needs to be proactive and learn what he can while also maintaining flexibility.
+
+Answer: 
+
+
+
+Q28A project manager is aware of two critical, high-impact risks that must be addressed immediately. However, the necessary resources to address the risks are already committed to another project with critical deliverables.
+What should the project manager do?
+
+A. Review the resources' availability with the functional manager, and negotiate rescheduling or task crashing.
+B. Hire external resources to handle these tasks.
+C. Establish a contingency reserve to solve the potential schedule delay and mitigate the possible impact.
+D. Assume the risks and control them often to reduce potential impact.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The functional manager is the person who will be able to reschedule, reassign or replace resources.
+
+Answer: 
+
+
+
+Q29A marketing team identifies the target audience for their new website. They want to know the preferred tastes of this target audience.
+What tool or technique should the project manager use?
+
+A. Benchmarking
+B. Focus groups
+C. Expert judgement
+D. Brainstorming
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Focus groups bring together prequalified stakeholders and subject matter experts to learn about their expectations and attitudes about a proposed product, service, or result.
+
+Answer: 
+
+
+
+Q30A project manager is uncertain about the duration of a new product and consults several groups of subject matter experts (SMEs). The first group advises that development can be finished in 30 days. The second group identifies some risks that could make the duration up to 45 days. The third group proposes a new development method that can shorten the time to 21 days. What is the estimated development duration for the new product?
+
+A. 29 days
+B. 33 days
+C. 31 days
+D. 35 days
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Using the PERT formula: [21+ 4(30) + 45]/6 = 31
+
+Answer: 
+
+
+
+Q31While an activity on the critical path is being executed, the functional lead removes two project resources involved in this activity to support the resolution of a contingency situation.
+What should the project manager do?
+
+A. Implement the contingency plan.
+B. Fast track the critical path.
+C. Negotiate with the functional manager to allocate replacement resources.
+D. Escalate the issue to the functional manager's boss.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the functional manager controls the resources for this type of work, they will be the person who will be able to provide suitable replacements.
+
+Answer: 
+
+
+
+Q32A senior project manager is guiding a new project manager in finalizing project activities. What should the senior project manager list as the key benefits of documenting final project activities?
+
+A. Allows submission of invoices and receipt of final payment from the customer
+B. Provides case studies and customer references
+C. Allows final product delivery and quality analysis
+D. Provides lessons learned and historical information
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Closing the project is the process of finalizing all activities for the project. The key benefits of this process are the project or phase information is archived, the planned work is completed, and organizational team resources are released to pursue new endeavours.
+
+Answer: 
+
+
+
+Q33A project manager is conducting a risk analysis based on high-level scope. If expert judgment is being used, what document is being prepared?
+
+A. Project scope statement
+B. Project charter
+C. Project management plan
+D. Risk management plan
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Expert judgment is one of the tools and techniques for developing the project charter.
+
+Answer: 
+
+
+
+Q34A project is ready to close, but a vendor claims they have not received payment. The project manager sees that payment was approved, but is unable to find supporting documents from the finance department. The project manager wants to close the project due to a new assignment. What should the project manager do?
+
+A. Proceed with the closure, since it is believed payment was approved.
+B. Inform the sponsor about the situation and obtain their approval to close the project.
+C. Delay closure until claim is found, but continue work on the new project.
+D. Ask for support from the financial department and delay the closure to solve the claim.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The finance department is the only one in this scenario that can provide proof if a payment was made. The PM should not close the project until this is confirmed.
+
+Answer: 
+
+
+
+Q35After receiving the project charter, a project manager starts to prepare the project management plan. Since there is no historical information in the project management office (PMO), what should the project manager do next?
+
+A. Use analogous estimating.
+B. Consult subject matter experts (SMEs).
+C. Host a kick-off meeting.
+D. Ask the project sponsor for input.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+If there is no historical information available, then consulting with subject matter experts is the next best thing a project manager can do to prepare the project plan.
+
+Answer: 
+
+
+
+Q36A project risk budget was approved that only considered high-impact/high-potential risks. During project execution a risk with high impact but very low potential occurs. While it is in the risk register, it is not in the budget.
+What should the project manager do first?
+
+A. Update the risk management plan based on risk monitoring and assessment.
+B. Conduct an impact analysis, and then submit a change request to increase the budget if necessary.
+C. Immediately execute the risk response plan using the available risk budget.
+D. Escalate the problem to the project sponsor.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Monitor Risks is the process of monitoring the implementation of agreed-upon risk response plans, tracking identified risks, identifying and analyzing new risks, and evaluating risk process effectiveness throughout the project. The key benefit of this process is that it enables project decisions to be based on current information about overall project risk exposure and individual project risks. This process is performed throughout the project.
+
+Answer: 
+
+
+
+Q37The project sponsor informs the project manager that a product could have adverse health effects on customers. Because of this, the sponsor asks to change production materials.
+What should the project manager do?
+
+A. Implement the change immediately and submit a change request for formal documentation.
+B. Reject the request because it is outside of scope.
+C. Investigate the matter further by following the Perform Integrated Change Control process.
+D. Stop current work and initiate the Perform Integrated Change Control process.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manage must follow the documented and agreed upon change control processes.
+
+Answer: 
+
+
+
+Q38A sponsor is very upset because they did not know about a project change to reduce the budget. The project manager and project team do not understand the sponsor's frustration, because the change was required and beneficial to the project.
+What should the project manager have done first?
+
+A. Consulted the sponsor since the sponsor is a member of the change control board (CCB).
+B. Documented the change in detail since the sponsor is responsible for making budgetary decisions.
+C. Notified the client of the budget decrease and ensure project requirements will not be affected.
+D. Asked management if there is a required project budget for the financial period.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Change requests are processed according to the change management plan by the project manager, CCB, or an assigned team member. As a result, changes may be approved, deferred, or rejected. Approved change requests will be implemented through the Direct and Manage Project Work process. Deferred or rejected change requests are communicated to the person or group requesting the change.
+
+Answer: 
+
+
+
+Q39A project manager needs to outsource 1200 resource hours. Due to internal policies, each provider must understand the requirements.
+What should the project manager do to ensure this?
+
+A. Add the providers to the stakeholder register.
+B. Conduct direct negotiations with each provider.
+C. Hold a bidder conference with the providers.
+D. Send the procurement management plan to each provider.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A bidder conference is a meeting between the buyer and prospective sellers prior to proposal submittal.
+They are used to ensure that all prospective bidders have a clear and common understanding of the procurement and no bidders receive preferential treatment.
+
+Answer: 
+
+
+
+Q40A project manager is leading a 12-month project to deliver a new product to market. The project sponsor wants to narrow the scope and deliver a scaled-down version of the final product. What will the project manager require prior to changing the scope?
+
+A. Approved change request
+B. Revised budget
+C. Formal confirmation
+D. Updated project management plan
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Perform Integrated Change Control process is conducted from project start through completion and is the ultimate responsibility of the project manager. Change requests can impact the project scope and the product scope, as well as any project management plan component or any project document.
+
+Answer: 
+
+
+
+Q41A project manager finishes the first draft of a project management plan, and intends to present it to stakeholders for approval. However, the project management plan is long and stakeholders are geographically dispersed. The project manager has limited time to gain approval. What should the project manager do to ensure that the review of the plan is completed on time?
+
+A. Arrange individual meetings with only the key stakeholders to walk them through the plan.
+B. Divide the plan into sections and ask select stakeholders to review particular portions based on their areas of expertise.
+C. Schedule a meeting with all stakeholders and send the plan for review before the meeting.
+D. Send the plan to each stakeholder individually, asking them to add their comments and return it for updating.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+By sending the project management plan to the attendees in advance, the PM can insure that the meeting is most productive.
+
+Answer: 
+
+
+
+Q42A multidisciplinary project with numerous interested stakeholders is kicking off. A newly identified stakeholder is negatively impacting planning activities.
+What should the project manager use to manage each stakeholder's influence on the project?
+
+A. Stakeholder engagement plan
+B. Stakeholder register
+C. Stakeholder analysis
+D. Stakeholder engagement assessment matrix
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholder analysis results in a list of stakeholders and relevant information such as their positions in the organization, roles on the project, "stakes", expectations, attitudes (their levels of support for the project), and their interest in information about the project.
+
+Answer: 
+
+
+
+Q43A project feasibility study determined what product should be created. Now, a change request has been approved to develop another product that contradicts the original requirements. Data analysis was conducted before the change request was approved.
+What should the project manager do?
+
+A. Request a detailed report of the data analysis.
+B. Request a feasibility study of the new product.
+C. Reject the change request.
+D. Implement the change request.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Approved change requests can require new or revised cost estimates, activity sequences, schedule dates, resource requirements, and/or analysis of risk response alternatives. These changes can require adjustments to the project management plan and other project documents.
+
+Answer: 
+
+
+
+Q44A new project will update the software version on the company's database. The core development team will attend technical training on the update to learn about its new functionalities. What should the project manager do to increase the quality of the team's technical training experience?
+
+A. Set an expectation for the team to demo the new functionalities to project stakeholders.
+B. Ask the team to prepare a report documenting the changes that will affect the existing functionalities.
+C. Direct the team to create a proof of concept on the new functionalities.
+D. Ask the team to collaborate with the quality assurance group to develop a testing scope document.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+By preparing for and delivering a demonstration, the project team will better internalize the knowledge and thus will increase their quality of learning.
+
+Answer: 
+
+
+
+Q45During project implementation a functional manager asks to include additional functionality that will benefit the customer. What should the project manager do?
+
+A. Submit the request to the change control board (CCB).
+B. Engage the stakeholders to obtain their agreement.
+C. Immediately implement the change to satisfy the customer.
+D. Refer the request to the project sponsor and the steering committee.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The scope management plan establishes how the scope will be defined, developed, monitored, controlled, and validated. Any changes to scope must be processed through the agreed upon process of change control.
+
+Answer: 
+
+
+
+Q46A project manager receives the preliminary scope, assumptions, and restrictions for a new project. What should the project manager do first?
+
+A. Build the project team and assign project tasks.
+B. Construct the project schedule and define the critical path.
+C. Understand the business case and project goals.
+D. Obtain project charter approval from the sponsor.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The business case and project goals need to be understood first before a charter can be written. Building a team and a schedule come later in the process.
+
+Answer: 
+
+
+
+Q47A junior project manager joins a new and complex project. During planning, the project manager discovers a number of variables with unknown effects on the project. What should the project manager do to manage these variables?
+
+A. Review the unknown effects on the project with a senior project manager.
+B. Set up an issue log that includes roles and responsibilities.
+C. Ensure that the project plan is detailed, and includes resource management and budgetary overviews.
+D. Implement a detailed risk management plan that includes all options.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The risk management plan provides guidance on how and when risks should be reviewed. Which policies and procedures should be followed, the roles and responsibilities in the monitoring process, and reporting formats.
+
+Answer: 
+
+
+
+Q48During a demo and review meeting, the progress report shows that an agile project is not on track. The project manager is surprised, because all work was purposely selected and sequenced to meet higher-level objectives.
+What should the project manager have done to prevent this miscommunication?
+
+A. Engaged the team to record the agile progress reporting system
+B. Trained and mentored the team on using the agile approach
+C. Encouraged the team to self organize and provide buy-in to the project
+D. Created a contingency reserve
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+For Agile projects, rather than a project manager selecting and sequencing work, higher-level objectives are explained and the team members are empowered to self organize specific tasks as a group to best meet those objectives. This leads to the creation of practical plans with high levels of buy-in from the team members.
+
+Answer: 
+
+
+
+Q49A project to migrate an organization's email system to another platform creates an unexpected, but significant issue on another business-critical system. What should the project manager do?
+
+A. Update the issue log.
+B. Inform the stakeholders of the issue.
+C. Ask the project team to resolve the issue.
+D. Revise the project management plan to include the issue.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the affected system is business critical, immediate communication is needed.
+
+Answer: 
+
+
+
+Q50A project manager leads a complex project with stakeholders located in several countries. The project manager learns that a senior manager asked a team member for project information.
+What should the project manager do next?
+
+A. Invite the senior manager to the next project meeting.
+B. Review the project management information system (PMIS).
+C. Review the communications management plan.
+D. Refer to the stakeholder register.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A communications management plan is developed to ensure that the appropriate messages are communicated to stakeholders in various formats and various means as defined by the communication strategy.
+
+Answer: 
+
+
+
+Q51A multinational company initiates a project to develop a human resource information system (HRIS) to centrally manage human resource and payroll processes. So far, the project manager has considered the regulatory framework of the project and reviewed historical data on the company's human resource practices. The project manager is worried about project risks. What should the project manager do?
+
+A. Perform regular risk reviews.
+B. Develop a risk mitigation plan.
+C. Quantify the project risks.
+D. Identify the high-level project risks.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager must first identify the risks before you can quantify them, develop risk mitigation plans or review them.
+
+Answer: 
+
+
+
+Q52A conflict between a member of the contractor's team and a member of the project team cannot be resolved. The matter is escalated to the project manager.
+What should the project manager do first?
+
+A. Discuss the issue face-to-face with the contractor.
+B. Write a formal contractual letter to the contractor.
+C. Email the contractor.
+D. Phone the contractor.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager wants to resolve this issue quickly. A face to face meeting is the best choice to resolve this conflict. Any other communication choice would involve noise that would hinder resolution.
+
+Answer: 
+
+
+
+Q53Six months into project execution, the project manager determines that the cost performance index (CPI) is 0.9 and a trend analysis shows that the CPI has a downward trend.
+What should the project manager do next?
+
+A. Request additional resources.
+B. Crash the project schedule.
+C. Submit a change request for cost rebaselining.
+D. Use the management reserve.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the project is over budget and the trend analysis show that will continue, the best course of action is to re-baseline the cost of the project and manage to that.
+
+Answer: 
+
+
+
+Q54A project manager joins a project with a distributed team, fixed budget, and tight deadlines. During planning, what should the project manager do to avoid any scope creep and keep the team focused on delivering a product that meets requirements?
+
+A. Conduct daily stand-ups with all development teams.
+B. Prevent stakeholders from directly interacting with the development team leads.
+C. Request that all development team leads prepare detailed requirements.
+D. Ensure that any changes to scope have gone through the formal approval process.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Scope creep can be avoided by adherence to the agreed upon change management process.
+
+Answer: 
+
+
+
+Q55Midway through a project, the project manager identifies new stakeholders whose influence levels are low.
+What should the project manager do?
+
+A. Introduce the stakeholders to the project team.
+B. Refer to the communications management plan to determine how to communicate with the new stakeholders.
+C. Update the stakeholder register.
+D. Concentrate on stakeholders who are high power/high influence.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Identify Stakeholders is the process of identifying protect stakeholders regularly and analyzing and documenting relevant information regarding their interests, involvement, inter-dependencies, influence, and potential impact on protect success. The key benefit of this process is that it enables the protect team to identify the appropriate focus for engagement of each stakeholder or group of stakeholders. This process is performed periodically throughout the protect as needed
+
+Answer: 
+
+
+
+Q56A project's cost performance index (CPI) is 1.2, and a deliverable on the critical path is behind schedule. If the project manager brings the project back on track, what will happen to the project?
+
+A. Activities will be performed in parallel.
+B. Costs and risks will increase.
+C. Rework will result.
+D. The scope will be revised.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Crashing a project will increase both costs and risks.
+
+Answer: 
+
+
+
+Q57A project manager joins a project during its planning phase. What should the project manager do to become familiar with the project's status?
+
+A. Gather information from subject matter experts (SMEs).
+B. Check the project management information system (PMIS).
+C. Review the project charter.
+D. Organize a status meeting with the project team.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project charter contains the most complete information on a project to date. This should be reviewed first.
+
+Answer: 
+
+
+
+Q58A new project manager is developing a resource management plan but is unfamiliar with the skill sets required by the project. What should the project manager do to create the resource management plan?
+
+A. Apply expert judgment
+B. Check the organizational process assets.
+C. Refer to the project organization chart.
+D. Acquire virtual teams.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Expertise should be considered from individuals or groups with specialized knowledge or training in team and physical resource planning and estimating.
+
+Answer: 
+
+
+
+Q59A US $3 million project is being executed. To date, the planned cost is US $630,000, the actual cost (AC) is US $650,000, and the earned value (EV) is US $540,000.
+What is the project's current status?
+
+A. Behind schedule and over budget
+B. Ahead of schedule and under budget
+C. Ahead of schedule and over budget
+D. Behind schedule and under budget
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+CV = EV - AC; 540 - 650 = -110
+SV = EV - PV; 540 - 630 = -90
+
+Answer: 
+
+
+
+Q60A project has become so large that the single sponsor is replaced by a steering committee. What should the project manager do to accommodate this new development?
+
+A. Recognize that there is a change in stakeholder structure and tailor communications to this group.
+B. Share the current status report with the new committee.
+C. Continue to work according to the initial plan while recognizing that the project now includes additional stakeholders.
+D. Organize a meeting for the team with the new steering committee and continue work on the project.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager needs to be proactive and respond to this change. The same communication that was planned for a single sponsor will not necessarily work for this steering committee.
+
+Answer: 
+
+
+
+Q61A project team is performing above service levels, and there have not yet been any issues. However, there are concerns about whether or not this level of performance is sustainable.
+What should the project manager update?
+
+A. Risk register
+B. Performance reviews
+C. Issue log
+D. Project team assignments
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+If there is a risk to the ability of the team to sustain their level of performance, this needs to be captured in the risk register.
+
+Answer: 
+
+
+
+Q62A company is venturing into a new business but has no previous experience in that market. What tool or technique should the project manager use to collect requirements?
+
+A. Expert judgment
+B. Product analysis
+C. Prototypes
+D. Decision making
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Prototyping is a method of obtaining early feedback on requirements by providing a model of the expected product before actually building it.
+
+Answer: 
+
+
+
+Q63A project manager is reviewing approved change requests made within the past month. The process has been efficient, but implementation is taking longer than originally planned.
+What should the project manager do?
+
+A. Return the change requests to the change control board (CCB) for further review.
+B. Follow change management procedures to monitor implementation.
+C. Request additional resources.
+D. Ask stakeholders to raise only critical changes.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The PM can only follow approved procedures. They can monitor the implementation to make sure the processes are being followed.
+
+Answer: 
+
+
+
+Q64The project manager of a life cycle replacement project has identified stakeholders. One stakeholder is someone with whom it is difficult to work, and their behaviour is causing project delays.
+What should the project manager do?
+
+A. Develop and implement a change management plan to add or remove stakeholders from the project.
+B. Ask the sponsor to select a stakeholder who is less difficult so that project delays can be avoided.
+C. Review the stakeholder engagement plan to assess how difficult stakeholders should be engaged.
+D. Vary the format and increase the frequency of communications to the difficult stakeholder so that timely decisions may be made.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder engagement plan is used to understand stakeholder communication requirements and the level of stakeholder engagement in order to assess and adapt to the level of stakeholder participation in requirements activities.
+
+Answer: 
+
+
+
+Q65During project execution, a stakeholder requests a change to ensure that the final product will satisfy their requirements. What should the project manager do next?
+
+A. Reject the request and record it in the product backlog.
+B. Approve the request only if it will have not impact on budget or schedule.
+C. Ask the team to determine the impact of the request on budget and schedule.
+D. Submit a change request, as per the project's change control process.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Verifying that the changes are registered, assessed, approved, and tracked and communicating final results to stakeholders is the responsibility of the project manager.
+
+Answer: 
+
+
+
+Q66A project is 45 percent complete when a project manager learns that an outsourced key resource will be unavailable for an extended period of time. This will have a serious impact on the project's schedule and budget.
+What should the project manager do?
+
+A. Email the outsourced resource's manager demanding an explanation.
+B. Provide project stakeholders with an updated delivery date and budget impact and submit a change request.
+C. Contact the key resource to determine why they will be unavailable and inform the team.
+D. Note this in the project file and update the project management plan.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Any change to the project management plan goes through the organization's change control process via a change request. Changes identified during the Monitor and Control Project Work process may affect the overall project management plan.
+
+Answer: 
+
+
+
+Q67A project issue is identified after implementation in the production environment. What tool or technique should the project manager use to identify the reason for the issue?
+
+A. Ishikawa diagram
+B. Histogram
+C. Pareto diagram
+D. Control chart
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+An Ishikawa diagram breaks down the causes of the problem statement identified into discrete branches, helping to identify the main or root cause of the problem.
+
+Answer: 
+
+
+
+Q68During a periodic review with stakeholders, the project sponsor asks the project manager how deliverables will be verified for accuracy and accepted. Where can the project manager find this information?
+
+A. Scope management plan
+B. Requirements management plan
+C. Quality management plan
+D. Work performance reports
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The quality management plan identifies the quality requirements and/or standards for the project and its deliverables, and documenting how the project will demonstrate compliance with quality requirements and/ or standards.
+
+Answer: 
+
+
+
+Q69Due to resource challenges, a technology vendor is late with a critical project deliverable. There is a 20 percent buffer in the budget for cost overruns.
+What should the project manager do next to mitigate this issue?
+
+A. Discuss the legal implications of this slippage with the vendor.
+B. Accept the cost overrun and update the project schedule.
+C. Assess alternative vendors that can support project deliverables regardless of resource constraints.
+D. Replace the current vendor and ask the new vendor to send a contract.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Realizing that project delivery is the prime focus, the project manager needs to assess alternatives without concern for the potential budget impact. Once a viable alternative is identified, they can present their case to the sponsor for a decision.
+
+Answer: 
+
+
+
+Q70Signs of a potential economic recession were present during the planning stages of a large construction project. The risk of the recession was assigned as low probability and high impact, with an expected duration of 6-12 months. Soon after the project begins, the recession occurs and impacts the project as expected. After six months, the duration of the recession's impact is changed to 24-36 months. What should the project manager do?
+
+A. Borrow additional working capital.
+B. Extend the project duration by 12-24 months.
+C. Update the risk register.
+D. Extend the project duration by 24-36 months.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Before a response can be taken, the project manager must update the risk register with this new information.
+
+Answer: 
+
+
+
+Q71A project manager is informally told that a possible union action will involve their project team. At this stage of the project, any delays will significantly impact the schedule and budget. The probability of this union action was assumed to be minimal and was, therefore, unanticipated. What should the project manager do?
+
+A. Meet with the chairman of the union to try and resolve the conflict.
+B. Update the risk register with the new risk, and notify relevant stakeholders.
+C. Notify the project team of possible disciplinary actions should they choose to take part in this, and offer a reward for those who do not.
+D. Obtain more information on the probability of this union action, and then act based on any factual information received.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager needs to proactively approach this. By updating the risk register and by communicating this development to the appropriate stakeholders, they will be achieving this.
+
+Answer: 
+
+
+
+Q72To effectively lead a project team, a project manager must help team members grow and keep them motivated throughout the project. What should a project manager do to accomplish this?
+
+A. Conduct daily feedback sessions to understand the team's concerns.
+B. Be assertive and stand up for the team's beliefs.
+C. Reward the team for each task that is successfully completed.
+D. Delegate project tasks that challenge the team.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The primary goal of a project manager in relation to the project team is to ensure that the team has the time and resources to do their job and to remove any barriers they may encounter. By standing up for the team's beliefs the project manager is demonstrating their support for the team.
+
+Answer: 
+
+
+
+Q73During a project's execution phase, 100 products were developed based on the originally approved blueprint. The project team randomly selects 20 products to evaluate against the quality plan.
+What is the project team performing?
+
+A. Audits
+B. Inspections
+C. Quality control
+D. Statistical sampling
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Statistical sampling involves choosing part of a population of interest for inspection (for example, selecting 10 engineering drawings at random from a list of 75). The sample is taken to measure controls and verify quality. Sample frequency and sizes should be determined during the Plan Quality Management process.
+
+Answer: 
+
+
+
+Q74User acceptance tests on a project have been omitted since the technology is operational at other factories. However, after implementation, the technology is not working as expected.
+What should the project manager do?
+
+A. Conduct a root cause analysis to identify corrective actions.
+B. Review the defect report to identify and solve the issue.
+C. Submit a change request.
+D. Use test scripts to resolve the issue.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Root cause analysis is an analytical technique used to determine the basic underlying reason that causes a variance, defect, or risk.
+
+Answer: 
+
+
+
+Q75A project is completed, and closeout activities are underway. The project manager discovers that a team member is performing operations activities unrelated to the project scope, but necessary for regular operations. Since the final deliverables must be handed over to operations, what should the project manager do?
+
+A. Issue a change request and obtain approval from the change control board (CCB).
+B. Temporarily transfer the team member to operations.
+C. Train a resource from operations to perform the activities.
+D. Ask the team to assist in completing the operations work and close the project.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+These activities are necessary for the operational use of the product. This is additional scope. A change control order needs to be submitted.
+
+Answer: 
+
+
+
+Q76A large project involving functional groups in four countries is nearing completion. The project manager is preparing closeout documents.
+Who should sign off on the acceptance of project deliverables?
+
+A. Managers from the four countries involved in the project
+B. Director of the project manager's business unit
+C. Steering committee
+D. Project sponsor
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the sponsor provided the resources for the project, it is their responsibility to officially sign off on the project deliverables.
+
+Answer: 
+
+
+
+Q77A project is being planned in a remote area with limited access to vehicles and equipment. The project manager proposes that the company use an outside vendor to deliver all heavy equipment. The project manager will take full responsibility for this activity. However this strategy will result in a significant expense. What type of risk response is the project manager demonstrating?
+
+A. Accept
+B. Mitigate
+C. Avoid
+D. Transfer
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Transfer involves shifting ownership of a threat to a third party to manage the risk and to bear the impact if the threat occurs. Risk transfer often involves payment of a risk premium to the party taking on the threat.
+
+Answer: 
+
+
+
+Q78The client agreed to the final product during user testing, but is now having second thoughts. What should the project manager consult to resolve this issue?
+
+A. Requirements documentation
+B. Quality management plan
+C. Project charter
+D. Acceptance criteria
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The definition of acceptance criteria may significantly increase or decrease quality costs and, therefore, project costs. Satisfying all acceptance criteria implies the needs of the stakeholders have been met.
+
+Answer: 
+
+
+
+Q79Several months after the implementation of an approved change to manage a risk, a project manager learns that the change failed to achieve the expected result. This led to adverse consequences.
+What should the project manager have done to avoid this?
+
+A. Reviewed the assumption log to revisit or change existing assumptions
+B. Assessed new risks, and updated the probability and impact matrix
+C. Verified that the risk response was effective
+D. Added the risk information to the lessons learned register Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Protect work should be continuously monitored for new changing, and outdated individual protect risks and for changes in the level of overall protect risk by applying the Monitor Risks process uses performance information generated dun ng protect execution to determine if the response was effective
+
+Answer: 
+
+
+
+Q80A project is delayed and a change is needed to obtain the desired quality level of the deliverables. The project manager issues a formal change request and communicates the change to all stakeholders. The project manager then learns that this communications approach failed to meet stakeholders expectations.
+What should the project manager do?
+
+A. Issue a change request to include stakeholders' expectations in the project management plan.
+B. Follow the communications management plan, and issue a status report.
+C. Review the communications management and stakeholder engagement plans.
+D. Meet with the project sponsor to better understand stakeholders' expectations.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The Monitoring of the communications process may result in improved effectiveness of communication through additional and possibly amended communications plans and activities. Such iterations illustrate the continuous nature of the Project Communications Management processes. Issues or key performance indicators, risks, or conflicts may trigger an immediate revision.
+
+Answer: 
+
+
+
+Q81A project manager is working on a large project with numerous onsite and offsite team members. These team members also work on multiple other projects, which makes team updates challenging. The project manager is beginning to feel out of touch with the team.
+What should the project manager do?
+
+A. Organize communication training for the team.
+B. Propose that all team members use a common communications tool for regular updates.
+C. Ask each team member to send a weekly email update with any issues and concerns.
+D. Hold a team-building event to improve the team's morale.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The choice of communication technologies should be suitable for project participants and proper training events should be planned, where appropriate
+
+Answer: 
+
+
+
+Q82A project manager is working with stakeholders to identify strategic and operational assumptions and constraints. However, not all stakeholders are consistently providing input. What should the project manager use to enhance stakeholder input?
+
+A. Meeting management
+B. Checklists
+C. Political awareness
+D. Facilitation
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Facilitation is the ability to effectively guide a group event to a successful decision, solution, or conclusion. A facilitator ensures that there is effective participation, that participants achieve a mutual understanding, that all contributions are considered, that conclusions or results have full buy in according to the decision process established for the project, and that the actions and agreements achieved are appropriately dealt with afterward.
+
+Answer: 
+
+
+
+Q83A project's workload is high and resources are overloaded. When management decides to outsource some services to keep the project on schedule, what document should the project manager revise?
+
+A. Project organization chart
+B. Communications management Plan
+C. Resource management plan
+D. Procurement management plan
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Procurement Management Plan is where the process of documenting project procurement decisions, specifying the approach and identifying potential sellers is captured. The key benefit of this process is that it determines whether to acquire goods and services from outside the project and, if so, what to acquire as well as how and when to acquire it.
+
+Answer: 
+
+
+
+Q84A project manager learns that a new law, which will affect the business' type of products, is expected to be passed within the next three to six months. A project to launch a new product is being initiated, and is expected to be complete within two-and-half months. This new product would not meet the requirements of the proposed legislation if it passes. What should the project manager do?
+
+A. Advise the project sponsor and stakeholders to cancel the project until the legislation comes into effect.
+B. Meet with the sponsor and key stakeholders to discuss the risks, then update the assumption log and project charter based on the results of that meeting.
+C. Ensure that the product is completed without any delays so that it is unaffected by the potential change in legislation.
+D. Continue to plan the project, but update the risk management plan.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+This new law can have a profound effect on the project. It will certainly lead to new potential risks, new assumptions and a possible charter change.
+
+Answer: 
+
+
+
+Q85A project team failed to consider a critical technical aspect on a project requirement. A quality audit demonstrates that this issue would prevent the end product from meeting its quality requirements.
+What should the project manager do first?
+
+A. Identify a workaround to contain the effects of the issue.
+B. Submit a change request to address the issue.
+C. Seek guidance from the project sponsor.
+D. Update the lessons learned.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Since this missing critical aspect is needed, the normal change control processes should be followed.
+
+Answer: 
+
+
+
+Q86A senior manager wants to use an essential project resource for another project. What should the project manager do?
+
+A. Escalate the issue to the program manager for resolution.
+B. Inform the team and reassign that resource's responsibilities to other team members.
+C. Explain to the senior manager that this resource is fully committed to the project and is unavailable.
+D. Ask the senior manager to provide a replacement.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The project management team's ability to influence others plays an important role in negotiating resource allocation, as does the politics of the organizations involved. If getting to an agreement is not possible, the issue needs to be escalated for resolution.
+
+Answer: 
+
+
+
+Q87While developing the project schedule, the project manager realizes that the high-level timeline is unrealistic due to longer-than-expected procurement lead times for certain key project components.
+What project document should the project manager update?
+
+A. Configuration management plan
+B. Assumption log
+C. Schedule management plan
+D. Procurement management plan
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The assumption log is used for identifying, managing, and monitoring key assumptions and constraints that may affect the project. These may inform the assessment of the priority of individual project risks.
+
+Answer: 
+
+
+
+Q88A customer is unwilling to accept a product because it failed to pass 100 percent of the functional requirements defined in the scope. What should the project manager have done to avoid this?
+
+A. Evaluated the test management plan
+B. Developed the work breakdown structure (WBS)
+C. Reviewed the requirements documentation
+D. Defined the quality metrics
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Quality metrics are a description of a project or product attribute and how to measure it.
+
+Answer: 
+
+
+
+Q89A team member informs the project manager that they must complete a critical task outside of the project.
+This will pose a schedule risk to the project.
+What should the project manager do to eliminate the risk?
+
+A. Obtain a replacement resource from another department.
+B. Negotiate with the team member's manager for an alternative time to complete the other task.
+C. Instruct the team member's manager to release the team member to complete the scheduled project activity.
+D. Report the team member's manager to the project sponsor for noncompliance.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The resource management plan is used to help determine how resources allocated to agreed-upon risk responses will be coordinated with other project resources. This will provide guidance as to how the project manager can negotiate with the resource's manager.
+
+Answer: 
+
+
+
+Q90A project team discovers that there are many detailed capabilities that differ from the scope outlined in the project charter. What should the project manager use to manage this?
+
+A. Scope baseline
+B. Requirements traceability matrix
+C. Project charter
+D. Expert judgment
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The requirements traceability matrix links product requirements to the deliverables that satisfy them and helps to focus on the final outcomes.
+
+Answer: 
+
+
+
+Q91A project manager finds several inconsistencies between project deliverables and sponsor expectations. To ensure alignment, what should the project manager develop?
+
+A. Risk register
+B. Stakeholder engagement plan
+C. Communications management plan
+D. Work breakdown structure (WBS)
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder engagement plan is a component of the project management plan that identifies the strategies and actions required to promote productive involvement of stakeholders in decision making and execution.
+
+Answer: 
+
+
+
+Q92During a project's user acceptance stage, some users complain that their expectations have been unmet.
+What should the project manager have done differently?
+
+A. Implemented conflict management techniques.
+B. Considered stakeholder feedback.
+C. Conducted risk assessments.
+D. Established a professional relationship with the users.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Managing stakeholder engagement helps to ensure that stakeholders clearly understand the project goals, objectives, benefits, and risks for the project, as well as how their contribution will enhance project success.
+Listening to their feedback is an important part of this engagement.
+
+Answer: 
+
+
+
+Q93The day before manufacturing is to start, a project manager learns that the engineering design was not accepted by the end user. What should the project manager do?
+
+A. Update the stakeholder engagement plan to ensure acceptance buy-in from all stakeholders.
+B. Engage with the end user on the process of design acceptance, and ensure that the project timeline is met.
+C. Ask the end user to re-review the design while the project continues.
+D. Pause the project until the end user accepts the design.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager needs to follow the design acceptance process that was agreed to. This is the best way to insure that the timeline is met.
+
+Answer: 
+
+
+
+Q94A project that should have been 80 percent complete by now is only 75 percent complete. The total project budget is US $100.000 and the actual cost of work performed (ACWP) is US $72.000.
+What can be determined from this information?
+
+A. The project is under budget, has a schedule performance index (SPI) of 0.94, and a cost performance index (CPI) of 1.04.
+B. The project is over budget, has an SPI of 0.94, and a CPI of 1.04.
+C. The project is over budget, has an SPI of 1.07, and a CPI of 0.96.
+D. The project is under budget, has an SPI of 0.94, and a CPI of 0.96.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+EV = %compl * budget = 75% * $100 000 = $75 000
+PV = %plan * bugget = 80% * $100 000 = $80 000
+SPI = EV / PV = $75 000 / $80 000 = 0.94
+CPI = EV / AC = &75 000 / $72 000 = 1.04
+
+Answer: 
+
+
+
+Q95A project manager requires laptops for the project team to start the project. The contracted vendor notifies the project manager that they will be two weeks late on delivery. The project manager selects a replacement vendor that immediately supplies the laptops. Now the original vendor receives their shipment and bills the project in accordance with their contract terms. What should the project manager do next?
+
+A. Ask the vendor to waive the bill since they were unable to deliver on time.
+B. Attempt to negotiate with the original vendor, but be prepared to compensate them in accordance with the procurement management plan.
+C. Request additional funds to pay the original vendor and dispute the bill after the project is closed.
+D. Dispute the bill because, regardless of the procurement management plan, the vendor missed the deadline.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A contract should clearly state the deliverables and results expected, including any knowledge transfer from the seller to the buyer. Anything not in the contract cannot be legally enforced just because one party is not meeting their contractual obligations, it does not give the right for the other party to ignore theirs. You still may need to pay them in accordance with the agreement.
+
+Answer: 
+
+
+
+Q96High failure rates are found in the production line during product manufacture. The project deadline is tight, and the cost of pending production is high. The engineers have determined the root causes of the problem and the project team has identified the best solution. However, this solution will require an increase in the budget. What should the project manager do?
+
+A. Obtain additional funding from the project sponsor.
+B. Submit a change request to the change control board (CCB).
+C. Update the scope baseline.
+D. Implement the proposed solution.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A change control board (CCB) is a formally chartered group responsible for reviewing, evaluating, approving, deferring, or rejecting changes to the project and for recording and communicating such decisions.
+
+Answer: 
+
+
+
+Q97A team for an international project is composed of individuals from different backgrounds, ages, and interests. As soon as the project starts, it becomes clear that they are struggling to work together.
+How can the project manager facilitate better teamwork?
+
+A. Allow the team to develop on its own, and then address issues at the next performance appraisal meeting.
+B. Hold an official team meeting to discuss the importance of teamwork.
+C. Ask the human resource department to educate and train the team on diversity.
+D. Meet with the team to explain ground rules, shared vision, and values, and to better understand team members' priorities.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manage needs to be proactive with the team to insure that the team has a shared vision of project success.
+
+Answer: 
+
+
+
+Q98A sponsor recruits a project manager to implement a project. The project was initiated based on assumptions and feedback from the sponsor's colleagues.
+What should the project manager do first?
+
+A. Validate the project deliverables.
+B. Document the input from the sponsor's colleagues.
+C. Define the project tasks and activities.
+D. Collaborate with stakeholders to understand the project objectives.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The first thing a new project manager needs to do is to understand the objectives of the project.
+
+Answer: 
+
+
+
+Q99A stakeholder requests more frequent and detailed updates on the project's status. The stakeholder also expresses interest in helping with the project.
+What should the project manager do next?
+
+A. Meet with the team to review the stakeholder register and reassess the roles and reporting requirements.
+B. Include this stakeholder in all detailed project status communications and update the stakeholder's engagement level to supportive.
+C. Update the detailed status report for all stakeholders with the same engagement level.
+D. Send detailed status reports as soon as possible and update the stakeholder register.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder register provides details on the project participants and their interests in the project.
+
+Answer: 
+
+
+
+Q100A project needs resource support from a supplier because several team members have been transferred to another project. Concerns arise about the cost risk of using a supplier at this stage of the project. The project manager is working with the procurement team to establish specifications and the type of contract that should be used. What type of contract should the project manager recommend?
+
+A. Fixed price incentive fee (FPIF)
+B. Firm fixed price (FFP)
+C. Time and material(TM)
+D. Cost plus incentive fee (CPIF)
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A Fixed Price Incentive Fee Contract (FPIF) is a type of contract where the buyer pays the seller a set amount (as defined by the contract), and the seller can earn an additional amount if the seller meets defined performance criteria.
+
+Answer: 
+
+
+
+Q101A project manager learns that the customer's resources have not completed the required training. Since customer resource training is a required project deliverable, this poses a risk to the timely completion of the project.
+What should the project manager do?
+
+A. Engage with the project stakeholders to address the risk.
+B. Assign additional post-implementation support to mitigate the risk.
+C. Update the risk register, and discuss it at the next project status meeting.
+D. Adjust the project schedule to account for the training delay.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the customer is a key stakeholder, the project manager should engage with them to address this risk.
+
+Answer: 
+
+
+
+Q102As part of a key project in a large organization, the manufacturing of valves is outsourced to a third party. The project manager learns that the valves will arrive earlier than expected and in greater quantities.
+What should the project manager do next?
+
+A. Review the project schedule and fast track activities to complete the project earlier.
+B. Add additional resources, close the project earlier, and update the lessons learned.
+C. Refer to the procurement management plan to review the terms of delivery from the third party.
+D. Review the cost and schedule plan.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The procurement management plan describes how a project team will acquire goods and services from outside of the performing organization.
+
+Answer: 
+
+
+
+Q103A project manager is leading a project that is running low on cash and for which project cost performance is taken very seriously. The approved project baseline schedule is 100 days, and the baseline budget is US $100,000. After 10 days, the project has spent US $20,000 and earned US $15,000 of work. What is the cost performance index (CPI)?
+
+A. 0.75
+B. 1.33
+C. -5,000
+D. 5,000
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+CPI = EV / AC; $15,000 / $20.000 = 0.75
+
+Answer: 
+
+
+
+Q104A project manager and their team identified risks, performed a qualitative risk analysis, and prepared a risk response plan. However, there have been delays in the response to risk events that are affecting the project schedule.
+To avoid the delay in risk response, what should the project manager have done?
+
+A. Updated the risk report
+B. Assigned risk owners to the risk responses
+C. Distributed the risk response plan to the project sponsor
+D. Performed a quantitative risk analysis on the identified risks Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+In addition to identifying all risks, each risk must be assigned a risk owner.
+
+Answer: 
+
+
+
+Q105A project manager is working on a project taking place in many cities throughout the country. During the final stage of execution, a team leader informs the project manager that work has stopped in one city due to safety issues. Authorities will not allow further project work for three months pending an investigation. What should the project manager do?
+
+A. Inform the project sponsor, and update the project management plan.
+B. Include this information in the project status report, and develop a mitigation plan.
+C. Immediately schedule a meeting with the project sponsor and the authorities to mitigate the work stoppage.
+D. Refer to the risk management plan for an appropriate response.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager need to refer to the risk management plan to see if this was an identified risk and, if so, to follow the recommended plan. If not, then the risk management process need to be invoked and followed.
+
+Answer: 
+
+
+
+Q106During a project progress meeting, a stakeholder informs the team that a previously identified technical issue has been resolved. However, the stakeholder warns that the same issue is likely to happen on other, similar projects.
+What should the project manager do first?
+
+A. Update the lessons learned register.
+B. Communicate the warning to the project sponsor.
+C. Prepare a risk report.
+D. Update the issue log.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Update the issue log.
+
+Answer: 
+
+
+
+Q107During a project's development stage, a functional manager is transferred to another department and is no longer involved with the project.
+What should the project manager do first?
+
+A. Revise the communications management plan.
+B. Assess the impact on risks.
+C. Review the project team assignments.
+D. Update the stakeholder register.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder register contains details about the identified stakeholders to help understand the knowledge they may have. Until you understand what skill or knowledge you are losing, you can't begin to resolve the gap.
+
+Answer: 
+
+
+
+Q108A project manager receives a chain of emails from the project team and vendor arguing about a recently received deliverable. The project team believes that the deliverable fails to meet a specific requirement, but the vendor maintains that they are unaware of this requirement. To what should the project manager first refer?
+
+A. Communications management plan
+B. Statement of work (SOW)
+C. Requirements management plan
+D. Work breakdown structure (WBS)
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The SOW describes the procurement item in sufficient detail to allow prospective sellers to determine if they are capable of providing the products, services, or results. Sufficient detail can vary based on the nature of the item, the needs of the buyer, or the expected contract form. Information included in a SOW can include specifications, quantity desired, quality levels, performance data, period of performance, work location, and other requirements.
+
+Answer: 
+
+
+
+Q109A project manager presents the project charter to the steering committee. The steering committee is concerned about preassigned resource allocation because the stakeholders are unaware of their participation in the project.
+What should the project manager have done to avoid this?
+
+A. Defined roles and responsibilities for each stakeholder
+B. Managed stakeholder engagement
+C. Completed the stakeholder register
+D. Obtained stakeholders' expectations
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Stakeholder Register is a project document that includes the identification, assessment, and classification of project stakeholders
+
+Answer: 
+
+
+
+Q110At the end of an iteration, a team member tells the project manager that a planned task is unfinished because of an issue that appeared days ago but was unable to be resolved. What should the project manager do to prevent this type of situation in the future?
+
+A. Discuss the issue during the next iteration planning meeting.
+B. Address the issue in the demo.
+C. Discuss the issue during the retrospective.
+D. Review the issue in the next daily standup meeting.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The retrospective allows issues with the execution approach to be identified and discussed in a timely fashion along with ideas for improvements. Retrospectives are a primary tool to manage project knowledge and develop the team through discussions of what is working well and team-based problem solving.
+
+Answer: 
+
+
+
+Q111There are three main tasks in a new product development project. Task A must be delivered two weeks before task C starts, and task C will start once task B is finished.
+What is the relationship between tasks A and B?
+
+A. Start-to-start (SS)
+B. Start-to-finish (SF)
+C. Finish-to-finish (FF)
+D. Finish-to-start (FS)
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+While there is no DIRECT relationship between A and B, both must be completed before C can start, so, of the choices, the only response that makes sense is FF
+
+Answer: 
+
+
+
+Q112A project manager joins a new multi-million-dollar project that requires deliverables from various departments to successfully implement. What should the project manager do first to successfully implement the project?
+
+A. Perform a stakeholder analysis and conduct detailed requirements sessions.
+B. Visit the client to ensure that all communication channels have been identified for key client stakeholders.
+C. Immediately identify the best resources to work on the project.
+D. Contract with an outside vendor who has already successfully delivered to the client.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholder analysis results in a list of stakeholders and relevant information such as their positions in the organization, roles on the protect "stakes", expectations, attitudes (their levels of support for the protect) and their interest in information about the project. This analysis must first occur in order to insure a successful project implementation
+
+Answer: 
+
+
+
+Q113A team lead is concerned that two project teams are working on parts of the project that are highly dependent on each other. The team lead believes that this might create conflicts when the two teams outputs are combined.
+What should the project manager instruct the team lead to do?
+
+A. Make a list of conflicts as they occur, and take corrective actions.
+B. Instruct both teams to continue working simultaneously, and address conflicts at the testing phase.
+C. Determine the potential conflicts, and set up weekly meetings between the teams to monitor each other's work.
+D. Identify which team's work should take precedence, and then delay the other team's work.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Before deciding to act, the project manager needs to determine the potential conflicts and monitor progress.
+
+Answer: 
+
+
+
+Q114The quality management plan states that project deliverables must be reviewed at least one week before the deadline. Three deliverables have missed this quality requirement.
+What should the project manager do?
+
+A. Revise the quality management plan.
+B. Request an internal audit of the project.
+C. Create and analyze a cause-and-effect diagram.
+D. Seek advice from the project sponsor.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+By understanding the root cause of this issue will help the project manager avoid this type of problem later on in this project and on others.
+
+Answer: 
+
+
+
+Q115During the execution phase of a software development project, several overseas developers join the team.
+What should the project manager update first?
+
+A. Project schedule
+B. Communications management plan
+C. Scope management plan
+D. Risk register
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The communications management plan establishes how, when, and by whom information about the project will be administered and disseminated.
+
+Answer: 
+
+
+
+Q116During the development stage of a project that involves handling sensitive client data, the compliance manager raises an issue of project non-compliance. What document should the project manager review first?
+
+A. Risk register
+B. Business case
+C. Project charter
+D. Statement of work (SOW)
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project charter is defined as a document issued by the project sponsor that formally authorizes the existence of a project and provides the project manager with the authority to apply organizational resources to project activities.
+
+Answer: 
+
+
+
+Q117A project manager is preparing the monthly project status report. Some new risks have been identified that could impact important key milestones.
+What should the project manager reference before presenting this new risk information?
+
+A. Risk report and lessons learned repository
+B. Organizational process assets and risk register
+C. Risk report and risk management plan
+D. Risk report and risk register
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager must check the risk register and risk report to see if this is indeed a new risk and to see if there was action already planned around it.
+
+Answer: 
+
+
+
+Q118After project closure but during the warranty period, the project manager wants to determine whether the customer is satisfied with the project's outcome. How can the project manager measure this?
+
+A. Through evaluation of the project deliverables and review of customer feedback
+B. Via additional requests for services from the same customer
+C. By conducting lessons learned sessions with the customer
+D. By auditing project success
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Project closure meetings are used to confirm that the deliverables have been accepted, to validate that the exit criteria have been met, to formalize the completion of the contracts, to evaluate the satisfaction of the stakeholders, to gather lessons learned, to transfer knowledge and information from the project, and to celebrate success.
+
+Answer: 
+
+
+
+Q119An important change is requested at the end of a project. While this change is needed to solve an urgent issue that could affect business continuity, it will extend the schedule and increase the cost.
+What should the project manager do next?
+
+A. Communicate the impact on the budget and schedule.
+B. Submit a change request.
+C. Reject the change.
+D. Implement the change.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The Project manager must follow the agreed up policies and procedures.
+
+Answer: 
+
+
+
+Q120A project manager is working on a global project with resources located in different regions. What should the project manager do to address the correct channels with the right information?
+
+A. Develop a communications management plan.
+B. Schedule meetings in different time zones.
+C. Hold frequent video conferences.
+D. Create a stakeholder engagement plan.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A communications management plan is developed to ensure that the appropriate messages are communicated to stakeholders in various formats and various means as defined by the communication strategy.
+
+Answer: 
+
+
+
+Q121A project manager must manage potential conflicting stakeholder interests. The stakeholder engagement assessment matrix identifies an influential stakeholder who is resistant to the project. What should the project manager do to align this stakeholder's expectations?
+
+A. Communicate the stakeholder engagement plan.
+B. Update the stakeholder register.
+C. Meet with all stakeholders to gain consensus on project objectives.
+D. Create the stakeholder engagement plan.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Plan Stakeholder Engagement is the process of developing approaches to involve project stakeholders based on their needs, expectations, interests, and potential impact on the project. The key benefit is that it provides an actionable plan to interact effectively with stakeholders.
+
+Answer: 
+
+
+
+Q122A project manager assumes a project during its execution stage and wants to review the project scope for cost estimating purposes. The project manager discovers that some deliverables were missed in the work breakdown structure (WBS),
+What should the project manager do next?
+
+A. Ask the stakeholders if these missed deliverables need to be added.
+B. Request that the project management office (PMO) approve additional funds for this work.
+C. Add the work to the WBS according to the 100 percent rule and recalculate the total project cost.
+D. Ask subject matter experts (SMEs) to check whether these deliverables are necessary.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The WBS is a hierarchical decomposition of the total scope of work to be carried out by the project team to accomplish the project objectives and create the required deliverables. The WBS organizes and defines the total scope of the project and represents the work specified in the current approved project scope statement. This must always reflect the complete and accurate scope of work.
+
+Answer: 
+
+
+
+Q123Due to cross-cultural differences, stakeholders of a multinational project fail to approve the project management plan. To mitigate this issue, what should the project manager have done?
+
+A. Trained the team on a common communication language
+B. Requested earlier feedback from the stakeholders
+C. Reviewed/updated the issue log to reflect that the project management plan may not receive approval
+D. Updated the stakeholder register and paid attention to non-verbal cues Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Stakeholder Register is a project document that includes the identification, assessment, and classification of project stakeholders.
+
+Answer: 
+
+
+
+Q124A project manager is working on a project for which the project sponsor is also the customer. Since the project is running smoothly, the sponsor/customer asks that the project manager send status reports only if the project is in trouble.
+What should the project manager do?
+
+A. Send only high-level status updates to stakeholders.
+B. Amend the communications management plan.
+C. Keep track of the project and continue to inform other stakeholders of project progress.
+D. Store the project status reports in the project repository rather than sending them to stakeholders.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Monitor Communications is the process of ensuring the information needs of the project and its stakeholders are met. The key benefit of this process is the optimal information flow as defined in the communications management plan and the stakeholder engagement plan. This process is performed throughout the project.
+
+Answer: 
+
+
+
+Q125A project is in its execution phase. Due to a new regulation, the client asks for additional documentation to be delivered within the contract.
+What should the project manager do?
+
+A. Negotiate with the client.
+B. Update the project management plan.
+C. Execute change management procedures.
+D. Review the risk register.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Since compliance is mandatory, a change request needs to be submitted.
+
+Answer: 
+
+
+
+Q126Two key stakeholders have different opinions about a project's goals. What should the project manager do to obtain approval of the project charter?
+
+A. Settle the project goals during the kick-off meeting.
+B. Ask the project sponsor to resolve the conflict.
+C. Perform a stakeholder analysis.
+D. Negotiate an agreement between the two stakeholders.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Projects experiencing a high degree of change require active engagement and participation with project stakeholders. To facilitate timely, productive discussion and decision making, adaptive teams engage with stakeholders directly rather than going through layers of management.
+
+Answer: 
+
+
+
+Q127A project resource completed all assigned project tasks. The resource's manager requests an immediate transfer of the resource to another project.
+What should the project manager do next?
+
+A. Complete an evaluation of the resource's performance on the project.
+B. Evaluate whether the resource could be helpful in another project phase.
+C. Ask the resource to document any lessons learned during the project.
+D. Suggest that the manager transfer a different resource to the other project.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager needs to capture any lessons learned from the resource while the information is fresh and to allow for any learned improvements to be implemented earlier.
+
+Answer: 
+
+
+
+Q128A customer identifies performance issues on a newly implemented product. What category of cost of quality (COQ) should the project manager have used to estimate this cost?
+
+A. External failure costs
+B. Internal failure costs
+C. Appraisal costs
+D. Prevention costs
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+External Failure Costs are those failures found by the customer.
+
+Answer: 
+
+
+
+Q129A kick-off meeting with stakeholders is held to discuss the draft of the project plan. During the meeting, two stakeholders disagree about the project's objective.
+What should the project manager have done to prevent this?
+
+A. Delayed the discussion but agreed to later address the issue
+B. Clearly communicated the kick-off meeting's objective and explained that it was only for informational purposes
+C. Defined a more comprehensive risk management plan to control the impact of different stakeholders with different objectives
+D. Identified and analyzed the level of influence and interest of each stakeholder and addressed their concerns
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholder analysis identifies relevant information such as their positions in the organization, roles on the project, "stakes", expectations, attitudes (their levels of support for the project), and their interest in information about the project.
+
+Answer: 
+
+
+
+Q130A local government provides subsidies for energy-efficient activities. An organization plans a project to install solar panels to reduce energy costs. After the solar panel project has started, the government announces that solar panels may not continue to qualify for subsidies. What should the project manager do?
+
+A. Raise the risk level.
+B. Update the issue log.
+C. Use the contingency reserve.
+D. Create a change request.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The risk level on this issue must be raised as an expected monetary result might not be achieved.
+
+Answer: 
+
+
+
+Q131While executing a project that is nearly behind schedule, a project manager must commission a new piece of equipment. A local party who will be impacted by this, asks that the project be immediately stopped because they were not given an opportunity to provide project approval. What should the project manager have done to avoid this?
+
+A. Used negotiating and influencing techniques and skills
+B. Used conflict management techniques
+C. Implemented a stakeholder engagement plan
+D. Obtained sign-off and approval of the project charter from all stakeholders Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Plan Stakeholder Engagement is the process of developing approaches to involve protect stakeholders based on
+their needs, expectations, interests, and potential impact on the project The key benefit is that it provides an actionable plan to interact effectively with stakeholders. This process is performed periodically throughout the
+project as needed
+
+Answer: 
+
+
+
+Q132Project team members are used to performing changes outside of the established change control process. In a team meeting, another change request was issued to the company board of directors.
+What should the project manager do?
+
+A. Accept the change request and continue to manage the project to meet its requirements and schedule.
+B. Notify the requester that the change should be handled through the change control process.
+C. Ask the project sponsor for details about changes and project performance.
+D. Conduct a team-building session and hope that the team gets back on track after all the changes.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+It is imperative for the PM to adhere to the policies and procedures that have been outlined and agreed to in the project plan.
+
+Answer: 
+
+
+
+Q133A new project manager joins an ongoing project following the resignation of the former project manager. What should the new project manager do to start guiding the team toward project success?
+
+A. Consult the project diary for notes made by the former project manager.
+B. Adjust the project schedule to add a new activity related to the knowledge transfer process.
+C. Review the project charter to identify goals and deliverables.
+D. Revisit the project budget to determine if extra time is required.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+In order to successfully lead a project. the PM must first understand the purpose of the project and what the goals and deliverables are.
+
+Answer: 
+
+
+
+Q134During project execution, the project manager determines that communications fail to comply with the communications management plan. What should the project manager do?
+
+A. Refer team members to the communications management plan.
+B. Inform stakeholders that all information received is not part of the communications management plan.
+C. Practice structured informal communications as part of key project milestones.
+D. Have team members review the project management plan.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+It is the project manager's responsibility to insure that the team is following the communications management plan.
+
+Answer: 
+
+
+
+Q135A project's statement of work (SOW) requires that the project be delivered in six months. The project manager is concerned that the timeline is unreasonable.
+What should the project manager do to address this?
+
+A. Inform the project sponsor that the timeline cannot be met.
+B. Develop a project management plan according to the SOW.
+C. Request additional resources.
+D. Meet with subject matter experts (SMEs) and the sponsor to set realistic expectations.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+If a project timeline is not realistic, then the project manager need to provide the proof to the sponsor so that a realistic expectation can be set. The SMEs can provide that information and allow the sponsor to decide on a course of action.
+
+Answer: 
+
+
+
+Q136A project must integrate with many other systems that different vendors are developing, and one of the vendors goes bankrupt. What should project manager do first?
+
+A. Perform a quantitative risk analysis.
+B. Meet with this vendor.
+C. Update the risk register.
+D. Assign another vendor to the deliverable.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The risk register contains response strategies that may affect the project scope, such as reducing or changing project and product scope to avoid or mitigate a risk. Before developing a risk response strategy, you must FIRST document WHAT the risk is.
+
+Answer: 
+
+
+
+Q137While working on a large project, the project manager notices that a specific developer is constantly missing deadlines. What should the project manager do?
+
+A. Personally meet with the developer, and offer support where applicable.
+B. Identify whether the developer is a shared resource with another project.
+C. Give the developer a warning via email to improve their work quality.
+D. Escalate the issue to the developer's line manager, and ask for the concern to be immediately addressed.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager needs to proactively manage this resource. They need to understand the reason for repeatedly missing deadlines and to offer the requisite support.
+
+Answer: 
+
+
+
+Q138Without considering all the implications, a project sponsor requires that the project team be composed of resources located in three locations in three different time zones. This is expected to save costs and provide the optimal project team.
+Where should this be reflected in the project charter?
+
+A. High-level requirements
+B. Overall project risks
+C. Key stakeholder list
+D. Resource management plan
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Having a dispersed project team does not come without risks. These risks need to be identified in the risk log for the project.
+
+Answer: 
+
+
+
+Q139A project manager prepares the charter for a project that aims to automate 20 percent of product testing. The project sponsor advises the project manager to assign senior test engineers to identify the tests that can be automated. However, the test department manager is uncooperative because they believe that the project will cause downsizing in their department. What should the project manager do first?
+
+A. Raise the risk that the senior testing engineers will be unavailable for the testing.
+B. Meet with the test department manager to explain the statement of work (SOW).
+C. Ask the project sponsor to provide a rationale for test automation.
+D. Provide objective cost-benefit evidence of test automation to the test department manager.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The FIRST thing the PM need to do is to make sure the project goals are clearly understood by the stakeholders.
+
+Answer: 
+
+
+
+Q140A manufacturing company is implementing a project to produce a new product using new technology and processes. Details of the component work packages have been defined and constraints for each component have been identified. Management would like to obtain a precise cost estimate of the project.
+What estimating technique should the project manager use?
+
+A. Analogous
+B. Bottom-up
+C. Three-point
+D. Parametric
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Bottom-up estimating is a method of estimating project duration or cost by aggregating the estimates of the lower level components of the WBS.
+
+Answer: 
+
+
+
+Q141A team member informs the project manager that there is a variance between actual and planned system speed. The project manager is surprised, because this performance measurement was not identified during the planning phase of the project. The project manager then evaluates whether the variance requires a response. During the evaluation, in which phase is the project manager?
+
+A. Executing
+B. Closing
+C. Planning
+D. Monitoring and controlling
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Monitor and control is the phase you are in when you are comparing the planned results with the actual results.
+
+Answer: 
+
+
+
+Q142A project is being executed when a few changes are brought to the attention of the team. The changes are needed but everyone has different opinions on what they think is right.
+What should the project manager do?
+
+A. Meet with the project sponsor and the board to address the issue.
+B. Meet with team members to review the issues and request changes where needed.
+C. Apply all requested changes to the project and communicate with the team.
+D. Ensure that the entire team and stakeholders understand and follow the change management plan.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The team and project manager must follow the documented and agreed upon change management processes.
+
+Answer: 
+
+
+
+Q143Because an organization has project sponsors geographically dispersed, the project management office (PMO) initiates a project to implement a customized, unified organizational process. This process includes generating required artifacts at the end of each milestone before the next phase starts. This project's outcome will be used as a prototype for future implementations. What should the project manager do to ensure that this project is a success?
+
+A. Update the project management plan on a weekly basis.
+B. Facilitate a virtual weekly status update meeting.
+C. Engage the stakeholders and request sign-off at the end of each stage.
+D. Create a detailed project management plan to share with all stakeholders.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The PM needs to adopt and model the desired behaviour. Getting sign off at each stage will accomplish this.
+
+Answer: 
+
+
+
+Q144A project manager has obtained final acceptance of the deliverables, completed the assessment, released project resources, and closed out all procurement-related activities.
+What should the project manager do next?
+
+A. Manage quality reviews.
+B. Update the project management information system (PMIS).
+C. Review the issue log.
+D. Amend the project schedule.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A project management information system (PMIS) is the coherent organization of the information required for an organization to execute projects successfully This should be updated with project progress right through to project completion.
+
+Answer: 
+
+
+
+Q145Without a project manager's knowledge, an unofficial communications platform on social media was established to ensure effective communication among team members. The project manager learns that the platform is being used inappropriately.
+What should the project manager do?
+
+A. Terminate the platform, as it is not part of the communications management plan.
+B. Discipline all individuals involved, and report the issue to the compliance office.
+C. Direct the project team to discontinue use of the platform, and then review the communications management plan.
+D. Assign an administrator to monitor communications on this platform.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Since this platform was not part of the original communications plan, it should not be used. The project manager needs to refer the team members back to the approved project communications plan.
+
+Answer: 
+
+
+
+Q146A project manager joins a project as a replacement on a project team. During initial meetings, the project manager realizes there are many differing opinions about how to address technical decisions. Team members do not respect each other's ideas, and the environment is becoming counterproductive. In what phase of development is the team?
+
+A. Forming
+B. Norming
+C. Performing
+D. Storming
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Storming often starts where there is a conflict between team members' natural working styles. People may work in different ways for all sorts of reasons but, if differing working styles cause unforeseen problems, they may become frustrated.
+
+Answer: 
+
+
+
+Q147A project manager is developing a project charter, but a key stakeholder is failing to provide information about the expected project benefits. What should the project manager do?
+
+A. Inform the project sponsor about the issue.
+B. Use analogous estimating to estimate the expected benefits.
+C. Note this as an open item and continue with project planning.
+D. Refer the issue to the change control team.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The sponsor is the person who could intervene and facilitate that stakeholder's contribution.
+
+Answer: 
+
+
+
+Q148A company initiates a project to improve customer satisfaction by the end of the next quarter. What should the project manager do to identify best practices?
+
+A. Organize focus groups.
+B. Use facilitation.
+C. Create an affinity diagram.
+D. Use benchmarking.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Benchmarking involves comparing actual or planned products, processes, and practices to those of comparable organizations to identify best practices, generate ideas for improvement, and provide a basis for measuring performance.
+
+Answer: 
+
+
+
+Q149A project sponsor directs a project manager to immediately begin a critical project with a very tight timeline.
+What should the project manager do first?
+
+A. Meet with all divisions to obtain their buy-in and support.
+B. Ask the sponsor how the project will be funded.
+C. Gather initial requirements to create the project charter.
+D. Draft the project schedule to determine whether the deadline is feasible.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The first steps in initiating a project are to understand the goal, the requirements and to create a charter.
+
+Answer: 
+
+
+
+Q150A team member informs the project manager that a task deadline will be unmet because inputs required from another team member have not been received. What should the project manager do?
+
+A. Meet with the team to discuss that team member's constraints, and determine if they require assistance with meeting the task deadline.
+B. Arrange for a disciplinary enquiry for the defaulting team member.
+C. Remove the defaulting team member from the project, and ask for a replacement.
+D. Ask the team member responsible for those inputs to comply with the task requirements.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager's goal at this point is to make sure the task gets completed. The project manager needs to understand what is constraining the resource and to provide assistance where possible.
+
+Answer: 
+
+
+
+Q151Due to regulatory changes, a government agency is now a key stakeholder on a complex project. The project manager wants to develop an understanding of this new project stakeholder and any new high-level risks.
+What should the project manager use?
+
+A. Meetings
+B. Benefits management plan
+C. Assumption log
+D. Stakeholder engagement plan
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Meetings are used to develop an understanding of significant project stakeholders. They can take the form of facilitation workshops, small group guided discussions, and virtual groups using electronics or social media technologies to share ideas and analyze data.
+
+Answer: 
+
+
+
+Q152A new project manager joins a project during the delivery of a critical milestone. As this project has multiple stakeholders, the project manager needs to determine which stakeholders should receive information about the delivery.
+To what should the project manager refer?
+
+A. Stakeholder engagement plan
+B. Project management plan
+C. Communications management plan
+D. Stakeholder register
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Analysis of communication requirements determines the information needs of the project stakeholders.
+These requirements are defined by combining the type and format of information needed with an analysis of the value of that information.
+
+Answer: 
+
+
+
+Q153A stakeholder believes that information is lacking and asks the project manager about the project's status.
+What should the project manager do?
+
+A. Ask the stakeholder if they are checking their mail.
+B. Check the communications management plan to ensure that the stakeholder is included.
+C. Refer to the communications management plan to ensure that all stakeholders are included.
+D. Send a project status update to all stakeholders.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+It is important to insure that all stakeholders are being included in the communication management plan, not just the stakeholder who raised the issue.
+
+Answer: 
+
+
+
+Q154A project manager identifies scheduling priority conflicts among local and virtual team members. The project manager schedules a conference call to manage this conflict. What conflict resolution technique did the project manager use?
+
+A. Force/direct
+B. Collaborate/problem solve
+C. Compromise/reconcile
+D. Smooth/accommodate
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Collaborate/problem solve. Incorporating multiple viewpoints and insights from differing perspectives; requires a cooperative attitude and open dialogue that typically leads to consensus and commitment. This approach can result in a win-win situation.
+
+Answer: 
+
+
+
+Q155A project manager submits a project review report showing that the project has completed 50 percent of its activities, has a schedule performance index (SPI) of 1, and a cost performance index (CPI) of <1. What should the project manager do next to successfully complete the project?
+
+A. Prepare a change request.
+B. Continue the project as per the schedule.
+C. Identify parallel activities to reduce the critical path.
+D. Develop a bottom-up estimate for the remaining work.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A CPI of < 1 means the project is over budget The project manager should be proactive in understanding the remaining costs on the project. Bottom up estimating is a method of estimating a component of work.
+The cost of individual work packages or activities is estimated to the greatest level of specified detail.
+
+Answer: 
+
+
+
+Q156A stakeholder believes that a recent project's deliverables were not achieved. What should the project manager do to gain this stakeholder's approval?
+
+A. Examine the quality management plan with this stakeholder.
+B. Obtain the stakeholder's new requirements and perform a risk analysis.
+C. Review the project charter with this stakeholder.
+D. Analyze this stakeholder's needs and expectations and review the project scope.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Monitor Stakeholder Engagement is the process of monitoring project stakeholder relationships and tailoring strategies for engaging stakeholders through modification of engagement strategies and plans. The key benefit of this process is that it maintains or increases the efficiency and effectiveness of stakeholder engagement activities as the project evolves and its environment changes This process is performed throughout the project.
+
+Answer: 
+
+
+
+Q157Due to lack of funding, a project is terminated during its initiation phase and the project manager must close the project. What should the project manager do first?
+
+A. Perform a risk analysis to determine the potential impact of terminating the project.
+B. Review the organization's project closure guidelines.
+C. Refer to the communications management plan to properly inform all stakeholders.
+D. Close all project procurement processes.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Project closure guidelines or requirements will contain the organization's procedures to follow.
+
+Answer: 
+
+
+
+Q158A geographically dispersed team must implement an enterprise-wide system with an aggressive schedule. Some team members have web cameras and others have internet connectivity issues. In order to manage the team's varied media options, what plan should the project manager reference?
+
+A. Communications management
+B. Stakeholder engagement
+C. Resource management
+D. Risk management
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The communications management plan establishes how, when, and by whom information about the project will be administered and disseminated.
+
+Answer: 
+
+
+
+Q159A team member is eager to add new features being considered by the customer to the project deliverable. Before beginning work on these new features, whose approval is required?
+
+A. Change control board (CCB)
+B. Project sponsor
+C. Subject matter expert (SME)
+D. Project manager
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Change control board is a formally chartered group responsible for reviewing, evaluating, approving, deferring, or rejecting changes to the project and for recording and communicating such decisions.
+
+Answer: 
+
+
+
+Q160During a project's execution phase, two stakeholders complain that they receive insufficient information on the project's status. The stakeholders have been included in the regular status meetings, and status reports are being shared with them.
+What should the project manager do next?
+
+A. Follow the stakeholder engagement plan.
+B. Conduct one-on-one meetings with these stakeholders.
+C. Create a communications management plan.
+D. Escalate the issue to the project sponsor.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the stakeholders are already included in the status meetings and status reports, the project manager should meet with them one on one to understand what their additional communication needs are.
+
+Answer: 
+
+
+
+Q161Midway through a project, a key project team member requests two months leave for personal matters.
+What should the project manager do first?
+
+A. Evaluate the impact on the project.
+B. Ask this key team member if the leave can be postponed.
+C. Review the resource management plan.
+D. Negotiate with the functional manager for a replacement.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The FIRST thing the project manager needs to do is to understand what impact (if any) this absence will have on the project.
+
+Answer: 
+
+
+
+Q162A project has been successfully delivered and the project manager is executing formal closure. What should the project manager do first?
+
+A. Reassign the project team.
+B. Obtain stakeholder acceptance.
+C. Update the bid documents.
+D. Reallocate the unused funds.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Deliverables that meet the acceptance criteria are formally signed off and approved by the customer or sponsor. Formal documentation received from the customer or sponsor acknowledging formal stakeholder acceptance of the project's deliverables is forwarded to the Close Project process.
+
+Answer: 
+
+
+
+Q163A project manager completes plans for a project and submits all documents for approval. No time is allocated for delays in approvals.
+What should the project manager have done to address this potential risk?
+
+A. Selected a risk owner and incorporated owner-identified actions into the planning document
+B. Planned specific actions, including primary and backup strategies, and chosen a risk owner
+C. Started the project in advance to avoid impacting the schedule
+D. Shared this potential risk information with the project stakeholders to accelerate approvals Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk analysis tools can be used to choose the most appropriate responses. Specific actions are developed to implement that strategy, including primary and back up strategies.
+
+Answer: 
+
+
+
+Q164One year ago at project kick-off, the entire project team was trained on the specifics of the business operation that the project supports. Since then, turnover has been high and new project team members fail to have the same understanding of the business. As a result, project productivity has suffered. What should the project manager do?
+
+A. Revise the project schedule to allow for the decrease in productivity.
+B. Reassign the inexperienced team members, add members with more relevant experience, and log the turnover issue in the lessons learned register.
+C. Hold a second kick-off meeting for the new team members and ask current members to provide training and support.
+D. Instruct the new team members to seek help from experienced members when confronted with something they do not understand.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+It is the PM's responsibility to make sure that the new members are adequately trained. This approach provides that training.
+
+Answer: 
+
+
+
+Q165A software development project requires a highly skilled resource that is unavailable locally. A resource who can work on site is identified in another country, but the work visa process is taking longer than expected.
+What should the project manager do?
+
+A. Delay the project by an equivalent duration.
+B. Reduce the project's scope.
+C. Ask the resource to work remotely.
+D. Assign overtime work to the existing team.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The use of virtual teams creates new possibilities when acquiring project team members. Virtual teams can be defined as groups of people with a shared goa I who fulfil their roles with little or no time spent meeting face to face. The availability of communication technology such as email, audio conferencing, social media, web-based meetings, and video conferencing has made virtual teams feasible.
+
+Answer: 
+
+
+
+Q166A food company receives customer complaints that a product is underweight. What tool or technique can the project manager use to determine if something needs to be changed in the production line?
+
+A. Histogram
+B. Affinity diagram
+C. Control chart
+D. Scatter diagram
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Control charts are used to determine whether or not a process is stable or has predictable performance.
+
+Answer: 
+
+
+
+Q167A project manager is alternating between two projects with tight deadlines. They are determined to collect lessons learned from both projects, despite having limited time to do so. How should the project manager collect the lessons learned?
+
+A. Request assistance from the knowledge management department.
+B. Document them as each project finishes.
+C. Archive all minutes from project meetings.
+D. Document them routinely, starting from the initiation phase.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The key benefits of the lessons learned process are that prior organizational knowledge is leveraged to produce or improve the project outcomes, and knowledge created by the project is available to support organizational operations and future projects or phases. This process is performed throughout the project.
+
+Answer: 
+
+
+
+Q168During a project's execution phase, the project manager needs to quickly assign resources to build the team and meet project requirements on time. What should the project manager do next?
+
+A. Conduct a series of workshops.
+B. Train the new team.
+C. Create library services.
+D. Conduct a webinar.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Develop Team is the process of improving competences, team member interaction, and overall team environment to enhance project performance. Training is a form of this.
+
+Answer: 
+
+
+
+Q169Some previously unidentified stakeholders report that they have not been kept informed regarding the status of a critical project even though their functional areas are largely impacted. What should the project manager do first?
+
+A. Invite all stakeholders to the status meetings.
+B. Examine and update the stakeholder register.
+C. Identify new strategies to communicate project status.
+D. Review the project's communication methods.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+As stakeholder identification continues throughout the project, new stakeholders, or new information about stakeholders, may result in a change request to the product, project management plan, or project documents. This register needs to be constantly examined and updated.
+
+Answer: 
+
+
+
+Q170A project team has fallen behind schedule on some tasks. The project manager tries to fix the issue by reprioritizing a few subsequent tasks. This does not resolve the scheduling problem, and the project manager must now escalate the issue to the project's stakeholders. To what plan should the project manager refer to escalate this?
+
+A. Change management
+B. Communications management
+C. Risk management
+D. Stakeholder engagement
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The communications management plan is developed to ensure that the appropriate messages are communicated to stakeholders in various formats and various means as defined by the communication strategy.
+
+Answer: 
+
+
+
+Q171A project manger in a global organization is responsible for a project involving six different companies. Midway through the project, one stakeholder's involvement is lessened due to illness.
+What should the project manager update?
+
+A. Project charter
+B. Stakeholder engagement plan
+C. Project management plan
+D. Stakeholder register
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder engagement plan is updated to reflect any processes, procedures, tools, or techniques that affect the engagement of stakeholders in project decisions and execution.
+
+Answer: 
+
+
+
+Q172During a project's execution phase, a regulatory law is approved that mandates immediate compliance. This law will impact the project's scope, schedule, and cost.
+What should the project manager do first?
+
+A. Update the project management plan.
+B. Escalate the issue to senior management.
+C. Mitigate the risk.
+D. Initiate the change request process.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Since compliance is mandatory, a change request needs to be submitted.
+
+Answer: 
+
+
+
+Q173The owner of a consulting company initiates a project to expand the number of services the company provides. The company has a competitive advantage, outstanding expertise, and an excellent reputation. The executive team is concerned about the potential for negative business outcomes associated with adding new services. To evaluate the probability and impact of negative business outcomes, what should the project manager use?
+
+A. Decision making
+B. Risk assessment matrix
+C. Cause-and-effect diagram
+D. Forecasting
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Opportunities and threats are represented in a common probability and impact matrix using positive definitions of impact for opportunities and negative impact definitions for threats.
+
+Answer: 
+
+
+
+Q174The project manager observes that team members are accepting a number of changes to the deliverables with little attention to ensuring acceptable standards. When questioned, the team members reply that the changes are relatively minor. What part of the project management plan should the project manager review with the team?
+
+A. Perform Integrated Change Control process
+B. Change management plan
+C. Scope management plan
+D. Quality management plan
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Quality Management Plan. A component of the project or program management plan that describes how applicable policies, procedures, and guidelines will be implemented to achieve the quality objectives.
+
+Answer: 
+
+
+
+Q175A project manager is concerned that team members spend too much time assisting operations and maintenance staff with a recently commissioned project component. To what documents should the project manager refer to validate that the component was signed off and ownership transferred?
+
+A. Organizational process assets updates, procurement agreements, and stakeholder engagement plan
+B. Organizational process assets updates, final report, and project document updates
+C. Organizational process assets updates, procurement agreements, and final report
+D. Organizational process assets updates, procurement agreements, and project document updates Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+When closing the project, the project manager reviews the project management plan to ensure that all project work is completed and that the project has met its objectives. The project documents are updated accordingly.
+
+Answer: 
+
+
+
+Q176A project manager is developing the schedule management plan for a data center migration project. The project sponsor asks for a schedule that plans all tasks as soon as possible. The project manager is presented with possible network paths that will not violate schedule constraints. What leads and lags relationship should the project manager select?
+
+A. Early start equals the late start in some activities.
+B. Early start equals the late start in all activities.
+C. Early start is smaller than the late start in all activities.
+D. Early start is smaller than the late start in some activities.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+If the ES = LS on all tasks, they will be scheduled with no float or slack and will require all tasks to begin ASAP.
+
+Answer: 
+
+
+
+Q177During a project's initiating phase, the project manager reviews the lessons learned repository. The project manager learns that a previous project failed due to constant scope creep. This project cannot afford additional time or budget.
+What should the project manager do to avoid project failure?
+
+A. Include strict and formal process approval changes.
+B. Escalate this information to the sponsor.
+C. Reject all out-of-scope change requests.
+D. Manage key stakeholders' expectations.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Having strict and formal process approvals is the best way to insure compliance to the project plan and to minimize scope creep.
+
+Answer: 
+
+
+
+Q178A highway construction project is on schedule and within budget. The project manager has just learned that an unforeseen mineral reserve has been discovered on the site. This will require that the highway is diverted, which will displace neighbourhoods.
+What project management tools or skills will the project manager need to handle this?
+
+A. Understanding of industry practices
+B. Conflict management and change management
+C. Scope creep management
+D. Good personal relations with the local authorities
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+This new development will undoubtedly result in conflict and require a change to the project plan.
+
+Answer: 
+
+
+
+Q179Due to scope changes during project execution, the project manager identifies that a provider must make changes to a product module already in use. What should the project manager do first?
+
+A. Prepare a change request to update contract terms with the provider.
+B. Update the risk register and issue log with this information.
+C. Check the procurement management plan and the contract terms.
+D. Negotiate directly with the provider to reach an agreement.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The procurement management plan describes how a project team will acquire goods and services from outside of the performing organization. This, along with the contract terms and conditions, should be first reviewed.
+
+Answer: 
+
+
+
+Q180During the planning phase of a project, the project manager learns that the financial director, a key stakeholder, will be unavailable for three weeks. What should the project manager do first?
+
+A. Update the issue log and notify the other stakeholders.
+B. Meet with the sponsor to evaluate the situation and identify alternatives.
+C. Ask the finance department to provide a replacement during the director's absence.
+D. Move forward with planning and accept the impact the change may have on the project schedule.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The FIRST thing the PM needs to do is to capture this as an issue and communicate this to the other stakeholders. Until then, no action can or should be taken.
+
+Answer: 
+
+
+
+Q181Midway through a project, the project sponsor replaces a key resource with a new hire. What should the project manager do first?
+
+A. Refer to the resource management plan to determine the next course of action.
+B. Determine if the resource change impacts the project scope, schedule, or budget.
+C. Email the sponsor requesting a detailed explanation of why the resource was replaced.
+D. Schedule on-boarding training sessions for the new resource.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager should always first assess any change to see if it will impact the scope, schedule or budget of their project.
+
+Answer: 
+
+
+
+Q182A project manager needs to evaluate the effectiveness of corrective actions taken to address the project's approved change requests. What should the project manager use?
+
+A. Expert judgement
+B. Benchmarking
+C. Process analysis
+D. Quality audits
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Quality audits can confirm the implementation of approved change requests including updates, corrective actions, defect repairs, and preventive actions.
+
+Answer: 
+
+
+
+Q183After the kick-off meeting, the project manager notices that to deliver the system, the team must implement new hardware within the next three months. The procurement team notifies the project manager that the current suppliers need at least three months' notice to deliver this type of system. Worried about the risk to delivery dates, the project manager begins looking for alternative suppliers that adhere to their company's procurement policy.
+What risk response strategy did the project manager use?
+
+A. Avoid
+B. Accept
+C. Transfer
+D. Mitigate
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In risk mitigation, action is taken to reduce the probability of occurrence and/or impact of a threat. Early mitigation action is often more effective than trying to repair the damage after the threat has occurred.
+
+Answer: 
+
+
+
+Q184During project implementation, the marketing department informs the project manager that the product's market requirements have changed. These changes were not anticipated, may significantly influence potential sales numbers, and could impact project scope.
+What should the project manager do?
+
+A. Plan risk responses and update the risk register.
+B. Plan to use the contingency reserve and update the risk mitigation plan.
+C. Use earned value management (EVM) methods.
+D. Apply forecasting methods.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+These new requirements may pose additional risks. These risks need to be documented and appropriate responses need to be identified.
+
+Answer: 
+
+
+
+Q185A company plans to deliver a new product that requires currently unavailable skills. On what should the project manager focus to initiate this project?
+
+A. Assessment of high-level risks
+B. Competitor analysis
+C. Detailed project requirements
+D. Quality control
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+If you plan to deliver a product and do not possess the skills required, this is a risk.
+
+Answer: 
+
+
+
+Q186A project manager joins a project that has just started. The sponsor and project team assure the new project manager that the project has an adequate budget and realistic schedule. The project manager is concerned about unplanned events that could threaten the project's success. What should the project manager do?
+
+A. Request additional funding from the project sponsor for project planning.
+B. Discuss the potential of unplanned risks with the functional manager.
+C. Focus on executing the project as planned.
+D. Identify and evaluate any project risks.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager needs to be proactive and to familiarize himself with the identified risks and their mitigation strategies.
+
+Answer: 
+
+
+
+Q187A project sponsor is risk averse and is therefore concerned about negative impacts on the project. To help with this concern, the project team identifies four project risks and then evaluates both the probability of occurrence and the impact of the risk if it occurs. The team uses a 1-5 scale. 1 being the lowest and 5 being the highest.
+Risk Probability Impact
+A 2 5
+B 4 3
+C 3 2
+D 2 4
+Based on the table, in what order should the project manager rank these risks for risk management purposes?
+
+A. B, A, D, C
+B. B, C, A, D
+C. C, D, A, B
+D. D, A, C, B
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk severity is the product of probability and impact; the higher the product, the higher the risk is rated.
+
+Answer: 
+
+
+
+Q188During project execution, a functional manager identifies a new internal risk about the outsourcing team. The functional manager asks the project manager for a fast solution that will not negatively impact the project.
+What should the project manager do?
+
+A. Use the change management plan.
+B. Assess the risk in terms of severity of impact.
+C. Implement the risk strategy.
+D. Develop a risk breakdown structure (RBS).
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A project manager first needs to understand the severity of a risk impact before they can develop a risk response.
+
+Answer: 
+
+
+
+Q189During a multifunctional project's planning phase, the project manager discovers that insufficient resources are available to produce a software package. The project manager outsources the production of this software package by signing a service level agreement (SLA) with a third-party company. What risk response strategy did the project manager use?
+
+A. Transfer
+B. Avoid
+C. Accept
+D. Mitigate
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk transfer involves shifting ownership of a threat to a third party to manage the risk and to bear the impact if the threat occurs. Risk transfer often involves payment of a risk premium to the party taking on the threat.
+
+Answer: 
+
+
+
+Q190A risk is identified during a project that was not anticipated during planning. How should the project manager respond to the risk?
+
+A. Brainstorm ideas with the project team to mitigate the risk.
+B. Communicate the risk to project stakeholders.
+C. Request extra funding from the project sponsor to address the risk.
+D. Perform data analysis techniques to mitigate the risk.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Brainstorming is a technique used in Identifying Risks.
+
+Answer: 
+
+
+
+Q191A functional manager who is also a project stakeholder, has time constraints and delegates project responsibilities to someone else on the functional team. The project manager notices that this new stakeholder is not attending meetings.
+What should the project manager do to engage this new stakeholder?
+
+A. Show the new stakeholder the project schedule and their assigned tasks.
+B. Ask the functional manager to brief this new stakeholder and request that they send them to all relevant meetings.
+C. Review the project charter with the new stakeholder and assess their level of engagement.
+D. Ask the new stakeholder to pair with a more experienced stakeholder to learn responsibilities.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The first version of the stakeholder engagement plan is developed after the initial stakeholder community has been identified by the Identify Stakeholder process. The stakeholder engagement plan is updated regularly to reflect changes to the stakeholder community.
+
+Answer: 
+
+
+
+Q192An important product feature was not documented during project planning. The customer notices the error during the second deliverable review.
+What should the project manager do?
+
+A. Perform a high-level analysis of the missed feature, and ask for sponsor approval to execute.
+B. Call an emergency steering committee meeting to determine whether to include the missed feature in the project.
+C. Meet with the customer to discuss the missed feature, and negotiate a new contract price for the product.
+D. Investigate the impact of the missed feature, and obtain change request approval from the change control board (CCB).
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The missing feature is needed, so the project manager needs to understand the impact of this and start the normal, agreed upon change management process.
+
+Answer: 
+
+
+
+Q193A customer rejects a deliverable because it fails to meet the agreed-upon quality specifications. The project team investigates the issue and determines that vendor-provided parts are at fault. The vendor refuses to correct the situation.
+What should the project manager review?
+
+A. Internal quality assurance reports
+B. Service level agreement (SLA) established with the vendor
+C. Resource management plan
+D. Procurement management plan and contract agreements
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A contract is a mutually binding agreement that obligates the seller to provide the specified products, services, or results; obligates the buyer to compensate the seller; and represents a legal relationship that is subject to remedy in the courts.
+
+Answer: 
+
+
+
+Q194Project material was ordered at a higher specification than originally planned, as it was available at a discounted price. A key stakeholder notices this and questions the project manager about it. What should have been followed to help prevent the stakeholder's confusion?
+
+A. Quality inspections
+B. Stakeholder engagement plan
+C. Integrated change control
+D. Risk analysis for material substitution
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Contractor and material costs can change frequently during the delivery of a project. These changes can occur because of fluctuating materials and labour prices created by the external economic environment and need to be incorporated into the cost baseline.
+
+Answer: 
+
+
+
+Q195During the final stages of a project, an issue with equipment provided by a subcontractor is identified. After conducting an impact analysis, what document should the project manager consult to determine how to address this issue?
+
+A. Change management plan
+B. Communications management plan
+C. Vendor contract
+D. Procurement process manual
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+If the impact analysis supports a change to the project, then the change management plan should be consulted.
+
+Answer: 
+
+
+
+Q196A project team successfully achieved a key milestone. To do this, the team met critical technical requirements on a new process, and then used the process to develop the first of several similar deliverables.
+What should the project manager do next?
+
+A. Conduct performance appraisals.
+B. Document lessons learned.
+C. Transition the project to the operations team.
+D. Ensure final costs are recorded.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+This new technology has resulted in improved performance. This needs to be documented in lessons learned so that future projects can benefit from this.
+
+Answer: 
+
+
+
+Q197A new project manager joins a project overseen by a senior project manager. The sponsor asks the new project manager to develop the quality management plan.
+What should the project manager do?
+
+A. Submit a change request to postpone the development of the quality management plan until quality metrics and quality checklists are created.
+B. Meet with the customer to collect requirements.
+C. Ask the sponsor for cost-benefit analyses and benchmarking samples.
+D. Consult with the senior project manager for established quality processes and plans, and ask for guidance in selecting the appropriate standards.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The new project manager needs to consult with the senior project manager to find out what practices and processes are already in place.
+
+Answer: 
+
+
+
+Q198During acceptance testing of a deliverable, a senior stakeholder complains that a functionality essential to their department was not addressed. What should the project manager do to avoid this in the future?
+
+A. Approve a scope management plan.
+B. Conduct a product demo with stakeholders.
+C. Prepare a change management plan.
+D. Manage stakeholder expectations.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A scope management plan documents how the project and product scope will be defined, validated, and controlled.
+
+Answer: 
+
+
+
+Q199After sponsor approval of a project, the project manager invites the sponsor, selected team members, and other stakeholders to a meeting. The major purpose of the meeting is to develop a document that will guide the team in defining the primary project deliverables.
+What will be the final output of this meeting?
+
+A. Scope management plan
+B. Milestone list
+C. Requirements management plan
+D. Work breakdown structure (WBS) dictionary
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The scope management plan is a component of the project management plan that describes how the scope will be defined, developed, monitored, controlled, and validated.
+
+Answer: 
+
+
+
+Q200A company that builds residential properties wants to prevent any costly mistakes associated with frequently performed tasks. What should the project manager create to achieve this?
+
+A. Quality checklists
+B. Change management plan
+C. Risk register
+D. Key performance indicators (KPIs)
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A checklist is a structured tool, usually component-specific, used to verify that a set of required steps has been performed or to check if a list of requirements has been satisfied.
+
+Answer: 
+
+
+

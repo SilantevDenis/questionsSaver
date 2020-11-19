@@ -1,0 +1,170 @@
+PMP_Exam_Practice_16_10
+
+Number: 016-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 16.1
+Exam A
+Q1Which of these is not an input to the Control Procurements process?
+
+A. Agreements
+B. Change requests
+C. Work performance data
+D. Project management plan
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Change requests are not inputs to the Control Procurements process. The other choices are valid inputs to this process. [PMBOK 6th edition, Page 492] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q2Which of the following is not a tool or technique of the Control Procurements process?
+
+A. Expert judgment
+B. Advertising
+C. Claims administration
+D. Inspection
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Advertising is a tool and technique of the Conduct Procurements process. The other choices are valid tools or techniques of the Control Procurements process. [PMBOK 6th edition, pages 482, 492] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q3You have received a proposal for an RFP that was sent to vendors. One of the vendors has proposed doing the project for $12,500. The cost for the project is $10,000, and their profit will be $2,500. Which type of contract is most suitable if the type of work is predictable and the requirements are well-defined and not likely to change?
+
+A. Cost Plus Fixed Fee
+B. Cost Plus Percentage of Cost
+C. Fixed price
+D. Cost Plus Incentive Fee
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Fixed-price contracts are most suitable if the type of work is predictable and the requirements are well defined and not likely to change. [PMBOK 6th edition, Page 476] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q4Your company requires that before you purchase any routers or switches for the data center you are building, you need to solicit quotes from three separate suppliers prior to submitting the purchase request to the finance department. This policy belongs to:
+
+A. Organizational Process Assets
+B. Enterprise Environmental Factors
+C. Procurement Management Knowledge Area
+D. Make-or-Buy Decision
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Any type of corporate policy or formal procurement procedure is an organizational process asset. [PMBOK 6th edition, Page 39] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q5If you are working on a project with constantly changing scope, which type of contract would work best when hiring an outside vendor to complete a portion of the work?
+
+A. Lump sum
+B. Cost-reimbursable
+C. Time and material
+D. Fixed price
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Cost plus contracts are suitable when the work is evolving, likely to change, or not well defined.. [PMBOK 6th edition, Page 476] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q6Which of the following is accurate regarding agreements in Project Procurement Management?
+
+A. Agreements can never be terminated.
+B. Terms and conditions never include the seller's proposal.
+C. Agreements are informal documents.
+D. Agreements are legal documents between a buyer and a seller.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Agreements are legal and formal documents between buyers and sellers. [PMBOK 6th edition, Page 489] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q7What is the purpose of a bidder conference?
+
+A. Awarding a contract to the most suitable vendor
+B. Pre-qualifying the potential sellers
+C. Ensuring all vendors have a clear understanding of the procurement
+D. Developing a comprehensive seller's list
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Bidder conferences are also called contractor conferences or vendor conferences. Their purpose is to provide all vendors with an understanding of the project requirements and to give all vendors equal time to get their questions answered. [PMBOK 6th edition, Page 487] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q8Apart from the difference in the overall governance approach used for the projects performed under the predictive and adaptive lifecycles, the project manager should also be familiar with:
+
+A. The difference in the cost/benefit analysis techniques in both approaches.
+B. The tools and techniques used in both approaches.
+C. The difference in the quality standards in both approaches.
+D. The risk management processes used in both approaches.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The role of the project manager does not change bases on managing project using a predictive development life cycle or managing project in adaptive environments. However, to be successful in used adaptive approaches, the project manager will need to be familiar with the tools and techniques to understand and how to apply them effectively. [PMBOK 6th edition, Page 178] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q9Different types of contracts are appropriate for different types of purchases. Which of these is not one of the three broad categories of contracts?
+
+A. Cost-reimbursable
+B. Time and Material
+C. Fixed-price or lump sum
+D. Fixed assessment
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Fixed-assessment is not a category of contracts. Other choices are valid contract types. [PMBOK 6th edition, Pages 471, 472] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q10You are building a mansion that will have copper roofs. The duration of the project will be approximately three years. You have built into the contract that, as the price of copper increases, your price increases as a percentage of the cost of the copper. However, all other costs are fixed.
+This is an example of what type of contract?
+
+A. Fixed Price with Economic Price Adjustment
+B. Fixed Price Incentive Fee
+C. Unit Price
+D. Time and Materials
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the price increases are tied only to the rising costs of the copper, this is a fixed-price with economic price adjustment (FP-EPA) contract. This is common with multi-year contracts. [PMBOK 6th edition, Page 471] [Project Procurement Management]
+
+Answer: 
+
+
+

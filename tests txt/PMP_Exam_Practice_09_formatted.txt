@@ -1,0 +1,818 @@
+PMP_Exam_Practice_09
+
+Number: 009-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 9
+Exam A
+Q1You are a non-technical project manager. Two highly skilled and knowledgeable resources on your project are in conflict over the best technical solution to meet a project requirement. However, this is not affecting the project schedule. Who is initially responsible for the conflict resolution?
+
+A. The project sponsor is initially responsible for the conflict resolution.
+B. The project manager is initially responsible for the conflict resolution.
+C. Both team members are initially responsible for the conflict resolution.
+D. Either of the team members is responsible for the conflict resolution.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Initially, both team members are responsible for the conflict resolution. If the conflict escalates, the project manager should help facilitate a satisfactory resolution. [PMBOK 6th edition, Page 348] [Project Resource Management]
+
+Answer: 
+
+
+
+Q2Which of the following are the tools and techniques used in both the Plan Communications Management and Manage Communications processes?
+
+A. Expert judgment
+B. Project reporting
+C. Communication requirements analysis
+D. Communication methods
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Communication methods are the common tools and techniques for Plan Communications Management and Manage Communications processes. [PMBOK 6th edition, Page 360] [Project Communications Management]
+
+Answer: 
+
+
+
+Q3A project manager presented earned value analysis data in a tabular format in a performance report. Another way the project manager could have presented the earned value analysis data is with:
+
+A. A linear graph
+B. An S-curve
+C. A logarithmic curve
+D. An Epsilon graph
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is S-curve. Both S-curves and tabular formats can be used to represent earned value analysis data. [PMBOK 6th edition, Pages 263, 264] [Project Cost Management]
+
+Answer: 
+
+
+
+Q4David was required to investigate a business problem and describe the higher-level needs of the business as a whole. David's final reports describes in detail the features, functions and characteristics of the product that will meet the business and stakeholder requirements. What is wrong with David's report?
+
+A. David was asked to analyze the solution requirements, but he focused on the business requirements.
+B. David was asked to analyze the business requirements, but he focused on the solution requirements.
+C. David was asked to analyze the functional requirements, but he focused on the non-functional requirements.
+D. David was asked to analyze the non-functional requirements, but he focused on the functional requirements.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+David was asked to analyze the business requirements but he focused on the solution requirements.
+Business requirements describe the higherlevel needs of the organization as a whole, such as the business issues or opportunities. While the solution requirements describes in detail the features, functions and characteristics of the product that will meet the business and stakeholder requirements. [PMBOK 6th edition, Page 148] [Project Framework]
+
+Answer: 
+
+
+
+Q5The project management processes communicate with each other through their inputs and outputs. Which of the following outputs of the Direct and Manage Project Work process is a prime input of the Monitor Stakeholder Engagement process?
+
+A. Change requests
+B. Work performance information
+C. Work performance data
+D. Expert judgment
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Work performance data is provided to the Monitor Stakeholder Engagement process as an output from Direct and Manage Project Work process. [PMBOK 6th edition, Page 531] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6Which of the following is the correct sequence of the PMBOK processes that collects work performance data, converts it to work performance information, formats it into work performance reports, and distributes these reports?
+
+A. Direct & Manage Project Work -> Monitor & Control Project Work -> Monitor Communications -> Manage Communications
+B. Monitor Communications -> Direct & Manage Project Work -> Monitor & Control Project Work -> Manage Communications
+C. Direct & Manage Project Work -> Monitor Communications -> Monitor & Control Project Work -> Manage Communications
+D. Direct & Manage Project Work -> Monitor & Control Project Work -> Manage Communications -> Monitor Communications
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Direct & Manage Project Work -> Monitor Communications -> Monitor & Control Project Work -> Manage Communications is the correct response. The Direct & Manage Project Work process produces the work performance data. This work performance data is converted to work performance information by the Monitor Communications process. The Monitor & Control Project Work process uses this information and produces work performance reports which are then distributed to the stakeholders by the Manage Communications process. [PMBOK 6th edition, Pages 90, 105, 379, 388] [Project Communications Management]
+
+Answer: 
+
+
+
+Q7As the project manager of a large project, you have just completed the Estimate Costs process. As you begin the Determine Budget process, which of the following would you require as inputs to the process from the Estimate Costs process?
+
+A. Activity cost estimates, basis of estimates
+B. Activity cost estimates, activity resource estimates
+C. Resource breakdown structure, agreements
+D. Activity cost estimates, staff management plan
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Activity cost estimates are quantitative assessments of the probable costs required to complete project work. The basis of estimates consists of additional details supporting the cost estimate. These include documentation of the basis for the estimate, documentation of all assumptions, documentation of any known constraints and indication of the range of possible estimates. These are produced during the Estimate Costs process and form inputs to the Develop Budget process. [PMBOK 6th edition, Page 240, 248] [Project Cost Management]
+
+Answer: 
+
+
+
+Q8The Direct and Manage Project Work process has three tools and techniques. Two of them are Expert Judgment and Meetings. What is the third one?
+
+A. Scheduling System
+B. Configuration Management System
+C. Project Management Information System
+D. Change Control System
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The three tools and techniques of the Direct and Manage Project Work process are: Expert Judgment, Project Management Information System, and Meetings. [PMBOK 6th edition, Page 90] [Project Integration Management]
+
+Answer: 
+
+
+
+Q9A project manager is trying to plan for a contingency reserve as part of the cost estimates for the project. Which of these would be an incorrect way to plan for contingency reserves?
+
+A. Start the project with a zero value for contingency reserve.
+B. Plan for contingency reserve as a fixed number.
+C. Plan for contingency reserve as a percentage of the estimated cost.
+D. Use quantitative analysis methods to arrive at the contingency reserve.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+It would be incorrect to start the project with a zero value for contingency reserves. One of the three other methods listed could be used to arrive at a contingency reserve number. As more precise information about the project becomes available, the contingency reserve may be used, reduced, or eliminated. [PMBOK 6th edition, Page 245] [Project Cost Management]
+
+Answer: 
+
+
+
+Q10The stakeholder engagement plan is a subsidiary plan of the project management plan. It includes the strategies required to effectively engage project stakeholders. An ineffective stakeholder engagement strategy can lead to project failure. The stakeholder engagement plan:
+
+A. Must be formal and highly detailed
+B. Must be formal but broadly framed
+C. Can be formal or informal but must be highly detailed
+D. Can be formal or informal, highly detailed or broadly framed Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+According to the PMBOK guide, the stakeholder engagement plan can be formal or informal, highly detailed or broadly framed. [PMBOK 6th edition, Page 522] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11A collection of formally documented procedures that define how project deliverables and documentation are controlled, changed, and approved is:
+
+A. An authorization system
+B. Project documentation
+C. A change control board
+D. A change control system
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A collection of formally documented procedures that define how project deliverables and documentation are controlled, changed and approved is called a change control system. This is a subsystem of the configuration management system. [PMBOK 6th edition, Page 700] [Project Integration Management]
+
+Answer: 
+
+
+
+Q12Ideally the relationship between a project manager and a business analyst should be:
+
+A. Business analyst should directly report to the project manager
+B. A collaborative partnership
+C. Project manager should directly report to the business analyst
+D. Business analyst must audit the project manager
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Ideally the project managers and the business analysts should collaborate to achieve the project objectives.
+[PMBOK 6th edition, Page 132] [Project Quality Management]
+
+Answer: 
+
+
+
+Q13The costs on a project are typically classified as direct and indirect costs. The cost of electric utilities for the office is:
+
+A. An indirect cost
+B. Appraisal cost
+C. A specific cost
+D. A direct cost
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The cost of electric utilities for the office would be considered as an indirect cost. Indirect costs are also known as overhead, general, or administrative costs. They are the costs allocated by the project team as a cost of doing business. Examples include salaries of management indirectly involved in the project and the cost of electric utilities. [PMBOK 6th edition, Page 246] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q14Which of the following is not an activity related to the Direct and Manage Project Work process?
+
+A. Inspecting the project deliverables for completeness
+B. Implementing approved changes
+C. Creating project deliverables to meet the planned project work
+D. Performing activities to accomplish project objectives
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Inspections of deliverables are part of the Validate Scope process. The other choices are activities relating to the Direct and Manage Project Work process. [PMBOK 6th edition, Pages 90-92] [Project Integration Management]
+
+Answer: 
+
+
+
+Q15The stakeholder engagement plan is developed early during project planning phase. However, as the project moves into its execution phase, project stakeholders' needs, interests and/or influence might change. If a significant change happens, what should the project manager do?
+
+A. Refer the issue to the project sponsor
+B. Hold all project communications until the issue has a resolution
+C. Seek expert judgment from the project sponsor
+D. Revisit the Plan Stakeholder Engagement process
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Plan Stakeholder Engagement is an iterative process. Stakeholders' needs, interests or influence might change during the project lifecycle and whenever a significant change happens, the project manager must revisit the Plan Stakeholder Engagement process and update the stakeholder engagement plan accordingly. [PMBOK 6th edition, Page 518] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16Which of the following is an output from the Direct and Manage Project Work process?
+
+A. Budgeted costs
+B. Project charter
+C. Work performance data
+D. Execution plan
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Direct and Manage Project Work process involves the management of the direction of the planned project activities. Work Performance Data is routinely collected as part of this process. [PMBOK 6th edition, Page 90] [Project Integration Management]
+
+Answer: 
+
+
+
+Q17Long hours to meet a looming deadline and immense pressure for success from management are causing a decline in team morale. There are occasional conflicts between team members over priorities and resources. How should these non-disruptive conflicts be handled?
+
+A. Use of disciplinary actions
+B. Using a private, direct, and collaborative approach first
+C. Escalation to senior management
+D. Arbitration
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Conflicts should be addressed early. A private, direct and collaborative approach should be employed first.
+[PMBOK 6th edition, Page 348] [Project Resource Management]
+
+Answer: 
+
+
+
+Q18One of the senior team members, who is the best performer in your project, plays favorites. A few of the other team members who work closely with this team member have gotten exceptionally good appraisal reports in the past, even though they may not have deserved them. As the project manager, what do you need to actively do?
+
+A. Ask all the members of your team who are appraisers of other team members to be liberal in their appraisals. This will help compensate for the appraisals the senior team member does.
+B. Speak to the senior team member and ask him or her to do appraisals fairly, in accordance with the appraisal guidelines.
+C. Ignore the matter since you would otherwise lose a senior team member who is key to your project.
+D. Ensure that the senior team member does not get to appraise anybody.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+As project manager, you need to speak to the senior team member and ask for all appraisals to be done in an objective manner. The other options are incorrect. Ignoring the matter will not help solve it. The other two options are likewise impractical. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q19Which type of risk analysis ranks risks for future action or analysis by evaluating their probability of occurrence and impact?
+
+A. RBS
+B. Assumptions analysis
+C. Qualitative analysis
+D. Quantitative analysis
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Qualitative analysis examines risks from the risk register and analyzes each risk's probability of occurrence and the effect it would have on the project deliverables if it did occur. It ranks risks for future action or analysis by evaluating their probability of occurrence and impact. [PMBOK 6th edition, Page 419] [Project Risk Management]
+
+Answer: 
+
+
+
+Q20Your manager is presenting a status report of all projects being run in his division. He reports that all projects are showing a positive CV. However, you know that your status reports for the last several weeks have been reporting a negative CV. What do you do?
+
+A. Do nothing.
+B. Offer to review all your manager's combined status reports before he presents them.
+C. Notify the appropriate management immediately.
+D. Ask your manager if that information was simply a typographical error.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+You should notify the appropriate management immediately that incorrect information has been presented about your project. The PMI Code of Ethics requires that managers report errors of others and provide accurate and truthful information to project stakeholders at all times. [Reference: PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q21A project manager from a buyer organization is invited to lunch by the manager of a seller organization. The project manager's organization does not permit receipt of gifts from vendors. The project manager should:
+
+A. Go out for lunch and refrain from informing his/her managers about the lunch
+B. Avoid going out to lunch with anyone from the seller organization
+C. Insist on paying for his/her own lunch
+D. Permit the manager from the seller organization to pay for his/her lunch since it has a very small value Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct action is for the project manager to insist on paying for his or her own lunch. Avoiding going out to lunch with anyone from the seller organization is drastic, as such a lunch may be an opportunity to build relationships and to understand the seller's position on a project better. Going out to lunch and not informing his or her managers about the lunch is unethical. Allowing the seller organization to pay for an inexpensive lunch may be acceptable in certain organizations. For example, some organizations have placed a limit on the value of gifts that may be received by their employees, and permit gifts that do not exceed a certain value (e.g., $50). In such a case, a lunch may be within acceptable limits. However, in the current situation, the buyer organization does not permit its employees to receive any gifts from vendors.
+Therefore, this option is not acceptable. [PMI Code of Ethics and Professional Conduct] [Prof.
+Responsibility]
+
+Answer: 
+
+
+
+Q22The accuracy of estimates of the cost of a project will _________ over the life of a project.
+
+A. Be mitigated
+B. Remain neutral
+C. Decrease
+D. Improve
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The accuracy of a project estimate will improve as the project progresses through the project lifecycle. In the initiation phase, a project could have a rough order of magnitude estimate in the range of -25% to +75% . Later, as more information becomes known, estimates could narrow to a range of -5% to +10%. [PMBOK 6th edition, Page 241] [Project Cost Management]
+
+Answer: 
+
+
+
+Q23Which of the following can prove to be effective in addressing variability risks?
+
+A. Monte Carlo analysis
+B. Root cause analysis
+C. Mitigating opportunities
+D. Accepting the risk
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Variability risks relate to uncertainty existing about some key characteristic of a planned event or activity or decision. Examples of variability risks include: productivity may be above or below target, the number of errors found during testing may be higher or lower than expected, or unseasonal weather conditions may occur during the construction phase. Variability risks can be addressed using Monte Carlo analysis, with the range of variation reflected in probability distributions, followed by actions to reduce the spread of possible outcomes. [PMBOK 6th edition, Page 399] [Project Scope Management]
+
+Answer: 
+
+
+
+Q24What do the buyer and seller have in common with regard to Control Procurements?
+
+A. Both parties ensure that they meet their contractual obligations and that their own legal rights are protected.
+B. Both parties have specific resources that can be idle.
+C. Both parties have a contract change management plan.
+D. Each party has its own project plan and legal team.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Both the buyer and the seller administer the contract for similar purposes. Each party ensures that both it and the other party meet their contractual obligations and that their own legal rights are protected. [PMBOK 6th edition, Page 494] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q25Project managers need to be aware of Student Syndrome, also known as procrastination, which means that people start to apply themselves only at the last possible moment before the deadline. This concept is similar to Parkinson's Law which states that:
+
+A. Work only gets completed during the second half of the allocated time.
+B. Work never gets completed on time even if sufficient time has been allocated.
+C. Work expands to fill the time available for its completion.
+D. Effort expands to fill the time available for the completion of a work package.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+According to the Parkinson's law, work expands to fill the time available for its completion. [PMBOK 6th edition, Page 197] [Project Quality Management]
+
+Answer: 
+
+
+
+Q26Melissa is managing a hardware deployment project and is creating a risk management plan. Which of the following would not be included in this plan?
+
+A. Templates
+B. Roles and responsibilities
+C. Budgeting
+D. Methodology
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Templates is not a valid response. The other choices are typical components of a Risk Management Plan.
+[PMBOK 6th edition, Page 405] [Project Risk Management]
+
+Answer: 
+
+
+
+Q27Linda has been assigned to establish a PMO in her organization. Linda believes this project cannot succeed unless all the key project stakeholders support the project. She also believes she needs to pay special attention to stakeholder management to ensure success of this project. First, she needs to develop her stakeholder register. To produce the project stakeholder register, which of the following processes must Linda start?
+
+A. Plan Stakeholder Engagement
+B. Monitor Stakeholder Engagement
+C. Manage Stakeholder Engagement
+D. Identify Stakeholders
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder register is developed during the Identify Stakeholders process. [PMBOK 6th edition, Page 507] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q28A fellow project manager is retiring and moving to the mountains; you will take over his project. Before he leaves, he tells you the project is on schedule but only because he "put the hammer down" on his project team and pushed them relentlessly. Pushing the team to perform activities to accomplish project objectives is a part of:
+
+A. Direct and Manage Project Work
+B. Monitor and Control Project Work
+C. Control Quality
+D. Control Scope
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Performing activities to accomplish project activities is one of the goals of the Direct and Manage Project Work process. [PMBOK 6th edition, Page 92] [Project Integration Management]
+
+Answer: 
+
+
+
+Q29A technique that enhances brainstorming with a voting process used to rank the most useful ideas so they can be taken up for further brainstorming is:
+
+A. Six thinking hats
+B. Nominal group technique
+C. Affinity diagram
+D. Mind mapping
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The nominal group technique enhances brainstorming with a voting process. This then allows the most useful ideas to be prioritized and taken up for further brainstorming. [PMBOK 6th edition, Page 144] [Project Scope Management]
+
+Answer: 
+
+
+
+Q30Which of the following is a type of leadership style in which leaders are hands-off and allow group members to make the decisions:
+
+A. Transactional
+B. Servant leader
+C. Transformational
+D. Laissez-faire
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Laissez-faire leadership, also known as delegated leadership, is a type of leadership style in which leaders are hands-off and allow group members to make the decisions. Researchers have found that this is generally the leadership style that leads to the lowest productivity among group members. [PMBOK 6th edition, Page 65] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31Your project team is having a dispute with a vendor about whether a specific task is within the project's scope. The scope statement does not provide implementation-level details that could resolve this dispute. There is no WBS, however, because the project sponsor insisted that the project be started right away without pausing to create standard project planning documentation. Who is at fault?
+
+A. The project manager
+B. The project sponsor
+C. The project stakeholders
+D. The project vendor
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager is at fault. The project manager must follow all project processes required for the success of the project, regardless of insistence by others that those processes are unnecessary and time consuming. Failing to do so is a violation of PMI's Code of Conduct and can lead to increased project cost and schedule slips. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q32For a project following a predictive life cycle, which of the following statements is most accurate?
+
+A. Collect Requirements, Define Scope and Create WBS processes are performed toward the beginning of the project and updated as necessary, using the integrated change control process.
+B. Collect Requirements, Define Scope and Create WBS processes are performed toward the beginning of the project and updated as necessary, using the executing process.
+C. Collect Requirements, Define Scope and Create WBS processes are performed toward the beginning of the project and rarely updated.
+D. Collect Requirements, Define Scope and Create WBS processes are performed for each project iteration.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+In a predictive project, the Collect Requirements, Define Scope and Create WBS processes are performed toward the beginning of the project and updated as necessary, using the integrated change control process.
+[PMBOK 6th edition, Page 131] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q33Which of the following is one of the most prominent features of a project following agile approach for product development?
+
+A. Produce defect-free deliverables
+B. Zero tolerance for rework
+C. Deliver incremental value to the customer
+D. Delivery of the product in a single sprint
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+In adaptive life cycles, the requirements are documented in user stories that are then prioritized and refined.
+The product features are developed using time-boxed periods of work. This approach is often used to deliver incremental value to the customer. [PMBOK 6th edition, Page 177] [Project Resource Management]
+
+Answer: 
+
+
+
+Q34You are the project manager for a Fortune 100 IT company, and you are currently engaged in an important project. You want to choose the best contractor for a specialized task. What should you do to evaluate potential contractors?
+
+A. Create a lessons-learned document
+B. Conduct a performance review
+C. Evaluate proposals
+D. Perform a Make-or-Buy analysis
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+An input to the Conduct Procurements process, seller proposals are prepared by sellers in response to a procurement document package. These are then evaluated by the buyer to perform source selection.
+[PMBOK 6th edition, Page 487] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q35You have recently finished an advanced project management training course your project budget paid for. Because the budget for your project is not large enough to train any other resources on the project, your manager has asked you to make copies of the course materials and distribute them to the rest of the staff.
+What do you do?
+
+A. Make the copies
+B. Provide a single copy of the materials
+C. Scan the materials and place them on the corporate intranet for easy access
+D. Refuse the request
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Refuse the request. If training the staff is a requirement, it should be adequately budgeted and scheduled.
+Making unauthorized copies of the intellectual property of others is unethical and may also be illegal. PMI's Code of Conduct and Processional Responsibility demands that project managers protect the intellectual property rights of others. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q36A project manager is performing Reserve Analysis as a technique in one of the project management processes he is currently working on. Which of the following is likely to be that process?
+
+A. Estimate Reserves
+B. Report Costs
+C. Estimate Costs
+D. Plan Costs
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Many cost estimators include reserves (also called contingency allowances) as costs in their schedule activity cost estimates. Contingency reserves are estimated costs to be used at the discretion of the project manager to deal with anticipated but not certain events. These events are "known unknowns" and are part of the project scope and cost baselines. [PMBOK 6th edition, Page 245] [Project Cost Management]
+
+Answer: 
+
+
+
+Q37You are forming a virtual project team that includes members from four different countries around the world. What is NOT an obstacle you must overcome to build an effective team?
+
+A. Different time zones
+B. Communication issues
+C. Cultural differences
+D. Members wanting to work from home
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Virtual teams share a common project goal but share little time in a traditional, face-to-face business environment. The virtual team concept is made possible with electronic communication; one of the benefits of such teams is the ability of members to work from home. The other choices are potential issues that can occur as a result of forming a virtual team. [PMBOK 6th edition, Page 311] [Project Resource Management]
+
+Answer: 
+
+
+
+Q38Joe is attempting to calculate the probable financial impact of some future uncertain scenarios. What method could he use?
+
+A. Pareto analysis
+B. Earned value analysis
+C. Variance analysis
+D. Expected monetary value analysis
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Expected monetary value (EMV) analysis is a statistical concept that calculates the average outcome when the future includes scenarios that may or may not happen. The EMV of opportunities will usually be positive values while risks will result in negative values. [PMBOK 6th edition, Page 435] [Project Risk Management]
+
+Answer: 
+
+
+
+Q39A RAM diagram shows the relationship between ______________ and _____________ in a tabular format.
+
+A. Cause and effect
+B. Risks and mitigation plans
+C. Deliverables and costs
+D. Work packages and project team members
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A responsibility assignment matrix (RAM) chart is used to illustrate the connections between work packages and project team members. [PMBOK 6th edition, Page 317] [Project Resource Management]
+
+Answer: 
+
+
+
+Q40You took over a project from an individual who was fired. You are reading the project documentation and find that five managers signed the project charter. What should be your primary concern at this time?
+
+A. Determining reporting structure
+B. Communicating in a matrix organization
+C. Getting a single sponsor
+D. Identifying who can represent the project for change control Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A charter should be issued, signed and updated by the project sponsor. Your immediate concern should be to find a single sponsor for the project. Note, though, that the sponsor can be either a person or a group.
+[PMBOK 6th edition, Page 77] [Project Integration Management]
+
+Answer: 
+
+
+
+Q41As part of Define Activities, you are looking at dependencies used to define the sequence among the activities. Which of these is not a valid type of dependency?
+
+A. Linked dependency
+B. External dependency
+C. Discretionary dependency
+D. Mandatory dependency
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Linked dependency is not a valid type of dependency. The other three choices are valid types of dependencies. [PMBOK 6th edition, Pages 191, 192] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q42A company is looking for an experienced project manager to manage a large construction project. You meet all the requirements for the position except for one: The organization is looking for a certified PMP with five years of experience, but you have just four years of experience managing similar projects. What is the best way to fill out your application?
+
+A. Show how you meet the requirements but include your actual years of experience
+B. Do not fill out that particular section.
+C. Explain why years of experience should not matter.
+D. Since you have plenty of experience, embellish your actual years of experience.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+For project management professionals, honesty is the best policy. You should never mislead others about your experience in the field or your knowledge of the project management processes. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q43Which of the following techniques used in adaptive lifecycles helps in minimizing scope creep?
+
+A. User stories
+B. User epics
+C. Iterations
+D. Time-boxing
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Time-boxed periods are durations during which the team works steadily toward completion of a goal. Time- boxing helps to minimize scope creep as it forces the teams to process essential features first, then other features when time permits. [PMBOK 6th edition, Page 182] [Project Framework]
+
+Answer: 
+
+
+
+Q44When are risk identification activities performed?
+
+A. During the Perform Qualitative Risk Analysis process
+B. During the Plan Risk Management process
+C. During the Perform Quantitative Risk Analysis process
+D. Ongoing throughout the project
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Identify Risks is the process of determining what risks can affect the project. Many different stakeholders usually participate in the Identify Risks process. The process of Identify Risks is iterative because unknown risks can be discovered throughout the life cycle of the project. [PMBOK 6th edition, Page 409] [Project Risk Management]
+
+Answer: 
+
+
+
+Q45Bill is the project manager of a software project that was originally estimated to be completed in 12 months. Two months into the project, it is discovered that the original estimating assumptions were fundamentally flawed. The Estimate at Completion (EAC) in such a project will be:
+
+A. EAC = AC + Bottom-up ETC
+B. EAC = BAC/CPI
+C. EAC = AC + [BAC - EV]/CPI
+D. EAC = AC + BAC - EV
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is: EAC = AC + Bottom-up ETC, where AC stands for the Actual Cost and ETC stands for the Estimate to Complete. ETC based on a new estimate must be used because the original assumptions were fundamentally flawed. [PMBOK 6th edition, Page 267] [Project Cost Management]
+
+Answer: 
+
+
+
+Q46How would you calculate your EAC if the ETC work is performed at the budgeted rate?
+
+A. EAC = BAC/CPI
+B. EAC= BAC-EV
+C. EAC = AC + BAC - EV
+D. EAC=(BAC-EV)*CPI
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+If the remaining project work is expected to be performed at the budgeted rate, then the formula for EAC is AC + (BAC " EV), where AC is the Actual Cost, BAC is the Budget at Completion, and EV is the Earned Value. [PMBOK 6th edition, Page 267] [Project Cost Management]
+
+Answer: 
+
+
+
+Q47A project consists of multiple phases. Which of the following is a valid statement and applies to each phase of the project?
+
+A. Each phase is generally concluded with a review of the work accomplished but is only closed if the next phase has already started.
+B. Each phase of the project is considered complete when the project sponsor signs off on that phase of the project.
+C. Each phase of the project is generally concluded with a review of the work accomplished and deliverables to determine acceptance and whether the phase should be considered closed.
+D. Each phase is generally concluded with a review of the work accomplished. A phase is never considered complete until the end of the project when the entire project is complete.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A project phase is usually concluded with a review of the work accomplished and the deliverables to determine acceptance, whether extra work is still required and to decide whether the phase should be considered closed. The other options are not valid. [PMBOK 6th edition, Page 121] [Project Framework]
+
+Answer: 
+
+
+
+Q48Which of the following is not an example of data that may be presented in a performance report?
+
+A. Earned value
+B. Quality metrics
+C. Schedule variance
+D. Project charter
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The project charter is not a valid response. The other choices are data that can be presented in a work performance report. [PMBOK 6th edition, Page 112] [Project Integration Management]
+
+Answer: 
+
+
+
+Q49Risks may be identified during the entire lifecycle of a project. Identify Risks is what type of process?
+
+A. Qualitative
+B. Effort-driven
+C. Discrete
+D. Iterative
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Identify Risks is an iterative process, because new risks may become known as the project progresses through its lifecycle. [PMBOK 6th edition, Page 409] [Project Risk Management]
+
+Answer: 
+
+
+
+Q50The most effective method of resolving conflict or other issues with stakeholders is _________.
+
+A. Ignore
+B. Arbitrate
+C. Collaborate
+D. Avoid
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Collaboration requires incorporating multiple viewpoints from different perspectives. It requires a cooperative attitude and open dialogue, and typically leads to consensus and commitment. [PMBOK 6th edition, Page 349] [Project Resource Management]
+
+Answer: 
+
+
+

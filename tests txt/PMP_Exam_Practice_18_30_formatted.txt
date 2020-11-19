@@ -1,0 +1,487 @@
+PMP_Exam_Practice_18_30
+
+Number: 018-003
+Passing Score: 700
+Time Limit: 36 min
+File Version: 1.0
+
+PMP Lite Mock Exam 18.3
+Exam A
+Q1You just initiated a project to establish windmills in a developing country. To celebrate the initiation of the project, the customers arranged a party in which a key customer offered valuables to you and all your project team members with a request to complete the project sooner than the actual finish date. What should you do?
+
+A. Accept the offer and agree to finish the project early
+B. Reject the offer because it violates the code of ethics and professional conduct
+C. Accept the offer but refuse to complete the project early
+D. Reject the offer and do not communicate with that customer Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Since the stakeholder made a request by offering gifts, you should refuse the offer. The PMI's Code of Ethics and Professional Conduct suggests that a project manager should never engage in unfairness.
+Favoring one or more customers by taking gifts is not allowed. Thus, you should reject the offer because it violates the Code of Ethics and Professional Conduct. Not communicating with one customer could impair relationships with other customers. If it is customary in that country to offer gifts, you might accept them without agreeing to the customer's request. [PMI Code of Ethics and Professional Responsibility] [Prof.
+Responsibility]
+
+Answer: 
+
+
+
+Q2You overlooked a high-level risk in an insurance project and failed to document it in the project charter. If the risk shows up during the planning phase, what should be your response as a project manager?
+
+A. Take the responsibility and evaluate the impact
+B. Call a customer meeting to inform them that risk has occurred
+C. Refer to the sponsor for advice
+D. Develop the risk response plan and communicate to the team Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+According to the PMI Code of Ethics and Professional Conduct, project managers must take ownership of the decisions they make or fail to make. Thus, you should take responsibility and evaluate the impact first. A risk response plan should be developed only after evaluating the impact. Calling a customer meeting cannot deal with the risk. You should escalate it to the sponsor only if the risk is beyond your control. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q3You have recently started working as a project manager for a public school construction project. Your analysis shows that the cost estimate for the project seems to be unreasonable, and it could take at least 25 percent more funding to complete the project. What should you do if your sponsor wants to undertake the project with another project manager in case you refuse to accept it?
+
+A. Conduct a customer focus meeting to explain the facts
+B. Resign from the project and let the sponsor assign a new project manager
+C. Submit detailed facts to the supervisor supporting your argument
+D. Continue with the project and document the limited budget as a constraint Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Project managers have the responsibility to present truthful and accurate information regarding costs, schedules, and resources. Submit the facts that substantiate your argument. If your argument is valid, then the sponsor might agree with you. Talking to customers is not appropriate. Continuing the project might cause it to fail. It is inappropriate to resign from the project without presenting the facts. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q4You have recently started working as a project manager for a health insurance portal development project. The project sponsor tells you that due to the critical nature of the project, the work must start immediately and complete in two weeks. Based on the instructions, you have started documenting significant constraints and assumptions to perform the project feasibility study. What should you do if you can prepare only the high-level feasibility study in the given time frame?
+
+A. Conduct the stakeholder meeting to evaluate other options
+B. Refer this issue to the sponsor and explain the need for more detailed study
+C. Submit the high level study and start making plans to prepare the charter
+D. Submit the high level study and schedule a detailed study in the planning phase Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Developing a detailed feasibility study is essential to initiate a project. If efforts are not made initially to determine whether the project is worth the required investment, it could result in project failure. It is also the responsibility of the project manager to provide accurate and complete information about the feasibility of any project. Thus, you must escalate the issue to the sponsor and explain the need for a more detailed study. Since the project initiation depends on the feasibility of the project, the report cannot be prepared in the project planning phase. Conducting stakeholder meeting is an invalid choice because the stakeholders have not yet been selected to conduct a meeting. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q5Danny is working as a project manager for a company that provides outsourcing services to banks. Recently, he sent a proposal to a local bank in response to a bid for a data warehouse project for which his company lacks expertise. Although his company lacks expertise, it has had a good working relationship with the bank in all its other projects. Which of the following statements is correct considering the proposal Danny submitted?
+
+A. Danny has not violated the PMI Code of Ethics and Professional Conduct.
+B. Danny has violated the company policy but not the PMI code
+C. Danny has violated the procurement code but not the PMI code
+D. Danny has violated the PMI Code of Ethics and Professional Conduct.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+One of the mandatory standards for a project manager is to behave responsibly and bid on only those projects for which the project manager's employer has expertise and skills. Since Danny bid on a project for which his company lacks expertise, he violated the PMI Code of Ethics and Professional Conduct. There is no procurement code in project management. [PMI Code of Ethics and Professional Responsibility] [Prof.
+Responsibility]
+
+Answer: 
+
+
+
+Q6In a software development project, Debby, the project manager, completed development of a charter and identification of stakeholders. Debby has collected proprietary information from vendors during the planning process. What should Debby do when a functional manager from the same organization wants to see this information?
+
+A. Deny the request as the manager is not part of the project
+B. Accept the request as the manager belongs to the same organization
+C. Deny the request to protect the confidentiality of the information
+D. Accept the request but caution the manager to maintain confidentiality Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+It is the responsibility of the project manager to maintain confidentiality of protected or proprietary information. A project manager should provide such confidential information only to the sponsor and to the vendor evaluation committee or whoever is involved in the evaluation. He or she must not provide this information to any other employees within the organization or within the project. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q7You are responsible for developing high-level risks, assumptions, and constraints for your project. You meet with experts in your organization and document various risks in the project. However, in reviewing historical data from a previous project, you notice a significant additional risk to your project, one that no one else is aware of. What should you do to continue the project?
+
+A. Do not document the risk since it is based on past data
+B. Document it but make it a low-level risk
+C. Document it and make it a high-level risk
+D. Do not document the risk since nobody knows about it
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+As a project manager, you have a responsibility to disclose accurate information to all project stakeholders honestly. Project managers must not disseminate false or misleading information. Thus, you must document it as a high-level risk. Even though the risk is based on past data, it must be documented because the risks could also be identified from the past data. Documenting it as a low-level risk would be a misleading act, and a project manager must not do that. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q8You are using the one-on-one interview technique to gather high-level risks, assumptions, and constraints in an infrastructure development project to set up a bank. During the interview process, a key stakeholder tells you that the project might fail due to lack of support from local people. What should you do in this situation?
+
+A. Escalate the stakeholder's comments to the sponsor for his advice
+B. Investigate the reasons behind the stakeholder's comments
+C. Document the stakeholder's comments and continue with the project
+D. Ignore the stakeholder's comments and continue with the project Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+You must document the comments from the stakeholder. However, you should not continue the project until you also understand his or her rationale. The sponsor might ask you to look into it, so escalating the stakeholder's comments to the sponsor may not yield anything. Ignoring the stakeholder's comments is not advisable. Thus, the correct step is to investigate the reasons behind the stakeholder's comments. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q9You have started a project to establish a railroad between two neighboring cities. The state agency that sponsors this project is heavily committed to completing this project on time and within budget. In support of the agency's commitment, you have completed the charter and started identifying stakeholders who would support the project. You would like to gather as many stakeholders as possible and move on to the planning phase. What should a project manager do while identifying stakeholders in a project?
+
+A. Notify the negative stakeholders to talk to the sponsor
+B. Identify positive stakeholders and eliminate negative stakeholders to gather maximum support for the project
+C. Identify positive stakeholders and ask negative stakeholders to leave the project
+D. Identify both the positive and negative stakeholders and address their concerns Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Project stakeholders are people, organizations, or groups whose interests are positively or negatively impacted by the project. A project manager must identify both the positive and negative stakeholders forsuccessful completion of the project. Eliminating the negative stakeholders or keeping them away from the project will jeopardize the objectives of the project and may cause the project to fail. One of the mandatory standards for a project manager is to show fairness and disclose potential conflicts of interest to stakeholders. He or she should escalate issues to the sponsor only when he or she fails in influencing negative stakeholders. Thus, the correct answer is to identify both the positive and negative stakeholders and address their concerns. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q10During a three-year construction project, due to a shortage of resources, a project manager has decided to develop a partial work breakdown structure (WBS) in the beginning of the planning phase. The WBS will be expanded as more information becomes known in the near term. What should the project manager do if a key resource criticizes his or her decision to develop the partial WBS?
+
+A. Ignore the resource's comments
+B. Remove the resource from the project
+C. Redevelop the complete work breakdown structure for all three years
+D. Explain to the resource about the Rolling Wave planning
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+One of the mandatory standards for a project manager is to show respect to others by holding them in high regard. A project manager must respect others' viewpoints. A project manager need not develop a complete WBS during the initial stages of planning. In long projects, the WBS can be developed partially and can be extended as more details become known later; this approach is known as rolling wave planning.
+The project manager should explain rolling wave planning to the resource. Ignoring the resource's comments or removing the resource are not appropriate responses. [PMBOK 6th Edition, Page 185 and PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q11You are using parametric estimating techniques to estimate costs for each activity and the total budget in your project. However, a project manager colleague tells you to bump up each estimate by 20 percent to account for any unknown risks, and then submit that as a total budget to the customers. What should you do?
+
+A. Do not inflate the estimate
+B. Inform the customer and then inflate the estimate
+C. Inflate the estimate first and inform the customer
+D. Inflate the estimate but do not inform the customer
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Honesty is a mandatory standard for project managers. Project managers are required to provide accurate information to customers regarding budget, resources, and risks. Unknown risks can be dealt with by using reserves. Deliberately inflating budget or schedule values or making misleading or false statements is against the PMI Code of Ethics and Professional Conduct. Hence, the best course of action here is to not inflate the estimate. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q12Two of your team members are constantly arguing with each other about work assignments. Due to their attitude, the project is delayed, and pressure is building on other team members. What should you do?
+
+A. Issue a memo
+B. Meet with them to understand their concerns
+C. Inform the concerned functional manager
+D. Replace the team members
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+One of the mandatory standards in the PMI Code of Ethics and Professional Conduct is respect. A project manager must listen to others' points of view and understand them. Hence, you must meet with the team members first to understand their concerns. If the problem continues, you may issue a memo or even replace the team members if necessary. Talking to the functional manager may not resolve the problem as the team members are managed by you in your project. [PMBOK 6th Edition, Page 348 and PMI Code of Ethics and Professional Responsibility] [Project Resource Management]
+
+Answer: 
+
+
+
+Q13In an IT project, after several brainstorming sessions with customers, Kurt established various project deliverables. Two weeks later, while reviewing the plan, Kurt identifies two similar deliverables and decides to merge them into a single deliverable. What should Kurt do next?
+
+A. Merge the deliverables and inform the customer
+B. Submit the need to merge to the customer
+C. Merge the deliverables but do not inform the customer
+D. Merge the deliverables but do not update the project management plan Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The customer must be notified about any changes made to deliverables because acceptance of deliverables is key to a successful project. It is the responsibility of the project manager to notify appropriate stakeholders before making changes. Kurt must submit the proposed merge to the customer. Once the customer accepts the change, Kurt can merge the deliverables and notify the customer that this has been done. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q14The management of a retail business unit has just assigned Mario to compare multiple projects and select the best project that will produce the most value for the unit. Although Mario has worked as a project manager for a long time, he has only a limited understanding of project selection methods. What should be the first course of action from Mario in this scenario?
+
+A. Select the best project with whatever knowledge he possesses
+B. Refuse to take the assignment
+C. Obtain an expert's judgment to help select the project
+D. Inform the management about lack of knowledge on project selection methods Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The management has just assigned Mario to select the best project. One of the mandatory standards for practitioners of project management is honesty. Therefore, Mario should tell the management about his lack of knowledge of project selection methods. Attempting to select the project without expert knowledge could create problems later. Refusing the assignment is not an appropriate action. Management may suggest soliciting expert judgment for selecting the project, but informing the management is the first step to take, and it is up to management to decide what to do next. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q15A company hires you to work as a project manager in a foreign country. You discover that you must pay kickbacks to the officials there to get licenses for your project. What should you do?
+
+A. Offer kickbacks but inform your management
+B. Resign from the project
+C. Offer kickbacks but document them in the project cost management plan
+D. Refuse to pay kickbacks
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Offering kickbacks is against the PMI Code of Ethics and Professional Conduct. Resigning from the project is not an appropriate action. Thus, you must refuse to pay kickbacks. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q16Jack is currently identifying stakeholders in his automobile project. While talking to his senior manager, Jack learns that one of the key stakeholders, whom he identified in his project, is so influential that he or she cancelled an IT project before it moved into the planning phase.
+What should Jack do with such influential stakeholders?
+
+A. Get an approval from sponsor to eliminate him or her from the project
+B. Involve this person from the beginning of the project and manage them closely
+C. Provide limited access to project information compared to other stakeholders
+D. Provide more access to project information compared to other stakeholders Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+All stakeholders must be identified as early as possible in the project. The stakeholders can be positive or negative. They must be classified based on their influence, interest, expectations, and importance. A project manager must not hide information. He or she must provide equal access to all stakeholders who are authorized to have that information. Thus, Jack must involve the influential stakeholders from the beginning of the project and manage them closely. [PMI Code of Ethics and Professional Responsibility] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q17While conducting interviews for a project manager position, you notice that your classmate is one of the prospective candidates. What should you do immediately?
+
+A. Encourage your classmate by offering some tips
+B. Resign from the interview panel
+C. Remove your classmate from the list
+D. Inform the interview panel of the relationship
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+As a project manager, you have a responsibility to disclose to the interview panel that interviewing your classmate could represent a potential conflict of interest. It is up to the panel to decide on the best course of action, which might include excusing you from the interview process. Therefore, your first step is to inform the interview panel of the relationship. Offering tips to your classmate would violate the fairness standard of the PMI code of ethics and professional conduct. Removing your classmate is not appropriate. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q18One of your team leaders informs you that a team member criticizes him constantly about the allocation of tasks. The team leader also asserts that this team member is also responsible for the delay of many tasks, leading to delays in the project schedule. What action should you take as a project manager?
+
+A. Conduct a meeting with the sponsor, team leader, and the team member
+B. Approach the team member and understand his point of view
+C. Replace the team member
+D. Direct your team leader to issue a memo
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A project manager should manage such a conflict by directly approaching the team member who caused the conflict. According to the PMI Code of Ethics and Professional Conduct, a project manager must be responsible and show respect. He or she must listen to others' viewpoints, seeking to understand them before making a decision. Neither replacing the team member nor issuing a memo is an appropriate action.
+Involving the sponsor in team issues is not an appropriate action either, unless the issues are beyond the project manager's control. [PMBOK 6th Edition, Page 348 and PMI Code of Ethics and Professional Responsibility] [Project Resource Management]
+
+Answer: 
+
+
+
+Q19What should you do as a senior project manager if the PMP certification claimed by a recently recruited project manager does not appear in the PMI website?
+
+A. Advise your new recruit to complete his certification
+B. Report to the PMI
+C. Report to the sponsor
+D. Request more information from the new recruit
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A project manager must bring alleged unethical activities or violations of the code of conduct to PMI's attention. False certification claims must be reported to PMI. In this case, it is not yet confirmed that the recruit has made a false claim; try to get clarification from him. If you confirm that he has made a false claim, you can report this to both the PMI and the sponsor. Thus, the best answer in this situation is to request more information. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q20You have recently taken over a project from a PMP-certified project manager who was removed from the project due to incompetence and lack of skills. When you happen to meet him outside your building, he starts rebuking you for taking his project. He even goes so far as to suggest that your religion played a part in your selection by the management. What should you do first?
+
+A. Report to the customer
+B. Do nothing
+C. Report to the police
+D. Report to Project Management Institute (PMI)
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+All project managers who are PMP-certified must uphold the PMI Code of Ethics and Professional Conduct.
+They must behave well in their profession. All alleged violations should be brought to the PMI's attention.
+PMI takes disciplinary actions against individuals who knowingly make false allegations against other project managers. Thus, you must report this situation to PMI first. If your life is threatened, then you must report that to the police and the management. [PMI Code of Ethics and Professional Responsibility] [Prof.
+Responsibility]
+
+Answer: 
+
+
+
+Q21In a manufacturing project, you have requested bids to procure stainlesssteel products. However, your sponsor insists that you conduct bidder conferences before selecting sellers. What mandatory standard in the PMI Code of Ethics and Professional Conduct is met by conducting bidder conferences?
+
+A. Honesty
+B. Respect
+C. Responsibility
+D. Fairness
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Bidder conferences or vendor conferences are used to provide a clear understanding of the procurement process to all prospective sellers. This process ensures that the mandatory standard of fairness is followed in the bidding process. Fairness in this case means making opportunities equally available to all qualified candidates. [PMBOK 6th Edition, Page 487 and PMI Code of Ethics and Professional Responsibility] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q22In a software development project, you are having joint application development (JAD) sessions to collect product requirements from stakeholders. Which of the following mandatory standards in the PMI Code of Ethics and Professional Conduct is met by having JAD sessions while gathering requirements?
+
+A. Honesty
+B. Fairness
+C. Responsibility
+D. Respect
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Fairness is one of the mandatory standards in the PMI Code of Ethics and Professional Conduct. Fairness means not showing favoritism or prejudice. The JAD sessions build trust among the customers and reconcile stakeholder differences since they give equal opportunity to all stakeholders. [PMBOK 6th Edition, Page 145 and PMI Code of Ethics and Professional Responsibility] [Project Scope Management]
+
+Answer: 
+
+
+
+Q23A functional manager in your organization has recently filed a complaint against a junior project manager regarding his project management certification. The functional manager claims that the PMP certification claimed by the junior project manager is invalid and needs to be checked. What should be your response as a senior project manager?
+
+A. Report to PMI
+B. Suspend the junior project manager
+C. Ask your project manager to provide evidence for his/her PMP certification
+D. Ask your functional manager to provide evidence for his argument Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+One of the mandatory standards in the PMI Code of Ethics and Professional Conduct is respect. A project manager must listen to others' points of view and understand them. However, before asking the junior project manager for evidence of his or her PMP certification, you must ask your functional manager to provide evidence to support his or her allegations. You can suspend the junior project manager or report him or her to PMI if there is sufficient evidence of his or her guilt. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q24While conducting a brainstorming session to identify stakeholders, a process manager disagrees with you on a decision you made regarding the influence and impact of each stakeholder on the project. He even makes some comments against you in front of other stakeholders. As a senior project manager, what should be your immediate response?
+
+A. Do nothing in the meeting but later escalate this issue to the sponsor
+B. Take the help of other stakeholders and present your argument
+C. Propose an immediate meeting between the two of you to resolve the differences
+D. Remove the process manager from the project
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The PMI Code of Ethics and Professional Conduct requires you to conduct yourself in a professional manner even when it is not reciprocated. Therefore, you must not start arguing with the process manager.
+Removing the process manager will only worsen the situation. You must directly approach those persons with whom you have a conflict or disagreement"the process manager in this case. Propose an immediate meeting with him or her to resolve your differences. Escalating this issue will not resolve your differences. [PMBOK 6th Edition, Page 348 and PMI Code of Ethics and Professional Responsibility] [Project Resource Management]
+
+Answer: 
+
+
+
+Q25You have found you do not yet have an accurate estimate of the number and skill levels of resources needed for the scheduled activity Build Racks for Data Center. You need this estimate for presentation to your Human Resources department later in the week. You have decided to decompose the Build Racks for Data Center activity into smaller components such as take equipment out of box, review equipment for completeness, build frame, and install rails. Then you plan to estimate the resources for each smaller component and combine those estimates into an aggregate. This is an example of:
+
+A. Aggregate Estimating
+B. Alternative Analysis
+C. Bottom-up Estimating
+D. Rolling Wave Estimating
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Breaking down the scheduled activity into smaller components and then combining the estimates for each smaller activity is an example of bottom-up estimating. [PMBOK 6th Edition, Page 324]
+
+Answer: 
+
+
+
+Q26You are a senior project management practitioner. You have been given a chemical manufacturing project that could potentially contaminate the groundwater in the neighboring residential community. After detailed analysis, you learn that the impact could be severe in the long run. If the sponsor of the project wants to complete this project as soon as possible, you must:
+
+A. Undertake the project but not inform the residents
+B. Refuse to take up the project
+C. Support the sponsor
+D. Undertake the project but inform the residents
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+All project management practitioners must follow the PMI Code of Ethics and Professional Conduct. One of the aspirational standards that a project manager must follow is responsibility. Project managers must make decisions based on the best interests of society, public safety, and the environment. They must not undertake projects that are harmful to the public interest. Therefore, the best option in this situation is to refuse to take on the project, now that you know of its potentially harmful environmental effects. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q27You are working on a software development project in which specialized resources are required to perform some tasks. You estimate these resources are necessary during the project's executing phase. However, your estimation fails to account for these resources are available for only limited hours in the executing phase. What should you do to make schedule changes to deal with the limited availability?
+
+A. Communicate to customers and update the baseline
+B. Update the project schedule
+C. Update the schedule baseline
+D. Perform an impact analysis
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A project manager must be responsible and must communicate truthful information to customers. However, a project manager must perform an impact analysis before getting approval from the customer and making changes. Thus, the correct choice here is to perform an impact analysis. The schedule and schedule baseline should be updated after analyzing the impact and getting customer approval. [PMI Code of Ethics and Professional Responsibility] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q28A project manager has completed identification of stakeholders and has started planning for a flow instruments installation project in a hospital. While developing the project management plan, a team member states that a stakeholder in the X-ray department is missing from the stakeholder list. Which of the following would be the best response from the project manager?
+
+A. Authenticate the information from the team member
+B. Include and involve the stakeholder immediately
+C. It is too late to involve a stakeholder in the planning, so ignore the stakeholder
+D. Wait until the execution phase to involve the new stakeholder Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+One aspect of responsibility for a project manager is to take ownership of decisions made. A project manager is responsible for identifying all stakeholders as early as possible in the project. A missing stakeholder could jeopardize the objectives of the project. However, the project manager must first authenticate the information from the team member before involving the stakeholder. Thus, this is the best choice of action for the project manager in this situation. [PMBOK 6th Edition, Pages 504-506 and PMI Code of Ethics and Professional Responsibility] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q29While using facilitated sessions to gather high-level business requirements for a software development project, one of your customers proposes a requirement that may not be technologically possible to meet. If the customer insists on the requirement, what should you do first?
+
+A. You should not document the requirement
+B. You should document the requirement and include it as a risk
+C. You should listen to the customer and understand his viewpoint
+D. You should document the requirement to meet customer expectations Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A project manager must communicate honestly and openly with the customer. When a customer insists on specific requirements, a project manager should listen to him or her and understand his or her point of view.
+Then, the project manager must gather facts and explain convincingly to the customer why he or she is right or wrong. Project managers should neither accept nor deny critical requests from the customer until they have sufficient factual information. Thus, in this situation, you should first listen to the customer and understand his viewpoint. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q30You have just started leading a World Bank healthcare development project in a developing country in which it is customary to offer lunch when a project is initiated. Although your team members are willing to accept the offer, you decide to refuse the offer since you know the PMI's Code of Ethics and Professional Conduct does not allow you to accept gifts. Which of the following statements about your decision is correct?
+
+A. Your decision is wrong because you should obey the norms and customs of others as long as you do not favor them.
+B. Your decision is correct because you are engaging yourself in unethical behavior by accepting the lunch.
+C. Your decision is correct because you are following the PMI's Code of Ethics and Professional Conduct.
+D. Your decision is wrong because conduct rules only apply to local projects, not international projects.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Although the PMI Code of Ethics and Professional Conduct does not allow gift-taking, project managers should respect the norms and customs of others as long as they do not show favoritism based on those norms. Therefore, in this situation, your decision is incorrect because you should respect the norms and customs of others as long as you do not favor them. The PMI code of conduct applies to both local and international projects. [PMI Code of Ethics and Professional Responsibility] [Prof. Responsibility]
+
+Answer: 
+
+
+

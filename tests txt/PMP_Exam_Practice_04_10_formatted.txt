@@ -1,0 +1,170 @@
+PMP_Exam_Practice_04_10
+
+Number: 004-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 4.1
+Exam A
+Q1While planning the schedule for your project, you frequently refer to the project calendar. The project calendar is:
+
+A. A calendar containing the days on which various meetings are scheduled with the project team.
+B. A calendar of working days or shifts that establishes those dates on which schedule activities are worked.
+C. A calendar containing the list of days on which the project team members will be on leave or take an "off."
+D. A calendar that establishes the dates on which project deliverables go to the customer.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A project calendar is a calendar of working days or shifts that establishes those dates on which schedule activities are worked. It also establishes non-working days that determine dates on which schedule activities are idle, such as holidays, weekends and non-shift hours. [PMBOK 6th edition, Page 220] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q2As a project manager, you are in the process of preparing the project schedule for the project. Which of the following accurately depicts the sequence of your activities before you began to prepare the project schedule?
+
+A. Sequence Activities, Estimate Activity Durations, Develop Schedule
+B. Sequence Activities, Estimate Activity Durations, Define Activities
+C. Estimate Activity Durations, Sequence Activities, Develop Schedule
+D. Define Activities, Estimate Activity Durations, Sequence Activities Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct sequence of processes in the Schedule Management Knowledge Area is: Plan Schedule Management, Define Activities, Sequence Activities, Estimate Activity Durations, Develop Schedule, and Control Schedule. [PMBOK 6th edition, Page 173] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q3After one year of construction, an office building is scheduled for completion on 30 January. The landscaping work needs to start 15 days prior to the building's completion. Which of the following relationships most likely represents the relationship of the start of landscaping work to the completion of the office building?
+
+A. Finish-to-start with a 15-day lead
+B. Start-to-finish with a 15-day lead
+C. Finish-to-start with a 15-day lag
+D. Start-to-finish with a 15-day lag
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The landscaping work needs to start before completion of the office building, so it is a finish-to-start relationship. Since it needs to start 15 days before completion of the building, it requires a lead of 15 days.
+Hence, the answer is finish-to-start with a 15-day lead. [PMBOK 6th edition, Page 192] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q4You are the project manager of a project. As part of the planning process, you use a planning technique to subdivide the project scope and deliverables into smaller, more manageable components. What is this technique called?
+
+A. Unit task analysis
+B. Decomposition
+C. Rolling wave planning
+D. Arrow Diagramming Method
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Decomposition is the process of subdividing the project scope and deliverables into smaller, more manageable components. [PMBOK 6th edition, Page 158] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q5The accuracy of Activity Duration estimates can be improved by considering the amount of risk in the original estimate. The three types of estimates on which three-point estimates are based are:
+
+A. Budgetary, ballpark, and Order of Magnitude
+B. Best case scenario, expected scenario, and current scenario
+C. Most likely, likely, and unlikely
+D. Most likely, optimistic, and pessimistic
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The accuracy of Activity Duration estimates can be improved by considering the amount of risk in the original estimate. The three types of estimates on which three-point estimates are based are: Most likely, Optimistic, and Pessimistic. An Activity Duration can be estimated using values derived from these three estimated durations. [PMBOK 6th edition, Page 201] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q6You have decided to apply Resource Leveling to a project because of a critically required resource being available only at certain times. Which of the following will likely be true?
+
+A. Resource Leveling can often cause the original critical path to change.
+B. Resource Leveling will over-allocate resources to schedule the project before the deadline.
+C. Resource Leveling will require additional resources to complete the project.
+D. Resource Leveling will never alter the original critical path.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Resource levelling can often cause the original critical path to change. [PMBOK 6th edition, Page 211] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q7For projects where a business analyst collaborates with the project managers in managing the project scope, which of the following task is most likely to be performed by the business analyst?
+
+A. Acquire project resources
+B. Monitor the change control process
+C. Elicit, document, and manage stakeholder requirements
+D. Control project costs
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Eliciting, documenting and managing stakeholder requirements is a responsibility of a business analyst in projects where business analysts collaborate with project managers to manage the project scope. [PMBOK 6th edition, Page 132] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q8A technique that iterates the project schedule many times to calculate a distribution of possible project completion dates is:
+
+A. Monte Carlo Analysis
+B. Montford analysis
+C. Pareto Cost chart
+D. Deming Analysis
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Monte Carlo Analysis is a technique that computes or iterates the project cost or the project schedule many times, using input values selected at random from probability distributions of possible costs or durations. In this way, one can calculate a distribution of possible total project costs or completion dates. [PMBOK 6th edition, Page 213] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q9The critical path method (CPM) calculates the theoretical early start and finish dates and late start and finish dates. The difference between the late and early start of a task is a:
+
+A. Free float
+B. Feeding buffer
+C. Danger zone
+D. Total float
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The difference between the early and late finish of a task is called the total float for that task. Total float is the amount of time that a scheduled activity can be delayed from its early start date without delaying the project finish date. [PMBOK 6th edition, Page 210] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q10You are managing a project that involves work on a film shoot. The editing activity can happen only after the film is shot. The best description of the logical relationship between the editing and shooting of the film is:
+
+A. Finish-to-Finish (FF)
+B. Start-to-Start (SS)
+C. Start-to-Finish (SF)
+D. Finish-to-Start (FS)
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+This is a situation where the editing activity can happen only after the film shooting has been completed.
+Hence, the logical relationshipbetween the two tasks is Finish-to-Start (FS). [PMBOK 6th edition, Page 190] [Project Schedule Management]
+
+Answer: 
+
+
+

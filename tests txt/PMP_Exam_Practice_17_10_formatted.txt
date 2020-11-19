@@ -1,0 +1,169 @@
+PMP_Exam_Practice_17_10
+
+Number: 017-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 17.1
+Exam A
+Q1Anthony is currently managing a bridge construction project. The project is in the execution phase. During the planning phase of the project, Anthony developed a comprehensive stakeholder engagement plan for the project. However, the frequency of plan review has not yet been defined. How often should Anthony review the stakeholder engagement plan?
+
+A. On a monthly basis
+B. The stakeholder engagement plan cannot be reviewed during the execution of the project.
+C. On a weekly basis
+D. On a regular basis; Anthony needs to decide the frequency.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+As projects progress, project stakeholders and their interests, needs, expectations and engagement levels may change. The project manager should review the stakeholder engagement plan regularly. The frequency of review should be defined by the project manager if it was not imposed by top management.
+[PMBOK 6th edition, Page 516] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q2Jim is managing a road network design project for a government agency. He is currently performing the Plan Stakeholder Engagement process for the project. Which of the following documents will provide the list of project stakeholders to Jim for this process?
+
+A. Organizational process assets
+B. Enterprise environmental factors
+C. Stakeholder register
+D. Project management plan
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder register, an output of the Identify Stakeholders process, documents all of the identified project stakeholders and related information. The stakeholder register is an input to the Plan Stakeholder Engagement process, and it will provide the necessary information to Jim. [PMBOK 6th edition, Page 519] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q3Gordon is currently developing his projects stakeholder engagement strategy. All enterprise environmental factors should be considered during this process. Which of the following enterprise environmental factors should receive particular attention during this process?
+
+A. Project templates
+B. Lessons learned from past similar projects
+C. Commercial databases
+D. The organizations culture and political climate
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The lessons learned and the project templates are not enterprise environmental factors, but organizational process assets. The commercial databases can provide only very limited information to develop the stakeholder engagement plan. During the Plan Stakeholder Engagement process, the organization's culture and political climate are of particular importance. [PMBOK 6th edition, Page 519] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q4Daniel is the project manager for a factory construction project. Daniel has recently joined this organization and is not fully aware of the organizations culture and structure. In order to manage his project stakeholders, Daniel has to understand them better. Which of the following can provide Daniel some historical information regarding stakeholder engagement on previous projects?
+
+A. Project management plan
+B. Enterprise environmental factors
+C. Organizational process assets
+D. Project charter
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project charter and the project management plan do not document lessons learned from previous similar projects. Lessons learned are stored in the organization's process assets library. [PMBOK 6th edition, Page 520] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q5Project Stakeholder Management is focused on engaging project stakeholders with the project. What is the objective of keeping the project stakeholders engaged with the project?
+
+A. To manage their expectations so that the project objectives are achieved
+B. Using consistent project management methodology across organizational projects
+C. To motivate the project team members
+D. To demotivate the negative stakeholders
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The core objective for stakeholder engagement management is to ensure that the project stakeholders are kept satisfied and that their expectations are being met throughout the course of the project. Keeping the project team members motivated and using a consistent project management methodology are generic objectives of project management. [PMBOK 6th edition, Page 504] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6Christine is managing a healthcare software development project. At a PMI conference, she met George, who is the project manager at a competing organization. George, a PMP, has managed many successful healthcare-related software development projects. If George shares his stakeholder management experience with Christine, will that be considered expert judgment?
+
+A. No! George is a project manager at a competitor organization.
+B. Yes! All participants at a PMI conference are experts.
+C. Yes! George is an expert in managing such projects.
+D. No! This would be an example of expert opinion and not expert judgment.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+George is giving an expert opinion; this is analogous to expert judgment. A PMP-certified project manager from a competitor would not normally give false information. This can be considered expert judgment since George has managed many similar projects. [PMBOK 6th edition, Page 79] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q7Sandra is managing a new supersonic aircraft design project. This is a massive project, and its success is hugely important for her organization. For such mission-critical projects, which of the following is the most desirable engagement level for all major stakeholders?
+
+A. Resistant stakeholders
+B. Leading stakeholders
+C. Neutral stakeholders
+D. Supportive stakeholders
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In fact, for any project it would be ideal if all of the key stakeholders were supportive. This would help ensure smooth project progress and timely resolution of issues. In practice, this is often unachievable; nevertheless, it is the most desirable state for all major stakeholders. On the other hand, if all key stakeholders assume a leading role, this could lead to serious and substantial conflicts. [PMBOK 6th edition, Page 521] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q8Jennifer has recently been asked to manage an office refurbishment project. She finds out that the chief financial officer of the company is resisting the project. The chief financial officer is a key project stakeholder. What must Jennifer do first?
+
+A. Seek expert judgment from the project initiator
+B. Seek support from the project sponsor to force project decisions
+C. Conduct a team meeting to discuss this issue
+D. Analyze options that might change or influence the chief financial officers perception Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In this scenario, the chief financial officer is a resistant key stakeholder. The chief financial officer must be turned into a project supporter in order to ensure success. Any of the given choices could be the solution to this problem. However, Jennifer should first identify all of the available options and analyze them before selecting the best option. [PMBOK 6th edition, Page 521] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q9Greg's project is in the initiating stage. The sponsor of the project has asked Greg to present a list of the identified project stakeholders at the next project update meeting. The sponsor has also asked Greg to present the project stakeholders' current and desired engagement levels so they can brainstorm on the stakeholder engagement strategy. Which of the following is a presentation tool that can help Greg summarize all this information in a tabular format?
+
+A. Communications management plan
+B. Stakeholder register
+C. Stakeholder engagement assessment matrix
+D. Stakeholder engagement plan
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Both the communications and stakeholder management plans are detailed textual documents. They are not presentation tools. On the other hand, both the stakeholder register and the stakeholders engagement assessment matrix contain the required information. However, the stakeholders engagement assessment is the best tool to be selected in this situation since it presents the information required by the project sponsor in a tabular format. [PMBOK 6th edition, Page 521] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q10Diana is managing the development of a mobile phone application. Half the project work has been completed. Diana is currently reviewing her stakeholder engagement plan. She finds that some of the resisting stakeholders have now become supportive. How should Diana update her stakeholder engagement plan?
+
+A. Do not update the stakeholder engagement plan at this stage since things are getting better.
+B. Transfer these stakeholders to the project supporters group, and for these stakeholders, adopt the stakeholder engagement strategy defined for the project supporters.
+C. For these stakeholders, continue with the defined resisting stakeholder engagement strategy since this strategy has produced positive results so far.
+D. Transfer these stakeholders to the project supporters group but continue with the defined resisting stakeholder engagement strategy with these stakeholders.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder engagement plan should be reviewed regularly. Since some of the resistant project stakeholders have now become project supporters, this implies that the current stakeholder classification in the stakeholder engagement plan is no longer accurate. These stakeholders should now be transferred to the project supporters group, and going forward the stakeholder engagement strategy defined for project supporters should be adopted for these stakeholders. Although the stakeholder engagement strategy for the resisting stakeholders has delivered impressive results, it should only be applied to the current resistant stakeholders. [PMBOK 6th edition, Page 521] [Project Stakeholder Management]
+
+Answer: 
+
+
+

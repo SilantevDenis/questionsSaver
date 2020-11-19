@@ -1,0 +1,826 @@
+PMP_Exam_Practice_11
+
+Number: 011-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 11
+Exam A
+Q1Your project is nearing completion, but a previously unidentified risk has arisen, and it could significantly affect one of the project deliverables.
+What do you do?
+
+A. Transfer the risk
+B. Develop a risk mitigation plan
+C. Include the issue in the project risk log
+D. Notify the project stakeholders immediately
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Notify the project stakeholders immediately about the new risk. Once the stakeholders have been made fully aware of the circumstances and potential impacts, a plan to deal with this risk can be developed. The PMI Code of Ethics and Professional Conduct requires project managers to provide accurate and timely project information at all times and to follow all project processes and policies. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q2James is currently managing a software upgrade project. He has recently identified and analyzed his key project stakeholders. He is now searching his organizational process assets for a template with which he can update the results of this analysis along with the planned strategies required to engage the stakeholders effectively. Which of the following should he search for?
+
+A. Risk management plan
+B. Change request form
+C. Stakeholder register
+D. Stakeholder engagement plan
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A change request form is used to initiate a change in the project baselines. The risk management plan does not document the stakeholder engagement strategy. Although the stakeholder register contains stakeholder identification, classification and assessment information, it does not record the stakeholder engagement strategy. James should search for a stakeholder engagement plan template where all this information can be updated. [PMBOK 6th edition, Page 522]
+
+Answer: 
+
+
+
+Q3As a project manager based at the customer location for a performing organization, you build rapport with a customer manager. As the project progresses, the manager asks you to make certain changes to the project scope and wants this handled on an informal basis. You should:
+
+A. Contact your manager in your organization and ask for this work to be done without payment, as a goodwill gesture.
+B. Comply with the manager's request. It is important to continue to maintain a good relationship with the manager.
+C. Refuse to take up any changes since the manager has asked you to do it informally.
+D. Explain to the manager that you would need to formally document as part of project scope change and put it through the change management process.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is that you would explain to the manager that you would need to formally document these changes as part of project scope change and put them through the change management process.
+Complying with the manager's request is incorrect and violates the code of ethics and professional responsibility. Refusing to consider changes may be too drastic a step. After you have tried to get these changes formally included in the change management process, you may consider contacting your manager in your organization. However, the decision to do work without payment involves financial considerations and will be a more involved one. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q4A large network hardware upgrade project was scheduled to take place over a weekend. During the course of the implementation, several previously unidentified dependencies on additional materials were discovered. The project manager gave approval for the tech staff doing the implementation to procure with corporate credit cards several hundred dollars' worth of additional equipment required to complete the implementation. However, these additional expenses caused the project to exceed its budget. How should the project manager handle this?
+
+A. Notify the project stakeholders immediately of the additional expenses incurred and follow project and company procedures for budget variances.
+B. Ask the IT Director to cover those expenses from his budget.
+C. Advise the staff to submit expense reports for the purchases. Because the cost is relatively small, it can be categorized as miscellaneous purchases that are not associated with the project.
+D. Do nothing; that's what reserves are for.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Notifying project stakeholders and following proper procedures for dealing with budget variances is the best response. Attempting to pass off or hide an unexpected expense in another budget or in expense reports rather than following proper procedures is dishonest and unprofessional. The PMI code of ethics requires project managers to be honest, take responsibility for errors, and follow all organizational rules and policies.
+[PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q5Which of the following PMBOK processes produces a project stakeholder engagement plan?
+
+A. Identify Stakeholders
+B. Plan Stakeholder Engagement
+C. Plan Communications Management
+D. Manage Stakeholder Engagement
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholder engagement plan is produced during the Plan Stakeholder Engagement process. [PMBOK 6th edition, Page 516] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6The project management team performed activities such as measuring, examining, and verifying to determine whether work and deliverables met requirements and product acceptance criteria. Which of the following choices refers to a different set of activities than the ones just mentioned?
+
+A. Walkthroughs
+B. Prevention
+C. Inspection
+D. Reviews
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The activities such as measuring, examining, and verifying to determine whether work and deliverables met requirements and product acceptance criteria are variously referred to as inspections, audits, reviews, product reviews, and walkthroughs. Prevention is not a valid term to describe these activities. [PMBOK 6th edition, Page 675] [Project Quality Management]
+
+Answer: 
+
+
+
+Q7___________________ is performed on risks that have been prioritized by the Perform Qualitative Risk Analysis process as potentially and substantially impacting the project's competing demands.
+
+A. Perform Risk Cost Analysis
+B. Perform Risk Exposure Analysis
+C. Perform Quantitative Risk Analysis
+D. Perform Risk Outcome Analysis
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Perform Quantitative Risk Analysis is performed on risks that have been prioritized by the Perform Qualitative Risk Analysis process as potentially and substantially impacting the project's competing demands. Perform Quantitative Risk Analysis analyzes the effect of those risk events and assigns a numerical rating to those risks. [PMBOK 6th edition, Page 429] [Project Risk Management]
+
+Answer: 
+
+
+
+Q8Which of the following tools will help trace the requirements to product design?
+
+A. Requirements traceability matrix
+B. Design traceability matrix
+C. Project scope statement
+D. Product traceability matrix
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The requirements traceability matrix provides a structure to trace requirements to product design. [PMBOK 6th edition, Page 148] [Project Scope Management]
+
+Answer: 
+
+
+
+Q9As the Project Manager for Midway Carnival Rides, you are beginning the Define Scope process. Which of the following is a key input to this process?
+
+A. Project Scope Statement
+B. Expert Judgment
+C. Project Charter
+D. WBS
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Project Charter is the document that formalizes the project. It gives the Project Manager the authority to lead the project. It is a key input to the Define Scope process. [PMBOK 6th edition, Page 150] [Project Scope Management]
+
+Answer: 
+
+
+
+Q10Which of the following processes belong to the planning process group?
+
+A. Identify Stakeholders
+B. Manage Stakeholder Engagement
+C. Plan Stakeholder Engagement
+D. Monitor Stakeholder Engagement
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+All of the given choices are the processes from the project stakeholder management knowledge area.
+However, only the Plan Stakeholder Engagement process belongs to the planning process group. [PMBOK 6th edition, Page 25] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11A key output of Plan Resource Management is a list of project roles and responsibilities. What should this document include?
+
+A. Work packages, Effort, Authority, Duties
+B. Role, Responsibility, Authority, Risk
+C. Role, Title, Resource Cost, Responsibility
+D. Role, Authority, Responsibility, Competence
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The following items should be addressed when listing the roles and responsibilities of team members needed to complete the project: Role, authority, responsibility, and competence. [PMBOK 6th edition, Pages 318, 319] [Project Resource Management]
+
+Answer: 
+
+
+
+Q12What is the best way to show, at a glance, all the work packages or project activities assigned to a specific organizational department?
+
+A. Organizational Breakdown Structure
+B. RACI chart
+C. Work Breakdown Structure
+D. Roles and Responsibilities Chart
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The organizational breakdown structure (OBS) looks similar to the WBS; however, instead of being arranged according to a breakdown of project deliverables, it is arranged according to an organization's existing departments, units, or teams. [PMBOK 6th edition, Page 316] [Project Resource Management]
+
+Answer: 
+
+
+
+Q13RACI stands for______________, ________________, ___________, _______________.
+
+A. Review, Analyze, Calculate, Implement
+B. Responsible, Actual, Complete, Informative
+C. Roles, Activities, Costs, Instructions
+D. Responsible, Accountable, Consult, Inform
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+RACI stands for Responsible, Accountable, Consult, Inform. [PMBOK 6th edition, Page 317] [Project Resource Management]
+
+Answer: 
+
+
+
+Q14Rob has been assigned to manage a complex project. Rob has recently acquired his PMP certification and is excited about applying his newly acquired knowledge to his project. During the project initiation, he produced the stakeholder register and impressed his project sponsor. Rob is now about to develop the stakeholder engagement plan for his project. This has made the project sponsor a bit uncomfortable because he thinks Rob is spending too much time doing paperwork instead of actually executing the project work. The project sponsor has asked Rob to explain the difference between the stakeholder register and the stakeholder engagement plan. How should Rob respond?
+
+A. The stakeholder register only contains basic stakeholder assessment information, while the stakeholder engagement plan includes detailed stakeholder engagement strategy that ensures project success.
+B. The stakeholder engagement plan is a component of the project management plan, while the stakeholder register is not.
+C. The stakeholder register is produced during the project initiation, while the stakeholder engagement plan is produced during the project planning phase.
+D. Developing the stakeholder engagement plan is a good project management practice.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+It must be noted that the project manager is responding to the project sponsor in order to defend a position.
+The sponsor is asking for the difference between the two documents. The best response should not only clarify the difference between the two, it should also make some business sense. All of the statements are technically correct, but having a stakeholder engagement strategy to ensure success makes more business sense. [PMBOK 6th edition, Page 522]
+
+Answer: 
+
+
+
+Q15Which of the following stakeholder analysis techniques is recommended when you need to analyze project stakeholders based on their power, urgency, and legitimacy?
+
+A. Salience model
+B. Power/interest grid
+C. Power/influence grid
+D. Influence/impact grid
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The salience model is used to analyze classes of stakeholders based on their power (ability to impose their will), urgency (need for immediate attention), and legitimacy (their involvement is appropriate). [PMBOK 6th edition, Page 513] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16You are a project manager working on a project to create high-efficiency electric motors for a company introducing a new electric golf cart. Your company's president is keenly interested in the project and requests a chart that shows the number of defects by type ordered by their frequency of occurrence. Which type of chart would BEST meet this request?
+
+A. Histogram
+B. Control chart
+C. Statistical sampling
+D. Scatter diagram
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Histograms show a graphical representation of numerical data. A histogram can be used to display how many defects were produced by type or category of cause and ordered by their frequency. [PMBOK 6th edition, Page 293] [Project Quality Management]
+
+Answer: 
+
+
+
+Q17What term defines the work needed to deliver a product, service, or result?
+
+A. Product scope
+B. Scope creep
+C. Scope verification
+D. Project scope
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Project scope describes the work that must be performed to deliver a product, service, or result to the stakeholders. Product scope describes the features and functions that characterize a product, service, or result. [PMBOK 6th edition, Page 131] [Project Scope Management]
+
+Answer: 
+
+
+
+Q18During a weekly status meeting, a team member suggests adding a component to the project. As the project manager, you maintain that all focus should stay on the current scope and not on any enhancements. Focusing on the current scope is an example of:
+
+A. Gold-plating
+B. Scope verification
+C. Scope management
+D. Change control
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+This is an example of scope management. If the team actually implemented the change, that would be gold plating. Scope verification is done near the closure of the project. [PMBOK 6th edition, Page 129] [Project Scope Management]
+
+Answer: 
+
+
+
+Q19What type of method uses a weighting ranking system for quantifying qualitative data to minimize the effect of personal bias during the process
+of selecting a seller?
+
+A. Independent estimates
+B. Source Selection Criteria
+C. Vendor audits
+D. Sourcing workshops
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A weighting system is a method for quantifying qualitative data to minimize the effect of personal bias on seller selection. This is a part of the source selection criteria. [PMBOK 6th edition, Page 478] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q20You have been offered a position managing a project that will last 12 months. However, you know that in six months, you will be relocating to another state for family reasons. What should you do?
+
+A. Turn down the position
+B. Accept the position and provide four weeks' notice before leaving the job
+C. Accept the position and compress the schedule to complete the project in six months
+D. Disclose your relocation plans to the hiring manager
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Disclose your relocation plans to the hiring manager upfront. The hiring manager can then determine what sort of impact this could have on the project and if it would be appropriate to move ahead with hiring you.
+Failing to disclose this information upfront with the intention of not completing the project or modifying the project schedule to meet your needs runs counter to the PMI Code of Ethics and Professional Conduct.
+This code requires project managers to put the needs of the project ahead of their own and to fulfill the commitments they undertake. [Reference: PMI Code of Ethics and Professional Conduct] [Prof.
+Responsibility]
+
+Answer: 
+
+
+
+Q21A project manager wants to proactively monitor a manufacturing process to determine whether the quality level is within acceptable limits for that process. What tool will help with this?
+
+A. Control charts
+B. Ishikawa diagram
+C. Histogram
+D. PERT chart
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Control charts can be used to monitor any type of output variable and process performance. [PMBOK 6th edition, Page 304] [Project Quality Management]
+
+Answer: 
+
+
+
+Q22You are planning a storage device migration in a data center. During this phase of the project, who should control the project?
+
+A. Project Manager
+B. SMEs
+C. Sponsor
+D. Management
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Once the project manager is assigned to the project, he should be in control. However, it is the sponsor who ultimately has the responsibility of ensuring that the project is completed successfully. [PMBOK 6th edition, Page 51] [Project Integration Management]
+
+Answer: 
+
+
+
+Q23As project manager, you find you are constantly dealing with conflict among your team members. Everyone argues over sharing available project resources, so you plan to use a conflict resolution method to alleviate the tension among team members. What conflict resolution method is not recognized by the Project Management Institute?
+
+A. Forcing
+B. Withdrawal
+C. Elaboration
+D. Smoothing
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Elaboration is not one of the five conflict-resolving methods that are recognized and endorsed by the Project Management Institute (PMI). The five methods recognized and endorsed by PMI include Forcing, Smoothing, Compromising, Collaborating and Withdrawing. [PMBOK 6th edition, Page 349] [Project Communications Management]
+
+Answer: 
+
+
+
+Q24In a project that was yet to begin, many of the project team members were known in advance. This is:
+
+A. Proactive planning
+B. Skill matching
+C. Pre-assignment
+D. Staffing assignment
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+This is known as pre-assignment. This situation can occur if the project is the result of specific persons being promised as part of a competitive proposal, if the project is dependent on the expertise of particular persons, or if some staff assignments are defined within the project charter. [PMBOK 6th edition, Page 333] [Project Resource Management]
+
+Answer: 
+
+
+
+Q25You have been managing a construction project in a developing country, and now you are closing the project. The tools and equipment that were used on the project have to be returned to your company's European headquarters. A nongovernmental organization that builds and repairs medical facilities in this country has come to you to request that this equipment be donated to them. What should you do?
+
+A. Donate all tools and equipment
+B. Refuse the request
+C. Donate only the tools and equipment whose value is below your purchase approval limit
+D. Notify the appropriate management
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Notify the appropriate management about the donation request. Management can then evaluate the request and make a determination how to proceed. If the request is approved, you can then modify the project plan as needed to accommodate the request. However, making a decision that runs counter to project processes and policies by disposing of these materials in a manner other than what had been previously defined is a violation of the PMI Code of Ethics. [PMI Code of Ethics and Professional Conduct] [Prof.
+Responsibility]
+
+Answer: 
+
+
+
+Q26All of the following are components of an effective change control process, except:
+
+A. Variance analysis
+B. Expert judgment
+C. Change control tools
+D. Meetings
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Variance analysis is not a tool and technique of the Perform Integrated Change Control process. The other choices are valid tools and techniques of this process. [PMBOK 6th edition, Page 113] [Project Integration Management]
+
+Answer: 
+
+
+
+Q27What similarity exists between a cost-reimbursable contract and a timeand-materials contract?
+
+A. They are open-ended.
+B. The closure date is part of the contract.
+C. They have fixed bonus rates.
+D. They can never grow in value.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Time-and-materials contracts resemble cost-reimbursable contracts in that both are open-ended. [PMBOK 6th edition, Page 472] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q28Kate's project is in execution. During an internal project review meeting, Kate learns that the stakeholder engagement plan needs an update. The last update was done two weeks earlier. According to the stakeholder engagement plan, the plan must be reviewed and updated on a monthly basis. The nature of the required update does not require following the formal change control process. What should Kate do?
+
+A. Wait for a couple of weeks to do the required update
+B. Update the plan review procedure first before making the required update
+C. Go ahead and do the required update
+D. Seek the project sponsors guidance
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+There is no need to seek the project sponsor's guidance on this issue. Kate is the project manager, and as long as the nature of the needed update does not require following the formal change control process, she can update the plan right away. Although the stakeholder engagement plan requires a monthly review, updates can be done at any time as needed. [PMBOK 6th edition, Page 530]
+
+Answer: 
+
+
+
+Q29A team of engineers is reviewing a scatter diagram to determine how the changes in two variables in a new type of automobile tire are related. The
+closer the points on the diagram are to a diagonal line, _______________.
+
+A. The more likely a control group is required
+B. The more closely they are related
+C. The less likely they are to be related
+D. The less likely a control group is required
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A scatter diagram shows the pattern of relationship between two variables. The closer the points are to a diagonal line, the more closely they are related. [PMBOK 6th edition, Page 293] [Project Quality Management]
+
+Answer: 
+
+
+
+Q30Which of the following stakeholder groups, especially if the size of the group is large, is ideal for the success of the project?
+
+A. Supportive stakeholders
+B. Leading stakeholders
+C. Neutral stakeholders
+D. Unaware stakeholders
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Neutral and unware stakeholders usually don't pose any serious threat but they are volatile and can sway in any direction as more information becomes available to them. Leading stakeholders are beneficial for the project as long as they are limited in number. If the size of the group is large this can be damaging. The supportive stakeholders are usually low in potential to affect the project but high in potential for collaboration. This is an ideal stakeholder group that supports the project's goals and objectives. [PMBOK 6th edition, Page 521] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31You are a project manager who is in charge of an important project for your company. The project is 40 percent complete after three months and has cost $350,000. The budget for the project is $950,000 and is scheduled to last eight months. How is the project performing?
+
+A. The project is behind schedule and over budget.
+B. The project is ahead of schedule and under budget.
+C. The project is behind schedule and under budget.
+D. The project is ahead of schedule and over budget.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+CPI=EV/AC. CPI = (950000*40%)/350000 = 380000/350000 = 1.09 (under budget). SPI=EV/PV. SPI = 380000/(950000*0.375) = 380000/356,250 = 1.07 (ahead of schedule). [PMBOK 6th edition, Page 267] [Project Cost Management]
+
+Answer: 
+
+
+
+Q32Sarah is about to start developing her project stakeholder engagement plan. She is currently gathering all the required inputs for this process. She has already created the stakeholder register and has gotten access to the organizational process assets and enterprise environmental factors. Which of the following inputs is also critical for the process?
+
+A. Expert Judgment
+B. Benchmarking
+C. Root cause analysis
+D. Project management plan
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Sarah is about to start the Plan Stakeholder Engagement process. The project management plan is one of the inputs of the process. The rest of the choices are tools and techniques of the process. [PMBOK 6th edition, Page 516]
+
+Answer: 
+
+
+
+Q33Product scope is measured against the product requirements, while project scope is measured against:
+
+A. The WBS and WBS dictionary
+B. The project scope statement and its associated WBS and WBS dictionary
+C. The project requirements and WBS
+D. The acceptance criteria
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project scope is measured against the project scope baseline, which consists of the project scope statement, its associated WBS and the WBS dictionary. [PMBOK 6th edition, Page 161] [Project Scope Management]
+
+Answer: 
+
+
+
+Q34In the procurement process, the seller may be viewed initially as a bidder, then as the selected source, and then as the contracted supplier.
+The seller will typically manage the work as a project. In such an instance, which of the following is not true?
+
+A. The buyer becomes the customer and is then a key project stakeholder for the seller.
+B. Terms and conditions of the contract become key inputs to many of the seller's management processes (ex: major deliverables, key milestones, cost objectives).
+C. There need not be a contractual relationship between the buyer and the seller.
+D. The seller's project management team is concerned with all the processes of project management and not just procurement management.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The statement that there need not be a contractual relationship between the buyer and the seller is incorrect. Whenever the seller is external to the organization, there needs to be a contractual relationship between the buyer and the seller. The other statements are correct. [PMBOK 6th edition, Page 460] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q35The product design your project team developed was extremely well received by the customer. There were two key contributors to this design. The customer calls you to tell you how pleased he is with the design.
+What do you tell him?
+
+A. Ask to negotiate a bonus payment.
+B. Thank the customer.
+C. Thank him on behalf of the team and call out the contributions two of the team members made.
+D. Tell the customer you worked very hard on the design, and you are happy he is pleased.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Thank the customer on behalf of the team and cite the contributions made by two of the team members.
+PMI's Code of Ethics and Professional Conduct requires project managers to act fairly and truthfully.
+Accepting the credit due to another person or failing to denote where credit is actually due is dishonest and a violation of this code. [Reference: PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q36Lucy is managing a complex design-and-build project. Stakeholder involvement and influence have been significant since the project's inception. Under such circumstances, the Monitor Stakeholder Engagement process should be:
+
+A. Performed by a person external to the project
+B. A discrete process repeated at monthly intervals
+C. Performed by the project sponsor
+D. A continuous process
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Monitoring stakeholder engagement is the responsibility of the project manager. Project stakeholder engagement, especially in complex projects, should be continuously monitored. [PMBOK 6th edition, Page 530]
+
+Answer: 
+
+
+
+Q37Tom is a project manager who is assigned to a foreign country to manage a project. The project is a large one and comprises smaller sub-teams contributing to the entire project. As part of rewards and recognition within the project, Tom plans for a team award for the best sub-team. Recognition and Rewards is associated with which of the following processes?
+
+A. Close Project or Phase
+B. Develop Team
+C. Control Quality
+D. Manage Team
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Recognition and Rewards is a tool of the Develop Team process. [PMBOK 6th edition, Page 341] [Project Resource Management]
+
+Answer: 
+
+
+
+Q38A first-time project manager was assigned to a project that had a duration of three months. In order to get a head start on the project, the manager took an older, completed the project and incorporated all the tools, techniques, and checklists in their entirety from that project into the current one. The older project was completed in 14 months' time and was remarkably similar in nature. The most appropriate comment on this would be:
+
+A. This is an excellent example of re-use of artifacts from prior projects.
+B. This may be unnecessary. The project management team needs to decide what is appropriate for the project.
+C. This is not the correct procedure. The project manager should always create processes and documents afresh for new projects.
+D. This is not correct. The project manager is violating copyright and intellectual property rights of the organization's prior customers.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is that this may be unnecessary. The project management team needs to decide what is appropriate for the project. Since the prior project had a duration of 14 months and the current one is of 3 months' duration, it is unlikely that the current project will have exactly the same processes applied.
+Some amount of tailoring will be required. The other responses are not valid. It cannot be said with certainty that the project manager will not be violating copyright and intellectual property rights of prior customers.
+Most organizations have clear guidelines on what information can go into their organizational assets' database. [PMBOK 6th edition, Page 28] [Project Framework]
+
+Answer: 
+
+
+
+Q39A first-time project manager wanted to have a "perfect project." This manager informed the customer that this project would not accept change requests of any kind and that the scope would need to be defined precisely at the very start of the project. The customer agreed to this request. What would your comment on this situation be?
+
+A. The is a good example of how the project management team can decide what is and what is not necessary for the project. Not allowing changes is a good way of ensuring that the project meets requirements as detailed in the project scope.
+B. This is unrealistic and impractical. Change is inevitable and rather than look at a 'no change' project, it would be more in the project interests to plan for a robust change control process.
+C. This indicates that the project manager is very aggressive and is likely to take the project to successful completion. Since he has announced the 'no change requests' policy, the customer manager can no longer request changes.
+D. This is unrealistic and impractical. The project manager should not have announced his intentions to the customer. He should have had an unofficial policy of rejecting all change requests.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is that this is unrealistic and impractical. Change is inevitable. Rather than insist on a "no change" project, it would be more in the project's interest to plan for a robust change control process capable of handling any new changes. Mandating that there will be no changes will be ineffective. [PMBOK 6th edition, Page 168] [Project Scope Management]
+
+Answer: 
+
+
+
+Q40A project manager has scheduled technical training for his or her project team members to increase their skills. During which of the following processes will the team member receive this training?
+
+A. Manage Quality
+B. Acquire Resources
+C. Develop Team
+D. Plan Resource Management
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Training is part of the Develop Team process. [PMBOK 6th edition, Page 342] [Project Resource Management]
+
+Answer: 
+
+
+
+Q41You have identified a risk that will negatively affect your security project. You and your team have decided to use an older encryption technology because of the high risk associated with the new technology. What type of risk strategy are you using?
+
+A. Mitigation
+B. Exploitation
+C. Avoidance
+D. Transfer
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+In this scenario, you decided to avoid the risk by using an older technology, because the risk of using the new technology is too high. [PMBOK 6th edition, Page 443] [Project Risk Management]
+
+Answer: 
+
+
+
+Q42A project is contracted on a Cost-Plus-Fixed-Fee (CPFF) basis. The targeted cost is US$200,000 with a fee of US$30,000. If the project comes in at US$170,000, what would be the total cost of the contract?
+
+A. US$ 195,500
+B. US$230,000
+C. US$ 200,000
+D. US$170,000
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+In a Cost-Plus-Fixed-Fee (CPFF) type of contract, the seller is reimbursed for allowable costs and receives a fixed fee payment calculated as a percentage of the estimated project costs. The fixed fee does not vary with actual costs unless the project scope changes. In the current scenario, the fixed fee is US$30,000.
+Although the actual project comes in at US$170,000, the fixed fee remains the same. Hence, the total cost of the contract will be 170,000 + 30,000 = 200,000. [PMBOK 6th edition, Page 472] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q43A project is contracted on a Cost-Plus-Incentive-Fee (CPIF) basis. The contract states that if the final costs are less than expected costs, the sharing formula for cost savings is 80:20. The targeted cost is US$500,000 with a 10 percent fee. If the project comes in at US$450,000, what would be the total cost of the contract?
+
+A. US$495,000
+B. US$510,000
+C. US$505,000
+D. US$550,000
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+In a Cost-Plus-Incentive-Fee (CPIF) type of contract, the seller is reimbursed for allowable costs for performing the contract work and receives a predetermined fee. In some cases, if the final costs are less than the expected costs, then both the buyer and the seller benefit from the cost saving based on a pre- negotiated sharing formula. In the current situation, the predetermined fee is 10% of US$500,000 = US$50,000. Since the project came in at US$450,000, the cost saving is 500,000 450,000 = 50,000. The sharing formula is 80:20, hence the additional payout to the seller = (20/100)*50,000 = 10,000. Therefore, the total cost of the contract = 450,000 + 50,000 + 10,000 = US$510,000. [PMBOK 6th edition, Page 472] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q44A project is contracted on a Cost-Plus-Fixed-Fee (CPFF) basis with a fee of 10 percent of estimated costs. The estimated cost is US$50,000. If the project comes in at US$75,000 with no changes in project scope, what would be the total cost of the contract?
+
+A. US$55,000
+B. US$125,000
+C. US$75,000
+D. US$80,000
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In the Cost-Plus-Fixed-Fee (CPFF) type of contract, the seller is reimbursed for allowable costs for performing the contract work and receives a fee calculated as an agreed-upon percentage of the costs. The costs vary depending on the actual cost. The fee is based on estimated costs unless the scope of the project changes. For the current project, the agreed-upon percentage of costs is 10%. The actual cost is US$75,000 even though the initial estimate was US$50,000. However, the fee is calculated as 10% of 50,000 = (10/100)*50,000 = 5,000. The total cost of the contract is 75,000 + 5,000 = US$80,000. [PMBOK 6th edition, Page 472] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q45Creating a sense of community is a benefit of what type of strategy?
+
+A. Group-based management
+B. Hoteling
+C. Co-location
+D. Virtual teams
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Co-location involves placing many or all of the most active project team members in the same physical location to improve their ability to perform as a team. Co-location strategy can include a team meeting room, places to post schedules, and other conveniences that enhance communication and a sense of community. [PMBOK 6th edition, Page 340] [Project Resource Management]
+
+Answer: 
+
+
+
+Q46You are new to project management, but you have been managing a small project successfully. Now, management has given you another project to manage, something you are excited about. However, the new project is growing exponentially every day. You have also learned that a project manager you work with managed a similar project last year. What should you do?
+
+A. Wait to see if the scope of the project continues to grow
+B. Get the project assigned to the PM who managed the similar project
+C. Obtain historical records and get guidance from the project manager
+D. Speak to the other project manager to develop your project plans Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The historical records will give you an understanding of the prior project; however, you should also obtain guidance from the project manager. [PMBOK 6th edition, Page 58] [Project Integration Management]
+
+Answer: 
+
+
+
+Q47A seller was notified they were one of the selected sellers based on their proposal. The seller immediately circulated an internal newsletter stating they had just been awarded a large contract for a period of five years. Would the newsletter be factually correct?
+
+A. The newsletter is likely factually incorrect. A selected seller is one whose proposal has been accepted, and a contract has been completed pending signatures of the authorized parties.
+B. It is likely that the newsletter is factually incorrect. While the seller has been selected for the work, it is unlikely that the term of the project would have been five years.
+C. It is likely that the newsletter is factually incorrect. A selected seller is one whose proposal is judged to be in a competitive range. It does not mean they have the work.
+D. The newsletter is likely factually correct. A selected seller is one who has a contract based on the procurement process.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The newsletter will probably be factually incorrect. A selected seller is one whose proposal has been judged to be in the competitive range based on bid evaluation. The seller would have negotiated a draft contract that could become the actual contract when the award is made. [PMBOK 6th edition, Page 488]
+
+Answer: 
+
+
+
+Q48You have been asked by your project manager to help create a chart that illustrates the project resources that will be working on each work package. What would be the best type of chart to use?
+
+A. Milestone chart
+B. RACI chart
+C. Project organization chart
+D. WBS
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+RACI stands for Responsible, Accountable, Consult, and Inform. This is a type of responsibility assignment matrix that is used to illustrate the relationship between team members and work that needs to be completed. In a RACI chart, a matrix is created with work packages in the rows and team member roles in the columns. Typically, a RACI chart assumes that one person will be accountable for a work package, and more than one person may be responsible for completing the work package. [PMBOK 6th edition, Page 317] [Project Resource Management]
+
+Answer: 
+
+
+
+Q49As the project manager of a development project, you are aware that there is a slight defect in the developed product; as a result, it will fail to meet certain regulatory standards. This was due to faulty requirements. You are also aware that the product will continue to function properly even though it fails to meet those standards. Your customer manager asks you to certify that the product meets the necessary regulatory standards, stating that this will not be verified when the report is submitted to the necessary authorities. Your stance is that:
+
+A. You certify the product. Regulations are only guidelines in the industry. Not meeting a regulation does not mean anything.
+B. As a one-off instance, you will certify the product to make sure the project goes through successfully.
+C. You will not certify that a product meets certain regulations when it does not, even though the product continues to function well.
+D. You certify the product, but you document your conversation with your customer manager for future purposes.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Your stance will be that you will not certify that a product meets required standards when it does not, even though the product continues to function well. The customer manager might not be pleased with your stance. As a Project Manager, however, you have an obligation to uphold ethical practices, and so you cannot certify a product that fails to meet required standards. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q50The selection of lifecycle for the project, the processes to be applied to each phase, and the results of the tailoring by the project management team are usually found in the:
+
+A. Project scope statement
+B. Project management plan
+C. Project schedule
+D. Project charter
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Details of the life cycle, processes selected, and results of tailoring by the project management team are found in the project management plan. This plan integrates and consolidates all the subsidiary management plans from the planning processes. [PMBOK 6th edition, Pages 82, 83] [Project Integration Management]
+
+Answer: 
+
+
+

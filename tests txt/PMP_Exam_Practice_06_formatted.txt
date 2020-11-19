@@ -1,0 +1,828 @@
+PMP_Exam_Practice_06
+
+Number: 006-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 6
+Exam A
+Q1Which of the following graphical techniques visually depict the product scope by showing a business system and how other systems interact with it?
+
+A. Ishikawa diagram
+B. Histogram
+C. Influence diagram
+D. Context diagram
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A context diagram is a graphical technique that visually depicts the product scope by showing a business system and how other systems interact with it. The other choices are graphical techniques designed to achieve other objectives. [PMBOK 6th edition, Page 146] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q2You have recently become the project manager for a construction project. You are a new hire in your company and are unaware of the organizational project management standards. Which of the following can help you get a head start on your project?
+
+A. Communicate with other project managers in your organization
+B. Review the PMBOK guide thoroughly
+C. Develop the project charter and get it approved
+D. Consult the lessons learned from your previous similar projects Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Reviewing the PMBOK guide or developing the charter will not help you come on board with your organization's work standards. Further, reviewing the lessons learned from you past similar projects won't help since you are a new hire in the company and your past projects are not with this organization. The best way is to talk to other project managers in the company and get their expert opinion. [PMBOK 6th edition, Page 58] [Project Integration Management]
+
+Answer: 
+
+
+
+Q3Which of the following statements is not accurate about the initial phase of a project?
+
+A. The highest uncertainty is at this stage of the project.
+B. The cost associated at the beginning of the project is highest.
+C. Stakeholders have maximum influence during this phase.
+D. Staffing levels are the lowest at this stage.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+At the initial stage of a project, cost is typically not at its highest. [PMBOK 6th edition, Page 549] [Project Framework]
+
+Answer: 
+
+
+
+Q4Chris is managing a construction project. The project team is currently developing the "as built" construction drawings to be supplied to the client as required by the contract. Which of the following phases is Chris' project most likely in?
+
+A. Initiating
+B. Planning
+C. Closing
+D. Executing
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+"As built" drawings suggest that the construction has been completed. It is most likely that the project is in the closing phase and the project manager is preparing the final procurement documentation to be supplied to the client as required by the contract. [PMBOK 6th edition, Page 125] [Project Scope Management]
+
+Answer: 
+
+
+
+Q5In predictive projects, the scope baseline for the project is used to analyze a project's scope performance.
+On the other hand, projects with adaptive lifecycles use:
+
+A. WBS
+B. WBS dictionary
+C. Scope statement
+D. Backlogs
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+In projects with adaptive life cycles, the overall scope of the project will be decomposed into a set of requirements and work to be performed, referred to as a product backlog. [PMBOK 6th edition, Page 131] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6Which process group corresponds to the "do" part of the plan-do-check-act cycle?
+
+A. Closing
+B. Monitoring and Controlling
+C. Planning
+D. Executing
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Executing process group corresponds with the "do" portion of the PDCA cycle. [PMBOK 6th edition, Page 275] [Project Quality Management]
+
+Answer: 
+
+
+
+Q7You have recently taken over a project as the project manager. The project is midway through execution, and most of the project work has been subcontracted. You have just found out that one of the subcontractors, who was responsible for all demolitions, has been paid 50 percent of the subcontracted value, but he has delivered only 25 percent of the required works. Upon investigation, you learned that all the payments are in line with the signed contract between the two parties and the subcontractor's work is compliant with the contract specifications. You are annoyed because this does not give you enough control over the subcontracted works. Which of the following is not an appropriate thing to do at this stage?
+
+A. Document the story as a lesson learned
+B. Continue with the arrangement
+C. Discuss your concerns with appropriate stakeholders so that this mistake is not repeated
+D. Terminate the contract unless there is a violation of the contract Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+According to the scenario the subcontractor is conforming to the contract's requirements. However, the project manager is not happy since the contractual terms and conditions do not give him enough control over the subcontracted work. The contract should not be terminated unless there is any violation of the contract, but appropriate steps need to be taken to avoid such mistakes in the future. [PMBOK 6th edition, Page 492] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q8Your company is considering buying a building worth $1 million. If the company buys this building and rents it out for the next five years, it will get $100,000 per year as rent (receivable by the end of each year). At the end of the fifth year, the company will resell the building at $1.1 million. What is the NPV of this investment at 10 percent per annum discount rate?
+
+A. 62092
+B. 600000
+C. 1600000
+D. 2200000
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+NPV = discounted inflows " discounted outflows Since the full investment, i.e. $1 million, needs to be made now, we don't have to discount the outflows. However, we need to discount all the inflows by 10% per annum. The discount formula is: Present Value (PV) = Future Value / (1 + discount rate)^period For year 1:
+PV1 = 100,000 / 1.1^1 = 90,909 For year 2: PV1 = 100,000 / 1.1^2 = 82,645 For year 3: PV1 = 100,000 / 1.1^3 = 75,131 For year 4: PV1 = 100,000 / 1.1^4 = 68,301 For year 5: PV1 = 1,200,000 / 1.1^5 = 745,106 Hence the total PV of the inflows = 1,062,092 NPV = 1,062,092 " 1,000,000 = $62,092 [PMBOK 5th edition, Pages 34, 473] [Project Integration Management]
+
+Answer: 
+
+
+
+Q9Andrew is a project management guru hired by a retail giant in your country. Andrew finds out there is a wide array of projects that need to be managed from a central PMO; from a number of small projects to large initiatives requiring long-term roadmaps to manage the development of these programs. What project management approach should be recommended for such projects?
+
+A. A predictive approach, adaptive approach, or a hybrid of both, may need to be adopted.
+B. A predictive approach may need to be adopted.
+C. An adaptive approach may need to be adopted.
+D. Setting up PMOs for such a wide range of projects is not recommended.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+In large organizations, there may be a mixture of small projects and large initiatives requiring long-term commitments to manage these programs using scaling factors (e.g. team size, geographical distribution, regulatory compliance, organizational complexity, and technical complexity). To address the full delivery life cycle, a range of techniques utilizing a predictive approach, adaptive approach, or a hybrid of both, may need to be adopted. [PMBOK 6th edition, Page 178] [Project Integration Management]
+
+Answer: 
+
+
+
+Q10Organizational process assets are fundamental inputs to most of the project management processes. However, only some of the process assets are relevant to any given process. Which of the following organizational process assets is the least important consideration during the Manage Stakeholder Engagement process?
+
+A. Issue management procedures
+B. Project plan templates
+C. Change control procedures
+D. Historical information about previous projects
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Project plan templates are considering during the planning processes. These would be of least importance during the Manage Stakeholder Engagement process. The rest of the choices are the organizational process assets relevant to the Manage Stakeholder Engagement process. [PMBOK 6th edition, Page 526] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11The paint on the exotic cars that are manufactured in your plant is bubbling about a year after application. What would be the best tool for your team to use to find potential causes of the peeling paint?
+
+A. Scatter diagram
+B. Ishikawa Diagram
+C. Control Chart
+D. Inspection
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+All the choices are tools and techniques in quality control; however, the best choice would be the Ishikawa or cause-and-effect diagram. [PMBOK 6th edition, Page 293] [Project Quality Management]
+
+Answer: 
+
+
+
+Q12Early in the project, you are meeting with your team and would like to address all the strengths, weaknesses, opportunities, and threats the project is facing. What tool should be used?
+
+A. SWOT Analysis
+B. Interviewing
+C. Delphi Technique
+D. Brainstorming
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A SWOT Analysis chart would be the best choice. SWOT is an acronym for strengths, weakness, opportunities and threats. [PMBOK 6th edition, Page 415] [Project Risk Management]
+
+Answer: 
+
+
+
+Q13You recently took over a project as the project manager. This is your first project management assignment. The project sponsor is very supportive and is helping you out in successfully managing the project. Recently, some bad quality deliverables were received on the project, and the project sponsor suggested that you to periodically review the vendor's progress to deliver project scope and quality, within cost and on schedule, as compared to the contract. Which of the following statements is true in this context?
+
+A. The sponsor has asked you to carry out regular trend analysis.
+B. The sponsor has asked you something that is not a good project management practice.
+C. The sponsor has asked you to carry out regular procurement performance reviews.
+D. The sponsor is giving you a bigger workload so that you can perform better on the next assignment.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The sponsor is not giving you more workload. He is asking you to carry out regular procurement performance reviews, which is a good project management practice. [PMBOK 6th edition, Page 498] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q14You are in charge of constructing the Ferris wheel in each town a carnival visits. However, this is something you have never done before, and you are getting different opinions from others on how long it takes. Joe is new and has given you what you believe to be an optimistic estimate of three hours; Bill says it will take 10 hours, which seems too long to you and quite pessimistic. Last, Margie, who is the most experienced at this task, is telling you it will take eight hours. You are not sure whom to believe, so you decide to do three-point estimation (based on beta distribution). Based on this, how many hours will it take you to assemble the Ferris wheel?
+
+A. 7.5 hours
+B. 8 hours
+C. 21 hours
+D. 7 hours
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The formula for three-point estimate (based on beta distribution) is Estimate = (Optimistic + (Most Likely *4) + Pessimistic)/6. [PMBOK 6th edition, Page 245] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q15PMBOK offers a number of tools and techniques for all the project management processes. These tools and techniques must be carefully applied in order to meet the objectives of any process. Which of the following is not a tool or technique of the Plan Stakeholder Engagement process?
+
+A. Expert judgment
+B. Meetings
+C. Decision-making
+D. Interpersonal skills
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Interpersonal skills' is not a tool or technique of the Plan Stakeholder Engagement process. The rest of the choice are valid tools or techniques. [PMBOK 6th edition, Page 516] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16Business value is also defined as the aggregate of all tangible and intangible elements of the business. Which of the following is NOT an example of a tangible business element?
+
+A. Monetary assets
+B. Goodwill
+C. Fixtures
+D. Stockholder equity
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Good will is an intangible element, while the rest are considered tangible elements. [PMBOK 6th edition, Page 7] [Project Integration Management]
+
+Answer: 
+
+
+
+Q17You have just returned from the weekly change control board meeting at which you presented the requested changes to the employee move project. You had five change requests approved and one request rejected.These are outputs of what process?
+
+A. Control Quality
+B. Control Scope
+C. Monitor Risks
+D. Perform Integrated Change Control
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Approved and rejected change requests are outputs of the Perform Integrated Change Control process.
+[PMBOK 6th edition, Page 113] [Project Integration Management]
+
+Answer: 
+
+
+
+Q18There are two activities on your schedule: 1) Install server in lab, and 2) Move server into the data center. However, the second task cannot start until the server has run in the lab for five days without failure. This is an example of what?
+
+A. Fast Track
+B. Lead
+C. Crashing
+D. Lag
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A Lag is a modification of a logical relationship that directs a delay in a successor activity. In this case, there is a 5-day delay before the server can be moved into the data center. [PMBOK 6th edition, Page 192] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q19Your construction project is in execution, and you require a major change to one of your supplier agreements. Can you directly make this change with mutual consent of the supplier during the Control Procurements process, or do you have to visit the Perform Integrated Change Control process, as well?
+
+A. The change request needs to be approved through the Control Procurements process prior to making the change through the Integrated Change Control process.
+B. The change request can be directly processed through the Control Procurements process since the change requests only affects a particular supplier agreement.
+C. The Control Procurements process is about identifying variances. The supplier contract can directly be altered through the Perform Integrated Change Control process.
+D. The change request needs to be approved through the Perform Integrated Change Control process prior to making the change through the Control Procurements process.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The change request needs to be approved through the Perform Integrated Change Control process prior to making the change through the Control Procurements process. Approved change requests from the Perform Integrated Change control process are inputs of the Control Procurements process. [PMBOK 6th edition, Page 493] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q20A change log is an important input to the Manage Stakeholder Engagement process. Which process provides this input?
+
+A. Plan Communications Management
+B. Manage Communications
+C. Perform Integrated Change Control
+D. Monitor Communications
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Project change logs are an output of the Perform Integrated Change Control process. [PMBOK 6th edition, Page 113] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q21In your weekly status reports, you report the earned value for the project. This information is essential for you and the stakeholders to gauge the progress of the project. What process group is the cost and schedule control part of?
+
+A. Closing
+B. Planning
+C. Executing
+D. Monitoring and Controlling
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Control Schedule and the Control Costs processes belong to the Monitoring and Controlling process group. [PMBOK 6th edition, Page 25] [Project Scope Management]
+
+Answer: 
+
+
+
+Q22You are having your project team members record the time they spend on different activities during the day, such as programming, electrical, HVAC, etc. This is an example of a tool and technique in what process?
+
+A. Manage Communications
+B. Direct and Manage Project Work
+C. Monitor and Control Project Work
+D. Manage Team
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Monitor and Control Project Work process tracks and reviews the project's progress. [PMBOK 6th edition, Page 105] [Project Integration Management]
+
+Answer: 
+
+
+
+Q23You are working with your team and are looking at the cost risks in the project. You and your team are currently creating a tornado diagram for the project risks. You do this as a part of which of the following processes?
+
+A. Qualitative Risk Analysis
+B. Risk Response Planning
+C. Quantitative Risk Analysis
+D. Monitor Risks
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A tornado diagram is a sensitivity analysis tool. This technique is used during the Perform Quantitative Risk Analysis process. [PMBOK 6th edition, Page 434] [Project Risk Management]
+
+Answer: 
+
+
+
+Q24Stakeholder notifications must be archived for future reference. Whenever the Manage Communications process produces a stakeholder notification, the notification must be:
+
+A. Updated to the organizational process assets
+B. Updated to the project management plan
+C. Updated to the project communications management plan
+D. Updated to the stakeholder register
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholder notifications must be archived for future reference. Whenever the Manage Communications process produces a stakeholder notification, the notification must be updated to the organizational process assets. [PMBOK 6th edition, Page 388] [Project Communications Management]
+
+Answer: 
+
+
+
+Q25Communication noise refers to influences on effective communication that influence the interpretation of conversations. Noise affects which components of communication?
+
+A. Encoding and decoding
+B. Decoding and feedback
+C. Transmission and decoding
+D. Encoding and feedback
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Noise is anything that compromises the original meaning of a message. It gets either introduced during the transmission itself or during decoding (when the receiver of the message doesn't fully comprehend).
+[PMBOK 6th edition, Page 371] [Project Communications Management]
+
+Answer: 
+
+
+
+Q26You are in the execution stage of your project, and you are informed that "corporate" will send in a team of consultants to review whether your project activities comply with your company's and PMI's policies, standards, and procedures. This is an example of:
+
+A. Quality Audit
+B. Organizational Process Assets
+C. Process Analysis
+D. Recommended Corrective Actions
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Any activity that is a structured and independent review to examine the project is an example of a Quality Audit. A quality audit is a quality management tool. [PMBOK 6th edition, Page 294] [Project Quality Management]
+
+Answer: 
+
+
+
+Q27You are in the initiation phase of your project, and you believe the project can be completed for $100,000. However, you are an experienced project manager and know that many things can happen between the initiation phase and the closure of the project. In the project charter, you have provided an estimate of $75,000 to $175,000. This is an example of:
+
+A. Narrow Estimate
+B. Absolute Estimate
+C. Rough Order of Magnitude Estimate
+D. True Estimate
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A ROM estimate is supplied in the beginning of a project and is defined as -25% to +75% of the estimated cost. [PMBOK 6th edition, Page 241] [Project Cost Management]
+
+Answer: 
+
+
+
+Q28PMBOK recognizes five process groups typical of nearly all projects. Which of the following is not one of them?
+
+A. Executing
+B. Monitoring and Controlling
+C. Planning
+D. Pre-Inception
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Pre-Inception is not a PMBOK process group. [PMBOK 6th edition, Page 23] [Project Framework]
+
+Answer: 
+
+
+
+Q29A technique that calculates multiple project durations with different sets of activity assumptions and variables is:
+
+A. Process Analysis
+B. Theoretical Analysis
+C. Simulation
+D. Effect Analysis
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+This technique is known as simulation. Project simulations use computer models and estimates of risk (usually expressed as a probability distribution of possible costs or durations at a detailed work level) and are typically performed using Monte Carlo analysis. [PMBOK 6th edition, Page 213] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q30Project stakeholder management is an integral part of project management. The effectiveness of stakeholder analysis carried out early in a project can decide its fate. Which of the following is the least important consideration during stakeholder analysis, especially when analyzing stakeholders who are also decision-makers?
+
+A. Prior experience
+B. Expectations
+C. Interests
+D. Influence
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholder expectations, interests and influence are the key factors that are considered during stakeholder analysis. Stakeholder prior experience might be a consideration but that is not as important as the rest of the choices given for this question. [PMBOK 6th edition, Page 512] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31A process that states how formal validation and acceptance of the completed project deliverables will be achieved is documented in the:
+
+A. Scope Management plan
+B. Procurement Management plan
+C. Risk Management plan
+D. Communications Management plan
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is the Scope Management Plan. This plan provides guidance on how project scope will be defined, documented, validated, managed and controlled by the project management team. [PMBOK 6th edition, Page 137] [Project Scope Management]
+
+Answer: 
+
+
+
+Q32The WBS is a deliverable-oriented hierarchical decomposition of the work the project team must execute to accomplish the project objectives.
+This is created as part of:
+
+A. Project Integration Management
+B. Project Scope Management
+C. Project Procurement Management
+D. Project Schedule Management
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Creating the WBS is an important process in a project, and it is done as a part of Project Scope Management. [PMBOK 6th edition, Page 129] [Project Scope Management]
+
+Answer: 
+
+
+
+Q33Which of the following Manage Quality techniques examines problems, constraints, and non-value-added activities that occur during project work?
+
+A. Sensitivity Analysis
+B. Expected monetary value analysis
+C. Earned Value Analysis
+D. Process Analysis
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Process Analysis examines problems, constraints, and non-valueadded activities that occur during project work. [PMBOK 6th edition, Page 292] [Project Quality Management]
+
+Answer: 
+
+
+
+Q34On any project, the configuration control should be focused on the specification of:
+
+A. Deliverables and processes
+B. Scope and cost
+C. Risk and resources
+D. Schedule and quality
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The focus of configuration control is on specification of both the deliverables and the processes. The rest of the choices are incorrect. [PMBOK 6th edition, Page 118] [Project Quality Management]
+
+Answer: 
+
+
+
+Q35Complex projects usually demand preparation and distribution of periodic project performance reports. The contents of performance reports are usually determined early and documented in the project communications management plan. Which of the following is least likely to be a section on a work performance report?
+
+A. Analysis of project forecasts
+B. Current status of risks and issues
+C. Stakeholder engagement strategy
+D. Reserve burn down charts
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Stakeholder engagement strategy is a component of the stakeholder engagement plan and is usually considered confidential. Due to this reason, this section is least likely to be included in a work performance report. Other choices are more likely to be components of a work performance report. [PMBOK 6th edition, Page 112] [Project Communications Management]
+
+Answer: 
+
+
+
+Q36Andy's project stakeholders are not happy as the project is lagging behind schedule. During the executive committee meeting, Andy requests all stakeholders to keep their calm as most of the project deliverables have been completed and only quality inspections of these deliverables is pending. He assures the stakeholders that he is planning to crash the project to meet the completion deadline. What should be the stakeholders' biggest concern now?
+
+A. Crashing at this stage might result in an exponential cost increase and more time will be required to recover that cost.
+B. Crashing at this stage might result in undetected errors, decreased profits, and increased post- implementation risks.
+C. Why Andy hasn't chosen to fast-track the project instead of crashing the project.
+D. Stakeholders do not know the PMBOK jargon; crashing is a valid schedule compression technique.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Meeting project schedule objectives by rushing planned quality inspections may result in undetected errors, decreased profits, and increased post-implementation risks. The other choices are incorrect. [PMBOK 6th edition, Page 273] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q37A change request that is issued to bring the performance of the project back in line with the project management plan is related to:
+
+A. Corrective action
+B. Defect repair
+C. Proactive action
+D. Preventive action
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A change request that is issued to bring the performance of a project back in line with the project management plan relates to a required corrective action. [PMBOK 6th edition, Page 96] [Project Integration Management]
+
+Answer: 
+
+
+
+Q38Which of the following tools give a visual representation of an organization's data, described in business language that is independent of any specific technology?
+
+A. Matrix diagrams
+B. Mind maps
+C. Flowcharts
+D. Logical data model
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Logical data models give a visual representation of an organization's data, described in business language and independent of any specific technology. [PMBOK 6th edition, Page 284] [Project Resource Management]
+
+Answer: 
+
+
+
+Q39You are running one week behind on a project due to a late delivery by a vendor. You are forced to compress your project schedule due to a government-mandated end date that constrains your project. After meeting with your team, the decision is to work several tasks in parallel that were scheduled to be run consecutively. This is an example of:
+
+A. Risk Acceptance
+B. Crashing
+C. Resource Leveling
+D. Fast Tracking
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The example provided is the definition of fast tracking. An example of crashing the schedule is doubling the amount of resources so the task(s) can be done in half the originally scheduled time. [PMBOK 6th edition, Page 215] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q40While developing your project schedule, you have asked everyone to provide a list of planned vacations over the next three months, and you have applied this information to the tasks that each person is responsible for. What also needs updating?
+
+A. Resource Calendars
+B. Leads
+C. Schedule Variances
+D. Lags
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Resource calendars indicate when resources can work on the project. This project document must be updated to reflect the working and nonworking time of the project resources. [PMBOK 6th edition, Page 323] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q41A project has gone out of control, and the project manager is trying to bring it back under control. There have been a number of changes to the project scope. Some of these changes resulted in further changes, causing project cost to spiral upward and causing the project to go out of schedule. This is known as:
+
+A. Scope creep
+B. Scope jump
+C. Project creep
+D. Scope control
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Scope creep is the term used to refer to uncontrolled changes in a project's scope. Scope creep can be a project manager's nightmare if not properly managed. [PMBOK 6th edition, Page 168] [Project Scope Management]
+
+Answer: 
+
+
+
+Q42Mary is managing an organizational transformation project. The nature of the project would require responding to high levels of change and would also require continuous stakeholder engagement. Which of the project lifecycles should be chosen for this project?
+
+A. Predictive life cycle
+B. Plan-driven life cycle
+C. Waterfall life cycle
+D. Adaptive life cycle
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Projects with adaptive life cycles are intended to respond to high levels of change and require ongoing stakeholder engagement. All other choices are predictive life cycles which are designed to be plan driven rather than being change driven. [PMBOK 6th edition, Page 131] [Project Risk Management]
+
+Answer: 
+
+
+
+Q43Crashing is an effective schedule compression technique at times when a project is struggling behind schedule. However, increasing the number of resources to twice the original number of the resources does not always cut the time by half. This is due to:
+
+A. Fast tracking the project
+B. Risk mitigation due to crashing the project
+C. The law of diminishing returns
+D. Critical path analysis
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+When one factor used to determine the effort required to produce a unit of work is increased while all other factors remain fixed, a point will eventually be reached at which additions of that one factor start to yield progressively decreased productivity. This is commonly known as the law of diminishing returns. [PMBOK 6th edition, Page 197] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q44Which of the following statements is incorrect?
+
+A. Developing a project team is the responsibility of the project manager.
+B. A project manager must not acquire resources needed to develop effective project teams.
+C. High team performance can be achieved using open and effective communications.
+D. Teamwork is a critical success factor for a project.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Although project team development is the responsibility of the project manager, the project manager may acquire experts needed to develop effective project teams. [PMBOK 6th edition, Page 328] [Project Resource Management]
+
+Answer: 
+
+
+
+Q45You are an experienced project manager and have managed several data center migration projects. You are currently conducting training on the databases, spreadsheets, and management plans you will use during the lifecycle of the project. This training is a tool and technique in what process?
+
+A. Manage Team
+B. Acquire Resources
+C. Develop Team
+D. Control Quality
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Any type of training that is conducted"formal, on the job, computer-based, etc."is a tool and technique in the Develop Team process. [PMBOK 6th edition, Page 336] [Project Resource Management]
+
+Answer: 
+
+
+
+Q46You are managing an oil-drilling project. With oil at $143 per barrel, this could be a highly lucrative project. However, there is a chance that the price of oil will drop below $105 per barrel, which would eliminate the profit in the project. This is an example of:
+
+A. Requirement
+B. Assumption
+C. Risk
+D. Constraint
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The uncertainty of the oil price is a project risk, which can positively or negatively affect the project. The rest of the choices are incorrect. [PMBOK 6th edition, Page 397] [Project Risk Management]
+
+Answer: 
+
+
+
+Q47During the weekly change control board meeting, you invited the facilities manager to speak about the change request to increase the BTUs of the air conditioning system in the new data center. This is an example of what type of tool and technique in the Perform Integrated Change Control process?
+
+A. Variance Analysis
+B. Expert Judgment
+C. Project Management Methodology
+D. Project Management Information System
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The facilities manager would be considered an expert on the A/C system; thus, this is an example of Expert Judgment. [PMBOK 6th edition, Page 118] [Project Integration Management]
+
+Answer: 
+
+
+
+Q48You are managing a project that has a task to translate several pages of a document into Spanish. This is similar to a project done last year when a document was translated into German. You are not sure how long it will take to translate into Spanish, so you look at the project plan from the German translation and use that activity duration for your current project. What type of estimating is this an example of?
+
+A. Hypothesis
+B. Parametric Estimating
+C. Analogous Estimating
+D. What-if Scenario Analysis
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+This is an example of analogous estimating, because you went back to an old schedule of a similar project to get the estimate. Parametric estimating would be correct if you used the number of words translated (e.g., translating 1000 words takes 1 hour). [PMBOK 6th edition, Page 200] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q49To control the schedule, a project manager is reanalyzing the project to predict project duration. This is done by analyzing the sequence of activities with the least amount of flexibility. What technique is being used?
+
+A. Leads and lags
+B. Work Breakdown Structure
+C. Flowchart
+D. Critical Path Method
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The critical path of a project is the series of activities that have the least amount of float - usually zero (flexibility). [PMBOK 6th edition, Page 210] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q50A project manager creates a component-specific tool to verify that a set of required steps has been performed. This tool is called a:
+
+A. Risk Register
+B. Assumptions log
+C. Checklist
+D. Plan-Do-Act-Check
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Checklists are structured tools used to verify that a set of required steps has been performed. Checklists can be either simple or complex. Many organizations have standardized checklists to ensure consistency in frequently performed tasks. [PMBOK 6th edition, Page 292] [Project Quality Management]
+
+Answer: 
+
+
+
+Q51The complexity of the information flow in any project depends upon the complexity of the project itself. Information flows through various channels in complex projects. The project management team is responsible for gathering, compiling, analyzing, and reporting this information. Which of the following processes finally releases the project information to the project stakeholders?
+
+A. Plan Communications Management
+B. Monitor Communications
+C. Manage Communications
+D. Manage Stakeholder Engagement
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Manage communications is the process of ensuring timely and appropriate collection, creation, distribution, storage, retrieval and management of project information. [PMBOK 6th edition, Page 359] [Project Communications Management]
+
+Answer: 
+
+
+

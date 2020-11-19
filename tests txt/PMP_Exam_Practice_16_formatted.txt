@@ -1,0 +1,824 @@
+PMP_Exam_Practice_16
+
+Number: 016-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 16
+Exam A
+Q1You are a certified PMP, and the PMI has contacted you as part of an investigation it is conducting into allegations of improper conduct by your manager, who is also a PMP. A complaint has been filed stating your manager has received bribes related to a large procurement contract on another project. PMI has asked whether you could provide information regarding this situation. What should you do?
+
+A. Confront your manager
+B. Send PMI project documentation and emails related to the allegations to assist with their investigation
+C. Notify the appropriate management immediately
+D. Do nothing, citing a conflict of interest
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Notifying the appropriate management of the PMI investigation and their request for your assistance is the best choice. Sharing confidential information with an outside party without approval from your management is a violation of the PMI Code of Ethics and Professional Conduct. Once the appropriate management have been notified, they will let you know the best way to proceed with this investigation. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q2As part of the Estimate Costs process, a project manager obtained access to certain commercially available databases to get resource cost rate information. Such published commercial information is considered what type of input?
+
+A. Enterprise environmental factor
+B. Historical information
+C. Organizational process asset
+D. HR Input
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Such published commercial information is considered part of enterprise environmental factors that influence the Estimate Costs process. [PMBOK 6th edition, Page 243] [Project Cost Management]
+
+Answer: 
+
+
+
+Q3A project needed to monitor the technical performance of the project and capture data related to how many errors or defects had been identified and how many remained uncorrected. Which of the following techniques should the project use?
+
+A. Scatter diagram
+B. Flowchart
+C. Histogram
+D. Control chart
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Histograms are bar charts that are used to graphically show numeric data. [PMBOK 6th edition, Page 293] [Project Quality Management]
+
+Answer: 
+
+
+
+Q4Which of the following is not an example of parametric estimating?
+
+A. Activity duration estimated based on the number of drawings multiplied by the number of labor hours per drawing.
+B. Activity duration estimated based on the number of labor hours per meter for cable installation.
+C. Activity duration estimated based on the square footage in construction.
+D. Activity duration estimated based on the actual duration of a similar, previous project.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Estimated activity duration based on the actual duration of a previous similar project is an instance of analogous estimating. The other three choices are examples of parametric estimating. [PMBOK 6th edition, Page 200] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q5Nancy's project has a large number of key positive and negative stakeholders. To ensure the project's success, it is essential to manage the influential negative stakeholders closely. Do the key positive stakeholders need to be managed, too?
+
+A. No; more attention needs to be given to the key negative stakeholders.
+B. The positive stakeholders need to be closely managed, as well, since stakeholders' needs and expectations change over time.
+C. Project stakeholders should not be classified as positive and negative stakeholders.
+D. Yes; positive stakeholders should be more closely managed than the negative stakeholders.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+It is just as important to manage the positive stakeholders as it is to manage the negative stakeholders.
+Stakeholders' expectations and interests change over time. In order to ensure the success of the project, the positive stakeholders should be managed closely to retain their support and commitment to the project.
+[PMBOK 6th edition, Pages 504-506] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6Which of the following is not an example of a work performance report?
+
+A. Status report
+B. Project charter
+C. Progress report
+D. Project dashboard
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project charter is a high-level document that authorizes a project. It is not a work performance report.
+The other choices are valid examples of work performance reports. [PMBOK 6th edition, Page 112] [Project Integration Management]
+
+Answer: 
+
+
+
+Q7A project charter that formally authorized a project was created. The project charter documented the initial requirements to satisfy stakeholders' needs and expectations. How often should the project charter be revised?
+
+A. At the beginning, middle, and end of a project
+B. Once a month
+C. Project charter is usually not updated during the course of the project.
+D. As required by the PMO
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project charter is a high-level document that authorizes a project. It documents a broad understanding of the project and does not need to be updated during the course of the project. [PMBOK 6th edition, Page 75] [Project Integration Management]
+
+Answer: 
+
+
+
+Q8Which of the following techniques focuses on identifying non-value-added activities in a project?
+
+A. Pareto charting
+B. Process analysis
+C. Root cause analysis
+D. Affinity diagrams
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Process analysis examines problems experienced, constraints experienced, and non-value-added activities identified during process operation. [PMBOK 6th edition, Page 292]
+
+Answer: 
+
+
+
+Q9Procurement statement of work (SOW) is a narrative description of the products or services to be delivered by the vendor. It usually references all the following except:
+
+A. The business case
+B. Product specifications
+C. Work location
+D. Performance requirements
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The procurement statement of work (SOW) does not usually reference the business case. The business case may contain cost sensitive information that may not be made available to a wider audience. The rest of the choices are valid components of a procurement statement of work. [PMBOK 6th edition, Page 477] [Project Integration Management]
+
+Answer: 
+
+
+
+Q10Nancy's project is in execution. Nancy is currently planning to execute the Manage Stakeholder Engagement process. She has gathered the project documents such as the issue log, the change log, the stakeholder register, the lessons learned register and the necessary organizational process assets. Which of the following is a key input to this process that is still missing from this list?
+
+A. Expert Judgment
+B. Communication Skills
+C. Change requests
+D. Project Management Plan
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The missing input is the project management plan. [PMBOK 6th edition, Page 523] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11A project manager needed to shorten a project schedule and decided to employ crashing, a schedule compression technique. Which of the following activities would not be an example of crashing?
+
+A. Bringing in additional resources
+B. Reducing project scope
+C. Paying to expedite delivery activities
+D. Approving overtime
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Schedule compression techniques such as crashing and fast tracking shorten the project schedule without changing the project scope. Approving overtime, bringing in additional resources and paying to expedite delivery activities are valid examples of crashing. Reducing project scope is not a valid example of crashing.
+[PMBOK 6th edition, Page 215] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q12A project can be authorized by any of the following except:
+
+A. The project manager
+B. The PMO
+C. The sponsor
+D. The portfolio steering committee
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Projects are authorized by someone external to the project such as a project sponsor, project management office (PMO), or portfolio steering committee. A project manager does not authorize the project. [PMBOK 6th edition, Page 77] [Project Integration Management]
+
+Answer: 
+
+
+
+Q13You are working in a matrix project environment where functional managers have control over the resources. You are well aware that not acquiring the project team soon enough for your project could result in changes to the schedule, cost, and quality. To acquire the project team from functional managers, the best technique for you to use is:
+
+A. Pre-assignment
+B. Virtual teams
+C. Negotiations
+D. Acquisition
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Pre-assignment, virtual teams or negotiations as tools or techniques for acquiring project resources.
+However, negotiation is the tool used to acquire the project team from functional managers to ensure that the project receives appropriate staff in the required time frame. [PMBOK 6th edition, Page 332]
+
+Answer: 
+
+
+
+Q14A first-time project manager created a Work Breakdown Structure (WBS) where the deliverables had different levels of decomposition. What would your comment on this be?
+
+A. This is incorrect. All deliverables need to have the same level of decomposition.
+B. This is incorrect. Only deliverables under different branches can have different levels of decomposition.
+C. This is fine. Different deliverables can have different levels of decomposition, depending on the work involved.
+D. This is fine. The focus of the WBS is not the deliverables but the tasks involved.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+This is acceptable. Deliverables need not all have the same level of decomposition. This will depend on the work involved and degree of control required. [PMBOK 6th edition, Page 158] [Project Scope Management]
+
+Answer: 
+
+
+
+Q15Stanley's project is in execution. Stanley has a monthly stakeholder update meeting scheduled in which he presents the project's progress and current issues to the key stakeholders. During the last stakeholder update meeting, the stakeholders requested Stanley to provide bi-weekly project updates instead of monthly updates. The communication management plan has been broadly framed, and it does not restrict Stanley from doing bi-weekly updates. What should Stanley do?
+
+A. Start providing bi-weekly updates instead of monthly updates
+B. Update the communication management plan prior to providing the biweekly updates
+C. Disregard the stakeholders' request and continue with the monthly updates
+D. Request that the stakeholders submit a change request
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The key stakeholders' concerns and requests can never be disregarded. Since the communication management plan is flexible and it does not restrict Stanley from doing bi-weekly updates, Stanley must immediately accept the key stakeholders' request. Since this is not impacting the communication management plan, there is no need to go through the formal change control process. [PMBOK 6th edition, Page 389] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16Decision tree analysis is used to calculate the average outcome when the future includes scenarios that may or may not happen. What are a decision node's inputs and outputs?
+
+A. Input: Cost of each decision; Output: Probability of occurrence
+B. Input: Cost of each decision; Output: Decision made
+C. Input: Scenario probability; Output: Expected Monetary Value (EMV)
+D. Input: Cost of each decision; Output: Payoff
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Decision tree analysis is used to calculate the average outcome when the future includes scenarios that may or may not happen. In a decision node, the input is the cost of each decision and the output is a decision made. [PMBOK 6th edition, Page 435] [Project Risk Management]
+
+Answer: 
+
+
+
+Q17Sensitivity analysis helps to determine which risks have the most potential impact on the project. A project manager prepared a display chart of sensitivity analysis for his project. The diagram contained a series of bars with the length of the bars corresponding to the risk impact on the project. The longer the bar, the greater was the risk presented. Such a chart is likely to be:
+
+A. An assessment diagram
+B. A triangular distribution
+C. A tornado diagram
+D. A funnel distribution
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The chart is likely to be a tornado diagram. Tornado diagrams are useful for comparing relative importance and impact of variables that have a high degree of uncertainty to those that are more stable. The variables are positioned vertically, and the bars extend horizontally. The longest bar is at the top of the chart, and the shortest bar is at the bottom. This resembles the shape of a tornado; hence the name. [PMBOK 6th edition, Page 434] [Project Risk Management]
+
+Answer: 
+
+
+
+Q18Which of the following is neither an input nor an output of the Direct and Manage Project Work process?
+
+A. Approved change requests
+B. Change requests
+C. Approved deliverables
+D. Deliverables
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Approved deliverables are neither an input nor an output of the Direct and Manage Project Work process.
+Approved or accepted deliverables are outputs of the Validate Scope process and are the inputs of the Close Project or Phase process. [PMBOK 6th edition, Page 90] [Project Integration Management]
+
+Answer: 
+
+
+
+Q19Which of the following is true about risks?
+
+A. A risk may have one or more causes, and, if it occurs, may have one or more effects.
+B. A risk usually has a single cause and, if it occurs, may have one or more effects.
+C. A risk usually has a single cause and, if it occurs, usually has a single effect.
+D. A risk usually has more than one cause, and if it occurs, usually has a single effect.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A project risk is an uncertain event or condition whose occurrence may affect the objectives of the project.
+A risk may have one or many causes, and if it occurs, it may have one or more impacts. [PMBOK 6th edition, Page 417] [Project Risk Management]
+
+Answer: 
+
+
+
+Q20You have just taken over a project from another project manager about six months into a 12-month project. As you get to know the staff on the project, you become aware that five staff members are relatives of the previous project manager. What do you do?
+
+A. Notify your project stakeholders there is a possibility that nepotism was behind some of the staffing decisions made on your project
+B. Check recruitment records of all employees
+C. Report the HR manager to PMI
+D. Interview these five employees
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Notify your project stakeholders of the situation. Once they are aware of the circumstances, a plan of action can be developed. It is possible the stakeholders may already be aware of the situation and had actually approved the hiring of these resources. Therefore, you should involve your stakeholders to resolve this issue. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q21A seller organization was executing work for a project under a contract. During the course of the project, a number of disputes arose over the scope and quality of the work. Which of the following is the preferred method of resolving these claims?
+
+A. Alternative dispute resolution (ADR)
+B. Claims court
+C. Appeals court
+D. Negotiation
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+When a buyer and seller enter into a dispute over the execution of work under the terms of a contract, negotiation is the preferred method of resolution of all claims and disputes. [PMBOK 6th edition, Page 498] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q22Which of the following is incorrect regarding a bidders conference?
+
+A. Questions from each seller should be handled confidentially and not shared with other sellers.
+B. No bidders should receive preferential treatment, even if they are part of the company's existing list of approved suppliers.
+C. Bidder conferences should not involve individual face-to-face meetings.
+D. All prospective sellers should be allowed to have a common understanding of the procurement.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A key objective of a bidders conference is to ensure that all bidders have the same level of understanding of the procurements. Hence, to be totally fair, buyers must ensure that all prospective sellers hear every question from any individual prospective seller and every answer from the buyer. [PMBOK 6th edition, Page 487] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q23The Actual Cost (AC) is the total cost actually incurred and recorded in accomplishing work performed for an activity or work breakdown structure component. What is the upper limit for the AC?
+
+A. 50 percent over and above the Planned Value (PV)
+B. The Actual Cost (AC) is limited to the Planned Value (PV).
+C. 100 percent over and above the Planned Value (PV)
+D. There is no upper limit for the Actual Cost (AC).
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+There is no limit to the Actual Cost (AC). Whatever is spent to achieve the Earned Value (EV) is measured as the Actual Cost. [PMBOK 6th edition, Page 261] [Project Cost Management]
+
+Answer: 
+
+
+
+Q24You are the project manager of a project executing work under a contract signed with a buyer organization. Just after the project has started, you notice that the buyer organization had made a mistake in the financial terms, and your organization stands to benefit considerably from this oversight. What should your stance be?
+
+A. Do not take any action since a contract is a binding and legal document.
+B. Discuss with your management how you could gain a bonus due to the increased revenue your company stands to gain.
+C. Informally check with your counterpart in the buyer organization to see whether he or she noticed this error.
+D. Bring the error to the notice of the buyer organization and have an amendment made to the contract since this was in good faith.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The ethical thing to do would be to bring this to the notice of the buyer organization and have an amendment made to the contract. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q25You are managing a project to design microprocessor control systems. The design work was estimated to be complete in 3.5 months with seven milestones. The sixth milestone is the prototype to be transferred to manufacturing. All milestones before prototyping have been completed ahead of schedule, with the sixth one being delayed for four months because the prototype was sent back several times due to conflicts between departments. You are now planning to hold a meeting to review the design specifications and handle conflicts between design and manufacturing. Who is at fault?
+
+A. The scheduler
+B. The project manager
+C. The manufacturer
+D. The design engineer
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager is at fault for failing to mediate and resolve conflict and for failing to control the project schedule. The project manager is ultimately responsible for the project, and in accordance with the PMI Code of Ethics must take ownership and be accountable for his or her errors and omissions during all project phases. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q26Why are the approved change requests input to the Direct and Manage Project Work process?
+
+A. The project team may reject approved change requests during the Direct and Manage Project Work process.
+B. Approved change requests are implemented by the project team during the Direct and Manage Project Work process.
+C. The project team monitors approved change requests during the Direct and Manage Project Work process.
+D. The project team reviews approved change requests during the Direct and Manage Project Work process.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Approved change requests are implemented by the project team during the Direct and Manage Project Work process. The other choices are incorrect statements regarding the Direct and Manage Project Work process. [PMBOK 6th edition, Page 93] [Project Integration Management]
+
+Answer: 
+
+
+
+Q27Sheila is a project manager who manages a global project. She has stakeholders located in various parts of the globe. Due to the nature of the project, she also has large volumes of information she needs to share with the recipients. What type of communication method should she prefer for this purpose?
+
+A. Pull communication
+B. Push communication
+C. Request-based communication
+D. Interactive communication
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Pull communication is suited for this purpose. It is used for large volumes of information or for large audiences and requires the recipients to access communication content at their own discretion. [PMBOK 6th edition, Page 374] [Project Communications Management]
+
+Answer: 
+
+
+
+Q28Rina and Gimo are the senior developers in a website development project. They have argued about the best web design product to use in developing the new website. As the project manager, you use a forcing approach to make a decision and reduce the conflict. What is the main characteristic of this approach?
+
+A. Forcing to close the project
+B. Highlighting areas of agreement rather than areas of disagreement
+C. Asserting ones viewpoint at the expense of others
+D. Withdrawing from the actual conflict
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Project managers must resolve conflicts as early as possible to improve productivity and generate positive working relationships. Forcing is a conflict resolution technique in which one's viewpoint is asserted at the expense of others. [PMBOK 6th edition, Page 349]
+
+Answer: 
+
+
+
+Q29Rick, a project manager, is updating the status of his project. Based on the performance indices, he expects the project to finish a month earlier than the planned finish date. However, he expects the project to exceed the budgeted costs. What can you say about the schedule performance index (SPI) of the project?
+
+A. The SPI is less than 1.0.
+B. The SPI equals the CPI.
+C. The SPI is greater than 1.0.
+D. The SPI is equal to 1.0.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A project that is ahead of schedule will have a SPI value greater than 1.0, since it indicates that more work was completed than was planned. [PMBOK 6th edition, Page 263] [Project Cost Management]
+
+Answer: 
+
+
+
+Q30A project team is currently focusing on Monitor Stakeholder Engagement process to reassess the project stakeholders' current engagement levels and to review the current stakeholder engagement strategy.
+Which of the following is an output of this process?
+
+A. Project documents updates
+B. Stakeholder engagement assessment matrix
+C. Work performance data
+D. Approved change requests
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Stakeholder engagement assessment matrix is a tool and technique of the Monitor Stakeholder Engagement process while the work performance data is the input to this process. Change requests are produced during this process but are not approved during this process. The correct answer is project documents updates, which are the output of this process. [PMBOK 6th edition, Page 530] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31Variance Analysis is an important tool used in the Control Costs process. Which of the following statements regarding variances is correct?
+
+A. The percentage range of acceptable variances will tend to increase as more work is accomplished.
+B. The percentage range of acceptable variances will tend to decrease as more work is accomplished.
+C. The percentage range of acceptable variances is high at the start of a project, tends to decrease in the middle of a project, and then tends to increase as the project nears completion.
+D. The percentage range of acceptable variances is a constant all through the project.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Variances assess the magnitude of variation from the original cost baseline. The percentage range of acceptable variances will tend to decrease as more work is accomplished and the project nears completion.
+[PMBOK 6th edition, Page 262] [Project Cost Management]
+
+Answer: 
+
+
+
+Q32You are working in Lab-X, a laboratory experimental project to research the effect of a virus on human male bodies. This project needs local government approval for carrying out tests on living people. However, the local authorities informed you were informed it would take at least three weeks to obtain authorization for such approval because of the documents involved in the review and approval process. You consider this a risk to the project and would like to send the paperwork in advance to reduce the approval time to one week. Which of the following describes the risk response techniques being employed in this scenario?
+
+A. Risk mitigation
+B. Risk transfer
+C. Risk accept
+D. Risk avoid
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+You want to reduce the delay in the approval process because delay in the approval process is likely to delay the project. Because this is a negative risk, the valid risk response strategies are avoid, transfer, mitigate or accept. Risk mitigation techniques can be used to reduce the probability and impact of negative risks rather than trying to repair the damage after the risk has occurred. In this case, you are reducing the approval time by sending paperwork early to avoid delays in the project. Hence, risk mitigation is the correct answer. [PMBOK 6th edition, Page 443]
+
+Answer: 
+
+
+
+Q33Stakeholder analysis is an important technique in the Identify Stakeholders process. One of the steps involved is to identify the potential impact of each stakeholder and classify him or her appropriately. Which of the following is not a valid stakeholder categorization method?
+
+A. Salience model
+B. Tolerance model
+C. Power/interest grid
+D. Influence/impact grid
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A tolerance model is not a valid classification model. The other three models are valid approaches, and classify stakeholders based on power/interest, influence/impact, or power/urgency and legitimacy as in the case of the salience model. [PMBOK 6th edition, Pages 512, 513] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q34A key project in an organization has been ignored, due to high travel expenses associated with the movement of subject matter experts and other specialists across various project locations. Which of the following might allow such a project to be undertaken in a cost-efficient manner?
+
+A. Management sign-off
+B. Negotiation
+C. Virtual teams
+D. Co-location
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Virtual teams overcome the hurdle of high travel expenses by forming teams of people based in different geographical areas. It might appear that management sign-off or co-location may also permit the project to move forward. However, those approaches will not be as costefficient as virtual teams. [PMBOK 6th edition, Page 340] [Project Resource Management]
+
+Answer: 
+
+
+
+Q35Your company took over the management of a project from another company that went out of business. To minimize disruptions related to the transition, your company hired a number of the employees from the other company. One of these employees has delivered a 300-page document a week ahead of schedule. However, while walking past his desk, you notice that his computer is displaying a document with the logo of his former employer. You suspect that some of his work may have been based on documentation that is the property of the other company. What do you do?
+
+A. Report this to your project stakeholders immediately.
+B. Determine if any materials belonging to the other company have been copied.
+C. The copyright material is owned by the client, for whom you are working so this is not a copyright issue.
+D. Do nothing. Because the company is now out of business, no one now owns the copyright on that material.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Determine if any materials belonging to the other company have been copied. The fact that the other company has gone out of business does not necessarily mean that it no longer owns intellectual property.
+Once you know if materials from the other company have been used, you can develop a plan to move forward. [PMI Code of Ethics and Professional Conduct] [Prof. Responsibility]
+
+Answer: 
+
+
+
+Q36A project manager is performing a set of processes in the Initiating Process Group. Which of the following is likely to be part of the Initiating Process Group?
+
+A. Develop Project Management Plan
+B. Define Scope
+C. Develop Project Charter
+D. Plan Quality Management
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Initiating Process Group consists of those processes performed to define a new project or phase. The Develop Project Charter process is part of this group, and it creates the project charter that formally authorizes a project or a phase. The other choices listed are part of the Planning Process Group. [PMBOK 6th edition, Page 25] [Project Integration Management]
+
+Answer: 
+
+
+
+Q37During the course of the project, the project management team developed a forecast for the estimate at completion (EAC) based on the project performance. Which of the following statements about EAC is correct?
+
+A. The EAC forecast based on the Bottom-up estimate to complete (ETC) requires a new estimate.
+B. The EAC forecast is best estimated using the estimate to complete (ETC) work performed considering both SPI and CPI factors.
+C. The EAC forecast is best estimated using the estimate to complete (ETC) work performed at the present CPI.
+D. The EAC forecast is best estimated using the estimate to complete (ETC) work performed at the budgeted rate.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The EAC forecast that is based on the bottom-up estimate to complete (ETC) requires a new estimate.
+There is no best method for EAC calculation as it varies from situation to situation. [PMBOK 6th edition, Page 264] [Project Cost Management]
+
+Answer: 
+
+
+
+Q38Which of the following statements is correct?
+
+A. The buyer-seller relationship exists only between organizations external to the acquiring organization.
+B. The buyer-seller relationship exists only between organizations internal to the acquiring organization.
+C. The buyer-seller relationship exists at the top level on any one project, and between organizations internal to and external to the acquiring organization.
+D. The buyer-seller relationship may exist at many levels on any one project, and between organizations internal to and external to the acquiring organization.
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The buyer-seller relationship may exist at many levels on any one project, and between organizations internal to and external to the acquiring organization. [PMBOK 6th edition, Page 461] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q39Tracey is managing an ERP system implementation project. Which of the following tools can help her uncover a number of hidden process requirements during the Collect Requirements process?
+
+A. Observation
+B. Questionnaires
+C. Surveys
+D. Nominal group technique
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+A hidden requirement is the one that the user or the customer fails to communicate or takes for granted.
+Hidden requirements can be identified by a "participant observer" who actually performs a process or procedure to experience how it is done. [PMBOK 6th edition, Page 145] [Project Scope Management]
+
+Answer: 
+
+
+
+Q40Stakeholder identification is a continuous process. Which of the following statements about stakeholders is incorrect?
+
+A. Positive stakeholders benefit from the outcome of a project.
+B. A project manager needs to focus on the positive stakeholders since their needs are best served by the project.
+C. Overlooking negative stakeholders can result in an increased likelihood of failure.
+D. Stakeholders can have conflicting or differing objectives.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+A project manager needs to take into consideration all types of stakeholders, positive and negative.
+Focusing only on positive stakeholders will increase the probability of failure of the project. [PMBOK 6th edition, Pages 504-506] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q41Which of the following is not an enterprise environmental factor influencing the Develop Project Management Plan process?
+
+A. Project management body of knowledge
+B. Governmental or industry standards
+C. Project Management Plan template
+D. Legal and regulatory requirements
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project management plan template is an organizational process asset. The other choices are valid enterprise environmental factors that influence the Develop Project Management Plan process. [PMBOK 6th edition, Page 84] [Project Integration Management]
+
+Answer: 
+
+
+
+Q42A project manager in a seller organization discovered that certain deliverables had been delivered to the buyer without undergoing proper testing. Recalling the deliverables will result in a cost overrun on the project. What should the project manager do in such a case?
+
+A. Recall the deliverables even though there will be a cost overrun.
+B. Terminate the project.
+C. Approach management to obtain additional funding to handle the potential cost overrun.
+D. Wait for the procuring organization to get back with their list of defects in the deliverables.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+It is the project manager's primary responsibility to ensure that deliverables are tested and have gone through the process outlined in the project management plan. Hence, the project manager should recall the deliverables, even it involves a cost overrun. Approaching management may be the next step. Terminating the project is not called for, and it will be unethical to wait for the procuring organization to do their testing and find out the defects in deliverables. [PMI Code of Ethics and Professional Conduct] [Prof.
+Responsibility]
+
+Answer: 
+
+
+
+Q43The source selection criteria for all procurements in a project is developed during which of the following processes?
+
+A. Control Procurements
+B. Plan Procurement Management
+C. Conduct Procurements
+D. Monitor and Control Project Work
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The source selection criteria is an output of the Plan Procurement Management process. [PMBOK 6th edition, Page 466] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q44A project manager is estimating the project duration and finds that the only information available to him is a previous project that was quite different from the current one. However, some portions of the previous project were similar to the current one. Which of the following tools is the project manager likely to use to compare current project's activity durations with the similar previous activities?
+
+A. Analogous estimating
+B. Program Evaluation and Review Technique (PERT)
+C. Three-point estimates
+D. Parametric estimating
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Analogous duration estimating is used when there is limited information available about a project. This is especially true in the early phases of a project. In such instances, a previous similar project is used as a basis for estimating. [PMBOK 6th edition, Page 200] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q45During the Conduct Procurements process, the procuring organization found that there were significant differences in pricing by different sellers. What is the best course of action in such a scenario?
+
+A. Award the project to a supplier who is already on the procuring organization's preferred supplier list.
+B. Cancel the procurement activity.
+C. Investigate whether the procurement statement of work was defective or ambiguous.
+D. Award the project to the highest bidder.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+If there are significant differences in pricing by sellers, it usually indicates that either the procurement statement of work was defective or ambiguous or that the sellers misunderstood or failed to respond completely to the procurement statement of work. In such instances, an investigation needs to be launched to understand the reasons for the differences in pricing. [PMBOK 6th edition, Page 479] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q46Dave, a first-time project manager, was of the opinion that all training activities need to be planned. He discussed this with an experienced
+project manager who understood that some training was necessarily unplanned. Which of the following are good candidates for unplanned training?
+
+A. Training by observation, conversation, and project management appraisals
+B. Training by mentoring, on-the-job training, and online courses
+C. Training by conversation, coaching, and classroom training
+D. Training by mentoring, observation, and coaching
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Unplanned training takes place in a number of ways that include observation, conversation, and project management appraisals conducted during the controlling process of managing the project's team. [PMBOK 6th edition, Page 342] [Project Resource Management]
+
+Answer: 
+
+
+
+Q47Which of the following is not an input to the Direct and Manage Project Work process?
+
+A. Approved Change Requests
+B. Consultants
+C. Project Management Plan
+D. Project files from prior projects
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Project files from prior projects are a part of organizational process assets. Organizational process assets, the project management plan, and approved change requests are inputs to the Direct and Manage Project Work process. Consultants are used (to obtain Expert Judgement) as tools to manage the project work and are not an input to the process. [PMBOK 6th edition, Page 90]
+
+Answer: 
+
+
+
+Q48While analyzing the risks in a project, a project manager updated the risk register with risk urgency assessment ratings. In which process would this be done?
+
+A. Identify Risks
+B. Monitor Risks
+C. Perform Qualitative Risk Analysis
+D. Plan Risk Management
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk urgency information is updated to the Risk register during the Perform Qualitative Risks Analysis process. [PMBOK 6th edition, Page 427] [Project Risk Management]
+
+Answer: 
+
+
+
+Q49A project manager is considering various classification methods to share information among project stakeholders. Which of the following correctly classifies the different methods used?
+
+A. Pull communication"Meetings; Push communication"Newsletters; Interactive communication"E-learning repository
+B. Interactive communication"Meetings; Push communication"E-learning repository; Pull communication"Newsletters
+C. Push communication"Meetings; Pull communication"Newsletters; Interactive communication"E-learning repository
+D. Interactive communication"Meetings; Push communication" Newsletters; Pull communication"E-learning repository
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Examples of interactive communication are meetings, phone calls, and video conferences. Examples of push communication are newsletters, memos, emails, and faxes. Examples of pull communication are intranet sites, and e-learning and knowledge repositories. [PMBOK 6th edition, Page 374] [Project Communications Management]
+
+Answer: 
+
+
+
+Q50Which of the following roles in a project is most likely to be involved in negotiations on procurements during the Conduct Procurements phase?
+
+A. Procurement administrator
+B. Project coordinator
+C. Project manager
+D. Project sponsor
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The project manager, a team member or the project sponsor do not typically perform the role of lead negotiator on procurements. Due to the legal nature of the contractual relationship involved, a legal representative or a procurement administrator is involved. [PMBOK 6th edition, Page 494] [Project Procurement Management]
+
+Answer: 
+
+
+

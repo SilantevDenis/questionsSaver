@@ -1,0 +1,817 @@
+PMP_Exam_Practice_01
+
+Number: 001-000
+Passing Score: 700
+Time Limit: 60 min
+File Version: 1.0
+
+PMP Lite Mock Exam 1
+Exam A
+Q1During the development of the project stakeholder engagement plan, a project manager is usually dependent on the voice of the project stakeholders to obtain expert opinion. Which of the following is an important tool available to the project manager for gathering and organizing stakeholders' information?
+
+A. Fishbone diagrams
+B. Control charts
+C. Histograms
+D. Focus groups
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Fishbone diagrams, control charts and histograms are quality management tools. The question is asking for a tool that helps the project manager collect stakeholder information and focus group is one of the effective tools available to the project manager. [PMBOK 6th edition, Page 511] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q2During which of the following project processes do key stakeholders engage with the project for the first time?
+
+A. Develop Project Charter
+B. Identify Stakeholders
+C. Collect Requirements
+D. Plan Stakeholder Engagement
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Project stakeholders are involved in each of the project management processes. The Develop Project Charter is the first project management process where the key project stakeholders get engaged for the first time. Stakeholders provide expert judgment and participate in facilitated sessions during the charter development. [PMBOK 6th edition, Page 80] [Project Integration Management]
+
+Answer: 
+
+
+
+Q3Which of the following components of a project scope statement is useful in reducing scope creep?
+
+A. Acceptance criteria
+B. Deliverables
+C. Scope description
+D. Exclusions
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Project exclusions identifies what is excluded from the Explicitly stating what is out of scope for the project helps stakeholders' expectation and can reduce scope creep. Other cannot help more in this regard.
+[PMBOK 6th edition, Page 154] [Project Framework]
+
+Answer: 
+
+
+
+Q4As you create the Activity List, which technique is recommended for subdividing the project into smaller components called activities?
+
+A. Decomposition
+B. Rolling Wave Planning
+C. Expert Judgment
+D. Deconstruction
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The decomposition technique allows the project manager to create smaller and more manageable pieces of work from the larger work packages. [PMBOK 6th edition, Page 185] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q5During the development of the project stakeholder engagement plan, the project manager is usually dependent on the expert judgment of senior stakeholders to identify and plan effective stakeholder management strategies. Which of the following stakeholders cannot guide the project manager in developing effective strategies for internal stakeholders?
+
+A. Sponsor
+B. Identified key stakeholders
+C. Customers
+D. Project team members
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Only internal stakeholders can provide expert judgment on effective management strategies for internal stakeholders. Project customers are important stakeholders but usually they lack the knowledge on internal stakeholders, and hence cannot provide accurate feedback. [PMBOK 6th edition, Page 550] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q6The Create WBS process identifies the deliverables at the __________ level in the Work Breakdown Structure (WBS).
+
+A. Lowest
+B. Any
+C. Tenth
+D. Highest
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Create WBS process identifies the deliverables at the lowest level in the WBS, the work package.
+Project work packages are typically decomposed into smaller components called activities, which represent the work that is necessary to complete the work package. [PMBOK 6th edition, Page 157] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q7What is the primary risk when including reserves, or contingency allowances, in your cost estimate?
+
+A. Cancelling your project
+B. Understating the cost estimate
+C. Overstating the cost estimate
+D. Tracking the funds
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Contingency funds are used to handle cost uncertainty due to unforeseen events during a project. These funds are generally used for items that are likely to occur but are not certain to occur. [PMBOK 6th edition, Page 245] [Project Cost Management]
+
+Answer: 
+
+
+
+Q8Which of the following statements most accurately describes a project scenario?
+
+A. Changes in project scope during the initial phases of the project are very expensive.
+B. The influence of the stakeholders is the same all through the project.
+C. Staffing peaks during the execution phase of a project.
+D. The next phase of a project should never start until the deliverables for the previous phase are completely reviewed and approved.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Staffing is typically highest during the execution phase of the project. The other three responses may not hold true. Projects can move forward into subsequent phases without the deliverables of the prior phase being completely approved; this is known as fast tracking. Changes during the initial phases of the project are the least expensive. The influence of the stakeholders is highest during the start of the project and declines as the project moves to completion. [PMBOK 6th edition, Page 549] [Project Framework]
+
+Answer: 
+
+
+
+Q9Which of the following is not an organizational process asset used during the Plan Resource Management process?
+
+A. Template for resource management plan
+B. Resource management policies and procedures
+C. Historical information about previous projects
+D. Standardized stakeholder list
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Standardized stakeholder list is not a valid organizational process asset used in the Plan Resource Management process. The other choices are valid assets. Other assets include historical information on organizational structures that have worked in previous projects and organizational processes and policies.
+[PMBOK 6th edition, Page 315] [Project Resource Management]
+
+Answer: 
+
+
+
+Q10During the Manage Stakeholder Engagement process, a number of project documents might get updated. Which of the following project documents get updated the most during this process?
+
+A. Stakeholder register
+B. Risk register
+C. Project reports
+D. Project presentations
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Project reports and presentation distributed to the stakeholders get archived in the organizational process assets during this process. Stakeholder register is the project document that gets updated the most during this process. [PMBOK 6th edition, Page 529] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q11Few project managers collect lessons-learned information throughout the project's life. Most tackle this in the final days of the project or, worse, after the project is complete. What is the negative consequence of this approach?
+
+A. It makes compiling and obtaining project information difficult.
+B. It might result in further expenses on the project.
+C. The project's NPV becomes zero.
+D. It requires hiring a specialist to do the job.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+When lessons-learned gathering and documentation is postponed till the very end, the project manager must scramble for bits and pieces of project history to compile into a lessons-learned document. Often, because the project is in closeout, the project manager has only a few team members remaining, which makes compiling and obtaining project information from the remaining few resources difficult. [PMBOK 6th edition, Pages 98, 100] [Project Integration Management]
+
+Answer: 
+
+
+
+Q12After brainstorming potential project risks, what is the recommended method for prioritizing these risks and their mitigation plans?
+
+A. RACI chart
+B. Control chart
+C. Fishbone diagram
+D. Probability and impact matrix
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+A probability and impact matrix will help filter the high-risk items and high-impact items from the others, so that you can focus your attention on these riskier items. [PMBOK 6th edition, Page 425] [Project Risk Management]
+
+Answer: 
+
+
+
+Q13If you are managing changes to the project's cost baseline, which process are you using?
+
+A. Negotiate Costs
+B. Estimate Costs
+C. Control Costs
+D. Determine Budget
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Control Costs is the process of managing the project's costs and the changes that threaten the bottom line.
+[PMBOK 6th edition, Page 257] [Project Cost Management]
+
+Answer: 
+
+
+
+Q14During the Control Procurements process, a number of documents might get updated due to various reasons. Which of the following components of the project management plan is least likely to get updated during this process?
+
+A. Quality management plan
+B. Procurement management plan
+C. Schedule baseline
+D. Cost baseline
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The procurement management plan, schedule baseline, and the cost baseline typically gets updated as result of a significant change in procurement contracts or strategy. However, the quality management plan is least likely to get updated during this process since quality requirements always need to be met by all contractors. The contractors can be allowed more money or time to complete the works but cannot be allowed to compromise the quality of the works. [PMBOK 6th edition, Page 500] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q15In order to facilitate project configuration and change management on complex projects, a project manager relies on configuration and change management tools. Such tools:
+
+A. Can be manual or automatic; the selection depends on the project's environment and requirements.
+B. Must be manual; a complex project requires all change requests to be manually signed.
+C. Must be automatic; a complex project requires complex change control procedures.
+D. Change control must be manual, but the configuration control may be automatic.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+In order to facilitate configuration and change management, manual or automated tools may be used. Tool selection should be based on the needs of the project. [PMBOK 6th edition, Page 118] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q16Various tools and techniques determine project requirements during the Collect Requirements process. These requirements form the basis for defining the project scope. One of the responsibilities of a project manager is to identify key project deliverables during this exercise.
+Where are the key project deliverables documented?
+
+A. Scope Management Plan
+B. Requirements Management Plan
+C. Project Scope Statement
+D. Accepted Deliverables
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The project scope statement provides the product description, acceptance criteria, key deliverables, project boundaries, assumptions, and constraints about the project. The scope management plan and the requirements management plan are the subsidiary plans of the overall project management plan and they detail how the project team needs to manage the project scope and requirements respectively. These plan do not document the actual scope of the project. Accepted Deliverables is the wrong answer since deliverables are accepted post completion and validation, the identification of the key deliverable is done early during the planning phase of the project. [PMBOK 6th edition, Page 154] [Project Scope Management]
+
+Answer: 
+
+
+
+Q17The most detailed level of the WBS is the _______________ .
+
+A. Control Account
+B. Work package
+C. Scope statement
+D. Accepted Deliverable
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The work package is the lowest and most detailed level of the WBS and can be scheduled, cost estimated, monitored, and controlled. [PMBOK 6th edition, Page 157] [Project Scope Management]
+
+Answer: 
+
+
+
+Q18Which of the following is a hierarchical representation of project risks?
+
+A. Risk Register
+B. Risk Mitigation
+C. Risk Categories
+D. Risk Breakdown Structure
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The Risk Breakdown Structure (RBS) is a hierarchical presentation of the project risks sorted by risk categories. [PMBOK 6th edition, Page 405] [Project Risk Management]
+
+Answer: 
+
+
+
+Q19If an investment in a project returns 15 percent annually, how much should you invest to get $5 million by the end of the fifth year?
+
+A. 2485884
+B. 2857143
+C. 2501376
+D. 2685292
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Present Value = Future Value / (1 + interest rate)^(Period) = 5,000,000 / (1 + 15%)^5 = 2,485,884 [PMBOK 6th edition, Page 34, http://www.investopedia.com/walkthrough/corporate-finance/3/timevalue-money/ present-value-discounting.aspx] [Project Integration Management]
+
+Answer: 
+
+
+
+Q20A business is considering more than a dozen infrastructure upgrade projects. These projects, once delivered, will add to the organization's overall performance but will not contribute to any of the revenue streams. Prior to initiating any such project, the value of the project to the organization must be determined. Which of the following is the most important factor to consider in such a scenario?
+
+A. Net Present Value (NPV) of the projects
+B. Internal Rate of Return (IRR) of the projects
+C. Alignment with the strategic goals
+D. Investment requirement
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Projects help in achieving organizational goals whey they are aligned with the organization's strategy. If the projects are misaligned with the organizational strategic goals, they are most likely to produce undesirable results either in the short-term or the long-term. NPV and IRR calculations are great measures, however, these are not applicable since these projects will not contribute to any of the revenue streams. Investment requirement is important but is useless on the projects that are not aligned with the strategic goals of the organization. [PMBOK 6th edition, Pages 34, 35] [Project Integration Management]
+
+Answer: 
+
+
+
+Q21If a project manager believes that a particular subcontract needs to be terminated, which of the following can provide guidance on the contract termination procedure?
+
+A. The contract termination procedures in the organizational process assets
+B. The termination clause of the specific subcontract
+C. The change control procedures in the project management plan
+D. The contract termination procedures in the project procurements management plan Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Each contract is unique and so are its obligations, provisions and clauses. Any contract that need to be terminated must be terminated in accordance with the termination clause of that contract. These contract termination provisions are agreed and signed off by both parties at the time of the contract award. [PMBOK 6th edition, Page 489] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q22Which of these types of precedence relationships is least commonly used in the Precedence Diagramming Method?
+
+A. Start to Start
+B. Finish to Finish
+C. Finish to Start
+D. Start to Finish
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Start to Finish relationships indicate that the next task cannot be completed until the one preceding it has started. This type is not commonly used. [PMBOK 6th edition, Page 190] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q23A RACI chart is an example of a _________________.
+
+A. Network
+B. Flowchart
+C. Responsibility assignment matrix
+D. Hierarchical-type organization chart
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A RACI chart outlines in matrix form, the project tasks and for each task, who is responsible, who is accountable, whom to consult, and whom to inform. [PMBOK 6th edition, Page 317] [Project Resource Management]
+
+Answer: 
+
+
+
+Q24If the project's current total earned value (EV) is $100,000 and the actual amount spent (AC) is $95,000, what is the cost variance of the project?
+
+A. The cost variance is $1.05
+B. The cost variance is $5,000
+C. The cost variance is $0.95
+D. The cost variance is $-5,000
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The cost variance (CV) equals EV - AC. In this case, the CV = $5,000. [PMBOK 6th edition, Page 267] [Project Cost Management]
+
+Answer: 
+
+
+
+Q25A contractor is currently constructing a new building for your organization on a cost-plus-incentive contract. You just received the project status report from the contractor's project manager. According to the report, the project's CPI is 1.5. You are shocked because you believe the project costs are out of control. Upon investigation, you learn the $1 million advance payment (20 percent of the estimated project cost) given to the contractor at the start of the project was included in the project's earned value. Further, the cost of the inventory at the project site was excluded from the total actual costs. According to the contract, your company reimburses only the costs for the completed deliverables and not for the supplies in the project's inventory. In this scenario, the reported project's CPI is incorrect because:
+
+A. Actual cost is understated.
+B. Earned value is overstated, and actual cost is understated.
+C. Earned value is overstated.
+D. Both the earned value and the actual cost are overstated.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+In this scenario the earned value has been overstated while the reported actual cost is ok. Earned value should be the sum of PVs of all completed activities. The initial 20% advance should not be part of this.
+Further, since the buyer is not liable for the inventory cost and only reimburses the costs associated with completed deliverables, the cost of the inventory does not become part of the actual cost until that inventory is consumed during the construction process. The inventory is an asset for the contactor until it is consumed on the project and at that time it becomes a cost for the project. [PMBOK 6th edition, Page 267] [Project Communications Management]
+
+Answer: 
+
+
+
+Q26Each critical project communication requirement must be carefully analyzed. One good way is to use a communication model to design effective communications. What is the sequence of steps in a basic communication model?
+
+A. Encode -> Decode -> Transmit -> Acknowledge -> Feedback
+B. Encode -> Transmit -> Decode -> Acknowledge -> Feedback
+C. Decode -> Encode -> Transmit -> Acknowledge -> Feedback
+D. Encode -> Transmit -> Decode -> Feedback -> Acknowledge
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Encode -> Transmit -> Decode -> Acknowledge -> Feedback is the right sequence. [PMBOK 6th edition, Page 371, 372] [Project Communications Management]
+
+Answer: 
+
+
+
+Q27Recently, a junior team member has challenged the project management approach since not all requirements identified during the Collect Requirements process were documented in the project scope statement. You are the project manager, what should you do first?
+
+A. Remove the junior team member from the team as this is a disciplinary issue.
+B. Analyze the objection and determine if the requirements were deliberately dropped during the Define Scope process.
+C. Engage the project sponsor to resolve the issue.
+D. Accept your mistake and include the missed requirements.
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+All the requirements identified in Collect Requirements may not be included in the project as the Define Scope process selects the final project requirements from the requirements documentation developed during the Collect Requirement process. Analyzing the objection and determining if the requirements were deliberately dropped during the Define Scope process is the best response. [PMBOK 6th edition, Page 151] [Project Risk Management]
+
+Answer: 
+
+
+
+Q28Project knowledge management is concerned with managing which type of project knowledge?
+
+A. Both "explicit" and "tacit" knowledge
+B. "Explicit" knowledge; as this can be readily codified
+C. "Tacit" knowledge; as this is difficult to express
+D. "Tacit" knowledge; as this involves beliefs, insights, experience and "know-how" Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Knowledge is commonly split into explicit (knowledge that can be readily codified using words, pictures, and numbers) and tacit (knowledge that is personal and difficult to express). Knowledge management is concerned with managing both tacit and explicit knowledge. [PMBOK 6th edition, Page 100] [Project Procurement Management]
+
+Answer: 
+
+
+
+Q29Jane is currently reviewing a list of project proposals. All the proposed projects achieve some of the organizational strategic objectives and their expected costs are known. However, Jane cannot execute all the projects due to the funding limitation. How shall Jane determine which projects she needs to execute this year?
+
+A. Select the high-budget projects and drop the low-budget projects
+B. Select the low-budget projects and drop the high-budget projects
+C. Select the projects that maximize organizational revenue
+D. Select the projects that maximize the business value
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Project should never be prioritized based on their budgets. Selecting the projects that maximize organizational revenue or selecting the projects that maximize the business value seem good options.
+However, adding to business value takes precedence over adding the organizational revenue, since there can be projects that add more to the revenue but add less to the business value. [PMBOK 6th edition, Page 7] [Project Integration Management]
+
+Answer: 
+
+
+
+Q30Increasing the number of resources in order to crash a project schedule does not always cut the time by the same factor. In worst cases, too many resources assigned to an activity may actually increase the activity duration. This is because:
+
+A. Decrease in cost budget
+B. Required additional coordination
+C. Funding limit reconciliation
+D. Additional risk introduced due to crashing
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Increasing the number of resources in order to crash a project schedule does not always cut the time by the same factor. In worst cases, too many resources to the activity may actually increase the duration due to required additional coordination. Other choices are either not applicable or do not directly influence the project schedule. [PMBOK 6th edition, Page 197] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q31A project manager scheduled a review at the end of a phase, with the objective of obtaining authorization to close the current project phase and initiate the next phase. Which of the following is an incorrect way of describing this review?
+
+A. Phase gate
+B. Phase planning
+C. Kill point
+D. Stage gate
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Stage Gates, Phase Gates and Kill Points all refer to a phase end review with the objective of obtaining authorization to close the current phase and start the next one. This is a retrospective review of the current phase. Phase planning, on the other hand, is performed early during the planning phase of the project.
+[PMBOK 6th edition, Page 21] [Project Framework]
+
+Answer: 
+
+
+
+Q32Which of the following tools and techniques is useful to process work performance data to identify sources of project defects during the Control Quality process?
+
+A. Data analysis
+B. Salience model
+C. Schedule model
+D. Communication model
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The question is asking for a tool and technique used during the Control Quality process. Data Analysis is a tool and technique of the Control Quality process used to identify source of defects. [PMBOK 6th edition, Pages 303] [Project Quality Management]
+
+Answer: 
+
+
+
+Q33The Requirements Traceability Matrix helps in tracing all the following except:
+
+A. Requirements to project objectives
+B. Requirements to project scope
+C. Requirements to test strategy
+D. Requirements to project risk
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Requirements Traceability Matrix is an output of the Collect Requirements process. It is used for tracing requirements to project scope, objectives, and test strategy. Tracing requirements to project risk is not a valid use. [PMBOK 6th edition, Page 149] [Project Scope Management]
+
+Answer: 
+
+
+
+Q34Which of the following should you not use as an input into creating the WBS structure?
+
+A. Bill of Material (BOM)
+B. Project scope statement
+C. Organizational process assets
+D. Requirements documentation
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The Bill of Material (BOM) is not used as an input in the Create WBS process. The other three are valid inputs. [PMBOK 6th edition, Page 156] [Project Scope Management]
+
+Answer: 
+
+
+
+Q35Which of the following processes are usually performed once or at predefined points in the project:
+
+A. "Develop Project Charter" and "Close Project or Phase"
+B. "Develop Project Charter" and "Develop Project Management Plan"
+C. "Develop Project Management Plan" and "Direct and Manage Project Work"
+D. "Direct and Manage Project Work" and "Monitor and Control Project Work" Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The "Develop Project Charter" and the "Close Project or Phase" process are used once or at predefined points in the project. The other choices have at least one process that is either performed continuously or periodically as needed. [PMBOK 6th edition, Page 22] [Project Integration Management]
+
+Answer: 
+
+
+
+Q36Which term best describes the Identify Risks process?
+
+A. Finite
+B. Redundant
+C. Iterative
+D. Inconsequential
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Identify Risks process is an ongoing, iterative process as risks are often identified throughout the project's life cycle. [PMBOK 6th edition, Page 409] [Project Risk Management]
+
+Answer: 
+
+
+
+Q37During the Plan Risk Management process, assigning ___________ will help you and the project team identify all important risks and work more effectively during the identification process.
+
+A. Risk factors
+B. Blame
+C. Risk mitigation plans
+D. Risk categories
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Risk categories provide a structure that ensures a comprehensive process of systematically identifying risks and that contributes to the effectiveness and quality of the process. [PMBOK 6th edition, Page 405] [Project Risk Management]
+
+Answer: 
+
+
+
+Q38Which of these processes is not a Project Schedule Management process?
+
+A. Create WBS
+B. Develop Schedule
+C. Define Activities
+D. Sequence Activities
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Create WBS is a process in the Project Scope Management area. The other options are all Project Schedule Management processes. [PMBOK 6th edition, Page 25] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q39The technique most commonly used by project management software packages to construct a project schedule model is:
+
+A. Precedence diagramming method (PDM)
+B. Finish-to-Start (FS)
+C. Activity-In-Node (AIN)
+D. Node-On-Activity (NOA)
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The method used by most project management software packages to construct a project schedule model is Precedence diagramming method. This method uses boxes or rectangles, called nodes, to represent activities. It connects the nodes with arrows showing the logical relationships among them. [PMBOK 6th edition, Page 189] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q40Which of the following defines the total scope of the project and represents the work specified in the current approved project scope statement?
+
+A. Work Breakdown Structure (WBS)
+B. Bill of Material (BOM)
+C. Project Charter
+D. Requirements Breakdown Structure (RBS)
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The WBS is a hierarchical decomposition of the work to be performed by the project team. It defines the total scope of the project. It represents the work specified in the currently approved project scope statement. [PMBOK 6th edition, Page 157] [Project Scope Management]
+
+Answer: 
+
+
+
+Q41If you are creating a new WBS for your project, what should you do to save time during the creation process?
+
+A. Delegate the WBS creation since it is not an important process.
+B. Skip the WBS process.
+C. Use a previous WBS from a similar project as a template.
+D. Create a less detailed WBS.
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Creating the WBS is a very important process, but often a previous WBS can be used as a template to save time and avoid the risk of forgetting something important. [PMBOK 6th edition, Page 157] [Project Scope Management]
+
+Answer: 
+
+
+
+Q42Which of these precedence relationships is most commonly used in the Precedence Diagramming Method?
+
+A. Finish-to-Start
+B. Start-to-Finish
+C. Start-to-Start
+D. Finish-to-Finish
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Finish-to-Start relationships indicate that the next task is not able to start until the one preceding it is completed. This is the most commonly used type of activity relationship. [PMBOK 6th edition, Page 190] [Project Schedule Management]
+
+Answer: 
+
+
+
+Q43The output of the Validate Scope process is accepted deliverables that are formally signed off by the stakeholders. The stakeholders, on some projects, can get involved with the project as early as:
+
+A. During the project initiation
+B. During the project planning
+C. During the project execution
+D. During the project monitoring & controlling
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The stakeholders may get involved as early as project initiation to provide inputs about required quality of deliverables so that Control Quality can assess the performance and recommend necessary changes.
+[PMBOK 6th edition, Page 131] [Project Resource Management]
+
+Answer: 
+
+
+
+Q44An effective quality audit should be:
+
+A. Structured and independent
+B. Informal and independent
+C. Informal and internal
+D. Structured and internal
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+To provide the best results, a quality audit should be a structured process performed by an independent entity. [PMBOK 6th edition, Page 294] [Project Quality Management]
+
+Answer: 
+
+
+
+Q45What is the traditional way to display a reporting structure among project team members?
+
+A. Text-oriented role description
+B. Flowchart
+C. Project organization charts
+D. Matrix-based responsibility chart
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+A hierarchical-type organization chart can clearly show roles and reporting relationships within a team.
+[PMBOK 6th edition, Page 319] [Project Resource Management]
+
+Answer: 
+
+
+
+Q46Kevin is assigned to a software development project that will start in the near future and is currently tailoring the PMBOK processes to satisfy the project's specific needs. Kevin wants to introduce a new process, "Identify Key Deliverables", to the existing six project scope management processes. Although he understands that project deliverables identification is already in the PMBOK scope management processes, he believes that having a dedicated process will stress the importance of determining and agreeing to key project deliverables. The best position for the new "Identify Key Deliverables" process should be between which of the following two processes?
+
+A. Define Scope and Create WBS
+B. Create WBS and Validate Scope
+C. Plan Scope Management and Collect Requirements
+D. Collect Requirements and Define Scope
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The identification of key project deliverables can only be done once the project requirements are collected, analyzed and documented. This is done during the Collect Requirements process. Further, the key project deliverables are documented in the project scope statement which is an output of the Define Scope process. The best position of the newly proposed "Identify Key Deliverables" process should be between the Collect Requirement and Define Scope processes. [PMBOK 6th edition, Pages 129, 130] [Project Integration Management]
+
+Answer: 
+
+
+
+Q47During which stages of a project should the project manager be most active in managing project stakeholders' needs and expectations?
+
+A. Initiating and planning
+B. Planning and executing
+C. Executing and controlling
+D. Controlling and closing
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The ability of stakeholders to influence the project is typically highest during the initial stages and gets progressively lower as the project progresses. The project manager should more actively manage the project stakeholders during the project initiation and planning phases in comparison to the later stages of the project. [PMBOK 6th edition, Page 549] [Project Stakeholder Management]
+
+Answer: 
+
+
+
+Q48Project risks should be identified by:
+
+A. Those invited to the risk identification process only
+B. Key project stakeholders only
+C. The project manager only
+D. All project personnel
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+While it is not feasible to invite everyone to the risk identification meetings, everyone should be encouraged to identify risks as they encounter them. [PMBOK 6th edition, Page 411] [Project Risk Management]
+
+Answer: 
+
+
+
+Q49A control chart should always contain:
+
+A. Upper and lower warning limits
+B. The moving average
+C. Upper and lower control limits
+D. Upper and lower specification limits
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Upper and lower control limits allow the control chart to serve its purpose of indicating when a process is in or out of control. [PMBOK 6th edition, Page 304] [Project Quality Management]
+
+Answer: 
+
+
+
+Q50When is Rolling Wave Planning useful in a project?
+
+A. You should use Rolling Wave Planning to help you achieve the appropriate level of detail in each work package at the right time.
+B. You should use Rolling Wave Planning to determine the correct sequencing for long-term items.
+C. You should use Rolling Wave Planning to help you organize team members' activities within a large project group.
+D. You should use Rolling Wave Planning to help you determine which activities are more important and to do them first.
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Rolling Wave Planning is a technique used to create a more detailed work plan while keeping the right level of detail for each activity: Activities happening sooner have more detail than those further in the future.
+[PMBOK 6th edition, Page 185] [Project Schedule Management]
+
+Answer: 
+
+
+

@@ -1,0 +1,169 @@
+PMP_Exam_Practice_10_10
+
+Number: 010-010
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 10.1
+Exam A
+Q1Earned Schedule (ES) is an extension to the theory and practice of EVM. Earned schedule theory replaces the schedule variance measures used in traditional EVM with ES and actual time (AT). Using the alternate equation for calculating schedule variance:
+
+A. AT - ES
+B. EV - PV
+C. PV - EV
+D. ES - AT
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The alternate equation for calculating schedule variance is SV = ES - AT. [PMBOK 6th edition, Page 233] [Project Resource Management]
+
+Answer: 
+
+
+
+Q2You are the project manager of a project whose team has interacted with a number of stakeholders. You believe that in order to have an objective project performance appraisal, you would like to obtain feedback for the project team members from all the people they have worked with, including superiors, peers and subordinates. Project performance appraisals are performed during which of the following processes?
+
+A. Close Project or Phase
+B. Acquire Resources
+C. Manage Team
+D. Develop Team
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Project performance appraisals are performed during the Manage Team process. [PMBOK 6th edition, Page 342] [Project Resource Management]
+
+Answer: 
+
+
+
+Q3Which of the following is not a tool and technique of the Plan Resource Management process?
+
+A. Organizational theory
+B. Meetings
+C. Hierarchical charts
+D. Rewards and recognition
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Rewards and Recognition is a tool and technique used in the Develop Team process, not in the Plan Resource Management process. [PMBOK 6th edition, Page 312] [Project Resource Management]
+
+Answer: 
+
+
+
+Q4Which of these is not an Enterprise environmental factor that can influence the Plan Resource Management process?
+
+A. Organizational culture
+B. Lessons learned on organizational structures
+C. Marketplace conditions
+D. Facilities and resources
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Lessons learned are important inputs to the Plan Resource Management process. However, these are organizational process assets and not enterprise environmental factors. [PMBOK 6th edition, Page 315] [Project Resource Management]
+
+Answer: 
+
+
+
+Q5A project involved team members situated in Arizona, Nebraska, New York, and Ireland. Which of the following activities becomes crucial in such a team environment?
+
+A. Team-building
+B. Status reporting
+C. Conflict resolution
+D. Communication planning
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Communication planning is critical when virtual teams are involved. Lack of face-to-face interaction can cause misunderstandings and conflict. These risks need to be addressed by proper communication planning. [PMBOK 6th edition, Page 333] [Project Resource Management]
+
+Answer: 
+
+
+
+Q6You are managing a project. An audit team wants to know where they can find information on training plans for the project team members and certification requirements. This are in the:
+
+A. Resource Breakdown Structure
+B. Staff Release Plan
+C. Resource Management Plan
+D. Communications Management Plan
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is the Resource Management Plan. This documents information such as training plans, certification requirements and compliance issues. [PMBOK 6th edition, Pages 318, 319] [Project Resource Management]
+
+Answer: 
+
+
+
+Q7You are managing a project and find you need to apply resource leveling. Which of the following tools can help you identify resources that are overallocated?
+
+A. Resource Assignment Matrix
+B. Network diagram
+C. Resource Histogram
+D. Resource Breakdown Structure
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+The Resource Histogram is a tool for charting human resources. It illustrates the number of hours that a person, department or entire project team will be needed each week or month over the course of the project. The chart can include a horizontal line that represents the maximum number of hours from a particular resource. This can be used for a resource leveling strategy. [PMBOK 6th edition, Pages 211, 719] [Project Resource Management]
+
+Answer: 
+
+
+
+Q8Clear criteria for rewards and a planned system for their use promotes and reinforces desired behaviors in the project. Creating a recognition plan with established times for rewards ensures that recognition takes place and is not forgotten. This is usually part of the:
+
+A. Project Dashboard
+B. Resource Management Plan
+C. Company HR plan
+D. Communications Management Plan
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The plan for rewards and recognition is part of the Resource Management plan. The recognition and rewards are developed as part of the Plan Resource Management process. [PMBOK 6th Edition, Pages 318, 319] [Project Resource Management]
+
+Answer: 
+
+
+
+Q9Ground rules are established to set clear expectations regarding acceptable behavior by the project team members. Whose responsibility is it to enforce ground rules?
+
+A. The project manager
+B. All project team members share the responsibility for enforcing the rules once they are established in the Team Charter
+C. The HR team
+D. The project manager and senior team members
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+All project team members share responsibility for enforcing the rules once they are established in the Team Charter. [PMBOK 6th edition, Page 319, 320] [Project Resource Management]
+
+Answer: 
+
+
+
+Q10Conflict management is a tool and technique of which of the following processes?
+
+A. Control Procurements
+B. Identify Stakeholders
+C. Close Project or Phase
+D. Manage Team
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+Conflict Management is a tool and technique of the Manage Team process. Claims Administration, a tool and technique of the Control Procurements process, relates somewhat to conflict management. [PMBOK 6th edition, Page 348] [Project Resource Management]
+
+Answer: 
+
+
+

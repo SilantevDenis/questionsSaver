@@ -1,0 +1,170 @@
+PMP_Exam_Practice_06_10
+
+Number: 006-001
+Passing Score: 700
+Time Limit: 12 min
+File Version: 1.0
+
+PMP Lite Mock Exam 6.1
+Exam A
+Q1The Cost Performance Baseline is a time-phased budget and is used as a basis to measure, monitor, and control overall cost performance of the project. It is usually displayed in the form of:
+
+A. An S-curve
+B. An inverted S-curve.
+C. Pie-chart
+D. A Z curve
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct response is an S-curve (or S curve). The Cost Performance Baseline is a time-phased budget and is used as a basis to measure, monitor, and control overall cost performance of the project. It is usually displayed in the form of an S-curve and is developed by summing estimated costs by period. [PMBOK 6th edition, Page 254] [Project Cost Management]
+
+Answer: 
+
+
+
+Q2Contingency Reserves are estimated costs to be used at the discretion of the project manager to deal with:
+
+A. Scope creep
+B. Anticipated but not certain events
+C. Unanticipated events
+D. Anticipated and certain events
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+Contingency Reserves are estimated costs to be used at the discretion of the project manager to deal with anticipated but not certain events. These events are also called "Known unknowns." [PMBOK 6th edition, Page 245 [Project Cost Management]
+
+Answer: 
+
+
+
+Q3A project is estimated to cost $50,000 with a timeline of 50 days. After 25 days, the project manager finds that 50 percent of the project is complete and actual costs are $50,000. What is the Cost Performance Index (CPI)?
+
+A. The CPI is 1
+B. The CPI is 1.5
+C. The CPI is 2
+D. The CPI is 0.5
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+The correct answer is 0.5. The Cost performance Index (CPI) is given by the formula CPI = EV/AC where EV is the Earned Value and AC is the Actual Cost. Since 50% of the project is complete, Earned Value = 50% of $50,000 = $25,000. Hence CPI = 25,000/50,000 = 0.5. [PMBOK 6th edition, Page 263] [Project Cost Management]
+
+Answer: 
+
+
+
+Q4Your project is midway through a delivery schedule. As the project manager, you want to determine how much work remains. Which is the most accurate way to determine the remaining work the project team must carry out?
+
+A. Rolling wave method
+B. Earned Value Technique
+C. A Manual forecast
+D. Future analysis
+Correct Answer: C
+Section: (none)
+Explanation
+Explanation/Reference:
+Although the Earned Value technique of determining the balance work in the project is quick and straightforward, it is not as valuable or accurate as the manual forecasting of the remaining work by the project team. However, manual forecasting is more time-consuming. [PMBOK 6th edition, Page 264] [Project Cost Management]
+
+Answer: 
+
+
+
+Q5An estimating technique that uses a statistical relationship between historical data and other variables (such as square footage in construction or lines of code in software development) is known as:
+
+A. Parametric Estimating
+B. Analogous Estimating
+C. Bottom-up Estimating
+D. Historical Analysis
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+This technique is known as Parametric Estimating. It can produce higher levels of accuracy, depending on the sophistication as well as on the underlying resource quantity and cost data built into the model. [PMBOK 6th edition, Page 200] [Project Cost Management]
+
+Answer: 
+
+
+
+Q6Lucy is currently preparing a high-level cost estimate for her project in the initiation phase. With the limited detail available to her, what would you expect the range of her estimate to be, and what would you call such an estimate?
+
+A. -25 to +25%, Absolute Cost
+B. -5 to +10%, Narrow
+C. -1 to +1%, Definitive
+D. -25 to +75%, Rough Order of Magnitude
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+During the initial stages of the project, the amount of information available will be limited. Therefore, a Rough Order of Magnitude (ROM) estimate is usually prepared, and it should have an accuracy range of - 25% to +75%. [PMBOK 6th edition, Page 241] [Project Cost Management]
+
+Answer: 
+
+
+
+Q7Funding requirements for a project are usually in incremental amounts that are not continuous. These increments appear as a step function in the graph depicting Cash flow, Cost baseline and Funding. Any gap at the end of the project between the funds allocated and the cost baseline represents:
+
+A. Management reserves
+B. Contingency reserves
+C. Cost variance
+D. Charting error
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+Management reserves are included in the project's total funds, but they are not included in the project's cost performance baseline. [PMBOK 6th edition, Page 252] [Project Cost Management]
+
+Answer: 
+
+
+
+Q8You are aware that cost and schedule risks are prevalent in your project. You want to compare the planned project performance with its actual performance during the Monitor Risks process. What should you perform to provide this information?
+
+A. Reserve analysis
+B. Risk audit
+C. Risk reassessment
+D. Technical Performance Analysis
+Correct Answer: D
+Section: (none)
+Explanation
+Explanation/Reference:
+- Technical performance analysis, a tool and technique of the Monitor Risks process, is used to evaluate the differentials between planned and actual costs, schedules, and performance criteria. Several statistical techniques, such as Earned Value (EV) technique, are used to analyze these variances. [PMBOK 6th edition, Page 456] [Project Cost Management]
+
+Answer: 
+
+
+
+Q9You are a senior project manager working for RETAMART, a retail shopping network that sells various consumer products. As part of the expansion plan approved by the board of directors, you are a project manager for a new plant. Due to transportation problems, the project has experienced delays; the Schedule Performance Index (SPI) is at 0.6 and the Cost Performance Index (CPI) is at 0.7. However, you expect some improvements over the next few weeks, which may increase the SPI to 1.1 and the CPI to 0.9. Which of the following statements is true if your anticipated changes materialize?
+
+A. The project is overspent and behind schedule
+B. The project is overspent but ahead of schedule
+C. The project is on schedule and under budget
+D. The project is under budget but behind schedule
+Correct Answer: B
+Section: (none)
+Explanation
+Explanation/Reference:
+The cost performance index below 1 indicates that the project is over budget, and the schedule performance index above 1 indicates that the project is ahead of schedule. If all of your anticipated changes happen to be true, the project will be overspent but ahead of schedule because the schedule performance index will be greater than 1. [PMBOK 6th edition, Page 263] [Project Cost Management]
+
+Answer: 
+
+
+
+Q10Which of these are not inputs to the Determine Budget process?
+
+A. Cost baseline, requirements traceability matrix
+B. Scope baseline, agreements
+C. Basis of estimates, cost estimates
+D. Risk register, resource management plan
+Correct Answer: A
+Section: (none)
+Explanation
+Explanation/Reference:
+The cost baseline and the requirements traceability matrix are not inputs to the Determine Budget process.
+The other choices are valid inputs. [PMBOK 6th edition, Page 248] [Project Cost Management]
+
+Answer: 
+
+
+
